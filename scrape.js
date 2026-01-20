@@ -6,16 +6,18 @@ const URL =
 
 (async () => {
   const browser = await chromium.launch({ headless: true });
-  const page = await browser.newPage();
 
-  // Important: realistic user agent
-  await page.setUserAgent(
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-  );
+  // ✅ Correct place to set user agent
+  const context = await browser.newContext({
+    userAgent:
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+  });
+
+  const page = await context.newPage();
 
   await page.goto(URL, { waitUntil: "domcontentloaded" });
 
-  /* 1️⃣ Handle cookie consent if present */
+  /* Cookie consent (safe) */
   try {
     await page.waitForSelector("button:has-text('Godkänn')", { timeout: 5000 });
     await page.click("button:has-text('Godkänn')");
@@ -24,30 +26,24 @@ const URL =
     console.log("No cookie banner");
   }
 
-  /* 2️⃣ Wait for schedule container (NOT match-id yet) */
+  /* Wait for schedule container */
   await page.waitForSelector("text=Spelschema", { timeout: 15000 });
 
-  /* 3️⃣ Give matchStore.js time to render */
+  /* Give JS time to render */
   await page.waitForTimeout(3000);
 
-  /* 4️⃣ Debug: check if anything rendered */
   const matchCount = await page.evaluate(
     () => document.querySelectorAll("[data-match-id]").length
   );
 
   if (matchCount === 0) {
-    // Save snapshot for debugging
     const html = await page.content();
     fs.writeFileSync("debug.html", html);
-
-    throw new Error(
-      "No matches rendered. debug.html has been saved for inspection."
-    );
+    throw new Error("No matches rendered — debug.html saved");
   }
 
-  /* 5️⃣ Extract matches */
-  const matches = await page.evaluate(() => {
-    return Array.from(document.querySelectorAll("[data-match-id]")).map(el => {
+  const matches = await page.evaluate(() =>
+    Array.from(document.querySelectorAll("[data-match-id]")).map(el => {
       const root = el.closest("div");
 
       return {
@@ -67,8 +63,8 @@ const URL =
               }`
             : null
       };
-    });
-  });
+    })
+  );
 
   await browser.close();
 
