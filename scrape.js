@@ -74,4 +74,23 @@ const URL =
   }
 
   console.log("✅ Scraping completed successfully");
+  import fs from "fs";
+
+fs.writeFileSync(
+  "matches.json",
+  JSON.stringify(
+    {
+      scrapedAt: new Date().toISOString(),
+      source: URL,
+      matchCount: matches.length,
+      matches
+    },
+    null,
+    2
+  ),
+  "utf-8"
+);
+
+console.log("💾 matches.json created");
+
 })();
