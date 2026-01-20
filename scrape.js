@@ -1,5 +1,4 @@
 import { chromium } from "playwright";
-import fs from "fs";
 
 const URL =
   "https://www.profixio.com/app/lx/competition/leagueid17956/teams/1403367?t=schedule";
@@ -15,46 +14,62 @@ const URL =
 
   const page = await context.newPage();
 
+  console.log("➡️ Loading page");
   await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 30000 });
 
-  /* Accept cookie banner if present */
+  /* Cookie banner (if any) */
   try {
     await page.waitForSelector("button:has-text('Godkänn')", { timeout: 5000 });
     await page.click("button:has-text('Godkänn')");
+    console.log("🍪 Cookie banner accepted");
   } catch {
-    // no banner
+    console.log("🍪 No cookie banner");
   }
 
-  /* Wait until team name appears (from attached HTML) */
+  /* Wait until team name is visible somewhere */
+  console.log('⏳ Waiting for text "H43 Lund HF"');
   await page.waitForFunction(
     () => document.body.innerText.includes("H43 Lund HF"),
     { timeout: 25000 }
   );
 
-  /* Ensure matches exist */
-  const matchCount = await page.evaluate(
-    () => document.querySelectorAll("[data-match-id]").length
-  );
+  /* 🔍 DEBUG: inspect DOM at runtime */
+  const debugInfo = await page.evaluate(() => {
+    return {
+      bodyTextSample: document.body.innerText.slice(0, 800),
+      matchClassCount: document.querySelectorAll("[class*='match']").length,
+      homeTeamCount: document.querySelectorAll(".home-team").length,
+      awayTeamCount: document.querySelectorAll(".away-team").length,
+      scoreCount: document.querySelectorAll(".home-score, .away-score").length,
+      allDivCount: document.querySelectorAll("div").length
+    };
+  });
 
-  if (matchCount === 0) {
-    fs.writeFileSync("debug.html", await page.content());
-    throw new Error("No match blocks found. debug.html saved.");
-  }
+  console.log("🔎 DEBUG DOM INFO:");
+  console.log(JSON.stringify(debugInfo, null, 2));
 
-  /* 🔥 Extract using selectors VERIFIED in the HTML */
+  /* Extract matches (structure-based, no data-match-id dependency) */
   const matches = await page.evaluate(() => {
-    return Array.from(document.querySelectorAll("[data-match-id]")).map(el => {
-      // Each match-id element sits inside the match container
-      const container = el.closest("div");
+    const results = [];
+
+    const teamNodes = Array.from(document.querySelectorAll("div, span"))
+      .filter(el => el.innerText?.includes("H43 Lund HF"));
+
+    teamNodes.forEach(node => {
+      const container =
+        node.closest("div[class*='match']") ||
+        node.closest("div") ||
+        node.parentElement;
+
+      if (!container) return;
 
       const text = sel =>
-        container?.querySelector(sel)?.innerText.trim() ?? null;
+        container.querySelector(sel)?.innerText.trim() ?? null;
 
       const homeScore = text(".home-score");
       const awayScore = text(".away-score");
 
-      return {
-        id: el.dataset.matchId,
+      const match = {
         date: text(".match-date"),
         time: text(".match-time"),
         homeTeam: text(".home-team"),
@@ -63,24 +78,32 @@ const URL =
         score:
           homeScore && awayScore ? `${homeScore} - ${awayScore}` : null
       };
+
+      if (
+        match.homeTeam &&
+        match.awayTeam &&
+        !results.some(
+          m =>
+            m.homeTeam === match.homeTeam &&
+            m.awayTeam === match.awayTeam &&
+            m.date === match.date
+        )
+      ) {
+        results.push(match);
+      }
     });
+
+    return results;
   });
+
+  console.log(`📊 Extracted matches: ${matches.length}`);
+  console.log(JSON.stringify(matches.slice(0, 3), null, 2)); // preview first 3
 
   await browser.close();
 
-  fs.writeFileSync(
-    "matches.json",
-    JSON.stringify(
-      {
-        scrapedAt: new Date().toISOString(),
-        source: URL,
-        matchCount: matches.length,
-        matches
-      },
-      null,
-      2
-    )
-  );
+  if (matches.length === 0) {
+    throw new Error("❌ No matches extracted — see debug output above");
+  }
 
-  console.log(`✅ Scraped ${matches.length} matches`);
+  console.log("✅ Scraping completed successfully");
 })();
