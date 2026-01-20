@@ -1,4 +1,5 @@
 import { chromium } from "playwright";
+import fs from "fs";
 
 const URL =
   "https://www.profixio.com/app/lx/competition/leagueid17956/teams/1403367?t=schedule";
@@ -17,7 +18,8 @@ const URL =
   console.log("➡️ Loading page");
   await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 30000 });
 
-  // Wait until team name exists (your proven reliable signal)
+  // Wait until team name exists (reliable signal)
+  console.log('⏳ Waiting for text "H43 Lund HF"');
   await page.waitForFunction(
     () => document.body.innerText.includes("H43 Lund HF"),
     { timeout: 25000 }
@@ -34,7 +36,7 @@ const URL =
 
     const results = [];
 
-    // Example date line: "Monday Jan 26, 2026"
+    // Example date: "Monday Jan 26, 2026"
     const dateRegex = /^[A-Za-z]+ [A-Za-z]+ \d{1,2}, \d{4}$/;
     const timeRegex = /^\d{1,2}:\d{2}$/;
 
@@ -42,8 +44,8 @@ const URL =
       if (!dateRegex.test(lines[i])) continue;
 
       const date = lines[i];
-      const round = lines[i + 1]; // "Runde 18"
-      const venue = lines[i + 3]; // after "•"
+      const round = lines[i + 1];        // "Runde 18"
+      const venue = lines[i + 3];        // after "•"
 
       const teamA = lines[i + 4];
       const time = timeRegex.test(lines[i + 5]) ? lines[i + 5] : null;
@@ -66,31 +68,19 @@ const URL =
 
   await browser.close();
 
-  console.log(`📊 Extracted ${matches.length} matches`);
-  console.log(JSON.stringify(matches.slice(0, 3), null, 2));
-
   if (matches.length === 0) {
-    throw new Error("❌ No matches parsed from text");
+    throw new Error("❌ No matches parsed from page text");
   }
 
-  console.log("✅ Scraping completed successfully");
-  import fs from "fs";
+  const output = {
+    scrapedAt: new Date().toISOString(),
+    source: URL,
+    matchCount: matches.length,
+    matches
+  };
 
-fs.writeFileSync(
-  "matches.json",
-  JSON.stringify(
-    {
-      scrapedAt: new Date().toISOString(),
-      source: URL,
-      matchCount: matches.length,
-      matches
-    },
-    null,
-    2
-  ),
-  "utf-8"
-);
+  fs.writeFileSync("matches.json", JSON.stringify(output, null, 2), "utf-8");
 
-console.log("💾 matches.json created");
-
+  console.log(`✅ Scraping completed`);
+  console.log(`💾 matches.json created with ${matches.length} matches`);
 })();
