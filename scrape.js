@@ -7,31 +7,45 @@ const URL =
 (async () => {
   const browser = await chromium.launch({ headless: true });
 
-  // ✅ Correct place to set user agent
   const context = await browser.newContext({
     userAgent:
-      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+    viewport: { width: 1280, height: 900 }
   });
 
   const page = await context.newPage();
 
-  await page.goto(URL, { waitUntil: "domcontentloaded" });
+  console.log("Loading page…");
+  await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 30000 });
 
-  /* Cookie consent (safe) */
+  /* Try to accept cookie banner if it exists */
   try {
     await page.waitForSelector("button:has-text('Godkänn')", { timeout: 5000 });
     await page.click("button:has-text('Godkänn')");
-    console.log("Cookie consent accepted");
+    console.log("Cookie banner accepted");
   } catch {
     console.log("No cookie banner");
   }
 
-  /* Wait for schedule container */
-  await page.waitForSelector("text=Spelschema", { timeout: 15000 });
+  /* ✅ Robust wait: wait for JS-rendered content */
+  console.log("Waiting for matches to render…");
+  await page.waitForFunction(
+    () => {
+      // Primary signal: real match elements
+      if (document.querySelectorAll("[data-match-id]").length > 0) {
+        return true;
+      }
 
-  /* Give JS time to render */
-  await page.waitForTimeout(3000);
+      // Fallback signals: schedule containers
+      return (
+        document.querySelector("[class*='match']") ||
+        document.querySelector("table")
+      );
+    },
+    { timeout: 25000 }
+  );
 
+  /* Debug count */
   const matchCount = await page.evaluate(
     () => document.querySelectorAll("[data-match-id]").length
   );
@@ -39,12 +53,20 @@ const URL =
   if (matchCount === 0) {
     const html = await page.content();
     fs.writeFileSync("debug.html", html);
-    throw new Error("No matches rendered — debug.html saved");
+    throw new Error(
+      "No matches found. debug.html has been saved for inspection."
+    );
   }
 
-  const matches = await page.evaluate(() =>
-    Array.from(document.querySelectorAll("[data-match-id]")).map(el => {
+  console.log(`Found ${matchCount} matches`);
+
+  /* Extract data from DOM snapshot */
+  const matches = await page.evaluate(() => {
+    return Array.from(document.querySelectorAll("[data-match-id]")).map(el => {
       const root = el.closest("div");
+
+      const homeScore = root?.querySelector(".home-score")?.innerText;
+      const awayScore = root?.querySelector(".away-score")?.innerText;
 
       return {
         id: el.dataset.matchId,
@@ -56,30 +78,21 @@ const URL =
           root?.querySelector(".arena, .hall, .match-location")?.innerText ??
           null,
         score:
-          root?.querySelector(".home-score") &&
-          root?.querySelector(".away-score")
-            ? `${root.querySelector(".home-score").innerText} - ${
-                root.querySelector(".away-score").innerText
-              }`
-            : null
+          homeScore && awayScore ? `${homeScore} - ${awayScore}` : null
       };
-    })
-  );
+    });
+  });
 
   await browser.close();
 
-  fs.writeFileSync(
-    "matches.json",
-    JSON.stringify(
-      {
-        scrapedAt: new Date().toISOString(),
-        source: URL,
-        matches
-      },
-      null,
-      2
-    )
-  );
+  const output = {
+    scrapedAt: new Date().toISOString(),
+    source: URL,
+    matches
+  };
 
-  console.log(`Scraped ${matches.length} matches`);
+  fs.writeFileSync("matches.json", JSON.stringify(output, null, 2));
+
+  console.log("Scraping completed successfully");
+  console.log(`Saved ${matches.length} matches to matches.json`);
 })();
