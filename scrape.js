@@ -15,57 +15,51 @@ const URL =
 
   const page = await context.newPage();
 
-  console.log("Loading page…");
   await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 30000 });
 
-  /* Try to accept cookie banner if it exists */
+  /* Accept cookie banner if present */
   try {
     await page.waitForSelector("button:has-text('Godkänn')", { timeout: 5000 });
     await page.click("button:has-text('Godkänn')");
-    console.log("Cookie banner accepted");
   } catch {
-    console.log("No cookie banner");
+    // no banner
   }
 
-  /* ✅ NEW: wait until team name appears anywhere in DOM */
-  console.log('Waiting for text "H43 Lund HF" to appear…');
+  /* Wait until team name appears (from attached HTML) */
   await page.waitForFunction(
     () => document.body.innerText.includes("H43 Lund HF"),
     { timeout: 25000 }
   );
 
-  /* Extra safety: ensure match elements exist */
+  /* Ensure matches exist */
   const matchCount = await page.evaluate(
     () => document.querySelectorAll("[data-match-id]").length
   );
 
   if (matchCount === 0) {
-    const html = await page.content();
-    fs.writeFileSync("debug.html", html);
-    throw new Error(
-      'Text "H43 Lund HF" found, but no matches rendered. debug.html saved.'
-    );
+    fs.writeFileSync("debug.html", await page.content());
+    throw new Error("No match blocks found. debug.html saved.");
   }
 
-  console.log(`Found ${matchCount} matches`);
-
-  /* Extract match data */
+  /* 🔥 Extract using selectors VERIFIED in the HTML */
   const matches = await page.evaluate(() => {
     return Array.from(document.querySelectorAll("[data-match-id]")).map(el => {
-      const root = el.closest("div");
+      // Each match-id element sits inside the match container
+      const container = el.closest("div");
 
-      const homeScore = root?.querySelector(".home-score")?.innerText;
-      const awayScore = root?.querySelector(".away-score")?.innerText;
+      const text = sel =>
+        container?.querySelector(sel)?.innerText.trim() ?? null;
+
+      const homeScore = text(".home-score");
+      const awayScore = text(".away-score");
 
       return {
         id: el.dataset.matchId,
-        date: root?.querySelector(".match-date")?.innerText ?? null,
-        time: root?.querySelector(".match-time")?.innerText ?? null,
-        homeTeam: root?.querySelector(".home-team")?.innerText ?? null,
-        awayTeam: root?.querySelector(".away-team")?.innerText ?? null,
-        venue:
-          root?.querySelector(".arena, .hall, .match-location")?.innerText ??
-          null,
+        date: text(".match-date"),
+        time: text(".match-time"),
+        homeTeam: text(".home-team"),
+        awayTeam: text(".away-team"),
+        venue: text(".arena, .hall, .match-location"),
         score:
           homeScore && awayScore ? `${homeScore} - ${awayScore}` : null
       };
@@ -74,14 +68,19 @@ const URL =
 
   await browser.close();
 
-  const output = {
-    scrapedAt: new Date().toISOString(),
-    source: URL,
-    matches
-  };
+  fs.writeFileSync(
+    "matches.json",
+    JSON.stringify(
+      {
+        scrapedAt: new Date().toISOString(),
+        source: URL,
+        matchCount: matches.length,
+        matches
+      },
+      null,
+      2
+    )
+  );
 
-  fs.writeFileSync("matches.json", JSON.stringify(output, null, 2));
-
-  console.log("Scraping completed successfully");
-  console.log(`Saved ${matches.length} matches to matches.json`);
+  console.log(`✅ Scraped ${matches.length} matches`);
 })();
