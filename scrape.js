@@ -27,25 +27,14 @@ const URL =
     console.log("No cookie banner");
   }
 
-  /* ✅ Robust wait: wait for JS-rendered content */
-  console.log("Waiting for matches to render…");
+  /* ✅ NEW: wait until team name appears anywhere in DOM */
+  console.log('Waiting for text "H43 Lund HF" to appear…');
   await page.waitForFunction(
-    () => {
-      // Primary signal: real match elements
-      if (document.querySelectorAll("[data-match-id]").length > 0) {
-        return true;
-      }
-
-      // Fallback signals: schedule containers
-      return (
-        document.querySelector("[class*='match']") ||
-        document.querySelector("table")
-      );
-    },
+    () => document.body.innerText.includes("H43 Lund HF"),
     { timeout: 25000 }
   );
 
-  /* Debug count */
+  /* Extra safety: ensure match elements exist */
   const matchCount = await page.evaluate(
     () => document.querySelectorAll("[data-match-id]").length
   );
@@ -54,13 +43,13 @@ const URL =
     const html = await page.content();
     fs.writeFileSync("debug.html", html);
     throw new Error(
-      "No matches found. debug.html has been saved for inspection."
+      'Text "H43 Lund HF" found, but no matches rendered. debug.html saved.'
     );
   }
 
   console.log(`Found ${matchCount} matches`);
 
-  /* Extract data from DOM snapshot */
+  /* Extract match data */
   const matches = await page.evaluate(() => {
     return Array.from(document.querySelectorAll("[data-match-id]")).map(el => {
       const root = el.closest("div");
