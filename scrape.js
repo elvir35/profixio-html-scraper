@@ -17,92 +17,60 @@ const URL =
   console.log("➡️ Loading page");
   await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 30000 });
 
-  /* Cookie banner (if any) */
-  try {
-    await page.waitForSelector("button:has-text('Godkänn')", { timeout: 5000 });
-    await page.click("button:has-text('Godkänn')");
-    console.log("🍪 Cookie banner accepted");
-  } catch {
-    console.log("🍪 No cookie banner");
-  }
-
-  /* Wait until team name is visible somewhere */
-  console.log('⏳ Waiting for text "H43 Lund HF"');
+  // Wait until team name exists (your proven reliable signal)
   await page.waitForFunction(
     () => document.body.innerText.includes("H43 Lund HF"),
     { timeout: 25000 }
   );
 
-  /* 🔍 DEBUG: inspect DOM at runtime */
-  const debugInfo = await page.evaluate(() => {
-    return {
-      bodyTextSample: document.body.innerText.slice(0, 800),
-      matchClassCount: document.querySelectorAll("[class*='match']").length,
-      homeTeamCount: document.querySelectorAll(".home-team").length,
-      awayTeamCount: document.querySelectorAll(".away-team").length,
-      scoreCount: document.querySelectorAll(".home-score, .away-score").length,
-      allDivCount: document.querySelectorAll("div").length
-    };
-  });
+  console.log("📖 Reading page text");
 
-  console.log("🔎 DEBUG DOM INFO:");
-  console.log(JSON.stringify(debugInfo, null, 2));
-
-  /* Extract matches (structure-based, no data-match-id dependency) */
   const matches = await page.evaluate(() => {
+    const text = document.body.innerText;
+    const lines = text
+      .split("\n")
+      .map(l => l.trim())
+      .filter(Boolean);
+
     const results = [];
 
-    const teamNodes = Array.from(document.querySelectorAll("div, span"))
-      .filter(el => el.innerText?.includes("H43 Lund HF"));
+    // Example date line: "Monday Jan 26, 2026"
+    const dateRegex = /^[A-Za-z]+ [A-Za-z]+ \d{1,2}, \d{4}$/;
+    const timeRegex = /^\d{1,2}:\d{2}$/;
 
-    teamNodes.forEach(node => {
-      const container =
-        node.closest("div[class*='match']") ||
-        node.closest("div") ||
-        node.parentElement;
+    for (let i = 0; i < lines.length; i++) {
+      if (!dateRegex.test(lines[i])) continue;
 
-      if (!container) return;
+      const date = lines[i];
+      const round = lines[i + 1]; // "Runde 18"
+      const venue = lines[i + 3]; // after "•"
 
-      const text = sel =>
-        container.querySelector(sel)?.innerText.trim() ?? null;
+      const teamA = lines[i + 4];
+      const time = timeRegex.test(lines[i + 5]) ? lines[i + 5] : null;
+      const teamB = lines[i + 6];
 
-      const homeScore = text(".home-score");
-      const awayScore = text(".away-score");
+      if (!teamA || !teamB || !time) continue;
 
-      const match = {
-        date: text(".match-date"),
-        time: text(".match-time"),
-        homeTeam: text(".home-team"),
-        awayTeam: text(".away-team"),
-        venue: text(".arena, .hall, .match-location"),
-        score:
-          homeScore && awayScore ? `${homeScore} - ${awayScore}` : null
-      };
-
-      if (
-        match.homeTeam &&
-        match.awayTeam &&
-        !results.some(
-          m =>
-            m.homeTeam === match.homeTeam &&
-            m.awayTeam === match.awayTeam &&
-            m.date === match.date
-        )
-      ) {
-        results.push(match);
-      }
-    });
+      results.push({
+        date,
+        round,
+        time,
+        homeTeam: teamA,
+        awayTeam: teamB,
+        venue
+      });
+    }
 
     return results;
   });
 
-  console.log(`📊 Extracted matches: ${matches.length}`);
-  console.log(JSON.stringify(matches.slice(0, 3), null, 2)); // preview first 3
-
   await browser.close();
 
+  console.log(`📊 Extracted ${matches.length} matches`);
+  console.log(JSON.stringify(matches.slice(0, 3), null, 2));
+
   if (matches.length === 0) {
-    throw new Error("❌ No matches extracted — see debug output above");
+    throw new Error("❌ No matches parsed from text");
   }
 
   console.log("✅ Scraping completed successfully");
