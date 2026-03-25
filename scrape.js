@@ -30,7 +30,6 @@ const URLS = [
       timeout: 30000
     });
 
-    // ✅ Wait for actual match data (reliable)
     await page.waitForFunction(() =>
       document.querySelectorAll("a[href*='AID=']").length > 0
     );
@@ -44,9 +43,15 @@ const URLS = [
       rows.forEach(row => {
         const text = row.innerText.trim();
 
-        // --- DATE ROW ---
+        // 🔥 CLEAN DATE EXTRACTION
         if (row.className && row.className.includes("dag")) {
-          currentDate = text;
+          const dayEl = row.querySelector("b");
+          const weekdayEl = row.querySelector("font");
+
+          const day = dayEl ? dayEl.innerText.trim() : "";
+          const weekday = weekdayEl ? weekdayEl.innerText.trim() : "";
+
+          currentDate = `${weekday} ${day}`.trim();
           return;
         }
 
@@ -65,9 +70,9 @@ const URLS = [
 
         // --- TEAM ---
         const teamLink = row.querySelector("a[href*='ID=']");
-        const team = teamLink ? teamLink.innerText : "";
+        const team = teamLink ? teamLink.innerText.trim() : "";
 
-        // --- HALL ---
+        // --- HALL (cleaned) ---
         let hall = "";
         const hallContainer = row.querySelector("td:nth-child(2)");
         if (hallContainer) {
@@ -81,7 +86,7 @@ const URLS = [
         const img = row.querySelector("img");
         const logo = img ? img.src : "";
 
-        // --- SCORE (🔥 FIXED LOGIC) ---
+        // --- SCORE ---
         let score = "";
 
         if (status === "played") {
@@ -90,7 +95,6 @@ const URLS = [
           if (scoreCell) {
             const raw = scoreCell.innerText.trim();
 
-            // ✅ ONLY accept exact score format
             const match = raw.match(/^(\d+)\s*-\s*(\d+)$/);
 
             if (match) {
@@ -103,7 +107,7 @@ const URLS = [
           team,
           hall,
           time,
-          date: currentDate,
+          date: currentDate, // ✅ CLEAN NOW
           home: home.trim(),
           away: away.trim(),
           score,
