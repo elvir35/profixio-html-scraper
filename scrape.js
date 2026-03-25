@@ -1,8 +1,13 @@
 import { chromium } from "playwright";
 import fs from "fs";
 
-const URL =
-  "https://www.profixio.com/app/lx/competition/leagueid17956/teams/1403367?t=schedule";
+const BASE =
+  "https://h43lund.web.sportadmin.se/match/?ID=331249";
+
+const URLS = [
+  { url: BASE + "&kommande=1", status: "upcoming" },
+  { url: BASE + "&spelade=1", status: "played" }
+];
 
 (async () => {
   const browser = await chromium.launch({ headless: true });
@@ -15,72 +20,114 @@ const URL =
 
   const page = await context.newPage();
 
-  console.log("➡️ Loading page");
-  await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 30000 });
+  const allMatches = [];
 
-  // Wait until team name exists (reliable signal)
-  console.log('⏳ Waiting for text "H43 Lund HF"');
-  await page.waitForFunction(
-    () => document.body.innerText.includes("H43 Lund HF"),
-    { timeout: 25000 }
-  );
+  for (const { url, status } of URLS) {
+    console.log(`➡️ Loading ${status}: ${url}`);
 
-  console.log("📖 Reading page text");
+    await page.goto(url, {
+      waitUntil: "domcontentloaded",
+      timeout: 30000
+    });
 
-  const matches = await page.evaluate(() => {
-    const text = document.body.innerText;
-    const lines = text
-      .split("\n")
-      .map(l => l.trim())
-      .filter(Boolean);
+    await page.waitForSelector("table");
 
-    const results = [];
+    const matches = await page.evaluate((status) => {
+      const rows = Array.from(document.querySelectorAll("tr"));
 
-    // Example date: "Monday Jan 26, 2026"
-    const dateRegex = /^[A-Za-z]+ [A-Za-z]+ \d{1,2}, \d{4}$/;
-    const timeRegex = /^\d{1,2}:\d{2}$/;
+      const results = [];
 
-    for (let i = 0; i < lines.length; i++) {
-      if (!dateRegex.test(lines[i])) continue;
+      let currentDate = "";
 
-      const date = lines[i];
-      const round = lines[i + 1];        // "Runde 18"
-      const venue = lines[i + 3];        // after "•"
+      rows.forEach(row => {
+        const text = row.innerText.trim();
 
-      const teamA = lines[i + 4];
-      const time = timeRegex.test(lines[i + 5]) ? lines[i + 5] : null;
-      const teamB = lines[i + 6];
+        // --- DATE ROW ---
+        if (row.className.includes("dag")) {
+          currentDate = text;
+          return;
+        }
 
-      if (!teamA || !teamB || !time) continue;
+        const link = row.querySelector("a[href*='AID=']");
+        if (!link) return;
 
-      results.push({
-        date,
-        round,
-        time,
-        homeTeam: teamA,
-        awayTeam: teamB,
-        venue
+        const matchText = link.innerText;
+        if (!matchText.includes(" - ")) return;
+
+        const [home, away] = matchText.split(" - ");
+
+        // --- TIME ---
+        const timeMatch = text.match(/\d{2}:\d{2}/);
+        const time = timeMatch ? timeMatch[0] : "";
+
+        // --- TEAM ---
+        const teamLink = row.querySelector("a[href*='ID=']");
+        const team = teamLink ? teamLink.innerText : "";
+
+        // --- HALL ---
+        let hall = "";
+        const hallContainer = row.querySelector("td:nth-child(2)");
+        if (hallContainer) {
+          const parts = hallContainer.innerText.split(",");
+          if (parts.length > 1) {
+            hall = parts[1].trim();
+          }
+        }
+
+        // --- LOGO ---
+        const img = row.querySelector("img");
+        const logo = img ? img.src : "";
+
+        // --- SCORE ---
+        let score = "";
+
+        if (status === "played") {
+          const scoreCell = row.querySelector("td[align='right']");
+          if (scoreCell) {
+            const raw = scoreCell.innerText.trim();
+
+            // Only accept real scores (digits on both sides)
+            const match = raw.match(/(\d+)\s*-\s*(\d+)/);
+
+            if (match) {
+              score = `${match[1]} - ${match[2]}`;
+            }
+          }
+        }
+
+        results.push({
+          team,
+          hall,
+          time,
+          date: currentDate,
+          home: home.trim(),
+          away: away.trim(),
+          score,
+          logo,
+          status
+        });
       });
-    }
 
-    return results;
-  });
+      return results;
+    }, status);
+
+    allMatches.push(...matches);
+  }
 
   await browser.close();
 
-  if (matches.length === 0) {
-    throw new Error("❌ No matches parsed from page text");
+  if (!allMatches.length) {
+    throw new Error("❌ No matches found");
   }
 
   const output = {
     scrapedAt: new Date().toISOString(),
-    source: URL,
-    matchCount: matches.length,
-    matches
+    source: BASE,
+    matchCount: allMatches.length,
+    matches: allMatches
   };
 
   fs.writeFileSync("matches.json", JSON.stringify(output, null, 2), "utf-8");
 
-  console.log(`✅ Scraping completed`);
-  console.log(`💾 matches.json created with ${matches.length} matches`);
+  console.log(`✅ Done. ${allMatches.length} matches saved`);
 })();
