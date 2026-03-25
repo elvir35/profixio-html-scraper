@@ -55,6 +55,15 @@ const URLS = [
           return;
         }
 
+        let currentMonth = "";
+
+        // 🔥 Extract month (MARS 2026)
+        const monthEl = document.querySelector("div.inner b");
+        
+        if (monthEl) {
+          currentMonth = monthEl.innerText.trim();
+        }
+
         // --- MATCH LINK ---
         const link = row.querySelector("a[href*='AID=']");
         if (!link) return;
@@ -108,6 +117,7 @@ const URLS = [
           hall,
           time,
           date: currentDate, // ✅ CLEAN NOW
+          month: currentMonth,
           home: home.trim(),
           away: away.trim(),
           score,
