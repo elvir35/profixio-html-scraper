@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-25T15:37:21.312Z",
+  "scrapedAt": "2026-03-25T18:43:36.054Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
@@ -257,8 +257,8 @@
     },
     {
       "team": "P11",
-      "hall": "Kävlinge",
-      "time": "08:00",
+      "hall": "Korsbackahallen",
+      "time": "08:40",
       "date": "sön 05",
       "month": "MARS 2026",
       "home": "Påskacupen",
@@ -282,7 +282,7 @@
     {
       "team": "P11",
       "hall": "Lågehallarna",
-      "time": "08:00",
+      "time": "08:50",
       "date": "lör 11",
       "month": "MARS 2026",
       "home": "Lågan Cup",
