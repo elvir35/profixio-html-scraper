@@ -5,6 +5,10 @@ on:
     - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
+# ✅ REQUIRED for pushing changes
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -27,8 +31,15 @@ jobs:
       - name: Run scraper
         run: npm run scrape
 
-      - name: Upload JSON artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: scraped-data
-          path: matches.json
+      # ✅ NEW: Commit and push matches.json
+      - name: Commit and push matches.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add matches.json
+
+          # Only commit if file changed
+          git diff --cached --quiet || git commit -m "Update matches.json"
+
+          git push
