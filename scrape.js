@@ -30,24 +30,27 @@ const URLS = [
       timeout: 30000
     });
 
-    await page.waitForSelector("table");
+    // ✅ Wait for actual match data (reliable)
+    await page.waitForFunction(() =>
+      document.querySelectorAll("a[href*='AID=']").length > 0
+    );
 
     const matches = await page.evaluate((status) => {
       const rows = Array.from(document.querySelectorAll("tr"));
 
       const results = [];
-
       let currentDate = "";
 
       rows.forEach(row => {
         const text = row.innerText.trim();
 
         // --- DATE ROW ---
-        if (row.className.includes("dag")) {
+        if (row.className && row.className.includes("dag")) {
           currentDate = text;
           return;
         }
 
+        // --- MATCH LINK ---
         const link = row.querySelector("a[href*='AID=']");
         if (!link) return;
 
@@ -78,16 +81,17 @@ const URLS = [
         const img = row.querySelector("img");
         const logo = img ? img.src : "";
 
-        // --- SCORE ---
+        // --- SCORE (🔥 FIXED LOGIC) ---
         let score = "";
 
         if (status === "played") {
           const scoreCell = row.querySelector("td[align='right']");
+
           if (scoreCell) {
             const raw = scoreCell.innerText.trim();
 
-            // Only accept real scores (digits on both sides)
-            const match = raw.match(/(\d+)\s*-\s*(\d+)/);
+            // ✅ ONLY accept exact score format
+            const match = raw.match(/^(\d+)\s*-\s*(\d+)$/);
 
             if (match) {
               score = `${match[1]} - ${match[2]}`;
