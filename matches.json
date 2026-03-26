@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-26T01:23:11.704Z",
+  "scrapedAt": "2026-03-26T06:58:11.835Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
@@ -395,7 +395,7 @@
       "month": "MARS 2026",
       "home": "Lugi HF 1 F10",
       "away": "H43 Lund HF 2",
-      "score": "",
+      "score": "32 - 15",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "played"
     },
