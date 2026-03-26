@@ -1,20 +1,8 @@
 {
-  "scrapedAt": "2026-03-25T18:43:36.054Z",
+  "scrapedAt": "2026-03-26T01:23:11.704Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
-    {
-      "team": "F16",
-      "hall": "Sparbanken Skåne Arena A",
-      "time": "18:00",
-      "date": "ons 25",
-      "month": "MARS 2026",
-      "home": "Lugi HF 1 F10",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "HERRAR A",
       "hall": "Torslanda Sporthall A",
@@ -393,11 +381,23 @@
       "time": "09:30",
       "date": "sön 19",
       "month": "MARS 2026",
-      "home": "Träningsmatcher inför Bohus Cup",
+      "home": "Träningsmatcher i Helsingborgs arena",
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F16",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "18:00",
+      "date": "ons 25",
+      "month": "MARS 2026",
+      "home": "Lugi HF 1 F10",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P14",
