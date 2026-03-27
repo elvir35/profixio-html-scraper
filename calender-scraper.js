@@ -62,7 +62,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
 
       const [startTime, endTime] = timeMatch[0].split("-").map(t => t.trim());
 
-      // 📍 TYPE + LOCATION + EXTRA INFO (FIXED)
+      // 📍 TYPE + LOCATION + EXTRA INFO
       let location = "";
       let type = "";
       let title = "";
@@ -73,18 +73,21 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       if (activityEl) {
         const rawText = activityEl.innerText.trim();
         const lower = rawText.toLowerCase();
+
         const boldEl = activityEl.querySelector("b");
 
-        // 🔴 MATCH (PRIMARY: <b>)
+        // 🔴 MATCH (best source = <b>)
         if (boldEl) {
           type = "Match";
 
-          const parts = boldEl.innerText.split(",");
+          const cleanText = boldEl.innerText.trim(); // CLEAN SOURCE
+
+          const parts = cleanText.split(",");
           opponent = parts[0]?.trim() || "";
           location = parts[1]?.trim() || "";
         }
 
-        // 🔴 MATCH (fallback patterns)
+        // 🔴 MATCH fallback
         else if (
           lower.includes(" borta") ||
           lower.includes(" hemma") ||
@@ -92,7 +95,9 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
         ) {
           type = "Match";
 
-          const parts = rawText.split(",");
+          const cleaned = rawText.split("(")[0]; // REMOVE "(Flickor...)"
+
+          const parts = cleaned.split(",");
           opponent = parts[0]?.trim() || "";
           location = parts[1]?.trim() || "";
         }
