@@ -1,32 +1,8 @@
 {
-  "scrapedAt": "2026-03-26T18:53:44.703Z",
+  "scrapedAt": "2026-03-27T01:23:05.523Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
-    {
-      "team": "HERRAR A",
-      "hall": "Torslanda Sporthall A",
-      "time": "19:00",
-      "date": "tor 26",
-      "month": "MARS 2026",
-      "home": "HK Torslanda Elit",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26042_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
-      "hall": "Söderslättshallen A",
-      "time": "20:00",
-      "date": "tor 26",
-      "month": "MARS 2026",
-      "home": "Stavsten HK U",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P18",
       "hall": "Tunahallen-Handboll",
@@ -386,6 +362,30 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Söderslättshallen A",
+      "time": "20:00",
+      "date": "tor 26",
+      "month": "MARS 2026",
+      "home": "Stavsten HK U",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "HERRAR A",
+      "hall": "Torslanda Sporthall A",
+      "time": "19:00",
+      "date": "tor 26",
+      "month": "MARS 2026",
+      "home": "HK Torslanda Elit",
+      "away": "H43 Lund HF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26042_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F16",
