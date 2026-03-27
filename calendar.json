@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-03-27T11:17:43.235Z",
-  "source": "https://h43lund.web.sportadmin.se/kalender/",
+  "scrapedAt": "2026-03-27T11:31:04.938Z",
+  "source": "https://h43lund.web.sportadmin.se/kalender/?ID=331251",
   "eventCount": 267,
   "events": [
     {
-      "date": "  MARS 2026",
+      "date": " ",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -15,7 +15,7 @@
       "opponent": ""
     },
     {
-      "date": "  MARS 2026",
+      "date": " ",
       "month": "MARS 2026",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -26,7 +26,7 @@
       "opponent": ""
     },
     {
-      "date": "  MARS 2026",
+      "date": " ",
       "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -37,7 +37,7 @@
       "opponent": ""
     },
     {
-      "date": "  MARS 2026",
+      "date": " ",
       "month": "MARS 2026",
       "startTime": "12:30",
       "endTime": "15:45",
@@ -48,7 +48,7 @@
       "opponent": ""
     },
     {
-      "date": "  MARS 2026",
+      "date": " ",
       "month": "MARS 2026",
       "startTime": "16:30",
       "endTime": "18:00",
@@ -59,7 +59,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -70,7 +70,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -81,7 +81,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -92,7 +92,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -103,7 +103,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -114,7 +114,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -125,7 +125,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -136,7 +136,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -147,7 +147,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:15",
@@ -158,7 +158,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -169,7 +169,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:00",
@@ -180,7 +180,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "20:00",
       "endTime": "21:30",
@@ -191,7 +191,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 02 MARS 2026",
+      "date": "mån 02",
       "month": "MARS 2026",
       "startTime": "20:00",
       "endTime": "21:45",
@@ -202,7 +202,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03 MARS 2026",
+      "date": "tis 03",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -213,7 +213,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03 MARS 2026",
+      "date": "tis 03",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -224,7 +224,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03 MARS 2026",
+      "date": "tis 03",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -235,7 +235,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03 MARS 2026",
+      "date": "tis 03",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -246,7 +246,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03 MARS 2026",
+      "date": "tis 03",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -257,7 +257,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03 MARS 2026",
+      "date": "tis 03",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -268,7 +268,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03 MARS 2026",
+      "date": "tis 03",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -279,7 +279,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03 MARS 2026",
+      "date": "tis 03",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -290,7 +290,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "16:30",
       "endTime": "17:30",
@@ -301,7 +301,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -312,7 +312,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -323,7 +323,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "18:15",
       "endTime": "19:30",
@@ -334,7 +334,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -345,7 +345,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -356,7 +356,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -367,7 +367,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -378,7 +378,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -389,7 +389,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -400,7 +400,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04 MARS 2026",
+      "date": "ons 04",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -411,7 +411,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 05 MARS 2026",
+      "date": "tor 05",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:00",
@@ -422,7 +422,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 05 MARS 2026",
+      "date": "tor 05",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -433,7 +433,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 05 MARS 2026",
+      "date": "tor 05",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -444,7 +444,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 05 MARS 2026",
+      "date": "tor 05",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -455,7 +455,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 05 MARS 2026",
+      "date": "tor 05",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -466,7 +466,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 05 MARS 2026",
+      "date": "tor 05",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -477,7 +477,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 05 MARS 2026",
+      "date": "tor 05",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:00",
@@ -488,7 +488,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 05 MARS 2026",
+      "date": "tor 05",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -499,7 +499,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 06 MARS 2026",
+      "date": "fre 06",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -510,7 +510,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 06 MARS 2026",
+      "date": "fre 06",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -521,7 +521,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 06 MARS 2026",
+      "date": "fre 06",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -532,7 +532,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 06 MARS 2026",
+      "date": "fre 06",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -543,7 +543,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -554,7 +554,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -565,7 +565,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -576,7 +576,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "10:00",
       "endTime": "12:00",
@@ -587,7 +587,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "10:00",
       "endTime": "11:30",
@@ -598,7 +598,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "11:00",
       "endTime": "12:00",
@@ -609,18 +609,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "18:10",
       "endTime": "20:00",
       "team": "F10",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Sverige VS Serbien (svar senast 30/11)",
-      "opponent": ""
+      "type": "Match",
+      "title": "",
+      "opponent": "Sverige VS Serbien (svar senast 30/11)"
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "18:10",
       "endTime": "20:00",
@@ -631,7 +631,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -642,7 +642,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -653,7 +653,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -664,7 +664,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07 MARS 2026",
+      "date": "lör 07",
       "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -675,7 +675,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -686,7 +686,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:00",
@@ -697,7 +697,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -708,7 +708,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -719,7 +719,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -730,7 +730,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -741,7 +741,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -752,7 +752,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -763,7 +763,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -774,7 +774,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:15",
@@ -785,7 +785,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -796,7 +796,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:00",
@@ -807,7 +807,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 09 MARS 2026",
+      "date": "mån 09",
       "month": "MARS 2026",
       "startTime": "20:00",
       "endTime": "21:30",
@@ -818,7 +818,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10 MARS 2026",
+      "date": "tis 10",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -829,7 +829,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10 MARS 2026",
+      "date": "tis 10",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -840,7 +840,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10 MARS 2026",
+      "date": "tis 10",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -851,7 +851,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10 MARS 2026",
+      "date": "tis 10",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -862,7 +862,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10 MARS 2026",
+      "date": "tis 10",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -873,7 +873,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10 MARS 2026",
+      "date": "tis 10",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -884,7 +884,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10 MARS 2026",
+      "date": "tis 10",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -895,7 +895,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10 MARS 2026",
+      "date": "tis 10",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -906,7 +906,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "16:30",
       "endTime": "17:30",
@@ -917,7 +917,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -928,7 +928,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -939,7 +939,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "18:15",
       "endTime": "19:30",
@@ -950,7 +950,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -961,7 +961,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -972,7 +972,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -983,7 +983,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -994,7 +994,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -1005,7 +1005,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11 MARS 2026",
+      "date": "ons 11",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -1016,7 +1016,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 12 MARS 2026",
+      "date": "tor 12",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:00",
@@ -1027,7 +1027,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 12 MARS 2026",
+      "date": "tor 12",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -1038,7 +1038,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 12 MARS 2026",
+      "date": "tor 12",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -1049,7 +1049,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 12 MARS 2026",
+      "date": "tor 12",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -1060,7 +1060,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 12 MARS 2026",
+      "date": "tor 12",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1071,7 +1071,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 12 MARS 2026",
+      "date": "tor 12",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -1082,7 +1082,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 12 MARS 2026",
+      "date": "tor 12",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:00",
@@ -1093,7 +1093,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 12 MARS 2026",
+      "date": "tor 12",
       "month": "MARS 2026",
       "startTime": "20:00",
       "endTime": "21:45",
@@ -1104,7 +1104,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 12 MARS 2026",
+      "date": "tor 12",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -1115,7 +1115,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "21:00",
@@ -1126,7 +1126,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:30",
@@ -1137,7 +1137,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "18:15",
       "endTime": "20:00",
@@ -1148,7 +1148,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -1159,7 +1159,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1170,7 +1170,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1181,7 +1181,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1192,7 +1192,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1203,205 +1203,205 @@
       "opponent": ""
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollek Stångby",
       "location": "Arenan A",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F9",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F10",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F11",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F13",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F14",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F16",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F8",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "U7",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HK Blå 85",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P10",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P11",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P14",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P16",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P18",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P19 / Herr U",
       "location": "Arenan A",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi HF",
-      "opponent": "Lugi HF"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi HF"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P8",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "fre 13 MARS 2026",
+      "date": "fre 13",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P9",
       "location": "Arenan",
-      "type": "Övrigt",
-      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
-      "opponent": "Lugi"
+      "type": "Match",
+      "title": "",
+      "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -1412,7 +1412,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -1423,7 +1423,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -1434,7 +1434,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -1445,7 +1445,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "10:00",
       "endTime": "11:00",
@@ -1456,7 +1456,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "11:00",
       "endTime": "12:00",
@@ -1467,7 +1467,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "16:15",
       "endTime": "23:59",
@@ -1478,7 +1478,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "07:00",
       "endTime": "23:59",
@@ -1489,7 +1489,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -1500,7 +1500,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -1511,7 +1511,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14 MARS 2026",
+      "date": "lör 14",
       "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -1522,7 +1522,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -1533,7 +1533,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "18:30",
@@ -1544,7 +1544,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "18:45",
@@ -1555,7 +1555,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -1566,7 +1566,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -1577,7 +1577,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -1588,7 +1588,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -1599,7 +1599,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1610,7 +1610,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:15",
@@ -1621,7 +1621,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:00",
@@ -1632,7 +1632,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 16 MARS 2026",
+      "date": "mån 16",
       "month": "MARS 2026",
       "startTime": "20:00",
       "endTime": "21:30",
@@ -1643,7 +1643,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:00",
@@ -1654,7 +1654,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -1665,7 +1665,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -1676,7 +1676,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -1687,7 +1687,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -1698,7 +1698,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -1709,7 +1709,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1720,7 +1720,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1731,7 +1731,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1742,7 +1742,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 17 MARS 2026",
+      "date": "tis 17",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -1753,7 +1753,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18 MARS 2026",
+      "date": "ons 18",
       "month": "MARS 2026",
       "startTime": "16:30",
       "endTime": "17:30",
@@ -1764,7 +1764,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18 MARS 2026",
+      "date": "ons 18",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -1775,7 +1775,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18 MARS 2026",
+      "date": "ons 18",
       "month": "MARS 2026",
       "startTime": "18:15",
       "endTime": "19:30",
@@ -1786,7 +1786,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18 MARS 2026",
+      "date": "ons 18",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1797,7 +1797,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18 MARS 2026",
+      "date": "ons 18",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -1808,7 +1808,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18 MARS 2026",
+      "date": "ons 18",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1819,7 +1819,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18 MARS 2026",
+      "date": "ons 18",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -1830,7 +1830,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18 MARS 2026",
+      "date": "ons 18",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -1841,7 +1841,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 19 MARS 2026",
+      "date": "tor 19",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:00",
@@ -1852,7 +1852,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 19 MARS 2026",
+      "date": "tor 19",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -1863,7 +1863,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 19 MARS 2026",
+      "date": "tor 19",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1874,7 +1874,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 19 MARS 2026",
+      "date": "tor 19",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -1885,7 +1885,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 19 MARS 2026",
+      "date": "tor 19",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:00",
@@ -1896,7 +1896,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 19 MARS 2026",
+      "date": "tor 19",
       "month": "MARS 2026",
       "startTime": "20:00",
       "endTime": "21:45",
@@ -1907,7 +1907,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 19 MARS 2026",
+      "date": "tor 19",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -1918,7 +1918,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20 MARS 2026",
+      "date": "fre 20",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -1929,7 +1929,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20 MARS 2026",
+      "date": "fre 20",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -1940,7 +1940,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20 MARS 2026",
+      "date": "fre 20",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -1951,7 +1951,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20 MARS 2026",
+      "date": "fre 20",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -1962,7 +1962,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20 MARS 2026",
+      "date": "fre 20",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -1973,7 +1973,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "07:00",
       "endTime": "23:59",
@@ -1984,7 +1984,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -1995,7 +1995,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -2006,7 +2006,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -2017,7 +2017,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "10:00",
       "endTime": "11:00",
@@ -2028,7 +2028,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "10:00",
       "endTime": "11:30",
@@ -2039,7 +2039,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "14:30",
       "endTime": "21:00",
@@ -2050,7 +2050,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:30",
@@ -2061,7 +2061,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -2072,7 +2072,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -2083,7 +2083,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "18:00",
@@ -2094,7 +2094,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -2105,7 +2105,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21 MARS 2026",
+      "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "14:00",
       "endTime": "16:30",
@@ -2116,7 +2116,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2127,7 +2127,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -2138,7 +2138,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -2149,7 +2149,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -2160,7 +2160,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -2171,7 +2171,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -2182,7 +2182,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -2193,7 +2193,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "18:45",
       "endTime": "21:00",
@@ -2204,7 +2204,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2215,7 +2215,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:15",
@@ -2226,7 +2226,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -2237,7 +2237,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23 MARS 2026",
+      "date": "mån 23",
       "month": "MARS 2026",
       "startTime": "20:00",
       "endTime": "21:30",
@@ -2248,7 +2248,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 24 MARS 2026",
+      "date": "tis 24",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2259,7 +2259,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 24 MARS 2026",
+      "date": "tis 24",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2270,7 +2270,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 24 MARS 2026",
+      "date": "tis 24",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -2281,7 +2281,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 24 MARS 2026",
+      "date": "tis 24",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -2292,7 +2292,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 24 MARS 2026",
+      "date": "tis 24",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -2303,7 +2303,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 24 MARS 2026",
+      "date": "tis 24",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2314,7 +2314,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 24 MARS 2026",
+      "date": "tis 24",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2325,7 +2325,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 24 MARS 2026",
+      "date": "tis 24",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2336,7 +2336,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 24 MARS 2026",
+      "date": "tis 24",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -2347,7 +2347,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25 MARS 2026",
+      "date": "ons 25",
       "month": "MARS 2026",
       "startTime": "16:30",
       "endTime": "17:30",
@@ -2358,7 +2358,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25 MARS 2026",
+      "date": "ons 25",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -2369,7 +2369,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25 MARS 2026",
+      "date": "ons 25",
       "month": "MARS 2026",
       "startTime": "18:15",
       "endTime": "19:30",
@@ -2380,7 +2380,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25 MARS 2026",
+      "date": "ons 25",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2391,7 +2391,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25 MARS 2026",
+      "date": "ons 25",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -2402,7 +2402,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25 MARS 2026",
+      "date": "ons 25",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2413,7 +2413,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25 MARS 2026",
+      "date": "ons 25",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -2424,7 +2424,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25 MARS 2026",
+      "date": "ons 25",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -2435,7 +2435,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25 MARS 2026",
+      "date": "ons 25",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -2446,7 +2446,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26 MARS 2026",
+      "date": "tor 26",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:00",
@@ -2457,7 +2457,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26 MARS 2026",
+      "date": "tor 26",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2468,7 +2468,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26 MARS 2026",
+      "date": "tor 26",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -2479,7 +2479,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26 MARS 2026",
+      "date": "tor 26",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -2490,7 +2490,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26 MARS 2026",
+      "date": "tor 26",
       "month": "MARS 2026",
       "startTime": "18:45",
       "endTime": "21:00",
@@ -2501,7 +2501,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26 MARS 2026",
+      "date": "tor 26",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2512,7 +2512,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26 MARS 2026",
+      "date": "tor 26",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -2523,7 +2523,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26 MARS 2026",
+      "date": "tor 26",
       "month": "MARS 2026",
       "startTime": "20:00",
       "endTime": "21:45",
@@ -2534,7 +2534,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26 MARS 2026",
+      "date": "tor 26",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -2545,7 +2545,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 27 MARS 2026",
+      "date": "fre 27",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2556,7 +2556,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 27 MARS 2026",
+      "date": "fre 27",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2567,7 +2567,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 27 MARS 2026",
+      "date": "fre 27",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2578,7 +2578,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 27 MARS 2026",
+      "date": "fre 27",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -2589,7 +2589,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 27 MARS 2026",
+      "date": "fre 27",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -2600,7 +2600,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -2611,7 +2611,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -2622,7 +2622,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -2633,7 +2633,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "10:00",
       "endTime": "11:00",
@@ -2644,7 +2644,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "11:00",
       "endTime": "12:00",
@@ -2655,7 +2655,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -2666,7 +2666,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:15",
@@ -2677,7 +2677,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -2688,7 +2688,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "12:30",
@@ -2699,7 +2699,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -2710,7 +2710,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 28 MARS 2026",
+      "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -2721,7 +2721,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2732,7 +2732,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -2743,7 +2743,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "18:30",
@@ -2754,7 +2754,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -2765,7 +2765,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -2776,7 +2776,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -2787,7 +2787,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -2798,7 +2798,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "18:45",
       "endTime": "21:00",
@@ -2809,7 +2809,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2820,7 +2820,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:15",
@@ -2831,7 +2831,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -2842,7 +2842,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 30 MARS 2026",
+      "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "20:00",
       "endTime": "21:30",
@@ -2853,7 +2853,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31 MARS 2026",
+      "date": "tis 31",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2864,7 +2864,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31 MARS 2026",
+      "date": "tis 31",
       "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2875,7 +2875,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31 MARS 2026",
+      "date": "tis 31",
       "month": "MARS 2026",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -2886,7 +2886,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31 MARS 2026",
+      "date": "tis 31",
       "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -2897,7 +2897,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31 MARS 2026",
+      "date": "tis 31",
       "month": "MARS 2026",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -2908,7 +2908,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31 MARS 2026",
+      "date": "tis 31",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2919,7 +2919,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31 MARS 2026",
+      "date": "tis 31",
       "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2930,7 +2930,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31 MARS 2026",
+      "date": "tis 31",
       "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
