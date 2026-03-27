@@ -1,20 +1,8 @@
 {
-  "scrapedAt": "2026-03-27T12:41:07.925Z",
+  "scrapedAt": "2026-03-27T18:43:46.590Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 572,
+  "matchCount": 571,
   "matches": [
-    {
-      "team": "P18",
-      "hall": "Tunahallen-Handboll",
-      "time": "18:30",
-      "date": "fre 27",
-      "month": "MARS 2026",
-      "home": "H43 Lund HF 2",
-      "away": "HK Björnen",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26413_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P14",
       "hall": "Eslövshallen A",
@@ -72,7 +60,7 @@
       "home": "H43 Lund HF",
       "away": "Gästande Lag",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
       "status": "upcoming"
     },
     {
