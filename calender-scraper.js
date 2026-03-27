@@ -71,7 +71,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/";
         .split("-")
         .map(t => t.trim());
 
-      // 📍 TYPE + LOCATION + EXTRA INFO (NEW)
+      // 📍 TYPE + LOCATION + EXTRA INFO (FIXED)
       let location = "";
       let type = "";
       let title = "";
@@ -81,20 +81,28 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/";
 
       if (activityEl) {
         const rawText = activityEl.innerText.trim();
+        const lower = rawText.toLowerCase();
 
-        // 🔴 MATCH (has <b>)
-        if (activityEl.querySelector("b")) {
+        // 🔴 MATCH (robust detection)
+        if (
+          activityEl.querySelector("b") ||
+          lower.includes(" borta") ||
+          lower.includes(" hemma") ||
+          lower.includes(" vs ")
+        ) {
           type = "Match";
 
-          const boldText = activityEl.querySelector("b").innerText;
-          const parts = boldText.split(",");
+          const boldEl = activityEl.querySelector("b");
+          const textSource = boldEl ? boldEl.innerText : rawText;
 
-          location = parts[1]?.trim() || "";
+          const parts = textSource.split(",");
+
           opponent = parts[0]?.trim() || "";
+          location = parts[1]?.trim() || "";
         }
 
         // 🟦 TRÄNING
-        else if (rawText.toLowerCase().includes("träning")) {
+        else if (lower.includes("träning")) {
           type = "Träning";
 
           const parts = rawText.split(",");
@@ -110,11 +118,14 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/";
           title = titlePart?.trim() || "";
           location = locationPart?.trim() || "";
 
-          if (title.includes("vs")) {
+          if (title.toLowerCase().includes("vs")) {
             opponent = title.split("vs")[1].trim();
           }
         }
       }
+
+      // ✅ SAFETY FALLBACK
+      type = type || "Övrigt";
 
       // 👥 TEAM
       let team = "";
