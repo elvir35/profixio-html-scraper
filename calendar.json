@@ -1,8 +1,19 @@
 {
-  "scrapedAt": "2026-03-27T13:26:35.927Z",
+  "scrapedAt": "2026-03-27T13:36:01.212Z",
   "source": "https://h43lund.web.sportadmin.se/kalender/?ID=331251",
-  "eventCount": 267,
+  "eventCount": 362,
   "events": [
+    {
+      "date": " ",
+      "month": "",
+      "startTime": "",
+      "endTime": "",
+      "team": "Unknown",
+      "location": "Unknown",
+      "type": "Övrigt",
+      "title": "",
+      "opponent": ""
+    },
     {
       "date": " ",
       "month": "MARS 2026",
@@ -13,6 +24,17 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P11",
+      "location": "Henriksdalshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Ljunghusens HK borta"
     },
     {
       "date": " ",
@@ -28,6 +50,39 @@
     {
       "date": " ",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F11",
+      "location": "Lunds Idrottshall",
+      "type": "Match",
+      "title": "",
+      "opponent": "Ystads IF HF Vit  hemma"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F14",
+      "location": "Sparbanken Skåne Arena B",
+      "type": "Match",
+      "title": "",
+      "opponent": "LUGI HF 2 borta"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P11",
+      "location": "Svedala Sporthall",
+      "type": "Match",
+      "title": "",
+      "opponent": "Svedala HK och HK Ankaret borta"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "11:30",
       "team": "U7",
@@ -35,6 +90,28 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P9",
+      "location": "Eslövshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Borta"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F19 / Dam U",
+      "location": "Halmstad Arena A1",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Drott Halmstad 2 borta"
     },
     {
       "date": " ",
@@ -50,6 +127,83 @@
     {
       "date": " ",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F10",
+      "location": "Teknikhallen C",
+      "type": "Match",
+      "title": "",
+      "opponent": "OV Helsingborg Handbollklubb 2 borta"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "DAMER A",
+      "location": "Sparbanken Skåne Arena A",
+      "type": "Match",
+      "title": "",
+      "opponent": "IF Hellton Karlstad hemma"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F13",
+      "location": "Tunahallen-Handboll",
+      "type": "Match",
+      "title": "",
+      "opponent": "IFK Malmö HF Gul hemma"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F11",
+      "location": "Eslövshallen B",
+      "type": "Match",
+      "title": "",
+      "opponent": "Eslövs HK 1 borta"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P14",
+      "location": "Vipeholmshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Ystads IF HF 2 hemma"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F14",
+      "location": "Tunahallen-Handboll",
+      "type": "Match",
+      "title": "",
+      "opponent": "LUGI HF 3 hemma"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "HERRAR A",
+      "location": "Sparbanken Skåne Arena A",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Varberg hemma"
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
       "startTime": "16:30",
       "endTime": "18:00",
       "team": "P11",
@@ -57,6 +211,17 @@
       "type": "Övrigt",
       "title": "Heja på A-lagen",
       "opponent": ""
+    },
+    {
+      "date": " ",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P16",
+      "location": "Tunahallen-Handboll",
+      "type": "Match",
+      "title": "",
+      "opponent": "KFUM Kalmar HK hemma"
     },
     {
       "date": "mån 02",
@@ -281,6 +446,17 @@
     {
       "date": "tis 03",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F19 / Dam U",
+      "location": "Sparbanken Skåne Arena B",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi HF 2 borta"
+    },
+    {
+      "date": "tis 03",
+      "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
@@ -376,6 +552,17 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": "ons 04",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "HERRAR A",
+      "location": "Halmstad Arena A1",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Drott Halmstad borta"
     },
     {
       "date": "ons 04",
@@ -512,6 +699,17 @@
     {
       "date": "fre 06",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F14",
+      "location": "Vipeholmshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "IFK Malmö HF Gul hemma"
+    },
+    {
+      "date": "fre 06",
+      "month": "MARS 2026",
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "F13",
@@ -578,6 +776,17 @@
     {
       "date": "lör 07",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P10",
+      "location": "Sundsbrohallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "IFK Malmö HF Blå borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
       "startTime": "10:00",
       "endTime": "12:00",
       "team": "DAMER A",
@@ -585,6 +794,17 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P11",
+      "location": "Söderkulla Sporthall",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Malmö och HK Ankaret borta"
     },
     {
       "date": "lör 07",
@@ -611,12 +831,111 @@
     {
       "date": "lör 07",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F11",
+      "location": "Rutsborgshallen 1",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Ankaret Röd borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P11",
+      "location": "Vipeholmshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi och Karlshamns HF hemma"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F8",
+      "location": "Stentorpshallen Halmstad",
+      "type": "Match",
+      "title": "",
+      "opponent": "Halmstad bl a  borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "DAMER A",
+      "location": "Torslanda Sporthall A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Torslanda HK borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F19 / Dam U",
+      "location": "Bollhuset A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Kristianstad HK hemma"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P14",
+      "location": "Helsingborg Arena B",
+      "type": "Övrigt",
+      "title": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
+      "opponent": ""
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P19 / Herr U",
+      "location": "Bollhuset A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Växjö HF hemma"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "HK Blå 85",
+      "location": "Bollhuset A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Halmstad HF hemma"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F13",
+      "location": "Tolvåkers Idrottshall B",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lödde Vikings HK 2 borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
       "startTime": "18:10",
       "endTime": "20:00",
       "team": "F10",
-      "location": "Unknown",
+      "location": "Arenan",
       "type": "Övrigt",
-      "title": "Sverige VS Serbien",
+      "title": "Sverige VS Serbien (svar senast 30/11)",
       "opponent": ""
     },
     {
@@ -671,6 +990,83 @@
       "team": "U7",
       "location": "Bollhuset B",
       "type": "Träning",
+      "title": "",
+      "opponent": ""
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F14",
+      "location": "Helsingborg Arena B",
+      "type": "Match",
+      "title": "",
+      "opponent": "OV Helsingborg HK - 3 borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "HK Blå 85",
+      "location": "Sparbanken Skåne Arena B",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi HF U B borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F14",
+      "location": "Stenbackahallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Karlshamns HF borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F16",
+      "location": "Östergårdshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Drott Halmstad borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P11",
+      "location": "Tornhallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi P12 borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P16",
+      "location": "Ystad Arena A1",
+      "type": "Match",
+      "title": "",
+      "opponent": "Ystads IF HF 1 borta"
+    },
+    {
+      "date": "lör 07",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "Unknown",
+      "location": "Unknown",
+      "type": "Övrigt",
       "title": "",
       "opponent": ""
     },
@@ -897,6 +1293,17 @@
     {
       "date": "tis 10",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F19 / Dam U",
+      "location": "Sparbanken Skåne Arena B",
+      "type": "Match",
+      "title": "",
+      "opponent": "IK Lågan hemma"
+    },
+    {
+      "date": "tis 10",
+      "month": "MARS 2026",
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
@@ -981,6 +1388,17 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": "ons 11",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P14",
+      "location": "Bollhuset A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi HF 2 hemma"
     },
     {
       "date": "ons 11",
@@ -1161,6 +1579,17 @@
     {
       "date": "fre 13",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "HERRAR A",
+      "location": "Sparbanken Skåne Arena A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi HF hemma"
+    },
+    {
+      "date": "fre 13",
+      "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollek Centrum",
@@ -1267,6 +1696,17 @@
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": "Lugi"
+    },
+    {
+      "date": "fre 13",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F14",
+      "location": "Färsingahallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Björnen borta"
     },
     {
       "date": "fre 13",
@@ -1425,6 +1865,17 @@
     {
       "date": "lör 14",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F11",
+      "location": "Bollhuset A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi HF 5 hemma"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "P10",
@@ -1458,6 +1909,17 @@
     {
       "date": "lör 14",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P14",
+      "location": "Sporthallen Höör",
+      "type": "Match",
+      "title": "",
+      "opponent": "Höörs HK H 65 borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
       "startTime": "11:00",
       "endTime": "12:00",
       "team": "F9",
@@ -1465,6 +1927,105 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P11",
+      "location": "Sånnahallen B",
+      "type": "Match",
+      "title": "",
+      "opponent": "Åhus Handboll och IFK Kristianstad borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P8",
+      "location": "Färsingahallen Sjöbo",
+      "type": "Match",
+      "title": "",
+      "opponent": "Borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F14",
+      "location": "Vipeholmshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Höörs HK H 65 hemma"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F13",
+      "location": "Bollhuset A",
+      "type": "Match",
+      "title": "",
+      "opponent": "OV Helsingborg HK - 2 hemma"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F10",
+      "location": "Stenstorsphallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Halmstad borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "DAMER A",
+      "location": "Baltiska Hallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Malmö borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P16",
+      "location": "Nyvångshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Dalby GIF borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P19 / Herr U",
+      "location": "Norrehedshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "IK Sund borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F19 / Dam U",
+      "location": "Sånnahallen A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Åhus Handboll borta"
     },
     {
       "date": "lör 14",
@@ -1502,6 +2063,28 @@
     {
       "date": "lör 14",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F11",
+      "location": "Henriksdalshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Ljunghusens HK Ljusblå borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F10",
+      "location": "Lågehall B",
+      "type": "Match",
+      "title": "",
+      "opponent": "IK Lågan svart  borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
       "startTime": "09:30",
       "endTime": "10:30",
       "team": "Bollskolan Centrum",
@@ -1513,11 +2096,88 @@
     {
       "date": "lör 14",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P11",
+      "location": "Stapelbäddshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "IFK Malmö och IK Sund borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "11:30",
       "team": "U7",
       "location": "Bollhuset B",
       "type": "Träning",
+      "title": "",
+      "opponent": ""
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "HK Blå 85",
+      "location": "Borgebyhallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Ankaret borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P19 / Herr U",
+      "location": "Tunahallen-Handboll",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Drott Halmstad hemma"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F11",
+      "location": "Tolvåkers Idrottshall B",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi HF 3 borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P16",
+      "location": "Prästängshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Eksjö BK borta"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F19 / Dam U",
+      "location": "Tunahallen-Handboll",
+      "type": "Match",
+      "title": "",
+      "opponent": "Kristianstad HK hemma"
+    },
+    {
+      "date": "lör 14",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "Unknown",
+      "location": "Unknown",
+      "type": "Övrigt",
       "title": "",
       "opponent": ""
     },
@@ -1841,6 +2501,17 @@
       "opponent": ""
     },
     {
+      "date": "ons 18",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P16",
+      "location": "Gunnesbohallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Malmö hemma"
+    },
+    {
       "date": "tor 19",
       "month": "MARS 2026",
       "startTime": "17:00",
@@ -1973,6 +2644,28 @@
       "opponent": ""
     },
     {
+      "date": "fre 20",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P19 / Herr U",
+      "location": "Ystad Arena",
+      "type": "Match",
+      "title": "",
+      "opponent": "IFK Ystad HK borta"
+    },
+    {
+      "date": "fre 20",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F19 / Dam U",
+      "location": "Läredaskolan",
+      "type": "Match",
+      "title": "",
+      "opponent": "Hässleholms HF borta"
+    },
+    {
       "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "07:00",
@@ -2004,6 +2697,17 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F11",
+      "location": "Bollhuset A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Eslövs HK 1 hemma"
     },
     {
       "date": "lör 21",
@@ -2041,6 +2745,39 @@
     {
       "date": "lör 21",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F10",
+      "location": "Staffanshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Staffanstorps Handbollklubb borta"
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "U7",
+      "location": "Dalby",
+      "type": "Match",
+      "title": "",
+      "opponent": "Eslöv"
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F9",
+      "location": "Stentorpshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Halmstad borta"
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
       "startTime": "14:30",
       "endTime": "21:00",
       "team": "F14",
@@ -2048,6 +2785,28 @@
       "type": "Övrigt",
       "title": "USM Steg 4 Lag Blå",
       "opponent": ""
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P11",
+      "location": "Bollhuset A",
+      "type": "Match",
+      "title": "",
+      "opponent": "OV Helsingborg hemma"
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P10",
+      "location": "Gunnesbohallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "KFUM IA Lundagård borta"
     },
     {
       "date": "lör 21",
@@ -2085,6 +2844,17 @@
     {
       "date": "lör 21",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P11",
+      "location": "Lunds Idrottshall",
+      "type": "Match",
+      "title": "",
+      "opponent": "Staffanstorps HK och Kävlinge HK hemma"
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "18:00",
       "team": "F14",
@@ -2107,12 +2877,56 @@
     {
       "date": "lör 21",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F19 / Dam U",
+      "location": "Lågehall A",
+      "type": "Match",
+      "title": "",
+      "opponent": "IK Lågan borta"
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F16",
+      "location": "Söderkulla Sporthall",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Malmö borta"
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P14",
+      "location": "Väggahallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Karlshamns HF Gul borta"
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
       "startTime": "14:00",
       "endTime": "16:30",
       "team": "P14",
       "location": "Väggahallen",
       "type": "Övrigt",
       "title": "Bindande - intresseanmälan- Matcher i Karlshamn",
+      "opponent": ""
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "Unknown",
+      "location": "Unknown",
+      "type": "Övrigt",
+      "title": "",
       "opponent": ""
     },
     {
@@ -2224,6 +3038,17 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": "mån 23",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P14",
+      "location": "Sundsbrohallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "IFK Malmö HF Blå borta"
     },
     {
       "date": "mån 23",
@@ -2371,6 +3196,17 @@
     {
       "date": "ons 25",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F16",
+      "location": "Sparbanken Skåne Arena A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi HF 1 F10  borta"
+    },
+    {
+      "date": "ons 25",
+      "month": "MARS 2026",
       "startTime": "18:15",
       "endTime": "19:30",
       "team": "F11",
@@ -2503,6 +3339,17 @@
     {
       "date": "tor 26",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "HERRAR A",
+      "location": "Torslanda Sporthall A",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Torslanda Elit borta"
+    },
+    {
+      "date": "tor 26",
+      "month": "MARS 2026",
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
@@ -2521,6 +3368,17 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": "tor 26",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F14",
+      "location": "Söderslättshallen A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Stavsten HK U borta"
     },
     {
       "date": "tor 26",
@@ -2600,6 +3458,17 @@
       "opponent": ""
     },
     {
+      "date": "fre 27",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P18",
+      "location": "Tunahallen-Handboll",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Björnen hemma"
+    },
+    {
       "date": "lör 28",
       "month": "MARS 2026",
       "startTime": "09:00",
@@ -2646,6 +3515,17 @@
     {
       "date": "lör 28",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P14",
+      "location": "Eslövshallen A",
+      "type": "Match",
+      "title": "",
+      "opponent": "Eslövs HK 1 borta"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
       "startTime": "11:00",
       "endTime": "12:00",
       "team": "F9",
@@ -2653,6 +3533,61 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P10",
+      "location": "Ankaret",
+      "type": "Match",
+      "title": "",
+      "opponent": "Eslöv"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P8",
+      "location": "mfl borta",
+      "type": "Match",
+      "title": "",
+      "opponent": "Dalby"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F14",
+      "location": "Gunnesbohallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "OV Helsingborg HK 1 hemma"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F8",
+      "location": "Vipeholmshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Gästande Lag hemma"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F13",
+      "location": "Söderkulla Sporthall",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Malmö 2 borta"
     },
     {
       "date": "lör 28",
@@ -2690,6 +3625,17 @@
     {
       "date": "lör 28",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P9",
+      "location": "Gunnesbohallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Borta"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
       "startTime": "10:30",
       "endTime": "12:30",
       "team": "F14",
@@ -2717,6 +3663,83 @@
       "team": "P10",
       "location": "Heddahallen",
       "type": "Träning",
+      "title": "",
+      "opponent": ""
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P14",
+      "location": "Limhamns Sporthall",
+      "type": "Match",
+      "title": "",
+      "opponent": "IFK Malmö HF Gul borta"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P18",
+      "location": "Tunahallen-Handboll",
+      "type": "Match",
+      "title": "",
+      "opponent": "HF Karlskrona 2 hemma"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F19 / Dam U",
+      "location": "Griffel Arena",
+      "type": "Match",
+      "title": "",
+      "opponent": "Växjö HF borta"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F16",
+      "location": "Tunahallen-Handboll",
+      "type": "Match",
+      "title": "",
+      "opponent": "HK Ankaret Röd hemma"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "F16",
+      "location": "Fäladshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi HF borta"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P16",
+      "location": "Fäladshallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Lugi HF P15 2 borta"
+    },
+    {
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "Unknown",
+      "location": "Unknown",
+      "type": "Övrigt",
       "title": "",
       "opponent": ""
     },
@@ -2866,6 +3889,17 @@
     {
       "date": "tis 31",
       "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "P10",
+      "location": "Nordic Wellness hallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Dalby borta"
+    },
+    {
+      "date": "tis 31",
+      "month": "MARS 2026",
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P8",
@@ -2928,6 +3962,17 @@
       "type": "Träning",
       "title": "",
       "opponent": ""
+    },
+    {
+      "date": "tis 31",
+      "month": "MARS 2026",
+      "startTime": "",
+      "endTime": "",
+      "team": "HK Blå 85",
+      "location": "Sparbanken Skåne Arena B",
+      "type": "Match",
+      "title": "",
+      "opponent": "IFK Malmö HF hemma"
     },
     {
       "date": "tis 31",
