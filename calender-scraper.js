@@ -32,6 +32,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
     let currentWeekday = "";
     let currentMonth = "";
 
+    // 📅 Month headers
     const monthBlocks = Array.from(document.querySelectorAll("div.inner b")).map(el => ({
       text: el.innerText.trim(),
       top: el.getBoundingClientRect().top
@@ -41,7 +42,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       const text = row.innerText?.trim() || "";
       const rowTop = row.getBoundingClientRect().top;
 
-      // 📆 Month
+      // 📆 Detect month
       for (let i = monthBlocks.length - 1; i >= 0; i--) {
         if (monthBlocks[i].top <= rowTop) {
           currentMonth = monthBlocks[i].text;
@@ -56,10 +57,10 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
         return;
       }
 
-      // ❌ IMPORTANT FIX — skip until date exists
+      // ❌ Skip rows until date is known
       if (!currentDate) return;
 
-      // ⏱ TIME
+      // ⏱ TIME (supports full + single)
       let startTime = "";
       let endTime = "";
 
@@ -67,7 +68,9 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       const singleTime = text.match(/\b\d{2}:\d{2}\b/);
 
       if (fullTime) {
-        [startTime, endTime] = fullTime[0].split("-").map(t => t.trim());
+        [startTime, endTime] = fullTime[0]
+          .split("-")
+          .map(t => t.trim());
       } else if (singleTime) {
         startTime = singleTime[0];
       }
@@ -120,7 +123,21 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
         }
       }
 
-      let team = rawText;
+      // 👥 TEAM (FINAL CORRECT LOGIC)
+      let team = "";
+
+      const td = row.querySelector("td");
+      const links = td ? td.querySelectorAll("a") : [];
+
+      if (links.length > 0) {
+        const firstText = links[0].innerText?.trim();
+
+        if (firstText && !firstText.toLowerCase().includes("träning")) {
+          team = firstText;
+        }
+      }
+
+      // Normalize
       team = team.replace(/\s+/g, " ").trim();
       team = team.replace("F ", "F").replace("P ", "P");
 
@@ -128,7 +145,11 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       team = team || "Unknown";
       type = type || "Övrigt";
 
+      // ❌ CANCELLED
       if (text.toLowerCase().includes("inställd")) return;
+
+      // ❌ Skip garbage rows
+      if (!team && !location && !startTime && !opponent) return;
 
       results.push({
         date: `${currentWeekday} ${currentDate}`,
@@ -148,7 +169,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
     const seen = new Set();
 
     results.forEach(event => {
-      const key = `${event.date}-${event.startTime}-${event.team}-${event.location}`;
+      const key = `${event.date}-${event.startTime}-${event.team}-${event.location}-${event.opponent}`;
 
       if (!seen.has(key)) {
         seen.add(key);
@@ -172,7 +193,11 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
     events
   };
 
-  fs.writeFileSync("calendar.json", JSON.stringify(output, null, 2), "utf-8");
+  fs.writeFileSync(
+    "calendar.json",
+    JSON.stringify(output, null, 2),
+    "utf-8"
+  );
 
   console.log(`✅ Done. ${events.length} events saved to calendar.json`);
 })();
