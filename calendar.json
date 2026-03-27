@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-27T10:08:39.598Z",
+  "scrapedAt": "2026-03-27T10:16:38.977Z",
   "source": "https://h43lund.web.sportadmin.se/kalender/",
   "eventCount": 267,
   "events": [
@@ -1539,8 +1539,8 @@
       "endTime": "18:30",
       "team": "F14",
       "location": "Nordic Wellness",
-      "type": "Övrigt",
-      "title": "Frivillig styrketräning",
+      "type": "Träning",
+      "title": "",
       "opponent": ""
     },
     {
@@ -2672,8 +2672,8 @@
       "endTime": "10:15",
       "team": "F11",
       "location": "Heddahallen",
-      "type": "Övrigt",
-      "title": "Målvaktsträning",
+      "type": "Träning",
+      "title": "",
       "opponent": ""
     },
     {
@@ -2716,8 +2716,8 @@
       "endTime": "11:30",
       "team": "P10",
       "location": "Heddahallen",
-      "type": "Övrigt",
-      "title": "Målvaktsträning",
+      "type": "Träning",
+      "title": "",
       "opponent": ""
     },
     {
@@ -2749,8 +2749,8 @@
       "endTime": "18:30",
       "team": "F14",
       "location": "Nordic Wellness",
-      "type": "Övrigt",
-      "title": "Frivillig styrketräning",
+      "type": "Träning",
+      "title": "",
       "opponent": ""
     },
     {
