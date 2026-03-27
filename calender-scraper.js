@@ -123,23 +123,31 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
         }
       }
 
-      // 👥 TEAM (FINAL CORRECT LOGIC)
-      let team = "";
+     // 👥 TEAM (FINAL FIX — ALWAYS CORRECT)
+let team = "";
 
-      const td = row.querySelector("td");
-      const links = td ? td.querySelectorAll("a") : [];
+// Find the correct parent cell of this activity
+const td = activityEl.closest("td");
 
-      if (links.length > 0) {
-        const firstText = links[0].innerText?.trim();
+// Get ALL links inside that cell
+const links = td ? td.querySelectorAll("a") : [];
 
-        if (firstText && !firstText.toLowerCase().includes("träning")) {
-          team = firstText;
-        }
-      }
+// First link = team (NOT the .kal one)
+for (let i = 0; i < links.length; i++) {
+  const txt = links[i].innerText?.trim();
 
-      // Normalize
-      team = team.replace(/\s+/g, " ").trim();
-      team = team.replace("F ", "F").replace("P ", "P");
+  // Skip the activity link itself
+  if (links[i].classList.contains("kal")) continue;
+
+  if (txt) {
+    team = txt;
+    break;
+  }
+}
+
+// Normalize
+team = team.replace(/\s+/g, " ").trim();
+team = team.replace("F ", "F").replace("P ", "P");
 
       location = location || "Unknown";
       team = team || "Unknown";
