@@ -71,61 +71,68 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
         .split("-")
         .map(t => t.trim());
 
-      // 📍 TYPE + LOCATION + EXTRA INFO (FIXED)
-      let location = "";
-      let type = "";
-      let title = "";
-      let opponent = "";
+      // 📍 TYPE + LOCATION + EXTRA INFO (FINAL FIX)
+let location = "";
+let type = "";
+let title = "";
+let opponent = "";
 
-      const activityEl = row.querySelector(".kal");
+const activityEl = row.querySelector(".kal");
 
-      if (activityEl) {
-        const rawText = activityEl.innerText.trim();
-        const lower = rawText.toLowerCase();
+if (activityEl) {
+  const rawText = activityEl.innerText.trim();
+  const lower = rawText.toLowerCase();
 
-        // 🔴 MATCH (robust detection)
-        if (
-          activityEl.querySelector("b") ||
-          lower.includes(" borta") ||
-          lower.includes(" hemma") ||
-          lower.includes(" vs ")
-        ) {
-          type = "Match";
+  const boldEl = activityEl.querySelector("b");
 
-          const boldEl = activityEl.querySelector("b");
-          const textSource = boldEl ? boldEl.innerText : rawText;
+  // 🔴 MATCH (PRIMARY RULE)
+  if (boldEl) {
+    type = "Match";
 
-          const parts = textSource.split(",");
+    const boldText = boldEl.innerText;
+    const parts = boldText.split(",");
 
-          opponent = parts[0]?.trim() || "";
-          location = parts[1]?.trim() || "";
-        }
+    opponent = parts[0]?.trim() || "";
+    location = parts[1]?.trim() || "";
+  }
 
-        // 🟦 TRÄNING
-        else if (lower.includes("träning")) {
-          type = "Träning";
+  // 🔴 MATCH (FALLBACK if no <b> but looks like match)
+  else if (
+    lower.includes(" borta") ||
+    lower.includes(" hemma")
+  ) {
+    type = "Match";
 
-          const parts = rawText.split(",");
-          location = parts[1]?.trim() || "";
-        }
+    const parts = rawText.split(",");
+    opponent = parts[0]?.trim() || "";
+    location = parts[1]?.trim() || "";
+  }
 
-        // 🟫 ÖVRIGT
-        else {
-          type = "Övrigt";
+  // 🟦 TRÄNING
+  else if (lower.includes("träning")) {
+    type = "Träning";
 
-          const [titlePart, locationPart] = rawText.split(",");
+    const parts = rawText.split(",");
+    location = parts[1]?.trim() || "";
+  }
 
-          title = titlePart?.trim() || "";
-          location = locationPart?.trim() || "";
+  // 🟫 ÖVRIGT
+  else {
+    type = "Övrigt";
 
-          if (title.toLowerCase().includes("vs")) {
-            opponent = title.split("vs")[1].trim();
-          }
-        }
-      }
+    const [titlePart, locationPart] = rawText.split(",");
 
-      // ✅ SAFETY FALLBACK
-      type = type || "Övrigt";
+    title = titlePart?.trim() || "";
+    location = locationPart?.trim() || "";
+
+    if (title.toLowerCase().includes("vs")) {
+      opponent = title.split("vs")[1].trim();
+    }
+  }
+}
+
+// ✅ SAFETY
+type = type || "Övrigt";
 
       // 👥 TEAM
       let team = "";
