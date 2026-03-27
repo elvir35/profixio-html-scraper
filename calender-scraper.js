@@ -34,7 +34,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/";
     let currentWeekday = "";
     let currentMonth = "";
 
-    // 🔥 Get month headers (same trick as your match scraper)
+    // 🔥 Get month headers
     const monthBlocks = Array.from(document.querySelectorAll("div.inner b"))
       .map(el => ({
         text: el.innerText.trim(),
@@ -45,7 +45,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/";
       const text = row.innerText.trim();
       const rowTop = row.getBoundingClientRect().top;
 
-      // 🔥 Detect month for this row
+      // 🔥 Detect month
       for (let i = monthBlocks.length - 1; i >= 0; i--) {
         if (monthBlocks[i].top <= rowTop) {
           currentMonth = monthBlocks[i].text;
@@ -71,14 +71,49 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/";
         .split("-")
         .map(t => t.trim());
 
-      // 📍 LOCATION
+      // 📍 TYPE + LOCATION + EXTRA INFO (NEW)
       let location = "";
-      const locCell = row.querySelector("td:nth-child(2)");
-      if (locCell) {
-        const parts = locCell.innerText.split(",");
-        location = parts.length > 1
-          ? parts[1].trim()
-          : parts[0].trim();
+      let type = "";
+      let title = "";
+      let opponent = "";
+
+      const activityEl = row.querySelector(".kal");
+
+      if (activityEl) {
+        const rawText = activityEl.innerText.trim();
+
+        // 🔴 MATCH (has <b>)
+        if (activityEl.querySelector("b")) {
+          type = "Match";
+
+          const boldText = activityEl.querySelector("b").innerText;
+          const parts = boldText.split(",");
+
+          location = parts[1]?.trim() || "";
+          opponent = parts[0]?.trim() || "";
+        }
+
+        // 🟦 TRÄNING
+        else if (rawText.toLowerCase().startsWith("träning")) {
+          type = "Träning";
+
+          const parts = rawText.split(",");
+          location = parts[1]?.trim() || "";
+        }
+
+        // 🟫 ÖVRIGT
+        else {
+          type = "Övrigt";
+
+          const [titlePart, locationPart] = rawText.split(",");
+
+          title = titlePart?.trim() || "";
+          location = locationPart?.trim() || "";
+
+          if (title.includes("vs")) {
+            opponent = title.split("vs")[1].trim();
+          }
+        }
       }
 
       // 👥 TEAM
@@ -88,14 +123,14 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/";
         team = teamEl.innerText.trim();
       }
 
-      // 🧹 CLEANING RULES
+      // 🧹 CLEANING
       team = team.replace(/\s+/g, " ").trim();
       team = team.replace("F ", "F").replace("P ", "P");
 
       location = location || "Unknown";
       team = team || "Unknown";
 
-      // ❌ CANCELLED FILTER
+      // ❌ CANCELLED
       if (text.toLowerCase().includes("inställd")) return;
 
       results.push({
@@ -104,7 +139,10 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/";
         startTime,
         endTime,
         team,
-        location
+        location,
+        type,
+        title,
+        opponent
       });
     });
 
