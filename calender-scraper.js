@@ -1,7 +1,7 @@
 import { chromium } from "playwright";
 import fs from "fs";
 
-const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
+const URL = "https://h43lund.web.sportadmin.se/kalender/";
 
 (async () => {
   const browser = await chromium.launch({ headless: true });
@@ -72,67 +72,67 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
         .map(t => t.trim());
 
       // 📍 TYPE + LOCATION + EXTRA INFO (FINAL FIX)
-let location = "";
-let type = "";
-let title = "";
-let opponent = "";
+      let location = "";
+      let type = "";
+      let title = "";
+      let opponent = "";
 
-const activityEl = row.querySelector(".kal");
+      const activityEl = row.querySelector(".kal");
 
-if (activityEl) {
-  const rawText = activityEl.innerText.trim();
-  const lower = rawText.toLowerCase();
+      if (activityEl) {
+        const rawText = activityEl.innerText.trim();
+        const lower = rawText.toLowerCase();
 
-  const boldEl = activityEl.querySelector("b");
+        const boldEl = activityEl.querySelector("b");
 
-  // 🔴 MATCH (PRIMARY RULE)
-  if (boldEl) {
-    type = "Match";
+        // 🔴 MATCH (PRIMARY RULE)
+        if (boldEl) {
+          type = "Match";
 
-    const boldText = boldEl.innerText;
-    const parts = boldText.split(",");
+          const boldText = boldEl.innerText;
+          const parts = boldText.split(",");
 
-    opponent = parts[0]?.trim() || "";
-    location = parts[1]?.trim() || "";
-  }
+          opponent = parts[0]?.trim() || "";
+          location = parts[1]?.trim() || "";
+        }
 
-  // 🔴 MATCH (FALLBACK if no <b> but looks like match)
-  else if (
-    lower.includes(" borta") ||
-    lower.includes(" hemma")
-  ) {
-    type = "Match";
+        // 🔴 MATCH (fallback)
+        else if (
+          lower.includes(" borta") ||
+          lower.includes(" hemma")
+        ) {
+          type = "Match";
 
-    const parts = rawText.split(",");
-    opponent = parts[0]?.trim() || "";
-    location = parts[1]?.trim() || "";
-  }
+          const parts = rawText.split(",");
+          opponent = parts[0]?.trim() || "";
+          location = parts[1]?.trim() || "";
+        }
 
-  // 🟦 TRÄNING
-  else if (lower.includes("träning")) {
-    type = "Träning";
+        // 🟦 TRÄNING
+        else if (lower.includes("träning")) {
+          type = "Träning";
 
-    const parts = rawText.split(",");
-    location = parts[1]?.trim() || "";
-  }
+          const parts = rawText.split(",");
+          location = parts[1]?.trim() || "";
+        }
 
-  // 🟫 ÖVRIGT
-  else {
-    type = "Övrigt";
+        // 🟫 ÖVRIGT
+        else {
+          type = "Övrigt";
 
-    const [titlePart, locationPart] = rawText.split(",");
+          const [titlePart, locationPart] = rawText.split(",");
 
-    title = titlePart?.trim() || "";
-    location = locationPart?.trim() || "";
+          title = titlePart?.trim() || "";
+          location = locationPart?.trim() || "";
 
-    if (title.toLowerCase().includes("vs")) {
-      opponent = title.split("vs")[1].trim();
-    }
-  }
-}
+          if (title.toLowerCase().includes("vs")) {
+            opponent = title.split("vs")[1].trim();
+          }
+        }
+      }
 
-// ✅ SAFETY
-type = type || "Övrigt";
+      // ✅ SAFETY
+      type = type || "Övrigt";
 
       // 👥 TEAM
       let team = "";
@@ -152,7 +152,7 @@ type = type || "Övrigt";
       if (text.toLowerCase().includes("inställd")) return;
 
       results.push({
-        date: `${currentWeekday} ${currentDate}`,
+        date: `${currentWeekday} ${currentDate} ${currentMonth}`,
         month: currentMonth,
         startTime,
         endTime,
