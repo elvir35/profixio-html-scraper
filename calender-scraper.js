@@ -94,7 +94,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/";
         }
 
         // 🟦 TRÄNING
-        else if (rawText.toLowerCase().startsWith("träning")) {
+        else if (rawText.toLowerCase().includes("träning")) {
           type = "Träning";
 
           const parts = rawText.split(",");
