@@ -1,7 +1,7 @@
 import { chromium } from "playwright";
 import fs from "fs";
 
-const URL = "https://h43lund.web.sportadmin.se/kalender/";
+const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
 
 (async () => {
   const browser = await chromium.launch({ headless: true });
