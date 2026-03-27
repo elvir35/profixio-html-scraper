@@ -32,17 +32,17 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
     let currentWeekday = "";
     let currentMonth = "";
 
-    const monthBlocks = Array.from(document.querySelectorAll("div.inner b"))
-      .map(el => ({
-        text: el.innerText.trim(),
-        top: el.getBoundingClientRect().top
-      }));
+    // 📅 Month headers
+    const monthBlocks = Array.from(document.querySelectorAll("div.inner b")).map(el => ({
+      text: el.innerText.trim(),
+      top: el.getBoundingClientRect().top
+    }));
 
     rows.forEach(row => {
-      const text = row.innerText.trim();
+      const text = row.innerText?.trim() || "";
       const rowTop = row.getBoundingClientRect().top;
 
-      // 📆 Month detection
+      // 📆 Detect month
       for (let i = monthBlocks.length - 1; i >= 0; i--) {
         if (monthBlocks[i].top <= rowTop) {
           currentMonth = monthBlocks[i].text;
@@ -52,82 +52,90 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
 
       // 📅 DATE ROW
       if (row.className && row.className.includes("dag")) {
-        currentDate = row.querySelector("b")?.innerText.trim() || "";
-        currentWeekday = row.querySelector("font")?.innerText.trim() || "";
+        currentDate = row.querySelector("b")?.innerText?.trim() || "";
+        currentWeekday = row.querySelector("font")?.innerText?.trim() || "";
         return;
       }
 
-      // ⏱ TIME (SAFE — DO NOT SKIP ROW)
+      // ⏱ TIME (support BOTH formats)
       let startTime = "";
       let endTime = "";
 
-      const timeMatch = text.match(/\d{2}:\d{2}\s*-\s*\d{2}:\d{2}/);
+      const fullTime = text.match(/\d{2}:\d{2}\s*-\s*\d{2}:\d{2}/);
+      const singleTime = text.match(/\b\d{2}:\d{2}\b/);
 
-      if (timeMatch) {
-        [startTime, endTime] = timeMatch[0]
+      if (fullTime) {
+        [startTime, endTime] = fullTime[0]
           .split("-")
           .map(t => t.trim());
+      } else if (singleTime) {
+        startTime = singleTime[0];
       }
 
-      // 📍 TYPE + LOCATION
+      // 📍 ACTIVITY ELEMENT
+      const activityEl = row.querySelector(".kal");
+
+      // ❌ Skip empty rows
+      if (!activityEl) return;
+
+      const rawText = activityEl.innerText?.trim() || "";
+      if (!rawText) return;
+
+      const lower = rawText.toLowerCase();
+
       let location = "";
       let type = "";
       let title = "";
       let opponent = "";
 
-      const activityEl = row.querySelector(".kal");
+      // 🔴 MATCH
+      if (lower.includes("borta") || lower.includes("hemma")) {
+        type = "Match";
 
-      if (activityEl) {
-        const rawText = activityEl.innerText.trim();
-        const lower = rawText.toLowerCase();
+        const cleaned = rawText.split("(")[0];
+        const parts = cleaned.split(",");
 
-        // 🔴 MATCH (based on hemma/borta)
-        if (lower.includes("borta") || lower.includes("hemma")) {
-          type = "Match";
+        opponent = parts[0]?.trim() || "";
+        location = parts[1]?.trim() || "";
+      }
 
-          const cleaned = rawText.split("(")[0];
-          const parts = cleaned.split(",");
+      // 🟦 TRÄNING
+      else if (lower.includes("träning")) {
+        type = "Träning";
 
-          opponent = parts[0]?.trim() || "";
-          location = parts[1]?.trim() || "";
-        }
+        const parts = rawText.split(",");
+        location = parts[1]?.trim() || "";
+      }
 
-        // 🟦 TRÄNING
-        else if (lower.includes("träning")) {
-          type = "Träning";
+      // 🟫 ÖVRIGT
+      else {
+        type = "Övrigt";
 
-          const parts = rawText.split(",");
-          location = parts[1]?.trim() || "";
-        }
+        const cleaned = rawText.split("(")[0];
+        const parts = cleaned.split(",");
 
-        // 🟫 ÖVRIGT
-        else {
-          type = "Övrigt";
+        title = parts[0]?.trim() || "";
+        location = parts[1]?.trim() || "";
 
-          const parts = rawText.split(",");
-          title = parts[0]?.trim() || "";
-          location = parts[1]?.trim() || "";
-
-          if (title.toLowerCase().includes("vs")) {
-            opponent = title.split("vs")[1]?.trim() || "";
-          }
+        if (title.toLowerCase().includes("vs")) {
+          opponent = title.split("vs")[1]?.trim() || "";
         }
       }
 
-      // ✅ SAFETY
-      type = type || "Övrigt";
-
-      // 👥 TEAM
-      let team = row.querySelector("a")?.innerText.trim() || "";
-
+      // 👥 TEAM (cleaned)
+      let team = rawText;
       team = team.replace(/\s+/g, " ").trim();
       team = team.replace("F ", "F").replace("P ", "P");
 
       location = location || "Unknown";
       team = team || "Unknown";
+      type = type || "Övrigt";
 
       // ❌ CANCELLED
       if (text.toLowerCase().includes("inställd")) return;
+
+      // ❌ FINAL GUARD (removes garbage rows)
+      if (!team && !location && !startTime && !opponent) return;
 
       results.push({
         date: `${currentWeekday} ${currentDate}`,
@@ -142,12 +150,12 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       });
     });
 
-    // 🔁 REMOVE DUPLICATES (FIXED)
+    // 🔁 REMOVE DUPLICATES (improved)
     const unique = [];
     const seen = new Set();
 
     results.forEach(event => {
-      const key = `${event.date}-${event.startTime}-${event.team}-${event.location}`;
+      const key = `${event.date}-${event.startTime}-${event.team}-${event.location}-${event.opponent}`;
 
       if (!seen.has(key)) {
         seen.add(key);
