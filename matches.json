@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-27T01:23:05.523Z",
+  "scrapedAt": "2026-03-27T06:57:13.577Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
@@ -72,7 +72,7 @@
       "home": "H43 Lund HF",
       "away": "Gästande Lag",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -371,7 +371,7 @@
       "month": "MARS 2026",
       "home": "Stavsten HK U",
       "away": "H43 Lund HF 2",
-      "score": "",
+      "score": "16 - 11",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "played"
     },
@@ -383,7 +383,7 @@
       "month": "MARS 2026",
       "home": "HK Torslanda Elit",
       "away": "H43 Lund HF",
-      "score": "",
+      "score": "30 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26042_1006_S.webp",
       "status": "played"
     },
