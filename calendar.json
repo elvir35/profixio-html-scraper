@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-27T13:16:44.477Z",
+  "scrapedAt": "2026-03-27T13:26:35.927Z",
   "source": "https://h43lund.web.sportadmin.se/kalender/?ID=331251",
   "eventCount": 267,
   "events": [
@@ -614,9 +614,9 @@
       "startTime": "18:10",
       "endTime": "20:00",
       "team": "F10",
-      "location": "Arenan",
+      "location": "Unknown",
       "type": "Övrigt",
-      "title": "Sverige VS Serbien (svar senast 30/11)",
+      "title": "Sverige VS Serbien",
       "opponent": ""
     },
     {
