@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-27T08:42:07.107Z",
+  "scrapedAt": "2026-03-27T10:08:39.598Z",
   "source": "https://h43lund.web.sportadmin.se/kalender/",
   "eventCount": 267,
   "events": [
@@ -9,7 +9,10 @@
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "01"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": " ",
@@ -17,7 +20,10 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "team": "Bollskolan Centrum",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": " ",
@@ -25,7 +31,10 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "team": "U7",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": " ",
@@ -33,7 +42,10 @@
       "startTime": "12:30",
       "endTime": "15:45",
       "team": "HK Blå 85",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Funktionärer",
+      "opponent": ""
     },
     {
       "date": " ",
@@ -41,7 +53,10 @@
       "startTime": "16:30",
       "endTime": "18:00",
       "team": "P11",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Övrigt",
+      "title": "Heja på A-lagen",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -49,7 +64,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F11",
-      "location": "Victoriastadion 2"
+      "location": "Victoriastadion 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -57,7 +75,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "P14",
-      "location": "Östratornhallen (..)"
+      "location": "Östratornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -65,7 +86,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "DAMER A",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -73,7 +97,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P16",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -81,7 +108,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P18",
-      "location": "Fäladshallen"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -89,7 +119,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "P9",
-      "location": "Prästängshallen"
+      "location": "Prästängshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -97,7 +130,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P11",
-      "location": "Victoriastadion plan 2 (..)"
+      "location": "Victoriastadion plan 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -105,7 +141,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -113,7 +152,10 @@
       "startTime": "19:00",
       "endTime": "20:15",
       "team": "F13",
-      "location": "Bollhuset (..)"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -121,7 +163,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "F16",
-      "location": "Bollhuset (..)"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -129,7 +174,10 @@
       "startTime": "19:30",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -137,7 +185,10 @@
       "startTime": "20:00",
       "endTime": "21:30",
       "team": "HK Blå 85",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 02",
@@ -145,7 +196,10 @@
       "startTime": "20:00",
       "endTime": "21:45",
       "team": "P19 / Herr U",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 03",
@@ -153,7 +207,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F14",
-      "location": "Vipeholmshallen (..)"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 03",
@@ -161,7 +218,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P8",
-      "location": "Hubertusgårdens Gymnastiksal"
+      "location": "Hubertusgårdens Gymnastiksal",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 03",
@@ -169,7 +229,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 03",
@@ -177,7 +240,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "F10",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 03",
@@ -185,7 +251,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P19 / Herr U",
-      "location": "Tunahallen"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 03",
@@ -193,7 +262,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "DAMER A",
-      "location": "Arenan B"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 03",
@@ -201,7 +273,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P10",
-      "location": "Östratornhallen (..)"
+      "location": "Östratornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 03",
@@ -209,7 +284,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -217,7 +295,10 @@
       "startTime": "16:30",
       "endTime": "17:30",
       "team": "Bollek Centrum",
-      "location": "Heddahallen B"
+      "location": "Heddahallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -225,7 +306,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "F16",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -233,7 +317,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "P11",
-      "location": "Vipeholmshallen (..)"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -241,7 +328,10 @@
       "startTime": "18:15",
       "endTime": "19:30",
       "team": "F11",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -249,7 +339,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "F13",
-      "location": "Victoriastadion (..)"
+      "location": "Victoriastadion",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -257,7 +350,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "DAMER A",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -265,7 +361,10 @@
       "startTime": "19:00",
       "endTime": "21:00",
       "team": "F14",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -273,7 +372,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P14",
-      "location": "Bollhuset A (..)"
+      "location": "Bollhuset A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -281,7 +383,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "P16",
-      "location": "Gunnesbohallen (..)"
+      "location": "Gunnesbohallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -289,7 +394,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "P18",
-      "location": "Gunnesbohallen"
+      "location": "Gunnesbohallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 04",
@@ -297,7 +405,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Bollhuset A (..)"
+      "location": "Bollhuset A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 05",
@@ -305,7 +416,10 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "team": "F9",
-      "location": "Nordic wellness hallen St Lars"
+      "location": "Nordic wellness hallen St Lars",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 05",
@@ -313,7 +427,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F10",
-      "location": "Victoriastadion 1 (..)"
+      "location": "Victoriastadion 1",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 05",
@@ -321,7 +438,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "DAMER A",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 05",
@@ -329,7 +449,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "P14",
-      "location": "Victoriastadion 2 (..)"
+      "location": "Victoriastadion 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 05",
@@ -337,7 +460,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 05",
@@ -345,7 +471,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "F16",
-      "location": "Tunahallen (..)"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 05",
@@ -353,7 +482,10 @@
       "startTime": "19:30",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 05",
@@ -361,7 +493,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Bollhuset"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 06",
@@ -369,7 +504,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P16",
-      "location": "Tunahallen"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 06",
@@ -377,7 +515,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "F13",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 06",
@@ -385,7 +526,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P18",
-      "location": "Tunahallen (..)"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 06",
@@ -393,7 +537,10 @@
       "startTime": "19:00",
       "endTime": "21:00",
       "team": "F16",
-      "location": "Arenan B"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -401,7 +548,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollskolan Norr",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -409,7 +559,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollek Stångby",
-      "location": "Prästängshallen"
+      "location": "Prästängshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -417,7 +570,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "P9",
-      "location": "Vipeholmshallen"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -425,7 +581,10 @@
       "startTime": "10:00",
       "endTime": "12:00",
       "team": "DAMER A",
-      "location": "Bollhuset A"
+      "location": "Bollhuset A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -433,7 +592,10 @@
       "startTime": "10:00",
       "endTime": "11:30",
       "team": "P8",
-      "location": "Vipeholmshallen"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -441,7 +603,10 @@
       "startTime": "11:00",
       "endTime": "12:00",
       "team": "F9",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -449,7 +614,10 @@
       "startTime": "18:10",
       "endTime": "20:00",
       "team": "F10",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Sverige VS Serbien (svar senast 30/11)",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -457,7 +625,10 @@
       "startTime": "18:10",
       "endTime": "20:00",
       "team": "F11",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "EM-kval Damer Sverige - Serbien",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -465,7 +636,10 @@
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "P14",
-      "location": "08"
+      "location": "Helsingborg Arena B",
+      "type": "Övrigt",
+      "title": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -473,7 +647,10 @@
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -481,7 +658,10 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "team": "Bollskolan Centrum",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -489,7 +669,10 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "team": "U7",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -497,7 +680,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F11",
-      "location": "Victoriastadion 2"
+      "location": "Victoriastadion 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -505,7 +691,10 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "team": "F14",
-      "location": "Nordic wellness St Lars (..)"
+      "location": "Nordic wellness St Lars",
+      "type": "Övrigt",
+      "title": "Gymintroduktion Nordic Wellness",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -513,7 +702,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P14",
-      "location": "Östratornhallen (..)"
+      "location": "Östratornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -521,7 +713,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "DAMER A",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -529,7 +724,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P16",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -537,7 +735,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P18",
-      "location": "Fäladshallen"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -545,7 +746,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "P9",
-      "location": "Prästängshallen"
+      "location": "Prästängshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -553,7 +757,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P11",
-      "location": "Victoriastadion plan 2 (..)"
+      "location": "Victoriastadion plan 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -561,7 +768,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -569,7 +779,10 @@
       "startTime": "19:00",
       "endTime": "20:15",
       "team": "F13",
-      "location": "Bollhuset (..)"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -577,7 +790,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "F16",
-      "location": "Bollhuset (..)"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -585,7 +801,10 @@
       "startTime": "19:30",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 09",
@@ -593,7 +812,10 @@
       "startTime": "20:00",
       "endTime": "21:30",
       "team": "HK Blå 85",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 10",
@@ -601,7 +823,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F14",
-      "location": "Vipeholmshallen (..)"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 10",
@@ -609,7 +834,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P8",
-      "location": "Hubertusgårdens Gymnastiksal"
+      "location": "Hubertusgårdens Gymnastiksal",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 10",
@@ -617,7 +845,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 10",
@@ -625,7 +856,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "F10",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 10",
@@ -633,7 +867,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P19 / Herr U",
-      "location": "Tunahallen"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 10",
@@ -641,7 +878,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "DAMER A",
-      "location": "Arenan B"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 10",
@@ -649,7 +889,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P10",
-      "location": "Östratornhallen (..)"
+      "location": "Östratornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 10",
@@ -657,7 +900,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -665,7 +911,10 @@
       "startTime": "16:30",
       "endTime": "17:30",
       "team": "Bollek Centrum",
-      "location": "Heddahallen B"
+      "location": "Heddahallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -673,7 +922,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "F16",
-      "location": "Arenan A (..)"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -681,7 +933,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "P11",
-      "location": "Vipeholmshallen (..)"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -689,7 +944,10 @@
       "startTime": "18:15",
       "endTime": "19:30",
       "team": "F11",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -697,7 +955,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "F13",
-      "location": "Victoriastadion (..)"
+      "location": "Victoriastadion",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -705,7 +966,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "DAMER A",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -713,7 +977,10 @@
       "startTime": "19:00",
       "endTime": "21:00",
       "team": "F14",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -721,7 +988,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "P16",
-      "location": "Gunnesbohallen (..)"
+      "location": "Gunnesbohallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -729,7 +999,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "P18",
-      "location": "Gunnesbohallen"
+      "location": "Gunnesbohallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 11",
@@ -737,7 +1010,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Bollhuset A (..)"
+      "location": "Bollhuset A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 12",
@@ -745,7 +1021,10 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "team": "F9",
-      "location": "Nordic wellness hallen St Lars"
+      "location": "Nordic wellness hallen St Lars",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 12",
@@ -753,7 +1032,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F10",
-      "location": "Victoriastadion 1 (..)"
+      "location": "Victoriastadion 1",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 12",
@@ -761,7 +1043,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "DAMER A",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 12",
@@ -769,7 +1054,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "P14",
-      "location": "Victoriastadion 2 (..)"
+      "location": "Victoriastadion 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 12",
@@ -777,7 +1065,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 12",
@@ -785,7 +1076,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "F16",
-      "location": "Tunahallen (..)"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 12",
@@ -793,7 +1087,10 @@
       "startTime": "19:30",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 12",
@@ -801,7 +1098,10 @@
       "startTime": "20:00",
       "endTime": "21:45",
       "team": "P19 / Herr U",
-      "location": "Arenan B (..)"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 12",
@@ -809,7 +1109,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Bollhuset"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 13",
@@ -817,7 +1120,10 @@
       "startTime": "17:30",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Allsvenskan"
+      "location": "Allsvenskan",
+      "type": "Övrigt",
+      "title": "Support H43 - Lugi HA",
+      "opponent": ""
     },
     {
       "date": "fre 13",
@@ -825,7 +1131,10 @@
       "startTime": "18:00",
       "endTime": "20:30",
       "team": "F11",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Sälja 50/50-lotter på derbyt",
+      "opponent": ""
     },
     {
       "date": "fre 13",
@@ -833,7 +1142,10 @@
       "startTime": "18:15",
       "endTime": "20:00",
       "team": "P11",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Sälja 50/50-lotter på derbyt",
+      "opponent": ""
     },
     {
       "date": "fre 13",
@@ -841,7 +1153,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P18",
-      "location": "Tunahallen (..)"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 13",
@@ -849,7 +1164,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollek Centrum",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+      "opponent": ""
     },
     {
       "date": "fre 13",
@@ -857,7 +1175,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollek Norr",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+      "opponent": ""
     },
     {
       "date": "fre 13",
@@ -865,7 +1186,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollskolan Centrum",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+      "opponent": ""
     },
     {
       "date": "fre 13",
@@ -873,7 +1197,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollskolan Norr",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+      "opponent": ""
     },
     {
       "date": "fre 13",
@@ -881,7 +1208,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollek Stångby",
-      "location": "Arenan A (..)"
+      "location": "Arenan A",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -889,7 +1219,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F9",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -897,7 +1230,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F10",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -905,7 +1241,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F11",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -913,7 +1252,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F13",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -921,7 +1263,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F14",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -929,7 +1274,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F16",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -937,7 +1285,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F8",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -945,7 +1296,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "U7",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -953,7 +1307,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HK Blå 85",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -961,7 +1318,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P10",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -969,7 +1329,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P11",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -977,7 +1340,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P14",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -985,7 +1351,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P16",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -993,7 +1362,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P18",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -1001,7 +1373,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P19 / Herr U",
-      "location": "Arenan A (..)"
+      "location": "Arenan A",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi HF",
+      "opponent": "Lugi HF"
     },
     {
       "date": "fre 13",
@@ -1009,7 +1384,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P8",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "fre 13",
@@ -1017,7 +1395,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P9",
-      "location": "Arenan (..)"
+      "location": "Arenan",
+      "type": "Övrigt",
+      "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+      "opponent": "Lugi"
     },
     {
       "date": "lör 14",
@@ -1025,7 +1406,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollskolan Norr",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1033,7 +1417,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollek Stångby",
-      "location": "Prästängshallen"
+      "location": "Prästängshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1041,7 +1428,10 @@
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "P10",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1049,7 +1439,10 @@
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "P9",
-      "location": "Vipeholmshallen"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1057,7 +1450,10 @@
       "startTime": "10:00",
       "endTime": "11:00",
       "team": "F8",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1065,7 +1461,10 @@
       "startTime": "11:00",
       "endTime": "12:00",
       "team": "F9",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1073,7 +1472,10 @@
       "startTime": "16:15",
       "endTime": "23:59",
       "team": "F16",
-      "location": "USM Steg 4 i Täby (..)"
+      "location": "USM Steg 4 i Täby",
+      "type": "Övrigt",
+      "title": "USM steg 4",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1081,7 +1483,10 @@
       "startTime": "07:00",
       "endTime": "23:59",
       "team": "F16",
-      "location": "15"
+      "location": "USM Steg 4 i Täby",
+      "type": "Övrigt",
+      "title": "USM steg 4",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1089,7 +1494,10 @@
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1097,7 +1505,10 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "team": "Bollskolan Centrum",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 14",
@@ -1105,7 +1516,10 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "team": "U7",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1113,7 +1527,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "P14",
-      "location": "Östratornhallen (..)"
+      "location": "Östratornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1121,7 +1538,10 @@
       "startTime": "17:30",
       "endTime": "18:30",
       "team": "F14",
-      "location": "Nordic Wellness (..)"
+      "location": "Nordic Wellness",
+      "type": "Övrigt",
+      "title": "Frivillig styrketräning",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1129,7 +1549,10 @@
       "startTime": "17:30",
       "endTime": "18:45",
       "team": "P11",
-      "location": "Glasbollen"
+      "location": "Glasbollen",
+      "type": "Övrigt",
+      "title": "Pizzakväll och spelarmöte",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1137,7 +1560,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "DAMER A",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1145,7 +1571,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P16",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1153,7 +1582,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P18",
-      "location": "Fäladshallen"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1161,7 +1593,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "P9",
-      "location": "Prästängshallen"
+      "location": "Prästängshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1169,7 +1604,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1177,7 +1615,10 @@
       "startTime": "19:00",
       "endTime": "20:15",
       "team": "F13",
-      "location": "Bollhuset (..)"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1185,7 +1626,10 @@
       "startTime": "19:30",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 16",
@@ -1193,7 +1637,10 @@
       "startTime": "20:00",
       "endTime": "21:30",
       "team": "HK Blå 85",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1201,7 +1648,10 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "team": "F13",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1209,7 +1659,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F14",
-      "location": "Vipeholmshallen (..)"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1217,7 +1670,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P8",
-      "location": "Hubertusgårdens Gymnastiksal"
+      "location": "Hubertusgårdens Gymnastiksal",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1225,7 +1681,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1233,7 +1692,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "F10",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1241,7 +1703,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P19 / Herr U",
-      "location": "Tunahallen"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1249,7 +1714,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "DAMER A",
-      "location": "Arenan B"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1257,7 +1725,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F19 / Dam U",
-      "location": "Arenan B (..)"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1265,7 +1736,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P10",
-      "location": "Östratornhallen (..)"
+      "location": "Östratornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 17",
@@ -1273,7 +1747,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 18",
@@ -1281,7 +1758,10 @@
       "startTime": "16:30",
       "endTime": "17:30",
       "team": "Bollek Centrum",
-      "location": "Heddahallen B"
+      "location": "Heddahallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 18",
@@ -1289,7 +1769,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "P11",
-      "location": "Vipeholmshallen (..)"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 18",
@@ -1297,7 +1780,10 @@
       "startTime": "18:15",
       "endTime": "19:30",
       "team": "F11",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 18",
@@ -1305,7 +1791,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "DAMER A",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 18",
@@ -1313,7 +1802,10 @@
       "startTime": "19:00",
       "endTime": "21:00",
       "team": "F14",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 18",
@@ -1321,7 +1813,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P14",
-      "location": "Bollhuset A (..)"
+      "location": "Bollhuset A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 18",
@@ -1329,7 +1824,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "P18",
-      "location": "Gunnesbohallen"
+      "location": "Gunnesbohallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 18",
@@ -1337,7 +1835,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Bollhuset A (..)"
+      "location": "Bollhuset A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 19",
@@ -1345,7 +1846,10 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "team": "F9",
-      "location": "Nordic wellness hallen St Lars"
+      "location": "Nordic wellness hallen St Lars",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 19",
@@ -1353,7 +1857,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "DAMER A",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 19",
@@ -1361,7 +1868,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 19",
@@ -1369,7 +1879,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "F16",
-      "location": "Tunahallen (..)"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 19",
@@ -1377,7 +1890,10 @@
       "startTime": "19:30",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 19",
@@ -1385,7 +1901,10 @@
       "startTime": "20:00",
       "endTime": "21:45",
       "team": "P19 / Herr U",
-      "location": "Arenan B (..)"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 19",
@@ -1393,7 +1912,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Bollhuset"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 20",
@@ -1401,7 +1923,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "HERRAR A",
-      "location": "Fäladshallen"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 20",
@@ -1409,7 +1934,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F14",
-      "location": "Vipeholmshallen"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 20",
@@ -1417,7 +1945,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P16",
-      "location": "Tunahallen"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 20",
@@ -1425,7 +1956,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "F13",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 20",
@@ -1433,7 +1967,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P18",
-      "location": "Tunahallen (..)"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1441,7 +1978,10 @@
       "startTime": "07:00",
       "endTime": "23:59",
       "team": "F13",
-      "location": "Hjo (..)"
+      "location": "Hjo",
+      "type": "Övrigt",
+      "title": "USM Steg 4C",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1449,7 +1989,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollskolan Norr",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1457,7 +2000,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollek Stångby",
-      "location": "Prästängshallen"
+      "location": "Prästängshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1465,7 +2011,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "P9",
-      "location": "Vipeholmshallen"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1473,7 +2022,10 @@
       "startTime": "10:00",
       "endTime": "11:00",
       "team": "F8",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1481,7 +2033,10 @@
       "startTime": "10:00",
       "endTime": "11:30",
       "team": "P8",
-      "location": "Vipeholmshallen"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1489,7 +2044,10 @@
       "startTime": "14:30",
       "endTime": "21:00",
       "team": "F14",
-      "location": "Eksjö (..)"
+      "location": "Eksjö",
+      "type": "Övrigt",
+      "title": "USM Steg 4 Lag Blå",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1497,7 +2055,10 @@
       "startTime": "17:30",
       "endTime": "19:30",
       "team": "F14",
-      "location": "Restaurang La Cucina (..)"
+      "location": "Restaurang La Cucina",
+      "type": "Övrigt",
+      "title": "USM Lag vit",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1505,7 +2066,10 @@
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "22"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1513,7 +2077,10 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "team": "Bollskolan Centrum",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1521,7 +2088,10 @@
       "startTime": "10:30",
       "endTime": "18:00",
       "team": "F14",
-      "location": "Höörs Bad och Sportcentrum"
+      "location": "Höörs Bad och Sportcentrum",
+      "type": "Övrigt",
+      "title": "USM Lag vit dag 2",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1529,7 +2099,10 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "team": "U7",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 21",
@@ -1537,7 +2110,10 @@
       "startTime": "14:00",
       "endTime": "16:30",
       "team": "P14",
-      "location": "Väggahallen"
+      "location": "Väggahallen",
+      "type": "Övrigt",
+      "title": "Bindande - intresseanmälan- Matcher i Karlshamn",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1545,7 +2121,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F11",
-      "location": "Victoriastadion 2"
+      "location": "Victoriastadion 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1553,7 +2132,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "P14",
-      "location": "Östratornhallen (..)"
+      "location": "Östratornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1561,7 +2143,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "DAMER A",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1569,7 +2154,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P16",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1577,7 +2165,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P18",
-      "location": "Fäladshallen"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1585,7 +2176,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "P9",
-      "location": "Prästängshallen"
+      "location": "Prästängshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1593,7 +2187,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P11",
-      "location": "Victoriastadion plan 2 (..)"
+      "location": "Victoriastadion plan 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1601,7 +2198,10 @@
       "startTime": "18:45",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Övrigt",
+      "title": "Löpning + Hall",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1609,7 +2209,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1617,7 +2220,10 @@
       "startTime": "19:00",
       "endTime": "20:15",
       "team": "F13",
-      "location": "Bollhuset (..)"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1625,7 +2231,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "F16",
-      "location": "Bollhuset (..)"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 23",
@@ -1633,7 +2242,10 @@
       "startTime": "20:00",
       "endTime": "21:30",
       "team": "HK Blå 85",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 24",
@@ -1641,7 +2253,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F14",
-      "location": "Vipeholmshallen (..)"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 24",
@@ -1649,7 +2264,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P8",
-      "location": "Hubertusgårdens Gymnastiksal"
+      "location": "Hubertusgårdens Gymnastiksal",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 24",
@@ -1657,7 +2275,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 24",
@@ -1665,7 +2286,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "F10",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 24",
@@ -1673,7 +2297,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P19 / Herr U",
-      "location": "Tunahallen"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 24",
@@ -1681,7 +2308,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "DAMER A",
-      "location": "Arenan B"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 24",
@@ -1689,7 +2319,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F19 / Dam U",
-      "location": "Arenan B (..)"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 24",
@@ -1697,7 +2330,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P10",
-      "location": "Östratornhallen (..)"
+      "location": "Östratornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 24",
@@ -1705,7 +2341,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 25",
@@ -1713,7 +2352,10 @@
       "startTime": "16:30",
       "endTime": "17:30",
       "team": "Bollek Centrum",
-      "location": "Heddahallen B"
+      "location": "Heddahallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 25",
@@ -1721,7 +2363,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "P11",
-      "location": "Vipeholmshallen (..)"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 25",
@@ -1729,7 +2374,10 @@
       "startTime": "18:15",
       "endTime": "19:30",
       "team": "F11",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 25",
@@ -1737,7 +2385,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "DAMER A",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 25",
@@ -1745,7 +2396,10 @@
       "startTime": "19:00",
       "endTime": "21:00",
       "team": "F14",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 25",
@@ -1753,7 +2407,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P14",
-      "location": "Bollhuset A (..)"
+      "location": "Bollhuset A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 25",
@@ -1761,7 +2418,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "P16",
-      "location": "Gunnesbohallen (..)"
+      "location": "Gunnesbohallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 25",
@@ -1769,7 +2429,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "P18",
-      "location": "Gunnesbohallen"
+      "location": "Gunnesbohallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "ons 25",
@@ -1777,7 +2440,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Bollhuset A (..)"
+      "location": "Bollhuset A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 26",
@@ -1785,7 +2451,10 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "team": "F9",
-      "location": "Nordic wellness hallen St Lars"
+      "location": "Nordic wellness hallen St Lars",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 26",
@@ -1793,7 +2462,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F10",
-      "location": "Victoriastadion 1 (..)"
+      "location": "Victoriastadion 1",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 26",
@@ -1801,7 +2473,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "DAMER A",
-      "location": "Arenan A"
+      "location": "Arenan A",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 26",
@@ -1809,7 +2484,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "P14",
-      "location": "Victoriastadion 2 (..)"
+      "location": "Victoriastadion 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 26",
@@ -1817,7 +2495,10 @@
       "startTime": "18:45",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Övrigt",
+      "title": "Löpning + Hall",
+      "opponent": ""
     },
     {
       "date": "tor 26",
@@ -1825,7 +2506,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 26",
@@ -1833,7 +2517,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "F16",
-      "location": "Tunahallen (..)"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 26",
@@ -1841,7 +2528,10 @@
       "startTime": "20:00",
       "endTime": "21:45",
       "team": "P19 / Herr U",
-      "location": "Arenan B (..)"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tor 26",
@@ -1849,7 +2539,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Bollhuset"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 27",
@@ -1857,7 +2550,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "HERRAR A",
-      "location": "Fäladshallen"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 27",
@@ -1865,7 +2561,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F14",
-      "location": "Vipeholmshallen"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 27",
@@ -1873,7 +2572,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P16",
-      "location": "Tunahallen"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 27",
@@ -1881,7 +2583,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "F13",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "fre 27",
@@ -1889,7 +2594,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P18",
-      "location": "Tunahallen (..)"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1897,7 +2605,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollskolan Norr",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1905,7 +2616,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollek Stångby",
-      "location": "Prästängshallen"
+      "location": "Prästängshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1913,7 +2627,10 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "P9",
-      "location": "Vipeholmshallen"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1921,7 +2638,10 @@
       "startTime": "10:00",
       "endTime": "11:00",
       "team": "F8",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1929,7 +2649,10 @@
       "startTime": "11:00",
       "endTime": "12:00",
       "team": "F9",
-      "location": "Fäladshallen B"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1937,7 +2660,10 @@
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "29"
+      "location": "Fäladshallen B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1945,7 +2671,10 @@
       "startTime": "09:00",
       "endTime": "10:15",
       "team": "F11",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Övrigt",
+      "title": "Målvaktsträning",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1953,7 +2682,10 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "team": "Bollskolan Centrum",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1961,7 +2693,10 @@
       "startTime": "10:30",
       "endTime": "12:30",
       "team": "F14",
-      "location": "Tornhallen (..)"
+      "location": "Tornhallen",
+      "type": "Övrigt",
+      "title": "Lagaktivitet",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1969,7 +2704,10 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "team": "U7",
-      "location": "Bollhuset B"
+      "location": "Bollhuset B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "lör 28",
@@ -1977,7 +2715,10 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "team": "P10",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Övrigt",
+      "title": "Målvaktsträning",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -1985,7 +2726,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F11",
-      "location": "Victoriastadion 2"
+      "location": "Victoriastadion 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -1993,7 +2737,10 @@
       "startTime": "17:00",
       "endTime": "19:00",
       "team": "P14",
-      "location": "Östratornhallen (..)"
+      "location": "Östratornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2001,7 +2748,10 @@
       "startTime": "17:30",
       "endTime": "18:30",
       "team": "F14",
-      "location": "Nordic Wellness (..)"
+      "location": "Nordic Wellness",
+      "type": "Övrigt",
+      "title": "Frivillig styrketräning",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2009,7 +2759,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "DAMER A",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2017,7 +2770,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P16",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2025,7 +2781,10 @@
       "startTime": "18:00",
       "endTime": "20:00",
       "team": "P18",
-      "location": "Fäladshallen"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2033,7 +2792,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P11",
-      "location": "Victoriastadion plan 2 (..)"
+      "location": "Victoriastadion plan 2",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2041,7 +2803,10 @@
       "startTime": "18:45",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "Heddahallen (..)"
+      "location": "Heddahallen",
+      "type": "Övrigt",
+      "title": "Löpning + Hall",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2049,7 +2814,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2057,7 +2825,10 @@
       "startTime": "19:00",
       "endTime": "20:15",
       "team": "F13",
-      "location": "Bollhuset (..)"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2065,7 +2836,10 @@
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "F16",
-      "location": "Bollhuset (..)"
+      "location": "Bollhuset",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "mån 30",
@@ -2073,7 +2847,10 @@
       "startTime": "20:00",
       "endTime": "21:30",
       "team": "HK Blå 85",
-      "location": "Fäladshallen (..)"
+      "location": "Fäladshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 31",
@@ -2081,7 +2858,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "F14",
-      "location": "Vipeholmshallen (..)"
+      "location": "Vipeholmshallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 31",
@@ -2089,7 +2869,10 @@
       "startTime": "17:00",
       "endTime": "18:30",
       "team": "P8",
-      "location": "Hubertusgårdens Gymnastiksal"
+      "location": "Hubertusgårdens Gymnastiksal",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 31",
@@ -2097,7 +2880,10 @@
       "startTime": "17:30",
       "endTime": "19:00",
       "team": "HERRAR A",
-      "location": "Arenan"
+      "location": "Arenan",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 31",
@@ -2105,7 +2891,10 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "team": "F10",
-      "location": "Tornhallen"
+      "location": "Tornhallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 31",
@@ -2113,7 +2902,10 @@
       "startTime": "18:30",
       "endTime": "20:00",
       "team": "P19 / Herr U",
-      "location": "Tunahallen"
+      "location": "Tunahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 31",
@@ -2121,7 +2913,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "DAMER A",
-      "location": "Arenan B"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 31",
@@ -2129,7 +2924,10 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F19 / Dam U",
-      "location": "Arenan B (..)"
+      "location": "Arenan B",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     },
     {
       "date": "tis 31",
@@ -2137,7 +2935,10 @@
       "startTime": "20:30",
       "endTime": "22:00",
       "team": "HK Blå 85",
-      "location": "Heddahallen"
+      "location": "Heddahallen",
+      "type": "Träning",
+      "title": "",
+      "opponent": ""
     }
   ]
 }
