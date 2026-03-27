@@ -41,7 +41,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       const text = row.innerText.trim();
       const rowTop = row.getBoundingClientRect().top;
 
-      // Detect month
+      // Month detection
       for (let i = monthBlocks.length - 1; i >= 0; i--) {
         if (monthBlocks[i].top <= rowTop) {
           currentMonth = monthBlocks[i].text;
@@ -60,9 +60,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       const timeMatch = text.match(/\d{2}:\d{2}\s*-\s*\d{2}:\d{2}/);
       if (!timeMatch) return;
 
-      const times = timeMatch[0].split("-");
-      const startTime = times[0]?.trim() || "";
-      const endTime = times[1]?.trim() || "";
+      const [startTime, endTime] = timeMatch[0].split("-").map(t => t.trim());
 
       // TYPE + LOCATION
       let location = "";
@@ -73,39 +71,49 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       const activityEl = row.querySelector(".kal");
 
       if (activityEl) {
-        const rawText = activityEl.innerText.trim();
-        const lower = rawText.toLowerCase();
+        const boldEl = activityEl.querySelector("b");
 
-        // MATCH
-        if (lower.includes("borta") || lower.includes("hemma")) {
-          type = "Match";
+        // 🔴 MATCH (use <b> ONLY — this is the fix)
+        if (boldEl) {
+          const cleanText = boldEl.innerText.trim(); // CLEAN!
 
-          const cleaned = rawText.split("(")[0];
-          const parts = cleaned.split(",");
+          const lower = cleanText.toLowerCase();
 
-          opponent = parts[0]?.trim() || "";
-          location = parts[1]?.trim() || "";
+          if (lower.includes("borta") || lower.includes("hemma")) {
+            type = "Match";
+
+            const parts = cleanText.split(",");
+            opponent = parts[0]?.trim() || "";
+            location = parts[1]?.trim() || "";
+          }
         }
 
-        // TRÄNING
-        else if (lower.includes("träning")) {
-          type = "Träning";
+        // fallback (non-match)
+        if (!type) {
+          const rawText = activityEl.innerText.trim();
+          const lower = rawText.toLowerCase();
 
-          const parts = rawText.split(",");
-          location = parts[1]?.trim() || "";
-        }
+          // TRÄNING
+          if (lower.includes("träning")) {
+            type = "Träning";
 
-        // ÖVRIGT
-        else {
-          type = "Övrigt";
+            const parts = rawText.split(",");
+            location = parts[1]?.trim() || "";
+          }
 
-          const parts = rawText.split(",");
-          title = parts[0]?.trim() || "";
-          location = parts[1]?.trim() || "";
+          // ÖVRIGT
+          else {
+            type = "Övrigt";
 
-          if (title.toLowerCase().includes("vs")) {
-            const split = title.split("vs");
-            opponent = split[1]?.trim() || "";
+            const cleaned = rawText.split("(")[0];
+            const parts = cleaned.split(",");
+
+            title = parts[0]?.trim() || "";
+            location = parts[1]?.trim() || "";
+
+            if (title.toLowerCase().includes("vs")) {
+              opponent = title.split("vs")[1]?.trim() || "";
+            }
           }
         }
       }
@@ -124,7 +132,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       if (text.toLowerCase().includes("inställd")) return;
 
       results.push({
-        date: currentWeekday + " " + currentDate,
+        date: `${currentWeekday} ${currentDate}`,
         month: currentMonth,
         startTime,
         endTime,
@@ -136,14 +144,15 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       });
     });
 
+    // remove duplicates
     const unique = [];
     const seen = new Set();
 
-    results.forEach(event => {
-      const key = event.date + "-" + event.startTime + "-" + event.team;
+    results.forEach(e => {
+      const key = `${e.date}-${e.startTime}-${e.team}`;
       if (!seen.has(key)) {
         seen.add(key);
-        unique.push(event);
+        unique.push(e);
       }
     });
 
