@@ -2,7 +2,7 @@ name: Calendar Scraper
 
 on:
   schedule:
-    - cron: "0 */10 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
 # ✅ REQUIRED for pushing changes
@@ -26,20 +26,20 @@ jobs:
         run: npm install
 
       - name: Install Playwright browser
-        run: npx playwright install chromium
+        run: npx playwright install --with-deps
 
-      - name: Run scraper
-        run: npm run scrape
+      - name: Run calendar scraper
+        run: node scraper.js
 
-      # ✅ NEW: Commit and push matches.json
-      - name: Commit and push matches.json
+      # ✅ Commit and push calendar.json
+      - name: Commit and push calendar.json
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add matches.json
+          git add calendar.json
 
           # Only commit if file changed
-          git diff --cached --quiet || git commit -m "Update matches.json"
+          git diff --cached --quiet || git commit -m "🤖 Update calendar data"
 
           git push
