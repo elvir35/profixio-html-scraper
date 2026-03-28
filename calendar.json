@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-28T20:04:08.624Z",
+  "scrapedAt": "2026-03-28T20:10:19.752Z",
   "source": "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp",
   "eventCount": 344,
   "events": [
@@ -147,7 +147,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03Lugi HF 2 borta, Sparbanken Skåne Arena BLugi HF 2 borta, Sparbanken Skåne Arena B",
+      "date": "tis 03",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -158,7 +158,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03Lugi HF 2 borta, Sparbanken Skåne Arena BLugi HF 2 borta, Sparbanken Skåne Arena B",
+      "date": "tis 03",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -169,7 +169,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03Lugi HF 2 borta, Sparbanken Skåne Arena BLugi HF 2 borta, Sparbanken Skåne Arena B",
+      "date": "tis 03",
       "month": "Mars",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -180,7 +180,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03Lugi HF 2 borta, Sparbanken Skåne Arena BLugi HF 2 borta, Sparbanken Skåne Arena B",
+      "date": "tis 03",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -191,7 +191,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03Lugi HF 2 borta, Sparbanken Skåne Arena BLugi HF 2 borta, Sparbanken Skåne Arena B",
+      "date": "tis 03",
       "month": "Mars",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -202,7 +202,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03Lugi HF 2 borta, Sparbanken Skåne Arena BLugi HF 2 borta, Sparbanken Skåne Arena B",
+      "date": "tis 03",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -213,7 +213,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 03Lugi HF 2 borta, Sparbanken Skåne Arena BLugi HF 2 borta, Sparbanken Skåne Arena B",
+      "date": "tis 03",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -224,18 +224,18 @@
       "opponent": ""
     },
     {
-      "date": "tis 03Lugi HF 2 borta, Sparbanken Skåne Arena BLugi HF 2 borta, Sparbanken Skåne Arena B",
+      "date": "tis 03",
       "month": "Mars",
       "startTime": "19:20",
       "endTime": "",
       "team": "F19 / Dam U",
-      "location": "Sparbanken Skåne Arena B (Flickor - F19 Syd)Lugi HF 2 borta",
+      "location": "Sparbanken Skåne Arena B",
       "type": "Match",
       "title": "",
       "opponent": "Lugi HF 2 borta"
     },
     {
-      "date": "tis 03Lugi HF 2 borta, Sparbanken Skåne Arena BLugi HF 2 borta, Sparbanken Skåne Arena B",
+      "date": "tis 03",
       "month": "Mars",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -246,7 +246,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "16:30",
       "endTime": "17:30",
@@ -257,7 +257,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -268,7 +268,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -279,7 +279,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "18:15",
       "endTime": "19:30",
@@ -290,7 +290,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -301,7 +301,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -312,7 +312,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -323,7 +323,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -334,18 +334,18 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "",
       "team": "HERRAR A",
-      "location": "Halmstad Arena A1 (Herrar - Herrallsvenskan)HK Drott Halmstad borta",
+      "location": "Halmstad Arena A1",
       "type": "Match",
       "title": "",
       "opponent": "HK Drott Halmstad borta"
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -356,7 +356,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -367,7 +367,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 04HK Drott Halmstad borta, Halmstad Arena A1HK Drott Halmstad borta, Halmstad Arena A1",
+      "date": "ons 04",
       "month": "Mars",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -466,7 +466,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 06IFK Malmö HF Gul hemma, VipeholmshallenIFK Malmö HF Gul hemma, Vipeholmshallen",
+      "date": "fre 06",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -477,18 +477,18 @@
       "opponent": ""
     },
     {
-      "date": "fre 06IFK Malmö HF Gul hemma, VipeholmshallenIFK Malmö HF Gul hemma, Vipeholmshallen",
+      "date": "fre 06",
       "month": "Mars",
       "startTime": "17:30",
       "endTime": "",
       "team": "F14",
-      "location": "Vipeholmshallen (Flickor - F14 Syd)IFK Malmö HF Gul hemma",
+      "location": "Vipeholmshallen",
       "type": "Match",
       "title": "",
       "opponent": "IFK Malmö HF Gul hemma"
     },
     {
-      "date": "fre 06IFK Malmö HF Gul hemma, VipeholmshallenIFK Malmö HF Gul hemma, Vipeholmshallen",
+      "date": "fre 06",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -499,7 +499,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 06IFK Malmö HF Gul hemma, VipeholmshallenIFK Malmö HF Gul hemma, Vipeholmshallen",
+      "date": "fre 06",
       "month": "Mars",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -510,7 +510,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 06IFK Malmö HF Gul hemma, VipeholmshallenIFK Malmö HF Gul hemma, Vipeholmshallen",
+      "date": "fre 06",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -521,18 +521,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollskolan Norr",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -543,7 +543,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -554,7 +554,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "09:30",
       "endTime": "",
@@ -565,7 +565,7 @@
       "opponent": "IFK Malmö HF Blå borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "12:00",
@@ -576,7 +576,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "",
@@ -587,7 +587,7 @@
       "opponent": "HK Malmö och HK Ankaret borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "11:30",
@@ -598,18 +598,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "11:00",
       "endTime": "12:00",
       "team": "F9",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "11:30",
       "endTime": "",
@@ -620,51 +620,51 @@
       "opponent": "HK Ankaret Röd borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "12:30",
       "endTime": "",
       "team": "P11",
-      "location": "Vipeholmshallen (Pojkar -  P11 Syd Svår Röd)Lugi och Karlshamns HF hemma",
+      "location": "Vipeholmshallen",
       "type": "Match",
       "title": "",
       "opponent": "Lugi och Karlshamns HF hemma"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "12:45",
       "endTime": "",
       "team": "F8",
-      "location": "Stentorpshallen Halmstad ()Halmstad bl a  borta",
+      "location": "Stentorpshallen Halmstad",
       "type": "Match",
       "title": "",
       "opponent": "Halmstad bl a  borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "13:00",
       "endTime": "",
       "team": "DAMER A",
-      "location": "Torslanda Sporthall A (Damer - Dam 1)Torslanda HK borta",
+      "location": "Torslanda Sporthall A",
       "type": "Match",
       "title": "",
       "opponent": "Torslanda HK borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "13:00",
       "endTime": "",
       "team": "F19 / Dam U",
-      "location": "Bollhuset A (Flickor - F19 Syd)Kristianstad HK hemma",
+      "location": "Bollhuset A",
       "type": "Match",
       "title": "",
       "opponent": "Kristianstad HK hemma"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "",
       "endTime": "",
@@ -675,62 +675,62 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "14:50",
       "endTime": "",
       "team": "P19 / Herr U",
-      "location": "Bollhuset A (Herrar - Herr 2 Syd)Växjö HF hemma",
+      "location": "Bollhuset A",
       "type": "Match",
       "title": "",
       "opponent": "Växjö HF hemma"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "16:30",
       "endTime": "",
       "team": "P14",
-      "location": "Helsingborg Arena B (Pojkar - USM P14)Finspångs HK borta",
+      "location": "Helsingborg Arena B",
       "type": "Match",
       "title": "",
       "opponent": "Finspångs HK borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "16:40",
       "endTime": "",
       "team": "HK Blå 85",
-      "location": "Bollhuset A (Herrar - Herr 3 Syd)Halmstad HF hemma",
+      "location": "Bollhuset A",
       "type": "Match",
       "title": "",
       "opponent": "Halmstad HF hemma"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "",
       "team": "F13",
-      "location": "Tolvåkers Idrottshall B (F13 Syd)Lödde Vikings HK 2 borta",
+      "location": "Tolvåkers Idrottshall B",
       "type": "Match",
       "title": "",
       "opponent": "Lödde Vikings HK 2 borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "18:10",
       "endTime": "20:00",
       "team": "F10",
-      "location": "ArenanSverige VS Serbien (svar senast 30/11)",
+      "location": "ArenanSverige VS Serbien",
       "type": "Övrigt",
       "title": "Sverige VS Serbien (svar senast 30/11)",
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "18:10",
       "endTime": "20:00",
@@ -741,18 +741,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "P14",
-      "location": "Helsingborg Arena BUSM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
+      "location": "Helsingborg Arena B",
       "type": "Match",
       "title": "",
       "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "",
       "endTime": "",
@@ -763,18 +763,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -785,7 +785,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -796,73 +796,73 @@
       "opponent": ""
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "11:30",
       "endTime": "",
       "team": "P14",
-      "location": "Helsingborg Arena B (Pojkar - USM P14)HK Aranäs hemma",
+      "location": "Helsingborg Arena B",
       "type": "Match",
       "title": "",
       "opponent": "HK Aranäs hemma"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "12:40",
       "endTime": "",
       "team": "F14",
-      "location": "Helsingborg Arena B (Flickor - F14 Syd)OV Helsingborg HK - 3 borta",
+      "location": "Helsingborg Arena B",
       "type": "Match",
       "title": "",
       "opponent": "OV Helsingborg HK - 3 borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "14:10",
       "endTime": "",
       "team": "HK Blå 85",
-      "location": "Sparbanken Skåne Arena B (Damer - Dam 3 Syd)Lugi HF U B borta",
+      "location": "Sparbanken Skåne Arena B",
       "type": "Match",
       "title": "",
       "opponent": "Lugi HF U B borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "15:00",
       "endTime": "",
       "team": "F14",
-      "location": "Stenbackahallen (Flickor - F14 Syd)Karlshamns HF borta",
+      "location": "Stenbackahallen",
       "type": "Match",
       "title": "",
       "opponent": "Karlshamns HF borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "15:00",
       "endTime": "",
       "team": "F16",
-      "location": "Östergårdshallen (Flickor - F16 Syd)HK Drott Halmstad borta",
+      "location": "Östergårdshallen",
       "type": "Match",
       "title": "",
       "opponent": "HK Drott Halmstad borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "15:30",
       "endTime": "",
       "team": "P14",
-      "location": "Helsingborg Arena B (Pojkar - USM P14)OV Helsingborg HK borta",
+      "location": "Helsingborg Arena B",
       "type": "Match",
       "title": "",
       "opponent": "OV Helsingborg HK borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "15:50",
       "endTime": "",
@@ -873,12 +873,12 @@
       "opponent": "Lugi P12 borta"
     },
     {
-      "date": "lör 07IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Malmö och HK Ankaret borta, Söderkulla Sporthall, MalmöHK Ankaret Röd borta, Rutsborgshallen 1, BjärredHK Ankaret Röd borta, Rutsborgshallen 1, BjärredLugi och Karlshamns HF hemma, VipeholmshallenLugi och Karlshamns HF hemma, VipeholmshallenHalmstad bl a  borta, Stentorpshallen HalmstadHalmstad bl a  borta, Stentorpshallen HalmstadTorslanda HK borta, Torslanda Sporthall ATorslanda HK borta, Torslanda Sporthall AKristianstad HK hemma, Bollhuset AKristianstad HK hemma, Bollhuset AVäxjö HF hemma, Bollhuset AVäxjö HF hemma, Bollhuset AFinspångs HK borta, Helsingborg Arena BFinspångs HK borta, Helsingborg Arena BHalmstad HF hemma, Bollhuset AHalmstad HF hemma, Bollhuset ALödde Vikings HK 2 borta, Tolvåkers Idrottshall BLödde Vikings HK 2 borta, Tolvåkers Idrottshall B",
+      "date": "lör 07",
       "month": "Mars",
       "startTime": "16:00",
       "endTime": "",
       "team": "P16",
-      "location": "Ystad Arena A1 (Pojkar - P16 Syd)Ystads IF HF 1 borta",
+      "location": "Ystad Arena A1",
       "type": "Match",
       "title": "",
       "opponent": "Ystads IF HF 1 borta"
@@ -1027,7 +1027,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10IK Lågan hemma, Sparbanken Skåne Arena BIK Lågan hemma, Sparbanken Skåne Arena B",
+      "date": "tis 10",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -1038,7 +1038,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10IK Lågan hemma, Sparbanken Skåne Arena BIK Lågan hemma, Sparbanken Skåne Arena B",
+      "date": "tis 10",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -1049,7 +1049,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10IK Lågan hemma, Sparbanken Skåne Arena BIK Lågan hemma, Sparbanken Skåne Arena B",
+      "date": "tis 10",
       "month": "Mars",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -1060,7 +1060,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10IK Lågan hemma, Sparbanken Skåne Arena BIK Lågan hemma, Sparbanken Skåne Arena B",
+      "date": "tis 10",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -1071,7 +1071,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10IK Lågan hemma, Sparbanken Skåne Arena BIK Lågan hemma, Sparbanken Skåne Arena B",
+      "date": "tis 10",
       "month": "Mars",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -1082,7 +1082,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10IK Lågan hemma, Sparbanken Skåne Arena BIK Lågan hemma, Sparbanken Skåne Arena B",
+      "date": "tis 10",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1093,7 +1093,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 10IK Lågan hemma, Sparbanken Skåne Arena BIK Lågan hemma, Sparbanken Skåne Arena B",
+      "date": "tis 10",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1104,18 +1104,18 @@
       "opponent": ""
     },
     {
-      "date": "tis 10IK Lågan hemma, Sparbanken Skåne Arena BIK Lågan hemma, Sparbanken Skåne Arena B",
+      "date": "tis 10",
       "month": "Mars",
       "startTime": "19:15",
       "endTime": "",
       "team": "F19 / Dam U",
-      "location": "Sparbanken Skåne Arena B (Flickor - F19 Syd)IK Lågan hemma",
+      "location": "Sparbanken Skåne Arena B",
       "type": "Match",
       "title": "",
       "opponent": "IK Lågan hemma"
     },
     {
-      "date": "tis 10IK Lågan hemma, Sparbanken Skåne Arena BIK Lågan hemma, Sparbanken Skåne Arena B",
+      "date": "tis 10",
       "month": "Mars",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -1126,7 +1126,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "16:30",
       "endTime": "17:30",
@@ -1137,7 +1137,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -1148,7 +1148,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -1159,7 +1159,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "18:15",
       "endTime": "19:30",
@@ -1170,7 +1170,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -1181,7 +1181,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1192,7 +1192,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -1203,18 +1203,18 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "19:20",
       "endTime": "",
       "team": "P14",
-      "location": "Bollhuset A (Pojkar - P14 Syd nivå 1 Gul)Lugi HF 2 hemma",
+      "location": "Bollhuset A",
       "type": "Match",
       "title": "",
       "opponent": "Lugi HF 2 hemma"
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -1225,7 +1225,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -1236,7 +1236,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 11Lugi HF 2 hemma, Bollhuset ALugi HF 2 hemma, Bollhuset A",
+      "date": "ons 11",
       "month": "Mars",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -1346,7 +1346,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "17:30",
       "endTime": "21:00",
@@ -1357,7 +1357,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "20:30",
@@ -1368,7 +1368,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "18:15",
       "endTime": "20:00",
@@ -1379,7 +1379,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -1390,18 +1390,18 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "",
       "team": "HERRAR A",
-      "location": "Sparbanken Skåne Arena A (Herrar - Herrallsvenskan)Lugi HF hemma",
+      "location": "Sparbanken Skåne Arena A",
       "type": "Match",
       "title": "",
       "opponent": "Lugi HF hemma"
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1412,7 +1412,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1423,7 +1423,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1434,7 +1434,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1445,7 +1445,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1456,7 +1456,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1467,7 +1467,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1478,7 +1478,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1489,7 +1489,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1500,7 +1500,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1511,18 +1511,18 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "",
       "team": "F14",
-      "location": "Färsingahallen (Flickor - F14 Syd)HK Björnen borta",
+      "location": "Färsingahallen",
       "type": "Match",
       "title": "",
       "opponent": "HK Björnen borta"
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1533,7 +1533,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1544,7 +1544,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1555,7 +1555,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1566,7 +1566,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1577,7 +1577,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1588,7 +1588,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1599,7 +1599,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1610,7 +1610,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1621,7 +1621,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1632,7 +1632,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1643,7 +1643,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 13Lugi HF hemma, Sparbanken Skåne Arena ALugi HF hemma, Sparbanken Skåne Arena AHK Björnen borta, FärsingahallenHK Björnen borta, Färsingahallen",
+      "date": "fre 13",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -1654,18 +1654,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollskolan Norr",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -1676,18 +1676,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "",
       "team": "F11",
-      "location": "Bollhuset A (Lag 2 (F11 Röd Syd))Lugi HF 5 hemma",
+      "location": "Bollhuset A",
       "type": "Match",
       "title": "",
       "opponent": "Lugi HF 5 hemma"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -1698,7 +1698,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:30",
@@ -1709,40 +1709,40 @@
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "11:00",
       "team": "F8",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "",
       "team": "P14",
-      "location": "Sporthallen Höör (Pojkar - P14 Syd nivå 1 Gul)Höörs HK H 65 borta",
+      "location": "Sporthallen Höör",
       "type": "Match",
       "title": "",
       "opponent": "Höörs HK H 65 borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "11:00",
       "endTime": "12:00",
       "team": "F9",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "12:00",
       "endTime": "",
@@ -1753,40 +1753,40 @@
       "opponent": "Åhus Handboll och IFK Kristianstad borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "12:00",
       "endTime": "",
       "team": "P8",
-      "location": "Färsingahallen Sjöbo ()Borta",
+      "location": "Färsingahallen Sjöbo",
       "type": "Match",
       "title": "",
       "opponent": "Borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "12:30",
       "endTime": "",
       "team": "F14",
-      "location": "Vipeholmshallen (Flickor - F14 Syd)Höörs HK H 65 hemma",
+      "location": "Vipeholmshallen",
       "type": "Match",
       "title": "",
       "opponent": "Höörs HK H 65 hemma"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "13:00",
       "endTime": "",
       "team": "F13",
-      "location": "Bollhuset A (F13 Syd)OV Helsingborg HK - 2 hemma",
+      "location": "Bollhuset A",
       "type": "Match",
       "title": "",
       "opponent": "OV Helsingborg HK - 2 hemma"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "13:30",
       "endTime": "",
@@ -1797,18 +1797,18 @@
       "opponent": "HK Halmstad borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "14:00",
       "endTime": "",
       "team": "DAMER A",
-      "location": "Baltiska Hallen (Damer - Dam 1)HK Malmö borta",
+      "location": "Baltiska Hallen",
       "type": "Match",
       "title": "",
       "opponent": "HK Malmö borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "14:00",
       "endTime": "",
@@ -1819,18 +1819,18 @@
       "opponent": "Dalby GIF borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "14:10",
       "endTime": "",
       "team": "F14",
-      "location": "Vipeholmshallen (Flickor - F14 Syd)Tollarps IF 2 hemma",
+      "location": "Vipeholmshallen",
       "type": "Match",
       "title": "",
       "opponent": "Tollarps IF 2 hemma"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "15:00",
       "endTime": "",
@@ -1841,18 +1841,18 @@
       "opponent": "IK Sund borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "16:00",
       "endTime": "",
       "team": "F19 / Dam U",
-      "location": "Sånnahallen A (Flickor - F19 Syd)Åhus Handboll borta",
+      "location": "Sånnahallen A",
       "type": "Match",
       "title": "",
       "opponent": "Åhus Handboll borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "16:15",
       "endTime": "23:59",
@@ -1863,18 +1863,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "07:00",
       "endTime": "23:59",
       "team": "F16",
-      "location": "USM Steg 4 i TäbyUSM steg 4",
+      "location": "USM Steg 4 i Täby",
       "type": "Match",
       "title": "",
       "opponent": "USM steg 4"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "07:00",
       "endTime": "23:59",
@@ -1885,40 +1885,40 @@
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "",
       "team": "F11",
-      "location": "Henriksdalshallen (Lag 1 (F11 röd Syd))Ljunghusens HK Ljusblå borta",
+      "location": "Henriksdalshallen",
       "type": "Match",
       "title": "",
       "opponent": "Ljunghusens HK Ljusblå borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:15",
       "endTime": "",
       "team": "F10",
-      "location": "Lågehall B ()IK Lågan svart  borta",
+      "location": "Lågehall B",
       "type": "Match",
       "title": "",
       "opponent": "IK Lågan svart  borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -1929,7 +1929,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "09:30",
       "endTime": "",
@@ -1940,7 +1940,7 @@
       "opponent": "IFK Malmö och IK Sund borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -1951,56 +1951,56 @@
       "opponent": ""
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "14:00",
       "endTime": "",
       "team": "HK Blå 85",
-      "location": "Borgebyhallen (Herrar - Herr 3 Syd)HK Ankaret borta",
+      "location": "Borgebyhallen",
       "type": "Match",
       "title": "",
       "opponent": "HK Ankaret borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "14:45",
       "endTime": "",
       "team": "P19 / Herr U",
-      "location": "Tunahallen-Handboll (Pojkar - P19 Syd)HK Drott Halmstad hemma",
+      "location": "Tunahallen-Handboll",
       "type": "Match",
       "title": "",
       "opponent": "HK Drott Halmstad hemma"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "15:45",
       "endTime": "",
       "team": "F11",
-      "location": "Tolvåkers Idrottshall B (Lag 3 (F11 Gul Syd))Lugi HF 3 borta",
+      "location": "Tolvåkers Idrottshall B",
       "type": "Match",
       "title": "",
       "opponent": "Lugi HF 3 borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "16:00",
       "endTime": "",
       "team": "P16",
-      "location": "Prästängshallen (Pojkar - P16 Syd)Eksjö BK borta",
+      "location": "Prästängshallen",
       "type": "Match",
       "title": "",
       "opponent": "Eksjö BK borta"
     },
     {
-      "date": "lör 14Lugi HF 5 hemma, Bollhuset ALugi HF 5 hemma, Bollhuset AHöörs HK H 65 borta, Sporthallen HöörHöörs HK H 65 borta, Sporthallen HöörÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusÅhus Handboll och IFK Kristianstad borta, Sånnahallen B, ÅhusBorta, Färsingahallen SjöboBorta, Färsingahallen SjöboHöörs HK H 65 hemma, VipeholmshallenHöörs HK H 65 hemma, VipeholmshallenOV Helsingborg HK - 2 hemma, Bollhuset AOV Helsingborg HK - 2 hemma, Bollhuset AHK Halmstad borta, Stenstorsphallen, Halmstad HK Halmstad borta, Stenstorsphallen, Halmstad HK Malmö borta, Baltiska HallenHK Malmö borta, Baltiska HallenDalby GIF borta, Nyvångshallen, DalbyDalby GIF borta, Nyvångshallen, DalbyTollarps IF 2 hemma, VipeholmshallenTollarps IF 2 hemma, VipeholmshallenIK Sund borta, Norrehedshallen, HelsingborgIK Sund borta, Norrehedshallen, HelsingborgÅhus Handboll borta, Sånnahallen AÅhus Handboll borta, Sånnahallen A",
+      "date": "lör 14",
       "month": "Mars",
       "startTime": "16:45",
       "endTime": "",
       "team": "F19 / Dam U",
-      "location": "Tunahallen-Handboll (Flickor - F19 Syd)Kristianstad HK hemma",
+      "location": "Tunahallen-Handboll",
       "type": "Match",
       "title": "",
       "opponent": "Kristianstad HK hemma"
@@ -2237,7 +2237,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18HK Malmö hemma, GunnesbohallenHK Malmö hemma, Gunnesbohallen",
+      "date": "ons 18",
       "month": "Mars",
       "startTime": "16:30",
       "endTime": "17:30",
@@ -2248,7 +2248,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18HK Malmö hemma, GunnesbohallenHK Malmö hemma, Gunnesbohallen",
+      "date": "ons 18",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -2259,7 +2259,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18HK Malmö hemma, GunnesbohallenHK Malmö hemma, Gunnesbohallen",
+      "date": "ons 18",
       "month": "Mars",
       "startTime": "18:15",
       "endTime": "19:30",
@@ -2270,7 +2270,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18HK Malmö hemma, GunnesbohallenHK Malmö hemma, Gunnesbohallen",
+      "date": "ons 18",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2281,7 +2281,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18HK Malmö hemma, GunnesbohallenHK Malmö hemma, Gunnesbohallen",
+      "date": "ons 18",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -2292,7 +2292,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18HK Malmö hemma, GunnesbohallenHK Malmö hemma, Gunnesbohallen",
+      "date": "ons 18",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2303,7 +2303,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18HK Malmö hemma, GunnesbohallenHK Malmö hemma, Gunnesbohallen",
+      "date": "ons 18",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -2314,7 +2314,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 18HK Malmö hemma, GunnesbohallenHK Malmö hemma, Gunnesbohallen",
+      "date": "ons 18",
       "month": "Mars",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -2325,12 +2325,12 @@
       "opponent": ""
     },
     {
-      "date": "ons 18HK Malmö hemma, GunnesbohallenHK Malmö hemma, Gunnesbohallen",
+      "date": "ons 18",
       "month": "Mars",
       "startTime": "20:30",
       "endTime": "",
       "team": "P16",
-      "location": "Gunnesbohallen (Pojkar - P16 Syd)HK Malmö hemma",
+      "location": "Gunnesbohallen",
       "type": "Match",
       "title": "",
       "opponent": "HK Malmö hemma"
@@ -2413,7 +2413,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20IFK Ystad HK borta, Ystad ArenaIFK Ystad HK borta, Ystad ArenaHässleholms HF borta, LäredaskolanHässleholms HF borta, Läredaskolan",
+      "date": "fre 20",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2424,7 +2424,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20IFK Ystad HK borta, Ystad ArenaIFK Ystad HK borta, Ystad ArenaHässleholms HF borta, LäredaskolanHässleholms HF borta, Läredaskolan",
+      "date": "fre 20",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2435,7 +2435,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20IFK Ystad HK borta, Ystad ArenaIFK Ystad HK borta, Ystad ArenaHässleholms HF borta, LäredaskolanHässleholms HF borta, Läredaskolan",
+      "date": "fre 20",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2446,7 +2446,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20IFK Ystad HK borta, Ystad ArenaIFK Ystad HK borta, Ystad ArenaHässleholms HF borta, LäredaskolanHässleholms HF borta, Läredaskolan",
+      "date": "fre 20",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -2457,7 +2457,7 @@
       "opponent": ""
     },
     {
-      "date": "fre 20IFK Ystad HK borta, Ystad ArenaIFK Ystad HK borta, Ystad ArenaHässleholms HF borta, LäredaskolanHässleholms HF borta, Läredaskolan",
+      "date": "fre 20",
       "month": "Mars",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -2468,29 +2468,29 @@
       "opponent": ""
     },
     {
-      "date": "fre 20IFK Ystad HK borta, Ystad ArenaIFK Ystad HK borta, Ystad ArenaHässleholms HF borta, LäredaskolanHässleholms HF borta, Läredaskolan",
+      "date": "fre 20",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "",
       "team": "P19 / Herr U",
-      "location": "Ystad Arena (Pojkar - P19 Syd)IFK Ystad HK borta",
+      "location": "Ystad Arena",
       "type": "Match",
       "title": "",
       "opponent": "IFK Ystad HK borta"
     },
     {
-      "date": "fre 20IFK Ystad HK borta, Ystad ArenaIFK Ystad HK borta, Ystad ArenaHässleholms HF borta, LäredaskolanHässleholms HF borta, Läredaskolan",
+      "date": "fre 20",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "",
       "team": "F19 / Dam U",
-      "location": "Läredaskolan (Flickor - F19 Syd)Hässleholms HF borta",
+      "location": "Läredaskolan",
       "type": "Match",
       "title": "",
       "opponent": "Hässleholms HF borta"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "07:00",
       "endTime": "23:59",
@@ -2501,18 +2501,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollskolan Norr",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -2523,18 +2523,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "",
       "team": "F11",
-      "location": "Bollhuset A (Lag 3 (F11 Gul Syd))Eslövs HK 1 hemma",
+      "location": "Bollhuset A",
       "type": "Match",
       "title": "",
       "opponent": "Eslövs HK 1 hemma"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -2545,18 +2545,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "11:00",
       "team": "F8",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "11:30",
@@ -2567,18 +2567,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "11:20",
       "endTime": "",
       "team": "F10",
-      "location": "Staffanshallen ()Staffanstorps Handbollklubb borta",
+      "location": "Staffanshallen",
       "type": "Match",
       "title": "",
       "opponent": "Staffanstorps Handbollklubb borta"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "12:00",
       "endTime": "",
@@ -2589,29 +2589,29 @@
       "opponent": "Eslöv"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "13:00",
       "endTime": "",
       "team": "F11",
-      "location": "Bollhuset A (Lag 2 (F11 Röd Syd))IK Sund hemma",
+      "location": "Bollhuset A",
       "type": "Match",
       "title": "",
       "opponent": "IK Sund hemma"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "13:15",
       "endTime": "",
       "team": "F9",
-      "location": "Stentorpshallen ()Halmstad borta",
+      "location": "Stentorpshallen",
       "type": "Match",
       "title": "",
       "opponent": "Halmstad borta"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "14:30",
       "endTime": "21:00",
@@ -2622,29 +2622,29 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "14:30",
       "endTime": "",
       "team": "P11",
-      "location": "Bollhuset A (Pojkar -  P11 Syd Lätt Röd)OV Helsingborg hemma",
+      "location": "Bollhuset A",
       "type": "Match",
       "title": "",
       "opponent": "OV Helsingborg hemma"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "15:15",
       "endTime": "",
       "team": "P10",
-      "location": "Gunnesbohallen (Pojkar - P10 Syd)KFUM IA Lundagård borta",
+      "location": "Gunnesbohallen",
       "type": "Match",
       "title": "",
       "opponent": "KFUM IA Lundagård borta"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "17:30",
       "endTime": "19:30",
@@ -2655,29 +2655,29 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "Fäladshallen   BTräning",
+      "location": "Fäladshallen B",
       "type": "Match",
       "title": "",
       "opponent": "Träning"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -2688,18 +2688,18 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "09:30",
       "endTime": "",
       "team": "P11",
-      "location": "Lunds Idrottshall (Pojkar - P11 Syd Svår Gul)Staffanstorps HK och Kävlinge HK hemma",
+      "location": "Lunds Idrottshall",
       "type": "Match",
       "title": "",
       "opponent": "Staffanstorps HK och Kävlinge HK hemma"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "10:30",
       "endTime": "18:00",
@@ -2710,7 +2710,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -2721,29 +2721,29 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "11:30",
       "endTime": "",
       "team": "F19 / Dam U",
-      "location": "Lågehall A (Flickor - F19 Syd)IK Lågan borta",
+      "location": "Lågehall A",
       "type": "Match",
       "title": "",
       "opponent": "IK Lågan borta"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "14:00",
       "endTime": "",
       "team": "F16",
-      "location": "Söderkulla Sporthall (Flickor - F16 Syd)HK Malmö borta",
+      "location": "Söderkulla Sporthall",
       "type": "Match",
       "title": "",
       "opponent": "HK Malmö borta"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "14:00",
       "endTime": "16:30",
@@ -2754,7 +2754,7 @@
       "opponent": ""
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "14:00",
       "endTime": "",
@@ -2765,7 +2765,7 @@
       "opponent": "Karlshamns HF Gul borta"
     },
     {
-      "date": "lör 21Eslövs HK 1 hemma, Bollhuset AEslövs HK 1 hemma, Bollhuset AStaffanstorps Handbollklubb borta, StaffanshallenStaffanstorps Handbollklubb borta, StaffanshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenEslöv, Dalby, Staffanstorp mfl hemma, VipeholmshallenIK Sund hemma, Bollhuset AIK Sund hemma, Bollhuset AHalmstad borta, StentorpshallenHalmstad borta, StentorpshallenOV Helsingborg hemma, Bollhuset AOV Helsingborg hemma, Bollhuset AKFUM IA Lundagård borta, GunnesbohallenKFUM IA Lundagård borta, Gunnesbohallen",
+      "date": "lör 21",
       "month": "Mars",
       "startTime": "15:30",
       "endTime": "",
@@ -2776,7 +2776,7 @@
       "opponent": "Karlshamn röd borta"
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -2787,7 +2787,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -2798,7 +2798,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -2809,7 +2809,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -2820,7 +2820,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "20:00",
@@ -2831,7 +2831,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -2842,7 +2842,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -2853,7 +2853,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "18:45",
       "endTime": "21:00",
@@ -2864,7 +2864,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -2875,7 +2875,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:15",
@@ -2886,7 +2886,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "",
@@ -2897,7 +2897,7 @@
       "opponent": "IFK Malmö HF Blå borta"
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -2908,7 +2908,7 @@
       "opponent": ""
     },
     {
-      "date": "mån 23IFK Malmö HF Blå borta, Sundsbrohallen, BunkeflostrandIFK Malmö HF Blå borta, Sundsbrohallen, Bunkeflostrand",
+      "date": "mån 23",
       "month": "Mars",
       "startTime": "20:00",
       "endTime": "21:30",
@@ -3018,7 +3018,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "16:30",
       "endTime": "17:30",
@@ -3029,7 +3029,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "19:00",
@@ -3040,18 +3040,18 @@
       "opponent": ""
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "",
       "team": "F16",
-      "location": "Sparbanken Skåne Arena A (Flickor - F16 Syd)Lugi HF 1 F10  borta",
+      "location": "Sparbanken Skåne Arena A",
       "type": "Match",
       "title": "",
       "opponent": "Lugi HF 1 F10  borta"
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "18:15",
       "endTime": "19:30",
@@ -3062,7 +3062,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -3073,7 +3073,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "21:00",
@@ -3084,7 +3084,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -3095,7 +3095,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -3106,7 +3106,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -3117,7 +3117,7 @@
       "opponent": ""
     },
     {
-      "date": "ons 25Lugi HF 1 F10  borta, Sparbanken Skåne Arena ALugi HF 1 F10  borta, Sparbanken Skåne Arena A",
+      "date": "ons 25",
       "month": "Mars",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -3128,7 +3128,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:00",
@@ -3139,7 +3139,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -3150,7 +3150,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -3161,7 +3161,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "17:30",
       "endTime": "19:00",
@@ -3172,7 +3172,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "18:45",
       "endTime": "21:00",
@@ -3183,18 +3183,18 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "",
       "team": "HERRAR A",
-      "location": "Torslanda Sporthall A (Herrar - Herrallsvenskan)HK Torslanda Elit borta",
+      "location": "Torslanda Sporthall A",
       "type": "Match",
       "title": "",
       "opponent": "HK Torslanda Elit borta"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "21:30",
@@ -3205,18 +3205,18 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "20:00",
       "endTime": "",
       "team": "F14",
-      "location": "Söderslättshallen A (Flickor - F14 Syd)Stavsten HK U borta",
+      "location": "Söderslättshallen A",
       "type": "Match",
       "title": "",
       "opponent": "Stavsten HK U borta"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "20:00",
       "endTime": "21:45",
@@ -3227,7 +3227,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "20:30",
       "endTime": "22:00",
@@ -3238,7 +3238,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -3249,7 +3249,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -3260,7 +3260,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -3271,7 +3271,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -3282,29 +3282,29 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollskolan Norr",
-      "location": "Fäladshallen   BTräning",
+      "location": "Fäladshallen B",
       "type": "Match",
       "title": "",
       "opponent": "Träning"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
       "team": "Bollskolan Norr",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -3315,7 +3315,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:00",
@@ -3326,40 +3326,40 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "11:00",
       "team": "F8",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "",
       "team": "P14",
-      "location": "Eslövshallen A (Pojkar - P14 Syd nivå 1 Gul)Eslövs HK 1 borta",
+      "location": "Eslövshallen A",
       "type": "Match",
       "title": "",
       "opponent": "Eslövs HK 1 borta"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "11:00",
       "endTime": "12:00",
       "team": "F9",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "12:15",
       "endTime": "",
@@ -3370,7 +3370,7 @@
       "opponent": "Eslöv"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "12:30",
       "endTime": "",
@@ -3381,62 +3381,62 @@
       "opponent": "Dalby"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "12:45",
       "endTime": "",
       "team": "F14",
-      "location": "Gunnesbohallen (Flickor - F14 Syd)OV Helsingborg HK 1 hemma",
+      "location": "Gunnesbohallen",
       "type": "Match",
       "title": "",
       "opponent": "OV Helsingborg HK 1 hemma"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "13:00",
       "endTime": "",
       "team": "F8",
-      "location": "Vipeholmshallen (Flickor - F8 Syd Mini)Gästande Lag hemma",
+      "location": "Vipeholmshallen",
       "type": "Match",
       "title": "",
       "opponent": "Gästande Lag hemma"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "16:00",
       "endTime": "",
       "team": "F13",
-      "location": "Söderkulla Sporthall (F13 Syd)HK Malmö 2 borta",
+      "location": "Söderkulla Sporthall",
       "type": "Match",
       "title": "",
       "opponent": "HK Malmö 2 borta"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "Fäladshallen   BMålvaktsträning",
+      "location": "Fäladshallen BMålvaktsträning",
       "type": "Match",
       "title": "",
       "opponent": "Träning"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:30",
       "team": "Bollek Norr",
-      "location": "Fäladshallen   B",
+      "location": "Fäladshallen B",
       "type": "Träning",
       "title": "",
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "09:00",
       "endTime": "10:15",
@@ -3447,7 +3447,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -3458,18 +3458,18 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "10:00",
       "endTime": "",
       "team": "P9",
-      "location": "Gunnesbohallen ()Borta",
+      "location": "Gunnesbohallen",
       "type": "Match",
       "title": "",
       "opponent": "Borta"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "10:30",
       "endTime": "12:30",
@@ -3480,7 +3480,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -3491,7 +3491,7 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "10:30",
       "endTime": "11:30",
@@ -3502,62 +3502,62 @@
       "opponent": ""
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "10:30",
       "endTime": "",
       "team": "P14",
-      "location": "Limhamns Sporthall (Pojkar - P14 Syd nivå 1 Gul)IFK Malmö HF Gul borta",
+      "location": "Limhamns Sporthall",
       "type": "Match",
       "title": "",
       "opponent": "IFK Malmö HF Gul borta"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "10:30",
       "endTime": "",
       "team": "P18",
-      "location": "Tunahallen-Handboll (Pojkar - P19 Syd)HF Karlskrona 2 hemma",
+      "location": "Tunahallen-Handboll",
       "type": "Match",
       "title": "",
       "opponent": "HF Karlskrona 2 hemma"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "12:00",
       "endTime": "",
       "team": "F19 / Dam U",
-      "location": "Griffel Arena (Flickor - F19 Syd)Växjö HF borta",
+      "location": "Griffel Arena",
       "type": "Match",
       "title": "",
       "opponent": "Växjö HF borta"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "12:30",
       "endTime": "",
       "team": "F16",
-      "location": "Tunahallen-Handboll (Flickor - F16 Syd)HK Ankaret Röd hemma",
+      "location": "Tunahallen-Handboll",
       "type": "Match",
       "title": "",
       "opponent": "HK Ankaret Röd hemma"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "15:45",
       "endTime": "",
       "team": "F19 / Dam U",
-      "location": "Griffel Arena (Flickor - F19 Syd)Växjö HF borta",
+      "location": "Griffel Arena",
       "type": "Match",
       "title": "",
       "opponent": "Växjö HF borta"
     },
     {
-      "date": "tor 26HK Torslanda Elit borta, Torslanda Sporthall AHK Torslanda Elit borta, Torslanda Sporthall AStavsten HK U borta, Söderslättshallen AStavsten HK U borta, Söderslättshallen A",
+      "date": "tor 26",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "",
@@ -3689,7 +3689,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31Dalby borta, Nordic Wellness hallen (St Lars)Dalby borta, Nordic Wellness hallen (St Lars)IFK Malmö HF hemma, Sparbanken Skåne Arena BIFK Malmö HF hemma, Sparbanken Skåne Arena B",
+      "date": "tis 31",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -3700,18 +3700,18 @@
       "opponent": ""
     },
     {
-      "date": "tis 31Dalby borta, Nordic Wellness hallen (St Lars)Dalby borta, Nordic Wellness hallen (St Lars)IFK Malmö HF hemma, Sparbanken Skåne Arena BIFK Malmö HF hemma, Sparbanken Skåne Arena B",
+      "date": "tis 31",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "",
       "team": "P10",
-      "location": "Nordic Wellness hallen (St Lars) ()Dalby borta",
+      "location": "Nordic Wellness hallen",
       "type": "Match",
       "title": "",
       "opponent": "Dalby borta"
     },
     {
-      "date": "tis 31Dalby borta, Nordic Wellness hallen (St Lars)Dalby borta, Nordic Wellness hallen (St Lars)IFK Malmö HF hemma, Sparbanken Skåne Arena BIFK Malmö HF hemma, Sparbanken Skåne Arena B",
+      "date": "tis 31",
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
@@ -3722,7 +3722,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31Dalby borta, Nordic Wellness hallen (St Lars)Dalby borta, Nordic Wellness hallen (St Lars)IFK Malmö HF hemma, Sparbanken Skåne Arena BIFK Malmö HF hemma, Sparbanken Skåne Arena B",
+      "date": "tis 31",
       "month": "Mars",
       "startTime": "18:00",
       "endTime": "19:30",
@@ -3733,7 +3733,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31Dalby borta, Nordic Wellness hallen (St Lars)Dalby borta, Nordic Wellness hallen (St Lars)IFK Malmö HF hemma, Sparbanken Skåne Arena BIFK Malmö HF hemma, Sparbanken Skåne Arena B",
+      "date": "tis 31",
       "month": "Mars",
       "startTime": "18:30",
       "endTime": "20:00",
@@ -3744,7 +3744,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31Dalby borta, Nordic Wellness hallen (St Lars)Dalby borta, Nordic Wellness hallen (St Lars)IFK Malmö HF hemma, Sparbanken Skåne Arena BIFK Malmö HF hemma, Sparbanken Skåne Arena B",
+      "date": "tis 31",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -3755,7 +3755,7 @@
       "opponent": ""
     },
     {
-      "date": "tis 31Dalby borta, Nordic Wellness hallen (St Lars)Dalby borta, Nordic Wellness hallen (St Lars)IFK Malmö HF hemma, Sparbanken Skåne Arena BIFK Malmö HF hemma, Sparbanken Skåne Arena B",
+      "date": "tis 31",
       "month": "Mars",
       "startTime": "19:00",
       "endTime": "20:30",
@@ -3766,18 +3766,18 @@
       "opponent": ""
     },
     {
-      "date": "tis 31Dalby borta, Nordic Wellness hallen (St Lars)Dalby borta, Nordic Wellness hallen (St Lars)IFK Malmö HF hemma, Sparbanken Skåne Arena BIFK Malmö HF hemma, Sparbanken Skåne Arena B",
+      "date": "tis 31",
       "month": "Mars",
       "startTime": "19:30",
       "endTime": "",
       "team": "HK Blå 85",
-      "location": "Sparbanken Skåne Arena B (Herrar - Herr 3 Syd)IFK Malmö HF hemma",
+      "location": "Sparbanken Skåne Arena B",
       "type": "Match",
       "title": "",
       "opponent": "IFK Malmö HF hemma"
     },
     {
-      "date": "tis 31Dalby borta, Nordic Wellness hallen (St Lars)Dalby borta, Nordic Wellness hallen (St Lars)IFK Malmö HF hemma, Sparbanken Skåne Arena BIFK Malmö HF hemma, Sparbanken Skåne Arena B",
+      "date": "tis 31",
       "month": "Mars",
       "startTime": "20:30",
       "endTime": "22:00",
