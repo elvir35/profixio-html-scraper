@@ -30,25 +30,25 @@ function cleanLocation(location, opponent) {
 
 // 🔥 FIXED: date function with forward fallback
 function getDateForRow($, row) {
-  // 🔙 backwards
-  let prev = row.prev();
+  // 🔥 FIND closest previous .dag ANYWHERE above
+  const dag = row.prevAll("tr.dag").first();
 
-  while (prev.length) {
-    if (prev.hasClass("dag")) {
-      const font = prev.find("font").first();
+  if (dag.length) {
+    const font = dag.find("font").first();
 
-      const weekday = font
-        .contents()
-        .filter((_, el) => el.type === "text")
-        .text()
-        .trim();
+    const weekday = font
+      .contents()
+      .filter((_, el) => el.type === "text")
+      .text()
+      .trim();
 
-      const date = prev.find("b").first().text().trim();
+    const date = dag.find("b").first().text().trim();
 
-      return { weekday, date };
-    }
-    prev = prev.prev();
+    return { weekday, date };
   }
+
+  return { weekday: "", date: "" };
+}
 
   // 🔥 forward fallback
   let next = row.next();
