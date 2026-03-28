@@ -1,11 +1,8 @@
 {
-  "name": "website-scraper",
+  "name": "calendar-scraper",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "scrape": "node scrape.js"
-  },
   "dependencies": {
-    "playwright": "^1.41.0"
+    "cheerio": "^1.0.0"
   }
 }
