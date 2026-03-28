@@ -16,81 +16,80 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       body: new URLSearchParams({ ID: "331251" })
     });
 
-    if (!res.ok) {
-      throw new Error(`HTTP error! status: ${res.status}`);
-    }
-
     const buffer = Buffer.from(await res.arrayBuffer());
     const html = buffer.toString("latin1");
 
     console.log("📦 HTML length:", html.length);
 
-    // ✅ Find all events (handles class=kal without quotes)
-    const matches = [
-      ...html.matchAll(
-        /<a[^>]*class\s*=\s*["']?[^"'>]*\bkal\b[^"'>]*["']?[^>]*>(.*?)<\/a>/gi
-      )
-    ];
+    // 🔥 Split into rows (this works with this endpoint)
+    const rows = html.split(/<tr[^>]*>/i);
 
-    console.log("📊 Found raw events:", matches.length);
+    let currentDate = "";
+    let currentWeekday = "";
+    let currentMonth = "Mars";
 
     const events = [];
 
-    for (const match of matches) {
-      const index = match.index;
+    for (const row of rows) {
+      const clean = row.replace(/\n/g, " ").trim();
 
-      const rawText = match[1]
+      // ✅ DATE ROW (robust)
+      if (/class\s*=\s*["']?dag/i.test(clean)) {
+        const dateMatch = clean.match(/<b[^>]*>(\d+)<\/b>/);
+        const weekdayMatch = clean.match(/<font[^>]*>(.*?)<\/font>/);
+
+        currentDate = dateMatch?.[1] || "";
+        currentWeekday = weekdayMatch?.[1] || "";
+
+        continue;
+      }
+
+      // Skip until date is known
+      if (!currentDate) continue;
+
+      // ✅ EVENT (kal link)
+      const activityMatch = clean.match(
+        /<a[^>]*class\s*=\s*["']?[^"'>]*\bkal\b[^"'>]*["']?[^>]*>(.*?)<\/a>/i
+      );
+
+      if (!activityMatch) continue;
+
+      const rawText = activityMatch[1]
         .replace(/<[^>]+>/g, "")
         .replace(/&nbsp;/g, " ")
         .trim();
 
       if (!rawText) continue;
 
-      // 🔍 Look backwards (limited window)
-      const before = html.slice(Math.max(0, index - 2500), index);
-
-      // ✅ DATE (robust)
-      const dateMatches = [
-        ...before.matchAll(
-          /class\s*=\s*["']?dag["']?[\s\S]*?<b[^>]*>(\d+)<\/b>[\s\S]*?<font[^>]*>(.*?)<\/font>/gi
-        )
-      ];
-      const lastDate = dateMatches.pop();
-
-      const currentDate = lastDate?.[1] || "";
-      const currentWeekday = lastDate?.[2] || "";
-
-      // ✅ TIME (supports single + range)
-      const timeMatches = [
-        ...before.matchAll(/(\d{2}:\d{2})(?:\s*-\s*(\d{2}:\d{2}))?/g)
-      ];
+      // ✅ TIME (from row)
+      const timeMatch = clean.match(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
+      const singleTime = clean.match(/>(\d{2}:\d{2})</);
 
       let startTime = "";
       let endTime = "";
 
-      if (timeMatches.length) {
-        const lastTime = timeMatches.pop();
-        startTime = lastTime[1] || "";
-        endTime = lastTime[2] || "";
+      if (timeMatch) {
+        startTime = timeMatch[1];
+        endTime = timeMatch[2];
+      } else if (singleTime) {
+        startTime = singleTime[1];
       }
 
-      // ✅ TEAM (last relevant link before event)
-      const teamMatches = [
-        ...before.matchAll(/<a[^>]*>([^<]+)<\/a>/g)
-      ];
-
+      // ✅ TEAM (first non-kal link)
       let team = "Unknown";
+      const links = [...clean.matchAll(/<a[^>]*>([^<]+)<\/a>/g)];
 
-      for (let i = teamMatches.length - 1; i >= 0; i--) {
-        const t = teamMatches[i][1].trim();
+      for (const l of links) {
+        const txt = l[1].trim();
 
         if (
-          t &&
-          !t.toLowerCase().includes("kal") &&
-          !t.toLowerCase().includes("javascript") &&
-          t.length < 50
+          txt &&
+          !txt.toLowerCase().includes("javascript") &&
+          !txt.toLowerCase().includes("visa") &&
+          txt.length < 50 &&
+          txt !== rawText
         ) {
-          team = t;
+          team = txt;
           break;
         }
       }
@@ -123,8 +122,8 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       if (rawText.toLowerCase().includes("inställd")) continue;
 
       events.push({
-        date: `${currentWeekday} ${currentDate}`.trim(),
-        month: "Mars",
+        date: `${currentWeekday} ${currentDate}`,
+        month: currentMonth,
         startTime,
         endTime,
         team,
@@ -137,23 +136,11 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
     console.log("📊 Parsed events:", events.length);
 
-    // 🔁 Deduplicate
-    const unique = [];
-    const seen = new Set();
-
-    for (const e of events) {
-      const key = `${e.date}-${e.startTime}-${e.team}-${e.location}-${e.opponent}`;
-      if (!seen.has(key)) {
-        seen.add(key);
-        unique.push(e);
-      }
-    }
-
     const output = {
       scrapedAt: new Date().toISOString(),
       source: URL,
-      eventCount: unique.length,
-      events: unique
+      eventCount: events.length,
+      events
     };
 
     fs.writeFileSync(
@@ -162,7 +149,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       "utf-8"
     );
 
-    console.log(`✅ Done. ${unique.length} events saved`);
+    console.log(`✅ Done. ${events.length} events saved`);
 
   } catch (err) {
     console.error("❌ Scraper failed:", err);
