@@ -5,7 +5,6 @@ on:
     - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
-# ✅ REQUIRED for pushing changes
 permissions:
   contents: write
 
@@ -21,17 +20,18 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: "npm"   # ✅ speeds up installs
 
       - name: Install dependencies
         run: npm install
 
-      - name: Install Playwright browser
-        run: npx playwright install --with-deps
+      # ❌ REMOVE this (not needed anymore)
+      # - name: Install Playwright browser
+      #   run: npx playwright install --with-deps
 
       - name: Run calendar scraper
         run: node calender-scraper.js
 
-      # ✅ Commit and push calendar.json
       - name: Commit and push calendar.json
         run: |
           git config user.name "github-actions"
@@ -40,6 +40,9 @@ jobs:
           git add calendar.json
 
           # Only commit if file changed
-          git diff --cached --quiet || git commit -m "🤖 Update calendar data"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Update calendar data"
+            git push
+          fi
