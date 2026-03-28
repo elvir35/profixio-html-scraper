@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-03-28T07:03:29.613Z",
+  "scrapedAt": "2026-03-28T13:01:29.254Z",
   "source": "https://h43lund.web.sportadmin.se/kalender/?ID=331251",
-  "eventCount": 342,
+  "eventCount": 338,
   "events": [
     {
       "date": "mån 02",
@@ -2713,23 +2713,23 @@
       "date": "lör 21",
       "month": "MARS 2026",
       "startTime": "14:00",
-      "endTime": "",
-      "team": "P14",
-      "location": "Väggahallen",
-      "type": "Match",
-      "title": "",
-      "opponent": "Karlshamns HF Gul borta"
-    },
-    {
-      "date": "lör 21",
-      "month": "MARS 2026",
-      "startTime": "14:00",
       "endTime": "16:30",
       "team": "P14",
       "location": "Väggahallen",
       "type": "Övrigt",
       "title": "Bindande - intresseanmälan- Matcher i Karlshamn",
       "opponent": ""
+    },
+    {
+      "date": "lör 21",
+      "month": "MARS 2026",
+      "startTime": "14:00",
+      "endTime": "",
+      "team": "P14",
+      "location": "Väggahallen",
+      "type": "Match",
+      "title": "",
+      "opponent": "Karlshamns HF Gul borta"
     },
     {
       "date": "lör 21",
@@ -3163,17 +3163,6 @@
     {
       "date": "tor 26",
       "month": "MARS 2026",
-      "startTime": "19:00",
-      "endTime": "20:30",
-      "team": "HERRAR A",
-      "location": "Arenan",
-      "type": "Träning",
-      "title": "",
-      "opponent": ""
-    },
-    {
-      "date": "tor 26",
-      "month": "MARS 2026",
       "startTime": "19:30",
       "endTime": "21:30",
       "team": "F16",
@@ -3211,17 +3200,6 @@
       "endTime": "22:00",
       "team": "HK Blå 85",
       "location": "Bollhuset",
-      "type": "Träning",
-      "title": "",
-      "opponent": ""
-    },
-    {
-      "date": "fre 27",
-      "month": "MARS 2026",
-      "startTime": "17:00",
-      "endTime": "18:30",
-      "team": "HERRAR A",
-      "location": "Fäladshallen",
       "type": "Träning",
       "title": "",
       "opponent": ""
@@ -3615,17 +3593,6 @@
       "date": "mån 30",
       "month": "MARS 2026",
       "startTime": "19:00",
-      "endTime": "20:30",
-      "team": "HERRAR A",
-      "location": "Arenan",
-      "type": "Träning",
-      "title": "",
-      "opponent": ""
-    },
-    {
-      "date": "mån 30",
-      "month": "MARS 2026",
-      "startTime": "19:00",
       "endTime": "20:15",
       "team": "F13",
       "location": "Bollhuset",
@@ -3684,17 +3651,6 @@
       "endTime": "18:30",
       "team": "P8",
       "location": "Hubertusgårdens Gymnastiksal",
-      "type": "Träning",
-      "title": "",
-      "opponent": ""
-    },
-    {
-      "date": "tis 31",
-      "month": "MARS 2026",
-      "startTime": "17:30",
-      "endTime": "19:00",
-      "team": "HERRAR A",
-      "location": "Arenan",
       "type": "Träning",
       "title": "",
       "opponent": ""
