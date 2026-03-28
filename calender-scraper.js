@@ -18,21 +18,27 @@ function cleanLocation(location, opponent) {
 
   let cleaned = location;
 
-  // Remove opponent if it leaked into location
   if (opponent) {
     cleaned = cleaned.replace(opponent, "");
   }
 
-  // 🔥 Remove "Träning" anywhere
+  // remove "Träning"
   cleaned = cleaned.replace(/träning/gi, "");
 
-  // Remove parentheses content
+  // remove parentheses
   cleaned = cleaned.split("(")[0];
 
-  // Keep only first part before comma
+  // split glued words (ArenaSomething)
+  cleaned = cleaned.replace(/([a-zåäö])([A-ZÅÄÖ])/g, "$1|$2");
+  cleaned = cleaned.split("|")[0];
+
+  // remove after comma
   cleaned = cleaned.split(",")[0];
 
-  // Normalize spacing
+  // remove duplicate words
+  const words = cleaned.split(" ");
+  cleaned = [...new Set(words)].join(" ");
+
   cleaned = cleaned.replace(/\s+/g, " ").trim();
 
   return cleaned || "Unknown";
@@ -89,17 +95,32 @@ function cleanLocation(location, opponent) {
 
         currentDate = date;
         currentWeekday = weekday;
-
         return;
       }
 
       if (!currentDate) return;
 
-      // 📍 EVENT
-      const activityEl = row.find("a.kal");
-      if (!activityEl.length) return;
+      // 🔥 EVENT TEXT (robust)
+      let rawText = row.find("a.kal").text().trim();
 
-      const rawText = activityEl.text().trim();
+      // fallback: any link
+      if (!rawText) {
+        const links = row.find("a");
+
+        links.each((i, el) => {
+          const txt = $(el).text().trim();
+
+          if (
+            txt &&
+            txt.length > 3 &&
+            !txt.match(/^\d{2}:\d{2}$/)
+          ) {
+            rawText = txt;
+            return false;
+          }
+        });
+      }
+
       if (!rawText) return;
 
       // ⏱ TIME
@@ -124,7 +145,12 @@ function cleanLocation(location, opponent) {
       row.find("a").each((i, a) => {
         const txt = $(a).text().trim();
 
-        if (!$(a).hasClass("kal") && txt && txt.length < 50) {
+        if (
+          !$(a).hasClass("kal") &&
+          txt &&
+          txt.length < 50 &&
+          !txt.match(/\d{2}:\d{2}/)
+        ) {
           team = txt;
           return false;
         }
@@ -154,10 +180,8 @@ function cleanLocation(location, opponent) {
         location = parts[1]?.trim() || "";
       }
 
-      // ❌ Skip cancelled
       if (rawText.toLowerCase().includes("inställd")) return;
 
-      // 🧼 CLEAN DATA
       const finalDate = cleanDate(currentWeekday, currentDate);
       const finalLocation = cleanLocation(location, opponent);
 
@@ -174,13 +198,27 @@ function cleanLocation(location, opponent) {
       });
     });
 
-    console.log("📊 Parsed events:", events.length);
+    console.log("📊 Parsed events before dedup:", events.length);
+
+    // 🔁 DEDUP
+    const unique = [];
+    const seen = new Set();
+
+    for (const e of events) {
+      const key = `${e.date}-${e.startTime}-${e.team}-${e.location}-${e.opponent}`;
+      if (!seen.has(key)) {
+        seen.add(key);
+        unique.push(e);
+      }
+    }
+
+    console.log("📊 Parsed events after dedup:", unique.length);
 
     const output = {
       scrapedAt: new Date().toISOString(),
       source: URL,
-      eventCount: events.length,
-      events
+      eventCount: unique.length,
+      events: unique
     };
 
     fs.writeFileSync(
@@ -189,7 +227,7 @@ function cleanLocation(location, opponent) {
       "utf-8"
     );
 
-    console.log(`✅ Done. ${events.length} events saved`);
+    console.log(`✅ Done. ${unique.length} events saved`);
 
   } catch (err) {
     console.error("❌ Scraper failed:", err);
