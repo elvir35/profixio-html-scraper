@@ -58,7 +58,7 @@ async function fetchMonth(month, year, monthName) {
 
   // ✅ KEEP UTF-8 FIX
   const { data } = await axios.get(url, { responseType: "arraybuffer" });
-  const html = Buffer.from(data, "binary").toString("utf-8");
+  const html = Buffer.from(data).toString("latin1");
 
   const $ = cheerio.load(html);
 
@@ -74,10 +74,10 @@ async function fetchMonth(month, year, monthName) {
     const dateCell = row.find("b").first().text().trim();
     const dayCell = row.find("font").first().text().trim();
 
-    if (dateCell) {
-      currentDate = dateCell;
-      currentDay = dayCell;
-    }
+    if (dateCell && /^\d{1,2}$/.test(dateCell)) {
+  currentDate = dateCell;
+  currentDay = dayCell;
+}
 
     // 🔁 ORIGINAL time logic (reverted)
     const timeText = row.find("span").text().trim();
