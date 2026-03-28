@@ -106,9 +106,14 @@ async function fetchMonth(month, year, monthName) {
 const isHome = /hemma/i.test(opponent);
 const isAway = /borta/i.test(opponent);
 
-const cleanOpponent = opponent
+let cleanOpponent = opponent
   .replace(/\s+(hemma|borta)$/i, "")
   .trim();
+
+// ✅ Remove "Träning" as opponent
+if (/träning/i.test(cleanOpponent)) {
+  cleanOpponent = "";
+}
     const type = getType(row);
 
     events.push({
