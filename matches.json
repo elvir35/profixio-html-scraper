@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-28T01:16:51.432Z",
+  "scrapedAt": "2026-03-28T06:46:55.718Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 571,
   "matches": [
@@ -109,18 +109,6 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F16",
-      "hall": "Fäladshallen",
-      "time": "12:30",
-      "date": "sön 29",
-      "month": "MARS 2026",
-      "home": "Lugi HF",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -349,6 +337,18 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F16",
+      "hall": "Fäladshallen",
+      "time": "00:00",
+      "date": "tor 30",
+      "month": "APRIL 2026",
+      "home": "Lugi HF",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
