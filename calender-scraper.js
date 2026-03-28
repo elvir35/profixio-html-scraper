@@ -1,4 +1,5 @@
 import fs from "fs";
+import cheerio from "cheerio";
 
 const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
@@ -21,52 +22,42 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
     console.log("📦 HTML length:", html.length);
 
-    // 🔥 Split into rows (this works with this endpoint)
-    const rows = html.split(/<tr[^>]*>/i);
+    const $ = cheerio.load(html);
+
+    const events = [];
 
     let currentDate = "";
     let currentWeekday = "";
     let currentMonth = "Mars";
 
-    const events = [];
+    $("tr").each((i, el) => {
+      const row = $(el);
 
-    for (const row of rows) {
-      const clean = row.replace(/\n/g, " ").trim();
-
-      // ✅ DATE ROW (robust)
-      if (/class\s*=\s*["']?dag/i.test(clean)) {
-        const dateMatch = clean.match(/<b[^>]*>(\d+)<\/b>/);
-        const weekdayMatch = clean.match(/<font[^>]*>(.*?)<\/font>/);
-
-        currentDate = dateMatch?.[1] || "";
-        currentWeekday = weekdayMatch?.[1] || "";
-
-        continue;
+      // 📅 DATE ROW
+      if (row.hasClass("dag")) {
+        currentDate = row.find("b").text().trim();
+        currentWeekday = row.find("font").text().trim();
+        return;
       }
 
-      // Skip until date is known
-      if (!currentDate) continue;
+      if (!currentDate) return;
 
-      // ✅ EVENT (kal link)
-      const activityMatch = clean.match(
-        /<a[^>]*class\s*=\s*["']?[^"'>]*\bkal\b[^"'>]*["']?[^>]*>(.*?)<\/a>/i
-      );
+      // 📍 EVENT
+      const activityEl = row.find("a.kal");
 
-      if (!activityMatch) continue;
+      if (!activityEl.length) return;
 
-      const rawText = activityMatch[1]
-        .replace(/<[^>]+>/g, "")
-        .replace(/&nbsp;/g, " ")
-        .trim();
+      const rawText = activityEl.text().trim();
+      if (!rawText) return;
 
-      if (!rawText) continue;
-
-      // ✅ TIME (from row)
-      const timeMatch = clean.match(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
-      const singleTime = clean.match(/>(\d{2}:\d{2})</);
-
+      // ⏱ TIME
       let startTime = "";
       let endTime = "";
+
+      const timeText = row.text();
+
+      const timeMatch = timeText.match(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
+      const singleTime = timeText.match(/\b(\d{2}:\d{2})\b/);
 
       if (timeMatch) {
         startTime = timeMatch[1];
@@ -75,24 +66,16 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
         startTime = singleTime[1];
       }
 
-      // ✅ TEAM (first non-kal link)
+      // 👥 TEAM (first link that is not kal)
       let team = "Unknown";
-      const links = [...clean.matchAll(/<a[^>]*>([^<]+)<\/a>/g)];
+      row.find("a").each((i, a) => {
+        const txt = $(a).text().trim();
 
-      for (const l of links) {
-        const txt = l[1].trim();
-
-        if (
-          txt &&
-          !txt.toLowerCase().includes("javascript") &&
-          !txt.toLowerCase().includes("visa") &&
-          txt.length < 50 &&
-          txt !== rawText
-        ) {
+        if (!$(a).hasClass("kal") && txt) {
           team = txt;
-          break;
+          return false;
         }
-      }
+      });
 
       // 📍 TYPE / LOCATION / OPPONENT
       const lower = rawText.toLowerCase();
@@ -119,7 +102,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       }
 
       // ❌ Skip cancelled
-      if (rawText.toLowerCase().includes("inställd")) continue;
+      if (rawText.toLowerCase().includes("inställd")) return;
 
       events.push({
         date: `${currentWeekday} ${currentDate}`,
@@ -132,7 +115,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
         title,
         opponent
       });
-    }
+    });
 
     console.log("📊 Parsed events:", events.length);
 
@@ -143,11 +126,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       events
     };
 
-    fs.writeFileSync(
-      "calendar.json",
-      JSON.stringify(output, null, 2),
-      "utf-8"
-    );
+    fs.writeFileSync("calendar.json", JSON.stringify(output, null, 2));
 
     console.log(`✅ Done. ${events.length} events saved`);
 
