@@ -30,25 +30,30 @@ function cleanLocation(location, opponent) {
 
 // 🔥 FINAL DATE FIX (GLOBAL CLOSEST MATCH)
 function getDateForRow($, row) {
-  const allDays = $("tr.dag");
+  // ✅ FIRST: look backwards globally
+  let dag = row.prevAll("tr.dag").first();
 
-  let closest = null;
-  let minDistance = Infinity;
+  // 🔥 If not found → fallback: use first dag BELOW
+  if (!dag.length) {
+    dag = row.nextAll("tr.dag").first();
+  }
 
-  allDays.each((i, el) => {
-    const dag = $(el);
+  if (dag.length) {
+    const font = dag.find("font").first();
 
-    // position in DOM
-    const rowIndex = row[0].sourceIndex || 0;
-    const dagIndex = dag[0].sourceIndex || 0;
+    const weekday = font
+      .contents()
+      .filter((_, el) => el.type === "text")
+      .text()
+      .trim();
 
-    const distance = Math.abs(rowIndex - dagIndex);
+    const date = dag.find("b").first().text().trim();
 
-    if (distance < minDistance) {
-      minDistance = distance;
-      closest = dag;
-    }
-  });
+    return { weekday, date };
+  }
+
+  return { weekday: "", date: "" };
+};
 
   if (closest) {
     const font = closest.find("font").first();
