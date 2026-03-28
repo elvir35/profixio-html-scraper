@@ -28,6 +28,31 @@ function cleanLocation(location, opponent) {
   return cleaned || "Unknown";
 }
 
+// 🔥 MOVED OUTSIDE + RETURN FIXED STRUCTURE
+function getDateForRow($, row) {
+  let prev = row.prev();
+
+  while (prev.length) {
+    if (prev.hasClass("dag")) {
+      const font = prev.find("font").first();
+
+      const weekday = font
+        .contents()
+        .filter((_, el) => el.type === "text")
+        .text()
+        .trim();
+
+      const date = prev.find("b").first().text().trim();
+
+      return { weekday, date };
+    }
+
+    prev = prev.prev();
+  }
+
+  return { weekday: "", date: "" };
+}
+
 (async () => {
   try {
     console.log("➡️ Fetching calendar...");
@@ -49,36 +74,12 @@ function cleanLocation(location, opponent) {
 
     const events = [];
 
-    let currentDate = "";
-    let currentWeekday = "";
-
     $("tr").each((i, el) => {
       const row = $(el);
 
-      // 📅 Update date
-      function getDateForRow($, row) {
-  let prev = row.prev();
-
-  while (prev.length) {
-    if (prev.hasClass("dag")) {
-      const font = prev.find("font").first();
-
-      const weekday = font
-        .contents()
-        .filter((_, el) => el.type === "text")
-        .text()
-        .trim();
-
-      const date = prev.find("b").first().text().trim();
-
-      return `${weekday} ${date}`;
-    }
-
-    prev = prev.prev();
-  }
-
-  return "";
-}
+      // 🔥 ONLY CHANGE: use getDateForRow
+      const { weekday, date } = getDateForRow($, row);
+      const finalDate = cleanDate(weekday, date);
 
       // 🔥 LOOP EVENTS INSIDE ROW
       row.find(".calAkt3").each((i, eventEl) => {
@@ -134,11 +135,10 @@ function cleanLocation(location, opponent) {
           location = parts[1]?.trim() || "";
         }
 
-        const finalDate = cleanDate(currentWeekday, currentDate);
         const finalLocation = cleanLocation(location, opponent);
 
         events.push({
-          date: finalDate,
+          date: finalDate, // ✅ now correctly populated
           month: "Mars",
           startTime,
           endTime,
