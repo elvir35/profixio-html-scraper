@@ -25,27 +25,32 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
     return document.querySelectorAll("tr").length > 10;
   });
 
-  // 🧠 SCROLL TO LOAD ALL EVENTS
-  console.log("⬇️ Scrolling to load all events...");
+  // 🧠 STEP-BY-STEP SCROLL (Playwright)
+console.log("⬇️ Scrolling step-by-step to load all events...");
 
-  let previousHeight = 0;
+await page.evaluate(async () => {
+  const delay = ms => new Promise(res => setTimeout(res, ms));
 
-  while (true) {
-    const currentHeight = await page.evaluate(() => document.body.scrollHeight);
+  let lastHeight = 0;
 
-    if (currentHeight === previousHeight) break;
+  for (let i = 0; i < 40; i++) {
+    window.scrollBy(0, 500); // simulate real user scroll
+    await delay(300);
 
-    previousHeight = currentHeight;
+    const newHeight = document.body.scrollHeight;
 
-    await page.evaluate(() => {
-      window.scrollTo(0, document.body.scrollHeight);
-    });
+    if (newHeight === lastHeight) {
+      break; // no more content loading
+    }
 
-    // Give time for lazy-loaded content
-    await page.waitForTimeout(1200);
+    lastHeight = newHeight;
   }
+});
 
-  console.log("✅ Finished scrolling");
+// Extra safety wait
+await page.waitForTimeout(1000);
+
+console.log("✅ Finished scrolling");
 
   const events = await page.evaluate(() => {
     const rows = Array.from(document.querySelectorAll("tr"));
