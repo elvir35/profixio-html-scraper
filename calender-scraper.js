@@ -34,10 +34,7 @@ function parseTime(timeText) {
 function parseTitle(title) {
   if (!title) return { opponent: "", location: "", title: "" };
 
-  // Example:
-  // "Ljunghusens HK borta, Henriksdalshallen"
   const parts = title.split(",");
-
   const opponent = parts[0]?.trim() || "";
   const location = parts[1]?.trim() || "";
 
@@ -55,9 +52,7 @@ function getType(row) {
   return "";
 }
 
-async function fetchCurrentMonth() {
-  const { month, year, monthName } = getCurrentMonth();
-
+async function fetchMonth(month, year, monthName) {
   const url = `${BASE_URL}?ID=${CALENDAR_ID}&manad=${month}&ar=${year}`;
   console.log("Fetching:", url);
 
@@ -72,25 +67,21 @@ async function fetchCurrentMonth() {
   $("table.mCal tr").each((_, el) => {
     const row = $(el);
 
-    // Detect new day
-    const date = row.find("b").first().text().trim();
-    const day = row.find("font").first().text().trim();
+    // Detect date row
+    const dateCell = row.find("b").first().text().trim();
+    const dayCell = row.find("font").first().text().trim();
 
-    if (date) {
-      currentDate = date;
-      currentDay = day;
+    if (dateCell) {
+      currentDate = dateCell;
+      currentDay = dayCell;
     }
 
-    const link = row.find("a.kal").first();
-
-    // Skip tooltip duplicates
-    if (!link.length || row.find(".calAkt1").length) return;
-
-    const rawTitle = link.text().trim();
-    const team = row.find("a").first().text().trim();
     const timeText = row.find("span").text().trim();
+    const team = row.find("a").first().text().trim();
+    const rawTitle = row.find("a.kal").first().text().trim();
 
-    if (!team || !rawTitle) return;
+    // Skip invalid / tooltip rows
+    if (!team || !rawTitle || row.find(".calAkt1").length) return;
 
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
@@ -109,28 +100,31 @@ async function fetchCurrentMonth() {
     });
   });
 
-  // Deduplicate
-  const seen = new Set();
-  const unique = events.filter(e => {
-    const key = `${e.date}-${e.startTime}-${e.team}-${e.opponent}-${e.location}`;
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
-
-  return unique;
+  return events;
 }
 
 (async () => {
   try {
-    const events = await fetchCurrentMonth();
+    const { month, year, monthName } = getCurrentMonth();
+
+    // ✅ ONLY current month
+    const events = await fetchMonth(month, year, monthName);
+
+    // Deduplicate
+    const seen = new Set();
+    const unique = events.filter(e => {
+      const key = `${e.date}-${e.startTime}-${e.team}-${e.opponent}-${e.location}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
 
     fs.writeFileSync(
       "calendar_current_month.json",
-      JSON.stringify(events, null, 2)
+      JSON.stringify(unique, null, 2)
     );
 
-    console.log("✅ Done. Events:", events.length);
+    console.log("✅ Done. Events:", unique.length);
 
   } catch (err) {
     console.error(err);
