@@ -81,7 +81,7 @@ async function fetchMonth(month, year, monthName) {
     const rawTitle = row.find("a.kal").first().text().trim();
 
     // Skip invalid / tooltip rows
-    if (!team || !rawTitle || row.find(".calAkt1").length) return;
+    if (!team || !rawTitle) return;
 
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
