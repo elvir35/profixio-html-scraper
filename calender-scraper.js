@@ -28,8 +28,9 @@ function cleanLocation(location, opponent) {
   return cleaned || "Unknown";
 }
 
-// 🔥 MOVED OUTSIDE + RETURN FIXED STRUCTURE
+// 🔥 FIXED: date function with forward fallback
 function getDateForRow($, row) {
+  // 🔙 backwards
   let prev = row.prev();
 
   while (prev.length) {
@@ -46,8 +47,27 @@ function getDateForRow($, row) {
 
       return { weekday, date };
     }
-
     prev = prev.prev();
+  }
+
+  // 🔥 forward fallback
+  let next = row.next();
+
+  while (next.length) {
+    if (next.hasClass("dag")) {
+      const font = next.find("font").first();
+
+      const weekday = font
+        .contents()
+        .filter((_, el) => el.type === "text")
+        .text()
+        .trim();
+
+      const date = next.find("b").first().text().trim();
+
+      return { weekday, date };
+    }
+    next = next.next();
   }
 
   return { weekday: "", date: "" };
@@ -77,7 +97,7 @@ function getDateForRow($, row) {
     $("tr").each((i, el) => {
       const row = $(el);
 
-      // 🔥 ONLY CHANGE: use getDateForRow
+      // 🔥 FIXED DATE USAGE
       const { weekday, date } = getDateForRow($, row);
       const finalDate = cleanDate(weekday, date);
 
@@ -85,8 +105,11 @@ function getDateForRow($, row) {
       row.find(".calAkt3").each((i, eventEl) => {
         const eventNode = $(eventEl);
 
-        const rawText = eventNode.find("a.kal").first().text().trim();
-        if (!rawText) return;
+        // 🔥 FIXED: scoped link
+        const activityLink = eventNode.find("a.kal").first();
+        if (!activityLink.length) return;
+
+        const rawText = activityLink.text().trim();
 
         const rowText = row.text();
 
@@ -119,26 +142,30 @@ function getDateForRow($, row) {
         let opponent = "";
         let title = "";
 
+        const parts = rawText.split(",");
+
         if (lower.includes("borta") || lower.includes("hemma")) {
           type = "Match";
-          const parts = rawText.split(",");
-          opponent = parts[0]?.trim() || "";
-          location = parts[1]?.trim() || "";
+
+          opponent = parts.length > 0 ? parts[0].trim() : "";
+          location = parts.length > 1 ? parts[1].trim() : "";
+
         } else if (lower.includes("träning")) {
           type = "Träning";
-          const parts = rawText.split(",");
-          location = parts[1]?.trim() || "";
+
+          location = parts.length > 1 ? parts[1].trim() : "";
+
         } else {
           type = "Övrigt";
-          const parts = rawText.split(",");
-          title = parts[0]?.trim() || "";
-          location = parts[1]?.trim() || "";
+
+          title = parts.length > 0 ? parts[0].trim() : "";
+          location = parts.length > 1 ? parts[1].trim() : "";
         }
 
         const finalLocation = cleanLocation(location, opponent);
 
         events.push({
-          date: finalDate, // ✅ now correctly populated
+          date: finalDate,
           month: "Mars",
           startTime,
           endTime,
