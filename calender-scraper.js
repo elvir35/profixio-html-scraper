@@ -21,55 +21,15 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
     console.log("📦 HTML length:", html.length);
 
-    // 🔥 Extract ALL event rows (kal links)
-    const matches = [...html.matchAll(/<a[^>]*class="kal"[^>]*>(.*?)<\/a>/gi)];
+    // ✅ SAVE DEBUG FILE
+    fs.writeFileSync("debug_calendar.html", html, "utf-8");
 
-    console.log("📊 Found activity links:", matches.length);
+    console.log("💾 Saved debug_calendar.html");
 
-    const events = [];
-
-    for (const match of matches) {
-      const raw = match[1].replace(/<[^>]+>/g, "").trim();
-
-      if (!raw) continue;
-
-      const lower = raw.toLowerCase();
-
-      let type = "";
-      let location = "";
-      let opponent = "";
-      let title = "";
-
-      if (lower.includes("borta") || lower.includes("hemma")) {
-        type = "Match";
-        const parts = raw.split(",");
-        opponent = parts[0]?.trim() || "";
-        location = parts[1]?.trim() || "";
-      } else if (lower.includes("träning")) {
-        type = "Träning";
-        const parts = raw.split(",");
-        location = parts[1]?.trim() || "";
-      } else {
-        type = "Övrigt";
-        const parts = raw.split(",");
-        title = parts[0]?.trim() || "";
-        location = parts[1]?.trim() || "";
-      }
-
-      events.push({
-        raw,
-        type,
-        location,
-        opponent,
-        title
-      });
-    }
-
-    console.log("📊 Parsed events:", events.length);
-
-    fs.writeFileSync("calendar.json", JSON.stringify(events, null, 2), "utf-8");
-
-    console.log("✅ Done");
+    // 🔍 Quick debug checks
+    console.log("Contains 'kal'?", html.includes("kal"));
+    console.log("Contains '<tr'?", html.includes("<tr"));
+    console.log("Contains 'dag'?", html.includes("dag"));
 
   } catch (err) {
     console.error("❌ Scraper failed:", err);
