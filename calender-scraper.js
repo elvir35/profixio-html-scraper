@@ -1,7 +1,6 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
 import fs from "fs";
-import path from "path";
 
 const BASE_URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 const CALENDAR_ID = 331251;
@@ -42,7 +41,7 @@ function parseTitle(title) {
 
   const parts = title.split(",");
   const opponent = parts[0]?.trim() || "";
-  const location = parts[1]?.replace(/\s+/g, " ").trim() || "";
+  const location = parts[1]?.trim() || "";
 
   return {
     opponent,
@@ -62,7 +61,7 @@ async function fetchMonth(month, year, monthName) {
   const url = `${BASE_URL}?ID=${CALENDAR_ID}&manad=${month}&ar=${year}`;
   console.log("Fetching:", url);
 
-  // ✅ FIX encoding
+  // ✅ FIX: correct encoding
   const { data } = await axios.get(url, { responseType: "arraybuffer" });
   const html = Buffer.from(data, "binary").toString("utf-8");
 
@@ -72,38 +71,26 @@ async function fetchMonth(month, year, monthName) {
 
   let currentDate = "";
   let currentDay = "";
-  let startedMonth = false;
 
   $("table.mCal tr").each((_, el) => {
     const row = $(el);
 
-    // ✅ Detect date rows safely
+    // ✅ FIX: only update on real date rows
     const dateCell = row.find("b").text().trim();
     const dayCell = row.find("font").text().trim();
 
-    if (dateCell && dayCell && dateCell.length <= 2) {
-      const dayNum = parseInt(dateCell, 10);
-
-      // Start of correct month
-      if (dayNum === 1) {
-        startedMonth = true;
-      }
-
+    if (dateCell && dayCell && /^\d{1,2}$/.test(dateCell)) {
       currentDate = dateCell;
       currentDay = dayCell;
     }
 
-    // ❌ Skip previous month days
-    if (!startedMonth) return;
-
-    // ❌ Stop when next month starts
-    if (startedMonth && currentDate === "01" && events.length > 0) return false;
-
-    // ✅ Extract ONLY correct time column
+    // ✅ FIX: only get time column (avoid duplicates)
     const timeText = row.find("td").eq(0).text().trim();
+
     const team = row.find("a").first().text().trim();
     const rawTitle = row.find("a.kal").first().text().trim();
 
+    // Skip invalid rows
     if (!team || !rawTitle) return;
 
     const { startTime, endTime } = parseTime(timeText);
@@ -130,9 +117,10 @@ async function fetchMonth(month, year, monthName) {
   try {
     const { month, year, monthName } = getCurrentMonth();
 
+    // Only current month
     const events = await fetchMonth(month, year, monthName);
 
-    // ✅ Deduplicate
+    // Deduplicate
     const seen = new Set();
     const unique = events.filter(e => {
       const key = `${e.date}-${e.startTime}-${e.team}-${e.opponent}-${e.location}`;
@@ -141,17 +129,16 @@ async function fetchMonth(month, year, monthName) {
       return true;
     });
 
-    // ✅ Save to repo root
-    const filePath = path.join(process.cwd(), "calendar.json");
+    // ✅ FIX: ensure proper encoding when saving
+    fs.writeFileSync(
+      "calendar.json",
+      JSON.stringify(unique, null, 2),
+      "utf-8"
+    );
 
-    console.log("Saving to:", filePath);
-    console.log("Events:", unique.length);
-
-    fs.writeFileSync(filePath, JSON.stringify(unique, null, 2), "utf-8");
-
-    console.log("✅ File saved successfully");
+    console.log("✅ Done. Events:", unique.length);
 
   } catch (err) {
-    console.error("❌ ERROR:", err);
+    console.error(err);
   }
 })();
