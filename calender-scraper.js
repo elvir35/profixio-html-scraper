@@ -28,6 +28,45 @@ function cleanLocation(location, opponent) {
   return cleaned || "Unknown";
 }
 
+// 🔥 DATE FIX (robust + no event loss)
+function getDateForRow($, row) {
+  // 1. Try backward
+  let dag = row.prevAll("tr.dag").first();
+
+  if (dag.length) {
+    const font = dag.find("font").first();
+
+    const weekday = font
+      .contents()
+      .filter((_, el) => el.type === "text")
+      .text()
+      .trim();
+
+    const date = dag.find("b").first().text().trim();
+
+    return { weekday, date };
+  }
+
+  // 2. Try forward
+  dag = row.nextAll("tr.dag").first();
+
+  if (dag.length) {
+    const font = dag.find("font").first();
+
+    const weekday = font
+      .contents()
+      .filter((_, el) => el.type === "text")
+      .text()
+      .trim();
+
+    const date = dag.find("b").first().text().trim();
+
+    return { weekday, date };
+  }
+
+  return { weekday: "", date: "" };
+}
+
 (async () => {
   try {
     console.log("➡️ Fetching calendar...");
@@ -49,30 +88,12 @@ function cleanLocation(location, opponent) {
 
     const events = [];
 
-    let currentDate = "";
-    let currentWeekday = "";
-
-    // 🔥 NEW: global fallback
-    let lastKnownDate = "";
-
     $("tr").each((i, el) => {
       const row = $(el);
 
-      // 📅 DATE ROW
-      if (row.hasClass("dag")) {
-        const font = row.find("font").first();
-
-        currentWeekday = font
-          .contents()
-          .filter((_, el) => el.type === "text")
-          .text()
-          .trim();
-
-        currentDate = row.find("b").first().text().trim();
-
-        lastKnownDate = cleanDate(currentWeekday, currentDate);
-        return;
-      }
+      // 🔥 FIXED DATE (NO SKIPPING ROWS)
+      const { weekday, date } = getDateForRow($, row);
+      const finalDate = cleanDate(weekday, date);
 
       row.find(".calAkt3").each((i, eventEl) => {
         const eventNode = $(eventEl);
@@ -129,12 +150,6 @@ function cleanLocation(location, opponent) {
         }
 
         const finalLocation = cleanLocation(location, opponent);
-
-        // 🔥 FINAL DATE FIX
-        const finalDate =
-          currentDate && currentWeekday
-            ? cleanDate(currentWeekday, currentDate)
-            : lastKnownDate;
 
         events.push({
           date: finalDate,
