@@ -120,7 +120,7 @@ async function fetchMonth(month, year, monthName) {
     });
 
     fs.writeFileSync(
-      "calendar_current_month.json",
+      "calendar.json",
       JSON.stringify(unique, null, 2)
     );
 
