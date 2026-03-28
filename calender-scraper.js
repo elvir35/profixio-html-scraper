@@ -102,6 +102,13 @@ async function fetchMonth(month, year, monthName) {
 
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
+    // ✅ ADD THIS HERE
+const isHome = /hemma/i.test(opponent);
+const isAway = /borta/i.test(opponent);
+
+const cleanOpponent = opponent
+  .replace(/\s+(hemma|borta)$/i, "")
+  .trim();
     const type = getType(row);
 
     events.push({
