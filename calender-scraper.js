@@ -23,14 +23,28 @@ function getCurrentMonth() {
 function parseTime(timeText) {
   if (!timeText) return { startTime: "", endTime: "" };
 
-  if (timeText.includes("-")) {
-    const [start, end] = timeText.split("-").map(t => t.trim());
-    return { startTime: start, endTime: end };
+  let clean = timeText.replace(/\s+/g, " ").trim();
+
+  // Remove "Flera dagar"
+  clean = clean.replace("Flera dagar", "").trim();
+
+  // Extract ONLY first valid time range
+  const match = clean.match(/\d{2}:\d{2}(\s*-\s*\d{2}:\d{2})?/);
+
+  if (!match) return { startTime: "", endTime: "" };
+
+  const value = match[0];
+
+  if (value.includes("-")) {
+    const [start, end] = value.split("-");
+    return {
+      startTime: start.trim(),
+      endTime: end.trim()
+    };
   }
 
-  return { startTime: timeText.trim(), endTime: "" };
+  return { startTime: value.trim(), endTime: "" };
 }
-
 function parseTitle(title) {
   if (!title) return { opponent: "", location: "", title: "" };
 
