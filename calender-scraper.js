@@ -18,16 +18,21 @@ function cleanLocation(location, opponent) {
 
   let cleaned = location;
 
+  // Remove opponent if it leaked into location
   if (opponent) {
     cleaned = cleaned.replace(opponent, "");
   }
 
-  // remove text in parentheses if duplicated/noisy
+  // 🔥 Remove "Träning" anywhere
+  cleaned = cleaned.replace(/träning/gi, "");
+
+  // Remove parentheses content
   cleaned = cleaned.split("(")[0];
 
-  // remove duplicates / extra commas
+  // Keep only first part before comma
   cleaned = cleaned.split(",")[0];
 
+  // Normalize spacing
   cleaned = cleaned.replace(/\s+/g, " ").trim();
 
   return cleaned || "Unknown";
@@ -67,7 +72,7 @@ function cleanLocation(location, opponent) {
     $("tr").each((i, el) => {
       const row = $(el);
 
-      // 📅 DATE ROW (clean extraction)
+      // 📅 DATE ROW
       if (row.hasClass("dag")) {
         const font = row.find("font").first();
 
@@ -92,7 +97,6 @@ function cleanLocation(location, opponent) {
 
       // 📍 EVENT
       const activityEl = row.find("a.kal");
-
       if (!activityEl.length) return;
 
       const rawText = activityEl.text().trim();
