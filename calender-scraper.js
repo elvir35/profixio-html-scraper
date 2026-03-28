@@ -28,13 +28,30 @@ function cleanLocation(location, opponent) {
   return cleaned || "Unknown";
 }
 
-// 🔥 FIXED: date function with forward fallback
+// 🔥 FINAL DATE FIX (GLOBAL CLOSEST MATCH)
 function getDateForRow($, row) {
-  // 🔥 FIND closest previous .dag ANYWHERE above
-  const dag = row.prevAll("tr.dag").first();
+  const allDays = $("tr.dag");
 
-  if (dag.length) {
-    const font = dag.find("font").first();
+  let closest = null;
+  let minDistance = Infinity;
+
+  allDays.each((i, el) => {
+    const dag = $(el);
+
+    // position in DOM
+    const rowIndex = row[0].sourceIndex || 0;
+    const dagIndex = dag[0].sourceIndex || 0;
+
+    const distance = Math.abs(rowIndex - dagIndex);
+
+    if (distance < minDistance) {
+      minDistance = distance;
+      closest = dag;
+    }
+  });
+
+  if (closest) {
+    const font = closest.find("font").first();
 
     const weekday = font
       .contents()
@@ -42,32 +59,9 @@ function getDateForRow($, row) {
       .text()
       .trim();
 
-    const date = dag.find("b").first().text().trim();
+    const date = closest.find("b").first().text().trim();
 
     return { weekday, date };
-  }
-
-  return { weekday: "", date: "" };
-}
-
-  // 🔥 forward fallback
-  let next = row.next();
-
-  while (next.length) {
-    if (next.hasClass("dag")) {
-      const font = next.find("font").first();
-
-      const weekday = font
-        .contents()
-        .filter((_, el) => el.type === "text")
-        .text()
-        .trim();
-
-      const date = next.find("b").first().text().trim();
-
-      return { weekday, date };
-    }
-    next = next.next();
   }
 
   return { weekday: "", date: "" };
@@ -97,15 +91,13 @@ function getDateForRow($, row) {
     $("tr").each((i, el) => {
       const row = $(el);
 
-      // 🔥 FIXED DATE USAGE
+      // 🔥 FIXED DATE (ONLY CHANGE)
       const { weekday, date } = getDateForRow($, row);
       const finalDate = cleanDate(weekday, date);
 
-      // 🔥 LOOP EVENTS INSIDE ROW
       row.find(".calAkt3").each((i, eventEl) => {
         const eventNode = $(eventEl);
 
-        // 🔥 FIXED: scoped link
         const activityLink = eventNode.find("a.kal").first();
         if (!activityLink.length) return;
 
@@ -146,18 +138,13 @@ function getDateForRow($, row) {
 
         if (lower.includes("borta") || lower.includes("hemma")) {
           type = "Match";
-
           opponent = parts.length > 0 ? parts[0].trim() : "";
           location = parts.length > 1 ? parts[1].trim() : "";
-
         } else if (lower.includes("träning")) {
           type = "Träning";
-
           location = parts.length > 1 ? parts[1].trim() : "";
-
         } else {
           type = "Övrigt";
-
           title = parts.length > 0 ? parts[0].trim() : "";
           location = parts.length > 1 ? parts[1].trim() : "";
         }
