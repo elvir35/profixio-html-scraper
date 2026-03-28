@@ -25,7 +25,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
     console.log("📦 HTML length:", html.length);
 
-    // ✅ FIND ALL EVENTS (works with class=kal, with or without quotes)
+    // ✅ Find all events (handles class=kal without quotes)
     const matches = [
       ...html.matchAll(
         /<a[^>]*class\s*=\s*["']?[^"'>]*\bkal\b[^"'>]*["']?[^>]*>(.*?)<\/a>/gi
@@ -39,7 +39,6 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
     for (const match of matches) {
       const index = match.index;
 
-      // 🧠 Clean event text
       const rawText = match[1]
         .replace(/<[^>]+>/g, "")
         .replace(/&nbsp;/g, " ")
@@ -47,13 +46,13 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
       if (!rawText) continue;
 
-      // 🔍 Look backwards (limited window = more reliable)
-      const before = html.slice(Math.max(0, index - 2000), index);
+      // 🔍 Look backwards (limited window)
+      const before = html.slice(Math.max(0, index - 2500), index);
 
-      // ✅ DATE (nearest above)
+      // ✅ DATE (robust)
       const dateMatches = [
         ...before.matchAll(
-          /class=dag[\s\S]*?<b[^>]*>(\d+)<\/b>[\s\S]*?<font[^>]*>(.*?)<\/font>/gi
+          /class\s*=\s*["']?dag["']?[\s\S]*?<b[^>]*>(\d+)<\/b>[\s\S]*?<font[^>]*>(.*?)<\/font>/gi
         )
       ];
       const lastDate = dateMatches.pop();
@@ -61,34 +60,39 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       const currentDate = lastDate?.[1] || "";
       const currentWeekday = lastDate?.[2] || "";
 
-      // ✅ TIME
+      // ✅ TIME (supports single + range)
       const timeMatches = [
-        ...before.matchAll(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/g)
+        ...before.matchAll(/(\d{2}:\d{2})(?:\s*-\s*(\d{2}:\d{2}))?/g)
       ];
-      const lastTime = timeMatches.pop();
 
       let startTime = "";
       let endTime = "";
 
-      if (lastTime) {
-        startTime = lastTime[1];
-        endTime = lastTime[2];
+      if (timeMatches.length) {
+        const lastTime = timeMatches.pop();
+        startTime = lastTime[1] || "";
+        endTime = lastTime[2] || "";
       }
 
-      // ✅ TEAM (last link before event)
+      // ✅ TEAM (last relevant link before event)
       const teamMatches = [
         ...before.matchAll(/<a[^>]*>([^<]+)<\/a>/g)
       ];
-      const lastTeam = teamMatches.pop();
 
-      let team = lastTeam?.[1]?.trim() || "Unknown";
+      let team = "Unknown";
 
-      // Remove garbage matches
-      if (
-        team.toLowerCase().includes("kal") ||
-        team.toLowerCase().includes("javascript")
-      ) {
-        team = "Unknown";
+      for (let i = teamMatches.length - 1; i >= 0; i--) {
+        const t = teamMatches[i][1].trim();
+
+        if (
+          t &&
+          !t.toLowerCase().includes("kal") &&
+          !t.toLowerCase().includes("javascript") &&
+          t.length < 50
+        ) {
+          team = t;
+          break;
+        }
       }
 
       // 📍 TYPE / LOCATION / OPPONENT
