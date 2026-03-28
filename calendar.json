@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-03-28T02:29:02.912Z",
+  "scrapedAt": "2026-03-28T07:03:29.613Z",
   "source": "https://h43lund.web.sportadmin.se/kalender/?ID=331251",
-  "eventCount": 343,
+  "eventCount": 342,
   "events": [
     {
       "date": "mån 02",
@@ -3500,17 +3500,6 @@
       "type": "Match",
       "title": "",
       "opponent": "HK Ankaret Röd hemma"
-    },
-    {
-      "date": "lör 28",
-      "month": "MARS 2026",
-      "startTime": "12:30",
-      "endTime": "",
-      "team": "F16",
-      "location": "Fäladshallen",
-      "type": "Match",
-      "title": "",
-      "opponent": "Lugi HF borta"
     },
     {
       "date": "lör 28",
