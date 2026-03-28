@@ -21,65 +21,54 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
     console.log("📦 HTML length:", html.length);
 
-    const rows = html.split(/<tr[^>]*>/i);
+    // 🔥 Find ALL event links first (this we KNOW works now)
+    const eventRegex = /<a[^>]*class\s*=\s*[^>]*\bkal\b[^>]*>(.*?)<\/a>/gi;
 
-    let currentDate = "";
-    let currentWeekday = "";
-    let currentMonth = "Mars"; // from header
+    const matches = [...html.matchAll(eventRegex)];
+
+    console.log("📊 Found raw events:", matches.length);
 
     const events = [];
 
-    for (const row of rows) {
-      const clean = row.replace(/\n/g, " ").trim();
+    for (const match of matches) {
+      const fullMatch = match[0];
+      const index = match.index;
 
-      // 📅 DATE ROW
-      if (/class=dag/i.test(clean)) {
-        const dateMatch = clean.match(/<b[^>]*>(\d+)<\/b>/);
-        const weekdayMatch = clean.match(/<font[^>]*>(.*?)<\/font>/);
-
-        currentDate = dateMatch?.[1] || "";
-        currentWeekday = weekdayMatch?.[1] || "";
-
-        continue;
-      }
-
-      if (!currentDate) continue;
-
-      // ⏱ TIME
-      let startTime = "";
-      let endTime = "";
-
-      const timeRange = clean.match(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
-      const singleTime = clean.match(/>(\d{2}:\d{2})</);
-
-      if (timeRange) {
-        startTime = timeRange[1];
-        endTime = timeRange[2];
-      } else if (singleTime) {
-        startTime = singleTime[1];
-      }
-
-      // 👥 TEAM (first link before kal)
-      let team = "Unknown";
-      const teamMatch = clean.match(/href='[^']*GID=0'>([^<]+)<\/a>/);
-      if (teamMatch) {
-        team = teamMatch[1].trim();
-      }
-
-      // 📍 ACTIVITY (fixed regex)
-      const activityMatch = clean.match(
-        /<a[^>]*class\s*=\s*["']?[^"'>]*\bkal\b[^"'>]*["']?[^>]*>(.*?)<\/a>/i
-      );
-
-      if (!activityMatch) continue;
-
-      const rawText = activityMatch[1]
+      // 🧠 Extract text
+      const rawText = match[1]
         .replace(/<[^>]+>/g, "")
         .replace(/&nbsp;/g, " ")
         .trim();
 
       if (!rawText) continue;
 
+      // 🔍 LOOK BACKWARDS for nearest date
+      const before = html.slice(0, index);
+
+      const dateMatch = before.match(/class=dag[\s\S]*?<b[^>]*>(\d+)<\/b>[\s\S]*?<font[^>]*>(.*?)<\/font>/i);
+
+      let currentDate = dateMatch?.[1] || "";
+      let currentWeekday = dateMatch?.[2] || "";
+
+      // ⏱ TIME
+      const timeMatch = fullMatch.match(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
+      const singleTime = fullMatch.match(/(\d{2}:\d{2})/);
+
+      let startTime = "";
+      let endTime = "";
+
+      if (timeMatch) {
+        startTime = timeMatch[1];
+        endTime = timeMatch[2];
+      } else if (singleTime) {
+        startTime = singleTime[1];
+      }
+
+      // 👥 TEAM (look nearby)
+      const teamMatch = before.match(/href='[^']*GID=0'>([^<]+)<\/a>[^<]*$/i);
+      let team = teamMatch?.[1]?.trim() || "Unknown";
+
+      // 📍 TYPE + LOCATION
       const lower = rawText.toLowerCase();
 
       let type = "";
@@ -87,42 +76,25 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       let opponent = "";
       let title = "";
 
-      // 🔴 Match
       if (lower.includes("borta") || lower.includes("hemma")) {
         type = "Match";
-
         const parts = rawText.split(",");
         opponent = parts[0]?.trim() || "";
         location = parts[1]?.trim() || "";
-      }
-
-      // 🟦 Training
-      else if (lower.includes("träning")) {
+      } else if (lower.includes("träning")) {
         type = "Träning";
-
         const parts = rawText.split(",");
         location = parts[1]?.trim() || "";
-      }
-
-      // 🟫 Other
-      else {
+      } else {
         type = "Övrigt";
-
         const parts = rawText.split(",");
         title = parts[0]?.trim() || "";
         location = parts[1]?.trim() || "";
-
-        if (title.toLowerCase().includes("vs")) {
-          opponent = title.split("vs")[1]?.trim() || "";
-        }
       }
-
-      // ❌ Skip cancelled
-      if (clean.toLowerCase().includes("inställd")) continue;
 
       events.push({
         date: `${currentWeekday} ${currentDate}`,
-        month: currentMonth,
+        month: "Mars",
         startTime,
         endTime,
         team,
@@ -135,29 +107,9 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
     console.log("📊 Parsed events:", events.length);
 
-    // 🔁 Deduplicate
-    const unique = [];
-    const seen = new Set();
+    fs.writeFileSync("calendar.json", JSON.stringify(events, null, 2), "utf-8");
 
-    for (const e of events) {
-      const key = `${e.date}-${e.startTime}-${e.team}-${e.location}-${e.opponent}`;
-
-      if (!seen.has(key)) {
-        seen.add(key);
-        unique.push(e);
-      }
-    }
-
-    const output = {
-      scrapedAt: new Date().toISOString(),
-      source: URL,
-      eventCount: unique.length,
-      events: unique
-    };
-
-    fs.writeFileSync("calendar.json", JSON.stringify(output, null, 2), "utf-8");
-
-    console.log(`✅ Done. ${unique.length} events saved`);
+    console.log("✅ Done");
 
   } catch (err) {
     console.error("❌ Scraper failed:", err);
