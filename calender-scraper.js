@@ -22,49 +22,9 @@ function cleanLocation(location, opponent) {
   cleaned = cleaned.replace(/([a-zåäö])([A-ZÅÄÖ])/g, "$1|$2");
   cleaned = cleaned.split("|")[0];
   cleaned = cleaned.split(",")[0];
-
   cleaned = cleaned.replace(/\s+/g, " ").trim();
 
   return cleaned || "Unknown";
-}
-
-// 🔥 DATE FIX (robust + no event loss)
-function getDateForRow($, row) {
-  // 1. Try backward
-  let dag = row.prevAll("tr.dag").first();
-
-  if (dag.length) {
-    const font = dag.find("font").first();
-
-    const weekday = font
-      .contents()
-      .filter((_, el) => el.type === "text")
-      .text()
-      .trim();
-
-    const date = dag.find("b").first().text().trim();
-
-    return { weekday, date };
-  }
-
-  // 2. Try forward
-  dag = row.nextAll("tr.dag").first();
-
-  if (dag.length) {
-    const font = dag.find("font").first();
-
-    const weekday = font
-      .contents()
-      .filter((_, el) => el.type === "text")
-      .text()
-      .trim();
-
-    const date = dag.find("b").first().text().trim();
-
-    return { weekday, date };
-  }
-
-  return { weekday: "", date: "" };
 }
 
 (async () => {
@@ -88,12 +48,40 @@ function getDateForRow($, row) {
 
     const events = [];
 
+    let currentDate = "";
+    let currentWeekday = "";
+    let lastKnownDate = "";
+
     $("tr").each((i, el) => {
       const row = $(el);
 
-      // 🔥 FIXED DATE (NO SKIPPING ROWS)
-      const { weekday, date } = getDateForRow($, row);
-      const finalDate = cleanDate(weekday, date);
+      // 🔥 FIX 1: detect "01 sön" format (FIRST COLUMN)
+      const firstCellText = row.find("td").first().text().trim();
+
+      const dateMatch = firstCellText.match(/(\d{1,2})\s*(mån|tis|ons|tor|fre|lör|sön)/i);
+
+      if (dateMatch) {
+        currentDate = dateMatch[1];
+        currentWeekday = dateMatch[2];
+        lastKnownDate = cleanDate(currentWeekday, currentDate);
+      }
+
+      // 🔥 FIX 2: detect classic .dag row
+      if (row.hasClass("dag")) {
+        const font = row.find("font").first();
+
+        currentWeekday = font
+          .contents()
+          .filter((_, el) => el.type === "text")
+          .text()
+          .trim();
+
+        currentDate = row.find("b").first().text().trim();
+
+        lastKnownDate = cleanDate(currentWeekday, currentDate);
+      }
+
+      const finalDate = lastKnownDate;
 
       row.find(".calAkt3").each((i, eventEl) => {
         const eventNode = $(eventEl);
