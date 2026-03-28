@@ -1,5 +1,5 @@
 import fs from "fs";
-import cheerio from "cheerio";
+import * as cheerio from "cheerio";
 
 const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
