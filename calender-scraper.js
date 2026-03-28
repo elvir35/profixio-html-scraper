@@ -1,8 +1,8 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs");
+import axios from "axios";
+import * as cheerio from "cheerio";
+import fs from "fs";
 
-const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
+const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp?ID=331251";
 
 (async () => {
   try {
@@ -18,13 +18,11 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
     $(".calendarTable tr").each((i, row) => {
       const $row = $(row);
 
-      // 🟡 Detect month
+      // 🟡 Month
       const monthText = $row.find(".manad").text().trim();
-      if (monthText) {
-        currentMonth = monthText;
-      }
+      if (monthText) currentMonth = monthText;
 
-      // 🟡 Detect date from .dag (original logic)
+      // 🟡 .dag date
       const dagText = $row.find(".dag").text().trim();
       if (dagText) {
         const match = dagText.match(/(\d{1,2})\s*(\w+)/);
@@ -36,28 +34,24 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
 
       const rowText = $row.text().trim();
 
-      // 🟢 ✅ FIX: fallback date detection (handles March 29 bug)
+      // 🔥 FIX: inline date (March 29 etc)
       const inlineDateMatch = rowText.match(/(mån|tis|ons|tor|fre|lör|sön)\s*(\d{1,2})/i);
       if (inlineDateMatch) {
         currentWeekday = inlineDateMatch[1];
         currentDate = inlineDateMatch[2];
       }
 
-      // 🛑 Skip if still no date
+      // ❌ skip if no date
       if (!currentDate || !currentWeekday) return;
 
       const cells = $row.find("td");
-
-      if (cells.length < 4) return;
+      if (cells.length < 3) return;
 
       const timeText = $(cells[1]).text().trim();
       const team = $(cells[2]).text().trim();
       const location = $(cells[3]).text().trim();
-      const type = $(cells[4]).text().trim();
-      const title = $(cells[5]).text().trim();
-      const opponent = $(cells[6]).text().trim();
 
-      // 🟡 Parse time
+      // ⏱ time parsing
       let startTime = "";
       let endTime = "";
 
@@ -67,6 +61,23 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
         endTime = parts[1].trim();
       } else {
         startTime = timeText;
+      }
+
+      // 📍 detect type/opponent
+      const lower = location.toLowerCase();
+
+      let type = "";
+      let opponent = "";
+      let title = "";
+
+      if (lower.includes("träning")) {
+        type = "Träning";
+      } else if (lower.includes("borta") || lower.includes("hemma")) {
+        type = "Match";
+        opponent = location.split(",")[0];
+      } else {
+        type = "Övrigt";
+        title = location.split(",")[0];
       }
 
       events.push({
@@ -82,17 +93,23 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
       });
     });
 
-    // 🟢 Save file
-    fs.writeFileSync("calendar.json", JSON.stringify({
-      scrapedAt: new Date().toISOString(),
-      source: URL,
-      eventCount: events.length,
-      events
-    }, null, 2));
+    fs.writeFileSync(
+      "calendar.json",
+      JSON.stringify(
+        {
+          scrapedAt: new Date().toISOString(),
+          source: URL,
+          eventCount: events.length,
+          events
+        },
+        null,
+        2
+      )
+    );
 
     console.log(`✅ Done! Saved ${events.length} events`);
 
   } catch (err) {
-    console.error("❌ Error:", err.message);
+    console.error("❌ Error:", err);
   }
 })();
