@@ -42,52 +42,46 @@ function cleanLocation(location, opponent) {
       body: new URLSearchParams({ ID: "331251" })
     });
 
+    if (!res.ok) {
+      throw new Error(`HTTP error! status: ${res.status}`);
+    }
+
     const buffer = Buffer.from(await res.arrayBuffer());
     const html = buffer.toString("latin1");
+
+    console.log("📦 HTML length:", html.length);
 
     const $ = cheerio.load(html);
 
     const events = [];
 
-    let currentDate = "";
-    let currentWeekday = "";
+    // 🔥 LOOP DAY BLOCKS (KEY FIX)
+    $(".inner").each((i, dayBlock) => {
+      const block = $(dayBlock);
 
-    $("tr").each((i, el) => {
-      const row = $(el);
+      // 📅 DATE
+      const dateText = block.find("b").first().text().trim();
 
-      // 📅 Update date
-      function getDateForRow($, row) {
-  let prev = row.prev();
-
-  while (prev.length) {
-    if (prev.hasClass("dag")) {
-      const font = prev.find("font").first();
-
-      const weekday = font
+      const weekday = block.find("font")
         .contents()
         .filter((_, el) => el.type === "text")
         .text()
         .trim();
 
-      const date = prev.find("b").first().text().trim();
+      const finalDate = cleanDate(weekday, dateText);
 
-      return `${weekday} ${date}`;
-    }
+      // ❌ skip if no valid date
+      if (!finalDate) return;
 
-    prev = prev.prev();
-  }
-
-  return "";
-}
-
-      // 🔥 LOOP EVENTS INSIDE ROW
-      row.find(".calAkt3").each((i, eventEl) => {
+      // 🔥 EVENTS INSIDE DAY
+      block.find(".calAkt3").each((i, eventEl) => {
         const eventNode = $(eventEl);
 
         const rawText = eventNode.find("a.kal").first().text().trim();
         if (!rawText) return;
 
-        const rowText = row.text();
+        const parentRow = eventNode.closest("tr");
+        const rowText = parentRow.text();
 
         // ⏱ TIME
         let startTime = "";
@@ -103,14 +97,15 @@ function cleanLocation(location, opponent) {
           startTime = singleTime[1];
         }
 
-        // 👥 TEAM
+        // 👥 TEAM (correct per event)
         let team = "Unknown";
-        const teamLink = row.find("td a").first();
+        const teamLink = eventNode.closest("td").find("a").first();
+
         if (teamLink.length) {
           team = teamLink.text().trim();
         }
 
-        // 📍 TYPE
+        // 📍 TYPE / LOCATION
         const lower = rawText.toLowerCase();
 
         let type = "";
@@ -134,7 +129,9 @@ function cleanLocation(location, opponent) {
           location = parts[1]?.trim() || "";
         }
 
-        const finalDate = cleanDate(currentWeekday, currentDate);
+        // ❌ Skip cancelled
+        if (rawText.toLowerCase().includes("inställd")) return;
+
         const finalLocation = cleanLocation(location, opponent);
 
         events.push({
@@ -151,17 +148,37 @@ function cleanLocation(location, opponent) {
       });
     });
 
-    console.log("📊 Parsed events:", events.length);
+    console.log("📊 Parsed events before dedup:", events.length);
+
+    // 🔁 DEDUP
+    const uniqueMap = new Map();
+
+    events.forEach(e => {
+      const key = `${e.date}-${e.startTime}-${e.team}-${e.location}-${e.opponent}`;
+      uniqueMap.set(key, e);
+    });
+
+    const finalEvents = Array.from(uniqueMap.values());
+
+    console.log("📊 Parsed events after dedup:", finalEvents.length);
+
+    const output = {
+      scrapedAt: new Date().toISOString(),
+      source: URL,
+      eventCount: finalEvents.length,
+      events: finalEvents
+    };
 
     fs.writeFileSync(
       "calendar.json",
-      JSON.stringify(events, null, 2),
+      JSON.stringify(output, null, 2),
       "utf-8"
     );
 
-    console.log("✅ Done");
+    console.log(`✅ Done. ${finalEvents.length} events saved`);
 
   } catch (err) {
-    console.error(err);
+    console.error("❌ Scraper failed:", err);
+    process.exit(1);
   }
 })();
