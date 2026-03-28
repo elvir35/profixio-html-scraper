@@ -20,14 +20,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: "npm"   # ✅ speeds up installs
 
-      - name: Install dependencies
-        run: npm install
-
-      # ❌ REMOVE this (not needed anymore)
-      # - name: Install Playwright browser
-      #   run: npx playwright install --with-deps
+      # ✅ No dependencies needed (since you're using native fetch)
+      # Remove this step if you truly have zero deps
+      # - name: Install dependencies
+      #   run: npm install
 
       - name: Run calendar scraper
         run: node calender-scraper.js
@@ -39,7 +36,6 @@ jobs:
 
           git add calendar.json
 
-          # Only commit if file changed
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
