@@ -3,6 +3,36 @@ import * as cheerio from "cheerio";
 
 const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
+// 🧼 CLEAN HELPERS
+function cleanDate(weekday, date) {
+  if (!weekday || !date) return "";
+
+  const wd = weekday.match(/(mån|tis|ons|tor|fre|lör|sön)/i)?.[0] || "";
+  const d = date.match(/\d{1,2}/)?.[0] || "";
+
+  return `${wd} ${d}`.trim();
+}
+
+function cleanLocation(location, opponent) {
+  if (!location) return "Unknown";
+
+  let cleaned = location;
+
+  if (opponent) {
+    cleaned = cleaned.replace(opponent, "");
+  }
+
+  // remove text in parentheses if duplicated/noisy
+  cleaned = cleaned.split("(")[0];
+
+  // remove duplicates / extra commas
+  cleaned = cleaned.split(",")[0];
+
+  cleaned = cleaned.replace(/\s+/g, " ").trim();
+
+  return cleaned || "Unknown";
+}
+
 (async () => {
   try {
     console.log("➡️ Fetching calendar...");
@@ -16,6 +46,10 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       },
       body: new URLSearchParams({ ID: "331251" })
     });
+
+    if (!res.ok) {
+      throw new Error(`HTTP error! status: ${res.status}`);
+    }
 
     const buffer = Buffer.from(await res.arrayBuffer());
     const html = buffer.toString("latin1");
@@ -33,10 +67,24 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
     $("tr").each((i, el) => {
       const row = $(el);
 
-      // 📅 DATE ROW
+      // 📅 DATE ROW (clean extraction)
       if (row.hasClass("dag")) {
-        currentDate = row.find("b").text().trim();
-        currentWeekday = row.find("font").text().trim();
+        const font = row.find("font").first();
+
+        let weekday = "";
+        if (font.length) {
+          weekday = font
+            .contents()
+            .filter((_, el) => el.type === "text")
+            .text()
+            .trim();
+        }
+
+        const date = row.find("b").first().text().trim();
+
+        currentDate = date;
+        currentWeekday = weekday;
+
         return;
       }
 
@@ -54,10 +102,10 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       let startTime = "";
       let endTime = "";
 
-      const timeText = row.text();
+      const rowText = row.text();
 
-      const timeMatch = timeText.match(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
-      const singleTime = timeText.match(/\b(\d{2}:\d{2})\b/);
+      const timeMatch = rowText.match(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
+      const singleTime = rowText.match(/\b(\d{2}:\d{2})\b/);
 
       if (timeMatch) {
         startTime = timeMatch[1];
@@ -66,12 +114,13 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
         startTime = singleTime[1];
       }
 
-      // 👥 TEAM (first link that is not kal)
+      // 👥 TEAM
       let team = "Unknown";
+
       row.find("a").each((i, a) => {
         const txt = $(a).text().trim();
 
-        if (!$(a).hasClass("kal") && txt) {
+        if (!$(a).hasClass("kal") && txt && txt.length < 50) {
           team = txt;
           return false;
         }
@@ -104,13 +153,17 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       // ❌ Skip cancelled
       if (rawText.toLowerCase().includes("inställd")) return;
 
+      // 🧼 CLEAN DATA
+      const finalDate = cleanDate(currentWeekday, currentDate);
+      const finalLocation = cleanLocation(location, opponent);
+
       events.push({
-        date: `${currentWeekday} ${currentDate}`,
+        date: finalDate,
         month: currentMonth,
         startTime,
         endTime,
         team,
-        location: location || "Unknown",
+        location: finalLocation,
         type,
         title,
         opponent
@@ -126,7 +179,11 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       events
     };
 
-    fs.writeFileSync("calendar.json", JSON.stringify(output, null, 2));
+    fs.writeFileSync(
+      "calendar.json",
+      JSON.stringify(output, null, 2),
+      "utf-8"
+    );
 
     console.log(`✅ Done. ${events.length} events saved`);
 
