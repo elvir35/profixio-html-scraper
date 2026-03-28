@@ -23,17 +23,12 @@ function getCurrentMonth() {
 function parseTime(timeText) {
   if (!timeText) return { startTime: "", endTime: "" };
 
-  const clean = timeText.replace(/\s+/g, " ").trim();
-
-  if (clean.includes("-")) {
-    const [start, end] = clean.split("-");
-    return {
-      startTime: start.trim(),
-      endTime: end.trim()
-    };
+  if (timeText.includes("-")) {
+    const [start, end] = timeText.split("-").map(t => t.trim());
+    return { startTime: start, endTime: end };
   }
 
-  return { startTime: clean, endTime: "" };
+  return { startTime: timeText.trim(), endTime: "" };
 }
 
 function parseTitle(title) {
@@ -61,7 +56,7 @@ async function fetchMonth(month, year, monthName) {
   const url = `${BASE_URL}?ID=${CALENDAR_ID}&manad=${month}&ar=${year}`;
   console.log("Fetching:", url);
 
-  // ✅ FIX: correct encoding
+  // ✅ KEEP UTF-8 FIX
   const { data } = await axios.get(url, { responseType: "arraybuffer" });
   const html = Buffer.from(data, "binary").toString("utf-8");
 
@@ -75,22 +70,20 @@ async function fetchMonth(month, year, monthName) {
   $("table.mCal tr").each((_, el) => {
     const row = $(el);
 
-    // ✅ FIX: only update on real date rows
-    const dateCell = row.find("b").text().trim();
-    const dayCell = row.find("font").text().trim();
+    // 🔁 ORIGINAL logic (reverted)
+    const dateCell = row.find("b").first().text().trim();
+    const dayCell = row.find("font").first().text().trim();
 
-    if (dateCell && dayCell && /^\d{1,2}$/.test(dateCell)) {
+    if (dateCell) {
       currentDate = dateCell;
       currentDay = dayCell;
     }
 
-    // ✅ FIX: only get time column (avoid duplicates)
-    const timeText = row.find("td").eq(0).text().trim();
-
+    // 🔁 ORIGINAL time logic (reverted)
+    const timeText = row.find("span").text().trim();
     const team = row.find("a").first().text().trim();
     const rawTitle = row.find("a.kal").first().text().trim();
 
-    // Skip invalid rows
     if (!team || !rawTitle) return;
 
     const { startTime, endTime } = parseTime(timeText);
@@ -117,10 +110,8 @@ async function fetchMonth(month, year, monthName) {
   try {
     const { month, year, monthName } = getCurrentMonth();
 
-    // Only current month
     const events = await fetchMonth(month, year, monthName);
 
-    // Deduplicate
     const seen = new Set();
     const unique = events.filter(e => {
       const key = `${e.date}-${e.startTime}-${e.team}-${e.opponent}-${e.location}`;
@@ -129,7 +120,7 @@ async function fetchMonth(month, year, monthName) {
       return true;
     });
 
-    // ✅ FIX: ensure proper encoding when saving
+    // ✅ KEEP UTF-8 SAVE
     fs.writeFileSync(
       "calendar.json",
       JSON.stringify(unique, null, 2),
