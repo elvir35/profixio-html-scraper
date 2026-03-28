@@ -56,17 +56,29 @@ function cleanLocation(location, opponent) {
       const row = $(el);
 
       // 📅 Update date
-      if (row.hasClass("dag")) {
-        const font = row.find("font").first();
+      function getDateForRow($, row) {
+  let prev = row.prev();
 
-        currentWeekday = font
-          .contents()
-          .filter((_, el) => el.type === "text")
-          .text()
-          .trim();
+  while (prev.length) {
+    if (prev.hasClass("dag")) {
+      const font = prev.find("font").first();
 
-        currentDate = row.find("b").first().text().trim();
-      }
+      const weekday = font
+        .contents()
+        .filter((_, el) => el.type === "text")
+        .text()
+        .trim();
+
+      const date = prev.find("b").first().text().trim();
+
+      return `${weekday} ${date}`;
+    }
+
+    prev = prev.prev();
+  }
+
+  return "";
+}
 
       // 🔥 LOOP EVENTS INSIDE ROW
       row.find(".calAkt3").each((i, eventEl) => {
