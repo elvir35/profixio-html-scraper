@@ -28,33 +28,6 @@ function cleanLocation(location, opponent) {
   return cleaned || "Unknown";
 }
 
-// 🔥 FINAL DATE FIX (correct + stable)
-function getDateForRow($, row) {
-  // Look backwards first
-  let dag = row.prevAll("tr.dag").first();
-
-  // If not found → look forward
-  if (!dag.length) {
-    dag = row.nextAll("tr.dag").first();
-  }
-
-  if (dag.length) {
-    const font = dag.find("font").first();
-
-    const weekday = font
-      .contents()
-      .filter((_, el) => el.type === "text")
-      .text()
-      .trim();
-
-    const date = dag.find("b").first().text().trim();
-
-    return { weekday, date };
-  }
-
-  return { weekday: "", date: "" };
-}
-
 (async () => {
   try {
     console.log("➡️ Fetching calendar...");
@@ -76,12 +49,30 @@ function getDateForRow($, row) {
 
     const events = [];
 
+    let currentDate = "";
+    let currentWeekday = "";
+
+    // 🔥 NEW: global fallback
+    let lastKnownDate = "";
+
     $("tr").each((i, el) => {
       const row = $(el);
 
-      // ✅ FIXED DATE
-      const { weekday, date } = getDateForRow($, row);
-      const finalDate = cleanDate(weekday, date);
+      // 📅 DATE ROW
+      if (row.hasClass("dag")) {
+        const font = row.find("font").first();
+
+        currentWeekday = font
+          .contents()
+          .filter((_, el) => el.type === "text")
+          .text()
+          .trim();
+
+        currentDate = row.find("b").first().text().trim();
+
+        lastKnownDate = cleanDate(currentWeekday, currentDate);
+        return;
+      }
 
       row.find(".calAkt3").each((i, eventEl) => {
         const eventNode = $(eventEl);
@@ -138,6 +129,12 @@ function getDateForRow($, row) {
         }
 
         const finalLocation = cleanLocation(location, opponent);
+
+        // 🔥 FINAL DATE FIX
+        const finalDate =
+          currentDate && currentWeekday
+            ? cleanDate(currentWeekday, currentDate)
+            : lastKnownDate;
 
         events.push({
           date: finalDate,
