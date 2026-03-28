@@ -120,7 +120,8 @@ const cleanOpponent = opponent
       location,
       type,
       title,
-      opponent
+      opponent: cleanOpponent,
+      homeAway: isHome ? "hemma" : isAway ? "borta" : ""
     });
   });
 
