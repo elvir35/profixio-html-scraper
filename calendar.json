@@ -1,17 +1,17 @@
 [
   {
-    "date": "s�n 01",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:3009:0009:30",
     "team": "Bollek Norr",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Ljunghusens HK borta, Henriksdalshallen, H�llviken",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "",
@@ -22,7 +22,7 @@
     "opponent": "Ljunghusens HK borta"
   },
   {
-    "date": " Ljunghusens HK borta, Henriksdalshallen, H�llviken",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "10:30",
@@ -30,43 +30,43 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Ystads IF HF Vit  hemma, Lunds Idrottshall",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "",
     "team": "F11",
-    "location": "Lunds Idrottshall (Lag 1 (F11 r�d Syd))",
+    "location": "Lunds Idrottshall (Lag 1 (F11 röd Syd))",
     "type": "Match",
     "title": "",
     "opponent": "Ystads IF HF Vit  hemma"
   },
   {
-    "date": " LUGI HF 2 borta, Sparbanken Sk�ne Arena B",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "",
     "team": "F14",
-    "location": "Sparbanken Sk�ne Arena B (Flickor - F14 Syd)",
+    "location": "Sparbanken Skåne Arena B (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "LUGI HF 2 borta"
   },
   {
-    "date": " Svedala HK och HK Ankaret borta, Svedala Sporthall",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "",
     "team": "P11",
-    "location": "Svedala Sporthall (Pojkar -  P11 Syd L�tt R�d)",
+    "location": "Svedala Sporthall (Pojkar -  P11 Syd Lätt Röd)",
     "type": "Match",
     "title": "",
     "opponent": "Svedala HK och HK Ankaret borta"
   },
   {
-    "date": " Svedala HK och HK Ankaret borta, Svedala Sporthall",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "11:30",
@@ -74,21 +74,21 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Borta, Esl�vshallen",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "11:30",
     "endTime": "",
     "team": "P9",
-    "location": "Esl�vshallen ()",
+    "location": "Eslövshallen ()",
     "type": "Match",
     "title": "",
     "opponent": "Borta"
   },
   {
-    "date": " HK Drott Halmstad 2 borta, Halmstad Arena A1",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "12:00",
     "endTime": "",
@@ -99,18 +99,18 @@
     "opponent": "HK Drott Halmstad 2 borta"
   },
   {
-    "date": " HK Drott Halmstad 2 borta, Halmstad Arena A1",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "12:30",
     "endTime": "15:45",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Funktion�rer"
+    "opponent": "Funktionärer"
   },
   {
-    "date": " OV Helsingborg Handbollklubb 2 borta, Teknikhallen C",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "13:15",
     "endTime": "",
@@ -121,18 +121,18 @@
     "opponent": "OV Helsingborg Handbollklubb 2 borta"
   },
   {
-    "date": " IF Hellton Karlstad hemma, Sparbanken Sk�ne Arena A",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
     "team": "DAMER A",
-    "location": "Sparbanken Sk�ne Arena A (Damer - Dam 1)",
+    "location": "Sparbanken Skåne Arena A (Damer - Dam 1)",
     "type": "Match",
     "title": "",
     "opponent": "IF Hellton Karlstad hemma"
   },
   {
-    "date": " IFK Malm� HF Gul hemma, Tunahallen-Handboll",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "14:30",
     "endTime": "",
@@ -140,32 +140,32 @@
     "location": "Tunahallen-Handboll (F13 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malm� HF Gul hemma"
+    "opponent": "IFK Malmö HF Gul hemma"
   },
   {
-    "date": " Esl�vs HK 1 borta, Esl�vshallen B",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "15:45",
     "endTime": "",
     "team": "F11",
-    "location": "Esl�vshallen B (Lag 3 (F11 Gul Syd))",
+    "location": "Eslövshallen B (Lag 3 (F11 Gul Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "Esl�vs HK 1 borta"
+    "opponent": "Eslövs HK 1 borta"
   },
   {
-    "date": " Ystads IF HF 2 hemma, Vipeholmshallen",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "15:45",
     "endTime": "",
     "team": "P14",
-    "location": "Vipeholmshallen (Pojkar - P14 Syd Niv� 2 Gul)",
+    "location": "Vipeholmshallen (Pojkar - P14 Syd Nivå 2 Gul)",
     "type": "Match",
     "title": "",
     "opponent": "Ystads IF HF 2 hemma"
   },
   {
-    "date": " LUGI HF 3 hemma, Tunahallen-Handboll",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "16:10",
     "endTime": "",
@@ -176,18 +176,18 @@
     "opponent": "LUGI HF 3 hemma"
   },
   {
-    "date": " HK Varberg hemma, Sparbanken Sk�ne Arena A",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "16:30",
     "endTime": "",
     "team": "HERRAR A",
-    "location": "Sparbanken Sk�ne Arena A (Herrar - Herrallsvenskan)",
+    "location": "Sparbanken Skåne Arena A (Herrar - Herrallsvenskan)",
     "type": "Match",
     "title": "",
     "opponent": "HK Varberg hemma"
   },
   {
-    "date": " HK Varberg hemma, Sparbanken Sk�ne Arena A",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "16:30",
     "endTime": "18:00",
@@ -195,10 +195,10 @@
     "location": "Arenan A",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Heja p� A-lagen"
+    "opponent": "Heja på A-lagen"
   },
   {
-    "date": " KFUM Kalmar HK hemma, Tunahallen-Handboll",
+    "date": "sön 01",
     "month": "Mars",
     "startTime": "17:50",
     "endTime": "",
@@ -209,7 +209,7 @@
     "opponent": "KFUM Kalmar HK hemma"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:3017:00",
@@ -217,21 +217,21 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
     "team": "P14",
-    "location": "�stratornhallen",
+    "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -239,43 +239,43 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P16",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P18",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "P9",
-    "location": "Pr�st�ngshallen",
+    "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -283,10 +283,10 @@
     "location": "Victoriastadion plan 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -294,10 +294,10 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -305,10 +305,10 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -316,10 +316,10 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:00",
@@ -327,21 +327,21 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
-    "team": "HK Bl� 85",
-    "location": "F�ladshallen",
+    "team": "HK Blå 85",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 02",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:45",
@@ -349,7 +349,7 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 03",
@@ -360,7 +360,7 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 03",
@@ -368,10 +368,10 @@
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "P8",
-    "location": "Hubertusg�rdens Gymnastiksal",
+    "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8"
   },
   {
     "date": "tis 03",
@@ -382,7 +382,7 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 03",
@@ -393,7 +393,7 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 03",
@@ -404,7 +404,7 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 03",
@@ -415,7 +415,7 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 03",
@@ -423,32 +423,32 @@
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "P10",
-    "location": "�stratornhallen",
+    "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P2015"
+    "opponent": "Träning H43 P2015"
   },
   {
-    "date": " Lugi HF 2 borta, Sparbanken Sk�ne Arena B",
+    "date": "tis 03",
     "month": "Mars",
     "startTime": "19:20",
     "endTime": "",
     "team": "F19 / Dam U",
-    "location": "Sparbanken Sk�ne Arena B (Flickor - F19 Syd)",
+    "location": "Sparbanken Skåne Arena B (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "Lugi HF 2 borta"
   },
   {
-    "date": " Lugi HF 2 borta, Sparbanken Sk�ne Arena B",
+    "date": "tis 03",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 04",
@@ -459,7 +459,7 @@
     "location": "Heddahallen B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 04",
@@ -470,7 +470,7 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 04",
@@ -481,7 +481,7 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 04",
@@ -492,7 +492,7 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 04",
@@ -503,7 +503,7 @@
     "location": "Victoriastadion",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 04",
@@ -514,7 +514,7 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 04",
@@ -525,7 +525,7 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 04",
@@ -536,10 +536,10 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " HK Drott Halmstad borta, Halmstad Arena A1",
+    "date": "ons 04",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "",
@@ -550,7 +550,7 @@
     "opponent": "HK Drott Halmstad borta"
   },
   {
-    "date": " HK Drott Halmstad borta, Halmstad Arena A1",
+    "date": "ons 04",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -558,10 +558,10 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " HK Drott Halmstad borta, Halmstad Arena A1",
+    "date": "ons 04",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -569,18 +569,18 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " HK Drott Halmstad borta, Halmstad Arena A1",
+    "date": "ons 04",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 05",
@@ -591,7 +591,7 @@
     "location": "Nordic wellness hallen St Lars",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 05",
@@ -602,7 +602,7 @@
     "location": "Victoriastadion 1",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 05",
@@ -613,7 +613,7 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 05",
@@ -624,7 +624,7 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 05",
@@ -635,7 +635,7 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 05",
@@ -646,7 +646,7 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 05",
@@ -657,18 +657,18 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 05",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 06",
@@ -679,10 +679,10 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IFK Malm� HF Gul hemma, Vipeholmshallen",
+    "date": "fre 06",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "",
@@ -690,10 +690,10 @@
     "location": "Vipeholmshallen (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malm� HF Gul hemma"
+    "opponent": "IFK Malmö HF Gul hemma"
   },
   {
-    "date": " IFK Malm� HF Gul hemma, Vipeholmshallen",
+    "date": "fre 06",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -701,10 +701,10 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IFK Malm� HF Gul hemma, Vipeholmshallen",
+    "date": "fre 06",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -712,10 +712,10 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IFK Malm� HF Gul hemma, Vipeholmshallen",
+    "date": "fre 06",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "21:00",
@@ -723,32 +723,32 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "l�r 07",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:0009:00",
     "team": "Bollskolan Norr",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "l�r 07",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:00",
-    "team": "Bollek St�ngby",
-    "location": "Pr�st�ngshallen",
+    "team": "Bollek Stångby",
+    "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "l�r 07",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:00",
@@ -756,10 +756,10 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IFK Malm� HF Bl� borta, Sundsbrohallen, Bunkeflostrand",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "",
@@ -767,10 +767,10 @@
     "location": "Sundsbrohallen",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malm� HF Bl� borta"
+    "opponent": "IFK Malmö HF Blå borta"
   },
   {
-    "date": " IFK Malm� HF Bl� borta, Sundsbrohallen, Bunkeflostrand",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "12:00",
@@ -778,21 +778,21 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " HK Malm� och HK Ankaret borta, S�derkulla Sporthall, Malm�",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "",
     "team": "P11",
-    "location": "S�derkulla Sporthall",
+    "location": "Söderkulla Sporthall",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malm� och HK Ankaret borta"
+    "opponent": "HK Malmö och HK Ankaret borta"
   },
   {
-    "date": " HK Malm� och HK Ankaret borta, S�derkulla Sporthall, Malm�",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "11:30",
@@ -800,21 +800,21 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P8"
+    "opponent": "Träning H43 P8"
   },
   {
-    "date": " HK Malm� och HK Ankaret borta, S�derkulla Sporthall, Malm�",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "11:00",
     "endTime": "12:00",
     "team": "F9",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " HK Ankaret R�d borta, Rutsborgshallen 1, Bj�rred",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "11:30",
     "endTime": "",
@@ -822,21 +822,21 @@
     "location": "Rutsborgshallen 1",
     "type": "Match",
     "title": "",
-    "opponent": "HK Ankaret R�d borta"
+    "opponent": "HK Ankaret Röd borta"
   },
   {
-    "date": " Lugi och Karlshamns HF hemma, Vipeholmshallen",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "12:30",
     "endTime": "",
     "team": "P11",
-    "location": "Vipeholmshallen (Pojkar -  P11 Syd Sv�r R�d)",
+    "location": "Vipeholmshallen (Pojkar -  P11 Syd Svår Röd)",
     "type": "Match",
     "title": "",
     "opponent": "Lugi och Karlshamns HF hemma"
   },
   {
-    "date": " Halmstad bl a  borta, Stentorpshallen Halmstad",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "12:45",
     "endTime": "",
@@ -847,7 +847,7 @@
     "opponent": "Halmstad bl a  borta"
   },
   {
-    "date": " Torslanda HK borta, Torslanda Sporthall A",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
@@ -858,7 +858,7 @@
     "opponent": "Torslanda HK borta"
   },
   {
-    "date": " Kristianstad HK hemma, Bollhuset A",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
@@ -869,7 +869,7 @@
     "opponent": "Kristianstad HK hemma"
   },
   {
-    "date": " Kristianstad HK hemma, Bollhuset A",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "Flera dagar",
     "endTime": "",
@@ -877,10 +877,10 @@
     "location": "Helsingborg Arena B",
     "type": "Övrigt",
     "title": "",
-    "opponent": "USM steg 4 l�rd 7e & s�nd 8e mars i Helsingborg"
+    "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg"
   },
   {
-    "date": " V�xj� HF hemma, Bollhuset A",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "14:50",
     "endTime": "",
@@ -888,10 +888,10 @@
     "location": "Bollhuset A (Herrar - Herr 2 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "V�xj� HF hemma"
+    "opponent": "Växjö HF hemma"
   },
   {
-    "date": " Finsp�ngs HK borta, Helsingborg Arena B",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "16:30",
     "endTime": "",
@@ -899,32 +899,32 @@
     "location": "Helsingborg Arena B (Pojkar - USM P14)",
     "type": "Match",
     "title": "",
-    "opponent": "Finsp�ngs HK borta"
+    "opponent": "Finspångs HK borta"
   },
   {
-    "date": " Halmstad HF hemma, Bollhuset A",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "16:40",
     "endTime": "",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Bollhuset A (Herrar - Herr 3 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "Halmstad HF hemma"
   },
   {
-    "date": " L�dde Vikings HK 2 borta, Tolv�kers Idrottshall B",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "",
     "team": "F13",
-    "location": "Tolv�kers Idrottshall B (F13 Syd)",
+    "location": "Tolvåkers Idrottshall B (F13 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "L�dde Vikings HK 2 borta"
+    "opponent": "Lödde Vikings HK 2 borta"
   },
   {
-    "date": " L�dde Vikings HK 2 borta, Tolv�kers Idrottshall B",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "18:10",
     "endTime": "20:00",
@@ -935,7 +935,7 @@
     "opponent": "Sverige VS Serbien (svar senast 30/11)"
   },
   {
-    "date": " L�dde Vikings HK 2 borta, Tolv�kers Idrottshall B",
+    "date": "lör 07",
     "month": "Mars",
     "startTime": "18:10",
     "endTime": "20:00",
@@ -946,7 +946,7 @@
     "opponent": "EM-kval Damer Sverige - Serbien"
   },
   {
-    "date": "s�n 08",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "Flera dagar09:00",
     "endTime": "10:3009:30",
@@ -954,10 +954,10 @@
     "location": "Helsingborg Arena B",
     "type": "Träning",
     "title": "",
-    "opponent": "USM steg 4 l�rd 7e & s�nd 8e mars i Helsingborg"
+    "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg"
   },
   {
-    "date": "s�n 08",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "Flera dagar",
     "endTime": "",
@@ -965,21 +965,21 @@
     "location": "Helsingborg Arena B",
     "type": "Övrigt",
     "title": "",
-    "opponent": "USM steg 4 l�rd 7e & s�nd 8e mars i Helsingborg"
+    "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg"
   },
   {
-    "date": "s�n 08",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:30",
     "team": "Bollek Norr",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "s�n 08",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "10:30",
@@ -987,10 +987,10 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "s�n 08",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "11:30",
@@ -998,10 +998,10 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " HK Aran�s hemma, Helsingborg Arena B",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "11:30",
     "endTime": "",
@@ -1009,10 +1009,10 @@
     "location": "Helsingborg Arena B (Pojkar - USM P14)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Aran�s hemma"
+    "opponent": "HK Aranäs hemma"
   },
   {
-    "date": " OV Helsingborg HK - 3 borta, Helsingborg Arena B",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "12:40",
     "endTime": "",
@@ -1023,18 +1023,18 @@
     "opponent": "OV Helsingborg HK - 3 borta"
   },
   {
-    "date": " Lugi HF U B borta, Sparbanken Sk�ne Arena B",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "14:10",
     "endTime": "",
-    "team": "HK Bl� 85",
-    "location": "Sparbanken Sk�ne Arena B (Damer - Dam 3 Syd)",
+    "team": "HK Blå 85",
+    "location": "Sparbanken Skåne Arena B (Damer - Dam 3 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "Lugi HF U B borta"
   },
   {
-    "date": " Karlshamns HF borta, Stenbackahallen",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "15:00",
     "endTime": "",
@@ -1045,18 +1045,18 @@
     "opponent": "Karlshamns HF borta"
   },
   {
-    "date": " HK Drott Halmstad borta, �sterg�rdshallen",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "15:00",
     "endTime": "",
     "team": "F16",
-    "location": "�sterg�rdshallen (Flickor - F16 Syd)",
+    "location": "Östergårdshallen (Flickor - F16 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "HK Drott Halmstad borta"
   },
   {
-    "date": " OV Helsingborg HK borta, Helsingborg Arena B",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "15:30",
     "endTime": "",
@@ -1067,7 +1067,7 @@
     "opponent": "OV Helsingborg HK borta"
   },
   {
-    "date": " Lugi P12 borta, Tornhallen, St�ngby",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "15:50",
     "endTime": "",
@@ -1078,7 +1078,7 @@
     "opponent": "Lugi P12 borta"
   },
   {
-    "date": " Ystads IF HF 1 borta, Ystad Arena A1",
+    "date": "sön 08",
     "month": "Mars",
     "startTime": "16:00",
     "endTime": "",
@@ -1089,7 +1089,7 @@
     "opponent": "Ystads IF HF 1 borta"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:3017:00",
@@ -1097,10 +1097,10 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:00",
@@ -1111,18 +1111,18 @@
     "opponent": "Gymintroduktion Nordic Wellness"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "P14",
-    "location": "�stratornhallen",
+    "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -1130,43 +1130,43 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P16",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P18",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "P9",
-    "location": "Pr�st�ngshallen",
+    "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -1174,10 +1174,10 @@
     "location": "Victoriastadion plan 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1185,10 +1185,10 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -1196,10 +1196,10 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -1207,10 +1207,10 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:00",
@@ -1218,18 +1218,18 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 09",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
-    "team": "HK Bl� 85",
-    "location": "F�ladshallen",
+    "team": "HK Blå 85",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 10",
@@ -1240,7 +1240,7 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 10",
@@ -1248,10 +1248,10 @@
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "P8",
-    "location": "Hubertusg�rdens Gymnastiksal",
+    "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8"
   },
   {
     "date": "tis 10",
@@ -1262,7 +1262,7 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 10",
@@ -1273,7 +1273,7 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 10",
@@ -1284,7 +1284,7 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 10",
@@ -1295,7 +1295,7 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 10",
@@ -1303,32 +1303,32 @@
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "P10",
-    "location": "�stratornhallen",
+    "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P2015"
+    "opponent": "Träning H43 P2015"
   },
   {
-    "date": " IK L�gan hemma, Sparbanken Sk�ne Arena B",
+    "date": "tis 10",
     "month": "Mars",
     "startTime": "19:15",
     "endTime": "",
     "team": "F19 / Dam U",
-    "location": "Sparbanken Sk�ne Arena B (Flickor - F19 Syd)",
+    "location": "Sparbanken Skåne Arena B (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IK L�gan hemma"
+    "opponent": "IK Lågan hemma"
   },
   {
-    "date": " IK L�gan hemma, Sparbanken Sk�ne Arena B",
+    "date": "tis 10",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 11",
@@ -1339,7 +1339,7 @@
     "location": "Heddahallen B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 11",
@@ -1350,7 +1350,7 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 11",
@@ -1361,7 +1361,7 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning inkl. m�lvaktstr�ning"
+    "opponent": "Träning inkl. målvaktsträning"
   },
   {
     "date": "ons 11",
@@ -1372,7 +1372,7 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 11",
@@ -1383,7 +1383,7 @@
     "location": "Victoriastadion",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 11",
@@ -1394,7 +1394,7 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 11",
@@ -1405,21 +1405,21 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 2 hemma, Bollhuset A",
+    "date": "ons 11",
     "month": "Mars",
     "startTime": "19:20",
     "endTime": "",
     "team": "P14",
-    "location": "Bollhuset A (Pojkar - P14 Syd niv� 1 Gul)",
+    "location": "Bollhuset A (Pojkar - P14 Syd nivå 1 Gul)",
     "type": "Match",
     "title": "",
     "opponent": "Lugi HF 2 hemma"
   },
   {
-    "date": " Lugi HF 2 hemma, Bollhuset A",
+    "date": "ons 11",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -1427,10 +1427,10 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 2 hemma, Bollhuset A",
+    "date": "ons 11",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -1438,18 +1438,18 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 2 hemma, Bollhuset A",
+    "date": "ons 11",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 12",
@@ -1460,7 +1460,7 @@
     "location": "Nordic wellness hallen St Lars",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 12",
@@ -1471,7 +1471,7 @@
     "location": "Victoriastadion 1",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 12",
@@ -1482,7 +1482,7 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 12",
@@ -1493,7 +1493,7 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 12",
@@ -1504,7 +1504,7 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 12",
@@ -1515,7 +1515,7 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 12",
@@ -1526,7 +1526,7 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 12",
@@ -1537,18 +1537,18 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 12",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 13",
@@ -1570,7 +1570,7 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "S�lja 50/50-lotter p� derbyt"
+    "opponent": "Sälja 50/50-lotter på derbyt"
   },
   {
     "date": "fre 13",
@@ -1581,7 +1581,7 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "S�lja 50/50-lotter p� derbyt"
+    "opponent": "Sälja 50/50-lotter på derbyt"
   },
   {
     "date": "fre 13",
@@ -1592,21 +1592,21 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
     "team": "HERRAR A",
-    "location": "Sparbanken Sk�ne Arena A (Herrar - Herrallsvenskan)",
+    "location": "Sparbanken Skåne Arena A (Herrar - Herrallsvenskan)",
     "type": "Match",
     "title": "",
     "opponent": "Lugi HF hemma"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1617,7 +1617,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1628,7 +1628,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1639,7 +1639,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1650,18 +1650,18 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
-    "team": "Bollek St�ngby",
+    "team": "Bollek Stångby",
     "location": "Arenan A",
     "type": "Övrigt",
     "title": "",
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1672,7 +1672,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1683,7 +1683,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1694,7 +1694,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1705,7 +1705,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " Lugi HF hemma, Sparbanken Sk�ne Arena A",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1716,18 +1716,18 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
     "team": "F14",
-    "location": "F�rsingahallen (Flickor - F14 Syd)",
+    "location": "Färsingahallen (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Bj�rnen borta"
+    "opponent": "HK Björnen borta"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1738,7 +1738,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1749,7 +1749,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1760,18 +1760,18 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1782,7 +1782,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1793,7 +1793,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1804,7 +1804,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1815,7 +1815,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1826,7 +1826,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1837,7 +1837,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi HF"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1848,7 +1848,7 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": " HK Bj�rnen borta, F�rsingahallen",
+    "date": "fre 13",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1859,40 +1859,40 @@
     "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
   },
   {
-    "date": "l�r 14",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:0009:00",
     "team": "Bollskolan Norr",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "l�r 14",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:00",
-    "team": "Bollek St�ngby",
-    "location": "Pr�st�ngshallen",
+    "team": "Bollek Stångby",
+    "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 5 hemma, Bollhuset A",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "",
     "team": "F11",
-    "location": "Bollhuset A (Lag 2 (F11 R�d Syd))",
+    "location": "Bollhuset A (Lag 2 (F11 Röd Syd))",
     "type": "Match",
     "title": "",
     "opponent": "Lugi HF 5 hemma"
   },
   {
-    "date": " Lugi HF 5 hemma, Bollhuset A",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:30",
@@ -1900,10 +1900,10 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 5 hemma, Bollhuset A",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:30",
@@ -1911,65 +1911,65 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 5 hemma, Bollhuset A",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "11:00",
     "team": "F8",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " H��rs HK H 65 borta, Sporthallen H��r",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "",
     "team": "P14",
-    "location": "Sporthallen H��r (Pojkar - P14 Syd niv� 1 Gul)",
+    "location": "Sporthallen Höör (Pojkar - P14 Syd nivå 1 Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "H��rs HK H 65 borta"
+    "opponent": "Höörs HK H 65 borta"
   },
   {
-    "date": " H��rs HK H 65 borta, Sporthallen H��r",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "11:00",
     "endTime": "12:00",
     "team": "F9",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " �hus Handboll och IFK Kristianstad borta, S�nnahallen B, �hus",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "12:00",
     "endTime": "",
     "team": "P11",
-    "location": "S�nnahallen B",
+    "location": "Sånnahallen B",
     "type": "Match",
     "title": "",
-    "opponent": "�hus Handboll och IFK Kristianstad borta"
+    "opponent": "Åhus Handboll och IFK Kristianstad borta"
   },
   {
-    "date": " Borta, F�rsingahallen Sj�bo",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "12:00",
     "endTime": "",
     "team": "P8",
-    "location": "F�rsingahallen Sj�bo ()",
+    "location": "Färsingahallen Sjöbo ()",
     "type": "Match",
     "title": "",
     "opponent": "Borta"
   },
   {
-    "date": " H��rs HK H 65 hemma, Vipeholmshallen",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "12:30",
     "endTime": "",
@@ -1977,10 +1977,10 @@
     "location": "Vipeholmshallen (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "H��rs HK H 65 hemma"
+    "opponent": "Höörs HK H 65 hemma"
   },
   {
-    "date": " OV Helsingborg HK - 2 hemma, Bollhuset A",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
@@ -1991,7 +1991,7 @@
     "opponent": "OV Helsingborg HK - 2 hemma"
   },
   {
-    "date": " HK Halmstad borta, Stenstorsphallen, Halmstad",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "13:30",
     "endTime": "",
@@ -2002,7 +2002,7 @@
     "opponent": "HK Halmstad borta"
   },
   {
-    "date": " HK Malm� borta, Baltiska Hallen",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
@@ -2010,21 +2010,21 @@
     "location": "Baltiska Hallen (Damer - Dam 1)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malm� borta"
+    "opponent": "HK Malmö borta"
   },
   {
-    "date": " Dalby GIF borta, Nyv�ngshallen, Dalby",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
     "team": "P16",
-    "location": "Nyv�ngshallen",
+    "location": "Nyvångshallen",
     "type": "Match",
     "title": "",
     "opponent": "Dalby GIF borta"
   },
   {
-    "date": " Tollarps IF 2 hemma, Vipeholmshallen",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "14:10",
     "endTime": "",
@@ -2035,7 +2035,7 @@
     "opponent": "Tollarps IF 2 hemma"
   },
   {
-    "date": " IK Sund borta, Norrehedshallen, Helsingborg",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "15:00",
     "endTime": "",
@@ -2046,73 +2046,73 @@
     "opponent": "IK Sund borta"
   },
   {
-    "date": " �hus Handboll borta, S�nnahallen A",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "16:00",
     "endTime": "",
     "team": "F19 / Dam U",
-    "location": "S�nnahallen A (Flickor - F19 Syd)",
+    "location": "Sånnahallen A (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "�hus Handboll borta"
+    "opponent": "Åhus Handboll borta"
   },
   {
-    "date": " �hus Handboll borta, S�nnahallen A",
+    "date": "lör 14",
     "month": "Mars",
     "startTime": "16:15",
     "endTime": "23:59",
     "team": "F16",
-    "location": "USM Steg 4 i T�by",
+    "location": "USM Steg 4 i Täby",
     "type": "Träning",
     "title": "",
     "opponent": "USM steg 4"
   },
   {
-    "date": "s�n 15",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "07:00",
     "endTime": "23:5909:00",
     "team": "F16",
-    "location": "USM Steg 4 i T�by",
+    "location": "USM Steg 4 i Täby",
     "type": "Träning",
     "title": "",
     "opponent": "USM steg 4"
   },
   {
-    "date": "s�n 15",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:30",
     "team": "Bollek Norr",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Ljunghusens HK Ljusbl� borta, Henriksdalshallen",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "",
     "team": "F11",
-    "location": "Henriksdalshallen (Lag 1 (F11 r�d Syd))",
+    "location": "Henriksdalshallen (Lag 1 (F11 röd Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "Ljunghusens HK Ljusbl� borta"
+    "opponent": "Ljunghusens HK Ljusblå borta"
   },
   {
-    "date": " IK L�gan svart  borta, L�gehall B",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "09:15",
     "endTime": "",
     "team": "F10",
-    "location": "L�gehall B ()",
+    "location": "Lågehall B ()",
     "type": "Match",
     "title": "",
-    "opponent": "IK L�gan svart  borta"
+    "opponent": "IK Lågan svart  borta"
   },
   {
-    "date": " IK L�gan svart  borta, L�gehall B",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "10:30",
@@ -2120,21 +2120,21 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IFK Malm� och IK Sund borta, Stapelb�ddshallen, Malm�",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "",
     "team": "P11",
-    "location": "Stapelb�ddshallen",
+    "location": "Stapelbäddshallen",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malm� och IK Sund borta"
+    "opponent": "IFK Malmö och IK Sund borta"
   },
   {
-    "date": " IFK Malm� och IK Sund borta, Stapelb�ddshallen, Malm�",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "11:30",
@@ -2142,21 +2142,21 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " HK Ankaret borta, Borgebyhallen",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Borgebyhallen (Herrar - Herr 3 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "HK Ankaret borta"
   },
   {
-    "date": " HK Drott Halmstad hemma, Tunahallen-Handboll",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "14:45",
     "endTime": "",
@@ -2167,29 +2167,29 @@
     "opponent": "HK Drott Halmstad hemma"
   },
   {
-    "date": " Lugi HF 3 borta, Tolv�kers Idrottshall B",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "15:45",
     "endTime": "",
     "team": "F11",
-    "location": "Tolv�kers Idrottshall B (Lag 3 (F11 Gul Syd))",
+    "location": "Tolvåkers Idrottshall B (Lag 3 (F11 Gul Syd))",
     "type": "Match",
     "title": "",
     "opponent": "Lugi HF 3 borta"
   },
   {
-    "date": " Eksj� BK borta, Pr�st�ngshallen",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "16:00",
     "endTime": "",
     "team": "P16",
-    "location": "Pr�st�ngshallen (Pojkar - P16 Syd)",
+    "location": "Prästängshallen (Pojkar - P16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Eksj� BK borta"
+    "opponent": "Eksjö BK borta"
   },
   {
-    "date": " Kristianstad HK hemma, Tunahallen-Handboll",
+    "date": "sön 15",
     "month": "Mars",
     "startTime": "16:45",
     "endTime": "",
@@ -2200,18 +2200,18 @@
     "opponent": "Kristianstad HK hemma"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:0017:30",
     "team": "P14",
-    "location": "�stratornhallen",
+    "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "18:30",
@@ -2219,10 +2219,10 @@
     "location": "Nordic Wellness",
     "type": "Träning",
     "title": "",
-    "opponent": "Frivillig styrketr�ning"
+    "opponent": "Frivillig styrketräning"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "18:45",
@@ -2230,10 +2230,10 @@
     "location": "Glasbollen",
     "type": "Träning",
     "title": "",
-    "opponent": "Pizzakv�ll och spelarm�te"
+    "opponent": "Pizzakväll och spelarmöte"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -2241,43 +2241,43 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P16",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P18",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "P9",
-    "location": "Pr�st�ngshallen",
+    "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -2285,10 +2285,10 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -2296,10 +2296,10 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:00",
@@ -2307,18 +2307,18 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 16",
+    "date": "mån 16",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
-    "team": "HK Bl� 85",
-    "location": "F�ladshallen",
+    "team": "HK Blå 85",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 17",
@@ -2329,7 +2329,7 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 17",
@@ -2340,7 +2340,7 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 17",
@@ -2348,10 +2348,10 @@
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "P8",
-    "location": "Hubertusg�rdens Gymnastiksal",
+    "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8"
   },
   {
     "date": "tis 17",
@@ -2362,7 +2362,7 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 17",
@@ -2373,7 +2373,7 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 17",
@@ -2384,7 +2384,7 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 17",
@@ -2395,7 +2395,7 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 17",
@@ -2406,7 +2406,7 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 17",
@@ -2414,21 +2414,21 @@
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "P10",
-    "location": "�stratornhallen",
+    "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P2015"
+    "opponent": "Träning H43 P2015"
   },
   {
     "date": "tis 17",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 18",
@@ -2439,7 +2439,7 @@
     "location": "Heddahallen B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 18",
@@ -2450,7 +2450,7 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 18",
@@ -2461,7 +2461,7 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 18",
@@ -2472,7 +2472,7 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 18",
@@ -2483,7 +2483,7 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 18",
@@ -2494,7 +2494,7 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 18",
@@ -2505,21 +2505,21 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 18",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " HK Malm� hemma, Gunnesbohallen",
+    "date": "ons 18",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "",
@@ -2527,7 +2527,7 @@
     "location": "Gunnesbohallen (Pojkar - P16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malm� hemma"
+    "opponent": "HK Malmö hemma"
   },
   {
     "date": "tor 19",
@@ -2538,7 +2538,7 @@
     "location": "Nordic wellness hallen St Lars",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 19",
@@ -2549,7 +2549,7 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 19",
@@ -2560,7 +2560,7 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 19",
@@ -2571,7 +2571,7 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 19",
@@ -2582,7 +2582,7 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 19",
@@ -2593,18 +2593,18 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 19",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 20",
@@ -2612,10 +2612,10 @@
     "startTime": "17:00",
     "endTime": "18:3017:00",
     "team": "HERRAR A",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 20",
@@ -2626,7 +2626,7 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 20",
@@ -2637,7 +2637,7 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 20",
@@ -2648,7 +2648,7 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 20",
@@ -2659,10 +2659,10 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IFK Ystad HK borta, Ystad Arena",
+    "date": "fre 20",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
@@ -2673,18 +2673,18 @@
     "opponent": "IFK Ystad HK borta"
   },
   {
-    "date": " H�ssleholms HF borta, L�redaskolan",
+    "date": "fre 20",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "",
     "team": "F19 / Dam U",
-    "location": "L�redaskolan (Flickor - F19 Syd)",
+    "location": "Läredaskolan (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "H�ssleholms HF borta"
+    "opponent": "Hässleholms HF borta"
   },
   {
-    "date": "l�r 21",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "07:00",
     "endTime": "23:5909:00",
@@ -2695,29 +2695,29 @@
     "opponent": "USM Steg 4C"
   },
   {
-    "date": "l�r 21",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:00",
     "team": "Bollskolan Norr",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "l�r 21",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:00",
-    "team": "Bollek St�ngby",
-    "location": "Pr�st�ngshallen",
+    "team": "Bollek Stångby",
+    "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Esl�vs HK 1 hemma, Bollhuset A",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "",
@@ -2725,10 +2725,10 @@
     "location": "Bollhuset A (Lag 3 (F11 Gul Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "Esl�vs HK 1 hemma"
+    "opponent": "Eslövs HK 1 hemma"
   },
   {
-    "date": " Esl�vs HK 1 hemma, Bollhuset A",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:00",
@@ -2736,21 +2736,21 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Esl�vs HK 1 hemma, Bollhuset A",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "11:00",
     "team": "F8",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Esl�vs HK 1 hemma, Bollhuset A",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "11:30",
@@ -2758,10 +2758,10 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P8"
+    "opponent": "Träning H43 P8"
   },
   {
-    "date": " Staffanstorps Handbollklubb borta, Staffanshallen",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "11:20",
     "endTime": "",
@@ -2772,7 +2772,7 @@
     "opponent": "Staffanstorps Handbollklubb borta"
   },
   {
-    "date": " Esl�v, Dalby, Staffanstorp mfl hemma, Vipeholmshallen",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "12:00",
     "endTime": "",
@@ -2780,21 +2780,21 @@
     "location": "Dalby",
     "type": "Match",
     "title": "",
-    "opponent": "Esl�v"
+    "opponent": "Eslöv"
   },
   {
-    "date": " IK Sund hemma, Bollhuset A",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
     "team": "F11",
-    "location": "Bollhuset A (Lag 2 (F11 R�d Syd))",
+    "location": "Bollhuset A (Lag 2 (F11 Röd Syd))",
     "type": "Match",
     "title": "",
     "opponent": "IK Sund hemma"
   },
   {
-    "date": " Halmstad borta, Stentorpshallen",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "13:15",
     "endTime": "",
@@ -2805,29 +2805,29 @@
     "opponent": "Halmstad borta"
   },
   {
-    "date": " Halmstad borta, Stentorpshallen",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "14:30",
     "endTime": "21:00",
     "team": "F14",
-    "location": "Eksj�",
+    "location": "Eksjö",
     "type": "Övrigt",
     "title": "",
-    "opponent": "USM Steg 4 Lag Bl�"
+    "opponent": "USM Steg 4 Lag Blå"
   },
   {
-    "date": " OV Helsingborg hemma, Bollhuset A",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "14:30",
     "endTime": "",
     "team": "P11",
-    "location": "Bollhuset A (Pojkar -  P11 Syd L�tt R�d)",
+    "location": "Bollhuset A (Pojkar -  P11 Syd Lätt Röd)",
     "type": "Match",
     "title": "",
     "opponent": "OV Helsingborg hemma"
   },
   {
-    "date": " KFUM IA Lundag�rd borta, Gunnesbohallen",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "15:15",
     "endTime": "",
@@ -2835,10 +2835,10 @@
     "location": "Gunnesbohallen (Pojkar - P10 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "KFUM IA Lundag�rd borta"
+    "opponent": "KFUM IA Lundagård borta"
   },
   {
-    "date": " KFUM IA Lundag�rd borta, Gunnesbohallen",
+    "date": "lör 21",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "19:30",
@@ -2849,18 +2849,18 @@
     "opponent": "USM Lag vit"
   },
   {
-    "date": "s�n 22",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:3009:30",
     "team": "Bollek Norr",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "s�n 22",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "10:30",
@@ -2868,32 +2868,32 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Staffanstorps HK och K�vlinge HK hemma, Lunds Idrottshall",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "",
     "team": "P11",
-    "location": "Lunds Idrottshall (Pojkar - P11 Syd Sv�r Gul)",
+    "location": "Lunds Idrottshall (Pojkar - P11 Syd Svår Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "Staffanstorps HK och K�vlinge HK hemma"
+    "opponent": "Staffanstorps HK och Kävlinge HK hemma"
   },
   {
-    "date": " Staffanstorps HK och K�vlinge HK hemma, Lunds Idrottshall",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "18:00",
     "team": "F14",
-    "location": "H��rs Bad och Sportcentrum",
+    "location": "Höörs Bad och Sportcentrum",
     "type": "Övrigt",
     "title": "",
     "opponent": "USM Lag vit dag 2"
   },
   {
-    "date": " Staffanstorps HK och K�vlinge HK hemma, Lunds Idrottshall",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "11:30",
@@ -2901,65 +2901,65 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IK L�gan borta, L�gehall A",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "11:30",
     "endTime": "",
     "team": "F19 / Dam U",
-    "location": "L�gehall A (Flickor - F19 Syd)",
+    "location": "Lågehall A (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IK L�gan borta"
+    "opponent": "IK Lågan borta"
   },
   {
-    "date": " HK Malm� borta, S�derkulla Sporthall",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
     "team": "F16",
-    "location": "S�derkulla Sporthall (Flickor - F16 Syd)",
+    "location": "Söderkulla Sporthall (Flickor - F16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malm� borta"
+    "opponent": "HK Malmö borta"
   },
   {
-    "date": " HK Malm� borta, S�derkulla Sporthall",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "16:30",
     "team": "P14",
-    "location": "V�ggahallen",
+    "location": "Väggahallen",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Bindande - intresseanm�lan- Matcher i Karlshamn"
+    "opponent": "Bindande - intresseanmälan- Matcher i Karlshamn"
   },
   {
-    "date": " Karlshamns HF Gul borta, V�ggahallen, Karlshamn",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
     "team": "P14",
-    "location": "V�ggahallen",
+    "location": "Väggahallen",
     "type": "Match",
     "title": "",
     "opponent": "Karlshamns HF Gul borta"
   },
   {
-    "date": " Karlshamn r�d borta, V�ggahallen, Karlshamn",
+    "date": "sön 22",
     "month": "Mars",
     "startTime": "15:30",
     "endTime": "",
     "team": "P14",
-    "location": "V�ggahallen",
+    "location": "Väggahallen",
     "type": "Match",
     "title": "",
-    "opponent": "Karlshamn r�d borta"
+    "opponent": "Karlshamn röd borta"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:3017:00",
@@ -2967,21 +2967,21 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
     "team": "P14",
-    "location": "�stratornhallen",
+    "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -2989,43 +2989,43 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P16",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P18",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "P9",
-    "location": "Pr�st�ngshallen",
+    "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -3033,10 +3033,10 @@
     "location": "Victoriastadion plan 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "18:45",
     "endTime": "21:00",
@@ -3044,10 +3044,10 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "L�pning + Hall"
+    "opponent": "Löpning + Hall"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -3055,10 +3055,10 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 23",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -3066,10 +3066,10 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IFK Malm� HF Bl� borta, Sundsbrohallen, Bunkeflostrand",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
@@ -3077,10 +3077,10 @@
     "location": "Sundsbrohallen",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malm� HF Bl� borta"
+    "opponent": "IFK Malmö HF Blå borta"
   },
   {
-    "date": " IFK Malm� HF Bl� borta, Sundsbrohallen, Bunkeflostrand",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -3088,18 +3088,18 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IFK Malm� HF Bl� borta, Sundsbrohallen, Bunkeflostrand",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
-    "team": "HK Bl� 85",
-    "location": "F�ladshallen",
+    "team": "HK Blå 85",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 24",
@@ -3110,7 +3110,7 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 24",
@@ -3118,10 +3118,10 @@
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "P8",
-    "location": "Hubertusg�rdens Gymnastiksal",
+    "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8"
   },
   {
     "date": "tis 24",
@@ -3132,7 +3132,7 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 24",
@@ -3143,7 +3143,7 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 24",
@@ -3154,7 +3154,7 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 24",
@@ -3165,7 +3165,7 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 24",
@@ -3176,7 +3176,7 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 24",
@@ -3184,21 +3184,21 @@
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "P10",
-    "location": "�stratornhallen",
+    "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P2015"
+    "opponent": "Träning H43 P2015"
   },
   {
     "date": "tis 24",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 25",
@@ -3209,7 +3209,7 @@
     "location": "Heddahallen B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "ons 25",
@@ -3220,21 +3220,21 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning inkl. m�lvaktstr�ning"
+    "opponent": "Träning inkl. målvaktsträning"
   },
   {
-    "date": " Lugi HF 1 F10  borta, Sparbanken Sk�ne Arena A",
+    "date": "ons 25",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "",
     "team": "F16",
-    "location": "Sparbanken Sk�ne Arena A (Flickor - F16 Syd)",
+    "location": "Sparbanken Skåne Arena A (Flickor - F16 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "Lugi HF 1 F10  borta"
   },
   {
-    "date": " Lugi HF 1 F10  borta, Sparbanken Sk�ne Arena A",
+    "date": "ons 25",
     "month": "Mars",
     "startTime": "18:15",
     "endTime": "19:30",
@@ -3242,10 +3242,10 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 1 F10  borta, Sparbanken Sk�ne Arena A",
+    "date": "ons 25",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -3253,10 +3253,10 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 1 F10  borta, Sparbanken Sk�ne Arena A",
+    "date": "ons 25",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "21:00",
@@ -3264,10 +3264,10 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 1 F10  borta, Sparbanken Sk�ne Arena A",
+    "date": "ons 25",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -3275,10 +3275,10 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 1 F10  borta, Sparbanken Sk�ne Arena A",
+    "date": "ons 25",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -3286,10 +3286,10 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 1 F10  borta, Sparbanken Sk�ne Arena A",
+    "date": "ons 25",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -3297,18 +3297,18 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Lugi HF 1 F10  borta, Sparbanken Sk�ne Arena A",
+    "date": "ons 25",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 26",
@@ -3319,7 +3319,7 @@
     "location": "Nordic wellness hallen St Lars",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 26",
@@ -3330,7 +3330,7 @@
     "location": "Victoriastadion 1",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 26",
@@ -3341,7 +3341,7 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 26",
@@ -3352,7 +3352,7 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tor 26",
@@ -3363,10 +3363,10 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "L�pning + Hall"
+    "opponent": "Löpning + Hall"
   },
   {
-    "date": " HK Torslanda Elit borta, Torslanda Sporthall A",
+    "date": "tor 26",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
@@ -3377,7 +3377,7 @@
     "opponent": "HK Torslanda Elit borta"
   },
   {
-    "date": " HK Torslanda Elit borta, Torslanda Sporthall A",
+    "date": "tor 26",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -3385,21 +3385,21 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Stavsten HK U borta, S�dersl�ttshallen A",
+    "date": "tor 26",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "",
     "team": "F14",
-    "location": "S�dersl�ttshallen A (Flickor - F14 Syd)",
+    "location": "Söderslättshallen A (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "Stavsten HK U borta"
   },
   {
-    "date": " Stavsten HK U borta, S�dersl�ttshallen A",
+    "date": "tor 26",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:45",
@@ -3407,18 +3407,18 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Stavsten HK U borta, S�dersl�ttshallen A",
+    "date": "tor 26",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 27",
@@ -3429,7 +3429,7 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 27",
@@ -3440,7 +3440,7 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "fre 27",
@@ -3451,32 +3451,32 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "l�r 28",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:0009:00",
     "team": "Bollskolan Norr",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "l�r 28",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:00",
-    "team": "Bollek St�ngby",
-    "location": "Pr�st�ngshallen",
+    "team": "Bollek Stångby",
+    "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "l�r 28",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:00",
@@ -3484,43 +3484,43 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "l�r 28",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "11:00",
     "team": "F8",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Esl�vs HK 1 borta, Esl�vshallen A",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "",
     "team": "P14",
-    "location": "Esl�vshallen A (Pojkar - P14 Syd niv� 1 Gul)",
+    "location": "Eslövshallen A (Pojkar - P14 Syd nivå 1 Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "Esl�vs HK 1 borta"
+    "opponent": "Eslövs HK 1 borta"
   },
   {
-    "date": " Esl�vs HK 1 borta, Esl�vshallen A",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "11:00",
     "endTime": "12:00",
     "team": "F9",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Esl�v, Ankaret, K�vlinge borta, Sallerupshallen, Esl�v",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "12:15",
     "endTime": "",
@@ -3528,10 +3528,10 @@
     "location": "Ankaret",
     "type": "Match",
     "title": "",
-    "opponent": "Esl�v"
+    "opponent": "Eslöv"
   },
   {
-    "date": " Dalby, mfl borta, Nyv�ngshallen Dalby",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "12:30",
     "endTime": "",
@@ -3542,7 +3542,7 @@
     "opponent": "Dalby"
   },
   {
-    "date": " OV Helsingborg HK 1 hemma, Gunnesbohallen",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "12:45",
     "endTime": "",
@@ -3553,7 +3553,7 @@
     "opponent": "OV Helsingborg HK 1 hemma"
   },
   {
-    "date": " G�stande Lag hemma, Vipeholmshallen",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
@@ -3561,32 +3561,32 @@
     "location": "Vipeholmshallen (Flickor - F8 Syd Mini)",
     "type": "Match",
     "title": "",
-    "opponent": "G�stande Lag hemma"
+    "opponent": "Gästande Lag hemma"
   },
   {
-    "date": " HK Malm� 2 borta, S�derkulla Sporthall",
+    "date": "lör 28",
     "month": "Mars",
     "startTime": "16:00",
     "endTime": "",
     "team": "F13",
-    "location": "S�derkulla Sporthall (F13 Syd)",
+    "location": "Söderkulla Sporthall (F13 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malm� 2 borta"
+    "opponent": "HK Malmö 2 borta"
   },
   {
-    "date": "s�n 29",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:3009:00",
     "team": "Bollek Norr",
-    "location": "F�ladshallen   B",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "s�n 29",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:15",
@@ -3594,10 +3594,10 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "M�lvaktstr�ning"
+    "opponent": "Målvaktsträning"
   },
   {
-    "date": "s�n 29",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "10:30",
@@ -3605,10 +3605,10 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Borta, Gunnesbohallen",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "",
@@ -3619,7 +3619,7 @@
     "opponent": "Borta"
   },
   {
-    "date": " Borta, Gunnesbohallen",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "12:30",
@@ -3630,7 +3630,7 @@
     "opponent": "Lagaktivitet"
   },
   {
-    "date": " Borta, Gunnesbohallen",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "11:30",
@@ -3638,10 +3638,10 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Borta, Gunnesbohallen",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "11:30",
@@ -3649,21 +3649,21 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "M�lvaktstr�ning"
+    "opponent": "Målvaktsträning"
   },
   {
-    "date": " IFK Malm� HF Gul borta, Limhamns Sporthall",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "",
     "team": "P14",
-    "location": "Limhamns Sporthall (Pojkar - P14 Syd niv� 1 Gul)",
+    "location": "Limhamns Sporthall (Pojkar - P14 Syd nivå 1 Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malm� HF Gul borta"
+    "opponent": "IFK Malmö HF Gul borta"
   },
   {
-    "date": " HF Karlskrona 2 hemma, Tunahallen-Handboll",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "",
@@ -3674,7 +3674,7 @@
     "opponent": "HF Karlskrona 2 hemma"
   },
   {
-    "date": " V�xj� HF borta, Griffel Arena",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "12:00",
     "endTime": "",
@@ -3682,10 +3682,10 @@
     "location": "Griffel Arena (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "V�xj� HF borta"
+    "opponent": "Växjö HF borta"
   },
   {
-    "date": " HK Ankaret R�d hemma, Tunahallen-Handboll",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "12:30",
     "endTime": "",
@@ -3693,10 +3693,10 @@
     "location": "Tunahallen-Handboll (Flickor - F16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Ankaret R�d hemma"
+    "opponent": "HK Ankaret Röd hemma"
   },
   {
-    "date": " V�xj� HF borta, Griffel Arena",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "15:45",
     "endTime": "",
@@ -3704,21 +3704,21 @@
     "location": "Griffel Arena (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "V�xj� HF borta"
+    "opponent": "Växjö HF borta"
   },
   {
-    "date": " Lugi HF P15 2 borta, F�ladshallen, Lund",
+    "date": "sön 29",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "",
     "team": "P16",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Match",
     "title": "",
     "opponent": "Lugi HF P15 2 borta"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:3017:00",
@@ -3726,21 +3726,21 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
     "team": "P14",
-    "location": "�stratornhallen",
+    "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "18:30",
@@ -3748,10 +3748,10 @@
     "location": "Nordic Wellness",
     "type": "Träning",
     "title": "",
-    "opponent": "Frivillig styrketr�ning"
+    "opponent": "Frivillig styrketräning"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -3759,32 +3759,32 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P16",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "P18",
-    "location": "F�ladshallen",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -3792,10 +3792,10 @@
     "location": "Victoriastadion plan 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "18:45",
     "endTime": "21:00",
@@ -3803,10 +3803,10 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "L�pning + Hall"
+    "opponent": "Löpning + Hall"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -3814,10 +3814,10 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -3825,18 +3825,18 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": "m�n 30",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
-    "team": "HK Bl� 85",
-    "location": "F�ladshallen",
+    "team": "HK Blå 85",
+    "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
     "date": "tis 31",
@@ -3847,10 +3847,10 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Dalby borta, Nordic Wellness hallen (St Lars)",
+    "date": "tis 31",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "",
@@ -3861,18 +3861,18 @@
     "opponent": "Dalby borta"
   },
   {
-    "date": " Dalby borta, Nordic Wellness hallen (St Lars)",
+    "date": "tis 31",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "P8",
-    "location": "Hubertusg�rdens Gymnastiksal",
+    "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8"
   },
   {
-    "date": " Dalby borta, Nordic Wellness hallen (St Lars)",
+    "date": "tis 31",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -3880,10 +3880,10 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Dalby borta, Nordic Wellness hallen (St Lars)",
+    "date": "tis 31",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -3891,10 +3891,10 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Dalby borta, Nordic Wellness hallen (St Lars)",
+    "date": "tis 31",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -3902,10 +3902,10 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " Dalby borta, Nordic Wellness hallen (St Lars)",
+    "date": "tis 31",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -3913,28 +3913,28 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   },
   {
-    "date": " IFK Malm� HF hemma, Sparbanken Sk�ne Arena B",
+    "date": "tis 31",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "",
-    "team": "HK Bl� 85",
-    "location": "Sparbanken Sk�ne Arena B (Herrar - Herr 3 Syd)",
+    "team": "HK Blå 85",
+    "location": "Sparbanken Skåne Arena B (Herrar - Herr 3 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malm� HF hemma"
+    "opponent": "IFK Malmö HF hemma"
   },
   {
-    "date": " IFK Malm� HF hemma, Sparbanken Sk�ne Arena B",
+    "date": "tis 31",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
-    "team": "HK Bl� 85",
+    "team": "HK Blå 85",
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Tr�ning"
+    "opponent": "Träning"
   }
 ]
