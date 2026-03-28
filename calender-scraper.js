@@ -22,7 +22,6 @@ function cleanLocation(location, opponent) {
   cleaned = cleaned.replace(/([a-zåäö])([A-ZÅÄÖ])/g, "$1|$2");
   cleaned = cleaned.split("|")[0];
   cleaned = cleaned.split(",")[0];
-
   cleaned = cleaned.replace(/\s+/g, " ").trim();
 
   return cleaned || "Unknown";
@@ -42,10 +41,6 @@ function cleanLocation(location, opponent) {
       body: new URLSearchParams({ ID: "331251" })
     });
 
-    if (!res.ok) {
-      throw new Error(`HTTP error! status: ${res.status}`);
-    }
-
     const buffer = Buffer.from(await res.arrayBuffer());
     const html = buffer.toString("latin1");
 
@@ -55,96 +50,101 @@ function cleanLocation(location, opponent) {
 
     const events = [];
 
-    // 🔥 LOOP DAY BLOCKS (KEY FIX)
-    $(".inner").each((i, dayBlock) => {
-      const block = $(dayBlock);
+    // 🔥 LOOP ALL EVENTS DIRECTLY
+    $(".calAkt3").each((i, el) => {
+      const eventNode = $(el);
 
-      // 📅 DATE
-      const dateText = block.find("b").first().text().trim();
+      const rawText = eventNode.find("a.kal").first().text().trim();
+      if (!rawText) return;
 
-      const weekday = block.find("font")
-        .contents()
-        .filter((_, el) => el.type === "text")
-        .text()
-        .trim();
+      const row = eventNode.closest("tr");
 
-      const finalDate = cleanDate(weekday, dateText);
+      // 🔥 FIND DATE (walk backwards)
+      let prev = row.prev();
+      let weekday = "";
+      let date = "";
 
-      // ❌ skip if no valid date
-      if (!finalDate) return;
+      while (prev.length) {
+        if (prev.hasClass("dag")) {
+          const font = prev.find("font").first();
 
-      // 🔥 EVENTS INSIDE DAY
-      block.find(".calAkt3").each((i, eventEl) => {
-        const eventNode = $(eventEl);
+          weekday = font
+            .contents()
+            .filter((_, el) => el.type === "text")
+            .text()
+            .trim();
 
-        const rawText = eventNode.find("a.kal").first().text().trim();
-        if (!rawText) return;
-
-        const parentRow = eventNode.closest("tr");
-        const rowText = parentRow.text();
-
-        // ⏱ TIME
-        let startTime = "";
-        let endTime = "";
-
-        const timeMatch = rowText.match(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
-        const singleTime = rowText.match(/\b(\d{2}:\d{2})\b/);
-
-        if (timeMatch) {
-          startTime = timeMatch[1];
-          endTime = timeMatch[2];
-        } else if (singleTime) {
-          startTime = singleTime[1];
+          date = prev.find("b").first().text().trim();
+          break;
         }
 
-        // 👥 TEAM (correct per event)
-        let team = "Unknown";
-        const teamLink = eventNode.closest("td").find("a").first();
+        prev = prev.prev();
+      }
 
-        if (teamLink.length) {
-          team = teamLink.text().trim();
-        }
+      const finalDate = cleanDate(weekday, date);
 
-        // 📍 TYPE / LOCATION
-        const lower = rawText.toLowerCase();
+      // ⏱ TIME
+      const rowText = row.text();
 
-        let type = "";
-        let location = "";
-        let opponent = "";
-        let title = "";
+      let startTime = "";
+      let endTime = "";
 
-        if (lower.includes("borta") || lower.includes("hemma")) {
-          type = "Match";
-          const parts = rawText.split(",");
-          opponent = parts[0]?.trim() || "";
-          location = parts[1]?.trim() || "";
-        } else if (lower.includes("träning")) {
-          type = "Träning";
-          const parts = rawText.split(",");
-          location = parts[1]?.trim() || "";
-        } else {
-          type = "Övrigt";
-          const parts = rawText.split(",");
-          title = parts[0]?.trim() || "";
-          location = parts[1]?.trim() || "";
-        }
+      const timeMatch = rowText.match(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
+      const singleTime = rowText.match(/\b(\d{2}:\d{2})\b/);
 
-        // ❌ Skip cancelled
-        if (rawText.toLowerCase().includes("inställd")) return;
+      if (timeMatch) {
+        startTime = timeMatch[1];
+        endTime = timeMatch[2];
+      } else if (singleTime) {
+        startTime = singleTime[1];
+      }
 
-        const finalLocation = cleanLocation(location, opponent);
+      // 👥 TEAM
+      let team = "Unknown";
+      const teamLink = eventNode.closest("td").find("a").first();
 
-        events.push({
-          date: finalDate,
-          month: "Mars",
-          startTime,
-          endTime,
-          team,
-          location: finalLocation,
-          type,
-          title,
-          opponent
-        });
+      if (teamLink.length) {
+        team = teamLink.text().trim();
+      }
+
+      // 📍 TYPE / LOCATION
+      const lower = rawText.toLowerCase();
+
+      let type = "";
+      let location = "";
+      let opponent = "";
+      let title = "";
+
+      if (lower.includes("borta") || lower.includes("hemma")) {
+        type = "Match";
+        const parts = rawText.split(",");
+        opponent = parts[0]?.trim() || "";
+        location = parts[1]?.trim() || "";
+      } else if (lower.includes("träning")) {
+        type = "Träning";
+        const parts = rawText.split(",");
+        location = parts[1]?.trim() || "";
+      } else {
+        type = "Övrigt";
+        const parts = rawText.split(",");
+        title = parts[0]?.trim() || "";
+        location = parts[1]?.trim() || "";
+      }
+
+      if (rawText.toLowerCase().includes("inställd")) return;
+
+      const finalLocation = cleanLocation(location, opponent);
+
+      events.push({
+        date: finalDate,
+        month: "Mars",
+        startTime,
+        endTime,
+        team,
+        location: finalLocation,
+        type,
+        title,
+        opponent
       });
     });
 
@@ -162,16 +162,9 @@ function cleanLocation(location, opponent) {
 
     console.log("📊 Parsed events after dedup:", finalEvents.length);
 
-    const output = {
-      scrapedAt: new Date().toISOString(),
-      source: URL,
-      eventCount: finalEvents.length,
-      events: finalEvents
-    };
-
     fs.writeFileSync(
       "calendar.json",
-      JSON.stringify(output, null, 2),
+      JSON.stringify(finalEvents, null, 2),
       "utf-8"
     );
 
