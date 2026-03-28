@@ -24,13 +24,16 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       throw new Error(`HTTP error! status: ${res.status}`);
     }
 
-    // ✅ Fix encoding
+    // ✅ FIX encoding
     const buffer = Buffer.from(await res.arrayBuffer());
     const html = buffer.toString("latin1");
 
-    const events = [];
+    console.log("📦 HTML length:", html.length);
 
-    const rows = html.split("<tr");
+    // 🔥 FIX 1: robust row splitting
+    const rows = html.split(/<tr[^>]*>/i);
+
+    const events = [];
 
     let currentDate = "";
     let currentWeekday = "";
@@ -40,18 +43,21 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
       const clean = row.replace(/\n/g, " ").trim();
 
       // 📅 Month
-      const monthMatch = clean.match(/<b>(Januari|Februari|Mars|April|Maj|Juni|Juli|Augusti|September|Oktober|November|December)<\/b>/i);
+      const monthMatch = clean.match(
+        /<b>(Januari|Februari|Mars|April|Maj|Juni|Juli|Augusti|September|Oktober|November|December)<\/b>/i
+      );
       if (monthMatch) {
         currentMonth = monthMatch[1];
       }
 
-      // 📅 Date row
-      if (clean.includes('class="dag"')) {
+      // 🔥 FIX 2: robust date row detection
+      if (/class\s*=\s*["']?dag/i.test(clean)) {
         const dateMatch = clean.match(/<b>(\d+)<\/b>/);
         const weekdayMatch = clean.match(/<font[^>]*>(.*?)<\/font>/);
 
         currentDate = dateMatch?.[1] || "";
         currentWeekday = weekdayMatch?.[1] || "";
+
         continue;
       }
 
@@ -108,7 +114,7 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
         }
       }
 
-      // 👥 Team
+      // 👥 Team (best-effort)
       let team = "Unknown";
       const teamMatch = clean.match(/<a[^>]*>(?!.*kal)(.*?)<\/a>/);
       if (teamMatch) {
@@ -130,6 +136,8 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
         opponent
       });
     }
+
+    console.log("📊 Parsed events:", events.length);
 
     // 🔁 Deduplicate
     const unique = [];
