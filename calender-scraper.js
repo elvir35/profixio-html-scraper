@@ -20,9 +20,32 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
     timeout: 30000
   });
 
+  // Wait for initial content
   await page.waitForFunction(() => {
     return document.querySelectorAll("tr").length > 10;
   });
+
+  // 🧠 SCROLL TO LOAD ALL EVENTS
+  console.log("⬇️ Scrolling to load all events...");
+
+  let previousHeight = 0;
+
+  while (true) {
+    const currentHeight = await page.evaluate(() => document.body.scrollHeight);
+
+    if (currentHeight === previousHeight) break;
+
+    previousHeight = currentHeight;
+
+    await page.evaluate(() => {
+      window.scrollTo(0, document.body.scrollHeight);
+    });
+
+    // Give time for lazy-loaded content
+    await page.waitForTimeout(1200);
+  }
+
+  console.log("✅ Finished scrolling");
 
   const events = await page.evaluate(() => {
     const rows = Array.from(document.querySelectorAll("tr"));
@@ -57,10 +80,9 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
         return;
       }
 
-      // ❌ Skip rows until date is known
       if (!currentDate) return;
 
-      // ⏱ TIME (supports full + single)
+      // ⏱ TIME
       let startTime = "";
       let endTime = "";
 
@@ -123,40 +145,32 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/?ID=331251";
         }
       }
 
-     // 👥 TEAM (FINAL FIX — ALWAYS CORRECT)
-let team = "";
+      // 👥 TEAM
+      let team = "";
 
-// Find the correct parent cell of this activity
-const td = activityEl.closest("td");
+      const td = activityEl.closest("td");
+      const links = td ? td.querySelectorAll("a") : [];
 
-// Get ALL links inside that cell
-const links = td ? td.querySelectorAll("a") : [];
+      for (let i = 0; i < links.length; i++) {
+        const txt = links[i].innerText?.trim();
 
-// First link = team (NOT the .kal one)
-for (let i = 0; i < links.length; i++) {
-  const txt = links[i].innerText?.trim();
+        if (links[i].classList.contains("kal")) continue;
 
-  // Skip the activity link itself
-  if (links[i].classList.contains("kal")) continue;
+        if (txt) {
+          team = txt;
+          break;
+        }
+      }
 
-  if (txt) {
-    team = txt;
-    break;
-  }
-}
-
-// Normalize
-team = team.replace(/\s+/g, " ").trim();
-team = team.replace("F ", "F").replace("P ", "P");
+      team = team.replace(/\s+/g, " ").trim();
+      team = team.replace("F ", "F").replace("P ", "P");
 
       location = location || "Unknown";
       team = team || "Unknown";
       type = type || "Övrigt";
 
-      // ❌ CANCELLED
       if (text.toLowerCase().includes("inställd")) return;
 
-      // ❌ Skip garbage rows
       if (!team && !location && !startTime && !opponent) return;
 
       results.push({
@@ -172,7 +186,7 @@ team = team.replace("F ", "F").replace("P ", "P");
       });
     });
 
-    // 🔁 Dedup
+    // 🔁 Deduplicate
     const unique = [];
     const seen = new Set();
 
