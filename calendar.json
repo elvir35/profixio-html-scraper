@@ -8,7 +8,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 01",
@@ -19,7 +20,8 @@
     "location": "Henriksdalshallen",
     "type": "Match",
     "title": "",
-    "opponent": "Ljunghusens HK borta"
+    "opponent": "Ljunghusens HK",
+    "homeAway": "borta"
   },
   {
     "date": "sön 01",
@@ -30,7 +32,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 01",
@@ -41,7 +44,8 @@
     "location": "Lunds Idrottshall (Lag 1 (F11 röd Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "Ystads IF HF Vit  hemma"
+    "opponent": "Ystads IF HF Vit",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 01",
@@ -52,7 +56,8 @@
     "location": "Sparbanken Skåne Arena B (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "LUGI HF 2 borta"
+    "opponent": "LUGI HF 2",
+    "homeAway": "borta"
   },
   {
     "date": "sön 01",
@@ -63,7 +68,8 @@
     "location": "Svedala Sporthall (Pojkar -  P11 Syd Lätt Röd)",
     "type": "Match",
     "title": "",
-    "opponent": "Svedala HK och HK Ankaret borta"
+    "opponent": "Svedala HK och HK Ankaret",
+    "homeAway": "borta"
   },
   {
     "date": "sön 01",
@@ -74,7 +80,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 01",
@@ -85,7 +92,8 @@
     "location": "Eslövshallen ()",
     "type": "Match",
     "title": "",
-    "opponent": "Borta"
+    "opponent": "Borta",
+    "homeAway": "borta"
   },
   {
     "date": "sön 01",
@@ -96,7 +104,8 @@
     "location": "Halmstad Arena A1 (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Drott Halmstad 2 borta"
+    "opponent": "HK Drott Halmstad 2",
+    "homeAway": "borta"
   },
   {
     "date": "sön 01",
@@ -107,7 +116,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Funktionärer"
+    "opponent": "Funktionärer",
+    "homeAway": ""
   },
   {
     "date": "sön 01",
@@ -118,7 +128,8 @@
     "location": "Teknikhallen C ()",
     "type": "Match",
     "title": "",
-    "opponent": "OV Helsingborg Handbollklubb 2 borta"
+    "opponent": "OV Helsingborg Handbollklubb 2",
+    "homeAway": "borta"
   },
   {
     "date": "sön 01",
@@ -129,7 +140,8 @@
     "location": "Sparbanken Skåne Arena A (Damer - Dam 1)",
     "type": "Match",
     "title": "",
-    "opponent": "IF Hellton Karlstad hemma"
+    "opponent": "IF Hellton Karlstad",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 01",
@@ -140,7 +152,8 @@
     "location": "Tunahallen-Handboll (F13 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malmö HF Gul hemma"
+    "opponent": "IFK Malmö HF Gul",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 01",
@@ -151,7 +164,8 @@
     "location": "Eslövshallen B (Lag 3 (F11 Gul Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "Eslövs HK 1 borta"
+    "opponent": "Eslövs HK 1",
+    "homeAway": "borta"
   },
   {
     "date": "sön 01",
@@ -162,7 +176,8 @@
     "location": "Vipeholmshallen (Pojkar - P14 Syd Nivå 2 Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "Ystads IF HF 2 hemma"
+    "opponent": "Ystads IF HF 2",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 01",
@@ -173,7 +188,8 @@
     "location": "Tunahallen-Handboll (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "LUGI HF 3 hemma"
+    "opponent": "LUGI HF 3",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 01",
@@ -184,7 +200,8 @@
     "location": "Sparbanken Skåne Arena A (Herrar - Herrallsvenskan)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Varberg hemma"
+    "opponent": "HK Varberg",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 01",
@@ -195,7 +212,8 @@
     "location": "Arenan A",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Heja på A-lagen"
+    "opponent": "Heja på A-lagen",
+    "homeAway": ""
   },
   {
     "date": "sön 01",
@@ -206,7 +224,8 @@
     "location": "Tunahallen-Handboll (Pojkar - P16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "KFUM Kalmar HK hemma"
+    "opponent": "KFUM Kalmar HK",
+    "homeAway": "hemma"
   },
   {
     "date": "mån 02",
@@ -217,7 +236,8 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -228,7 +248,8 @@
     "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -239,7 +260,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -250,7 +272,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -261,7 +284,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -272,7 +296,8 @@
     "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -283,7 +308,8 @@
     "location": "Victoriastadion plan 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -294,7 +320,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -305,7 +332,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -316,7 +344,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -327,7 +356,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -338,7 +368,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 02",
@@ -349,7 +380,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 03",
@@ -360,7 +392,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 03",
@@ -371,7 +404,8 @@
     "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8",
+    "homeAway": ""
   },
   {
     "date": "tis 03",
@@ -382,7 +416,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 03",
@@ -393,7 +428,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 03",
@@ -404,7 +440,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 03",
@@ -415,7 +452,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 03",
@@ -426,7 +464,8 @@
     "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P2015"
+    "opponent": "Träning H43 P2015",
+    "homeAway": ""
   },
   {
     "date": "tis 03",
@@ -437,7 +476,8 @@
     "location": "Sparbanken Skåne Arena B (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi HF 2 borta"
+    "opponent": "Lugi HF 2",
+    "homeAway": "borta"
   },
   {
     "date": "tis 03",
@@ -448,7 +488,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -459,7 +500,8 @@
     "location": "Heddahallen B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -470,7 +512,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -481,7 +524,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -492,7 +536,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -503,7 +548,8 @@
     "location": "Victoriastadion",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -514,7 +560,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -525,7 +572,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -536,7 +584,8 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -547,7 +596,8 @@
     "location": "Halmstad Arena A1 (Herrar - Herrallsvenskan)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Drott Halmstad borta"
+    "opponent": "HK Drott Halmstad",
+    "homeAway": "borta"
   },
   {
     "date": "ons 04",
@@ -558,7 +608,8 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -569,7 +620,8 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 04",
@@ -580,7 +632,8 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 05",
@@ -591,7 +644,8 @@
     "location": "Nordic wellness hallen St Lars",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 05",
@@ -602,7 +656,8 @@
     "location": "Victoriastadion 1",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 05",
@@ -613,7 +668,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 05",
@@ -624,7 +680,8 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 05",
@@ -635,7 +692,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 05",
@@ -646,7 +704,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 05",
@@ -657,7 +716,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 05",
@@ -668,7 +728,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 06",
@@ -679,7 +740,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 06",
@@ -690,7 +752,8 @@
     "location": "Vipeholmshallen (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malmö HF Gul hemma"
+    "opponent": "IFK Malmö HF Gul",
+    "homeAway": "hemma"
   },
   {
     "date": "fre 06",
@@ -701,7 +764,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 06",
@@ -712,7 +776,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 06",
@@ -723,7 +788,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 07",
@@ -734,7 +800,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 07",
@@ -745,7 +812,8 @@
     "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 07",
@@ -756,7 +824,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 07",
@@ -767,7 +836,8 @@
     "location": "Sundsbrohallen",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malmö HF Blå borta"
+    "opponent": "IFK Malmö HF Blå",
+    "homeAway": "borta"
   },
   {
     "date": "lör 07",
@@ -778,7 +848,8 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 07",
@@ -789,7 +860,8 @@
     "location": "Söderkulla Sporthall",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malmö och HK Ankaret borta"
+    "opponent": "HK Malmö och HK Ankaret",
+    "homeAway": "borta"
   },
   {
     "date": "lör 07",
@@ -800,7 +872,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P8"
+    "opponent": "Träning H43 P8",
+    "homeAway": ""
   },
   {
     "date": "lör 07",
@@ -811,7 +884,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 07",
@@ -822,7 +896,8 @@
     "location": "Rutsborgshallen 1",
     "type": "Match",
     "title": "",
-    "opponent": "HK Ankaret Röd borta"
+    "opponent": "HK Ankaret Röd",
+    "homeAway": "borta"
   },
   {
     "date": "lör 07",
@@ -833,7 +908,8 @@
     "location": "Vipeholmshallen (Pojkar -  P11 Syd Svår Röd)",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi och Karlshamns HF hemma"
+    "opponent": "Lugi och Karlshamns HF",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 07",
@@ -844,7 +920,8 @@
     "location": "Stentorpshallen Halmstad ()",
     "type": "Match",
     "title": "",
-    "opponent": "Halmstad bl a  borta"
+    "opponent": "Halmstad bl a",
+    "homeAway": "borta"
   },
   {
     "date": "lör 07",
@@ -855,7 +932,8 @@
     "location": "Torslanda Sporthall A (Damer - Dam 1)",
     "type": "Match",
     "title": "",
-    "opponent": "Torslanda HK borta"
+    "opponent": "Torslanda HK",
+    "homeAway": "borta"
   },
   {
     "date": "lör 07",
@@ -866,7 +944,8 @@
     "location": "Bollhuset A (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Kristianstad HK hemma"
+    "opponent": "Kristianstad HK",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 07",
@@ -877,7 +956,8 @@
     "location": "Helsingborg Arena B",
     "type": "Övrigt",
     "title": "",
-    "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg"
+    "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
+    "homeAway": ""
   },
   {
     "date": "lör 07",
@@ -888,7 +968,8 @@
     "location": "Bollhuset A (Herrar - Herr 2 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Växjö HF hemma"
+    "opponent": "Växjö HF",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 07",
@@ -899,7 +980,8 @@
     "location": "Helsingborg Arena B (Pojkar - USM P14)",
     "type": "Match",
     "title": "",
-    "opponent": "Finspångs HK borta"
+    "opponent": "Finspångs HK",
+    "homeAway": "borta"
   },
   {
     "date": "lör 07",
@@ -910,7 +992,8 @@
     "location": "Bollhuset A (Herrar - Herr 3 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Halmstad HF hemma"
+    "opponent": "Halmstad HF",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 07",
@@ -921,7 +1004,8 @@
     "location": "Tolvåkers Idrottshall B (F13 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Lödde Vikings HK 2 borta"
+    "opponent": "Lödde Vikings HK 2",
+    "homeAway": "borta"
   },
   {
     "date": "lör 07",
@@ -932,7 +1016,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Sverige VS Serbien (svar senast 30/11)"
+    "opponent": "Sverige VS Serbien (svar senast 30/11)",
+    "homeAway": ""
   },
   {
     "date": "lör 07",
@@ -943,7 +1028,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "EM-kval Damer Sverige - Serbien"
+    "opponent": "EM-kval Damer Sverige - Serbien",
+    "homeAway": ""
   },
   {
     "date": "sön 08",
@@ -954,7 +1040,8 @@
     "location": "Helsingborg Arena B",
     "type": "Träning",
     "title": "",
-    "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg"
+    "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
+    "homeAway": ""
   },
   {
     "date": "sön 08",
@@ -965,7 +1052,8 @@
     "location": "Helsingborg Arena B",
     "type": "Övrigt",
     "title": "",
-    "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg"
+    "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
+    "homeAway": ""
   },
   {
     "date": "sön 08",
@@ -976,7 +1064,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 08",
@@ -987,7 +1076,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 08",
@@ -998,7 +1088,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 08",
@@ -1009,7 +1100,8 @@
     "location": "Helsingborg Arena B (Pojkar - USM P14)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Aranäs hemma"
+    "opponent": "HK Aranäs",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 08",
@@ -1020,7 +1112,8 @@
     "location": "Helsingborg Arena B (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "OV Helsingborg HK - 3 borta"
+    "opponent": "OV Helsingborg HK - 3",
+    "homeAway": "borta"
   },
   {
     "date": "sön 08",
@@ -1031,7 +1124,8 @@
     "location": "Sparbanken Skåne Arena B (Damer - Dam 3 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi HF U B borta"
+    "opponent": "Lugi HF U B",
+    "homeAway": "borta"
   },
   {
     "date": "sön 08",
@@ -1042,7 +1136,8 @@
     "location": "Stenbackahallen (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Karlshamns HF borta"
+    "opponent": "Karlshamns HF",
+    "homeAway": "borta"
   },
   {
     "date": "sön 08",
@@ -1053,7 +1148,8 @@
     "location": "Östergårdshallen (Flickor - F16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Drott Halmstad borta"
+    "opponent": "HK Drott Halmstad",
+    "homeAway": "borta"
   },
   {
     "date": "sön 08",
@@ -1064,7 +1160,8 @@
     "location": "Helsingborg Arena B (Pojkar - USM P14)",
     "type": "Match",
     "title": "",
-    "opponent": "OV Helsingborg HK borta"
+    "opponent": "OV Helsingborg HK",
+    "homeAway": "borta"
   },
   {
     "date": "sön 08",
@@ -1075,7 +1172,8 @@
     "location": "Tornhallen",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi P12 borta"
+    "opponent": "Lugi P12",
+    "homeAway": "borta"
   },
   {
     "date": "sön 08",
@@ -1086,7 +1184,8 @@
     "location": "Ystad Arena A1 (Pojkar - P16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Ystads IF HF 1 borta"
+    "opponent": "Ystads IF HF 1",
+    "homeAway": "borta"
   },
   {
     "date": "mån 09",
@@ -1097,7 +1196,8 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1108,7 +1208,8 @@
     "location": "Nordic wellness St Lars",
     "type": "Träning",
     "title": "",
-    "opponent": "Gymintroduktion Nordic Wellness"
+    "opponent": "Gymintroduktion Nordic Wellness",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1119,7 +1220,8 @@
     "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1130,7 +1232,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1141,7 +1244,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1152,7 +1256,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1163,7 +1268,8 @@
     "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1174,7 +1280,8 @@
     "location": "Victoriastadion plan 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1185,7 +1292,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1196,7 +1304,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1207,7 +1316,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1218,7 +1328,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 09",
@@ -1229,7 +1340,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 10",
@@ -1240,7 +1352,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 10",
@@ -1251,7 +1364,8 @@
     "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8",
+    "homeAway": ""
   },
   {
     "date": "tis 10",
@@ -1262,7 +1376,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 10",
@@ -1273,7 +1388,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 10",
@@ -1284,7 +1400,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 10",
@@ -1295,7 +1412,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 10",
@@ -1306,7 +1424,8 @@
     "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P2015"
+    "opponent": "Träning H43 P2015",
+    "homeAway": ""
   },
   {
     "date": "tis 10",
@@ -1317,7 +1436,8 @@
     "location": "Sparbanken Skåne Arena B (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IK Lågan hemma"
+    "opponent": "IK Lågan",
+    "homeAway": "hemma"
   },
   {
     "date": "tis 10",
@@ -1328,7 +1448,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1339,7 +1460,8 @@
     "location": "Heddahallen B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1350,7 +1472,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1361,7 +1484,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning inkl. målvaktsträning"
+    "opponent": "Träning inkl. målvaktsträning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1372,7 +1496,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1383,7 +1508,8 @@
     "location": "Victoriastadion",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1394,7 +1520,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1405,7 +1532,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1416,7 +1544,8 @@
     "location": "Bollhuset A (Pojkar - P14 Syd nivå 1 Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi HF 2 hemma"
+    "opponent": "Lugi HF 2",
+    "homeAway": "hemma"
   },
   {
     "date": "ons 11",
@@ -1427,7 +1556,8 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1438,7 +1568,8 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 11",
@@ -1449,7 +1580,8 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 12",
@@ -1460,7 +1592,8 @@
     "location": "Nordic wellness hallen St Lars",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 12",
@@ -1471,7 +1604,8 @@
     "location": "Victoriastadion 1",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 12",
@@ -1482,7 +1616,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 12",
@@ -1493,7 +1628,8 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 12",
@@ -1504,7 +1640,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 12",
@@ -1515,7 +1652,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 12",
@@ -1526,7 +1664,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 12",
@@ -1537,7 +1676,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 12",
@@ -1548,7 +1688,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1559,7 +1700,8 @@
     "location": "Allsvenskan",
     "type": "Träning",
     "title": "",
-    "opponent": "Support H43 - Lugi HA"
+    "opponent": "Support H43 - Lugi HA",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1570,7 +1712,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Sälja 50/50-lotter på derbyt"
+    "opponent": "Sälja 50/50-lotter på derbyt",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1581,7 +1724,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Sälja 50/50-lotter på derbyt"
+    "opponent": "Sälja 50/50-lotter på derbyt",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1592,7 +1736,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1603,7 +1748,8 @@
     "location": "Sparbanken Skåne Arena A (Herrar - Herrallsvenskan)",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi HF hemma"
+    "opponent": "Lugi HF",
+    "homeAway": "hemma"
   },
   {
     "date": "fre 13",
@@ -1614,7 +1760,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1625,7 +1772,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1636,7 +1784,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1647,7 +1796,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1658,7 +1808,8 @@
     "location": "Arenan A",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1669,7 +1820,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1680,7 +1832,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1691,7 +1844,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1702,7 +1856,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1713,7 +1868,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1724,7 +1880,8 @@
     "location": "Färsingahallen (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Björnen borta"
+    "opponent": "HK Björnen",
+    "homeAway": "borta"
   },
   {
     "date": "fre 13",
@@ -1735,7 +1892,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1746,7 +1904,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1757,7 +1916,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1768,7 +1928,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1779,7 +1940,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1790,7 +1952,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1801,7 +1964,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1812,7 +1976,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1823,7 +1988,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1834,7 +2000,8 @@
     "location": "Arenan A",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi HF"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi HF",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1845,7 +2012,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "fre 13",
@@ -1856,7 +2024,8 @@
     "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi"
+    "opponent": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "homeAway": ""
   },
   {
     "date": "lör 14",
@@ -1867,7 +2036,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 14",
@@ -1878,7 +2048,8 @@
     "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 14",
@@ -1889,7 +2060,8 @@
     "location": "Bollhuset A (Lag 2 (F11 Röd Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi HF 5 hemma"
+    "opponent": "Lugi HF 5",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 14",
@@ -1900,7 +2072,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 14",
@@ -1911,7 +2084,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 14",
@@ -1922,7 +2096,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 14",
@@ -1933,7 +2108,8 @@
     "location": "Sporthallen Höör (Pojkar - P14 Syd nivå 1 Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "Höörs HK H 65 borta"
+    "opponent": "Höörs HK H 65",
+    "homeAway": "borta"
   },
   {
     "date": "lör 14",
@@ -1944,7 +2120,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 14",
@@ -1955,7 +2132,8 @@
     "location": "Sånnahallen B",
     "type": "Match",
     "title": "",
-    "opponent": "Åhus Handboll och IFK Kristianstad borta"
+    "opponent": "Åhus Handboll och IFK Kristianstad",
+    "homeAway": "borta"
   },
   {
     "date": "lör 14",
@@ -1966,7 +2144,8 @@
     "location": "Färsingahallen Sjöbo ()",
     "type": "Match",
     "title": "",
-    "opponent": "Borta"
+    "opponent": "Borta",
+    "homeAway": "borta"
   },
   {
     "date": "lör 14",
@@ -1977,7 +2156,8 @@
     "location": "Vipeholmshallen (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Höörs HK H 65 hemma"
+    "opponent": "Höörs HK H 65",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 14",
@@ -1988,7 +2168,8 @@
     "location": "Bollhuset A (F13 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "OV Helsingborg HK - 2 hemma"
+    "opponent": "OV Helsingborg HK - 2",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 14",
@@ -1999,7 +2180,8 @@
     "location": "Stenstorsphallen",
     "type": "Match",
     "title": "",
-    "opponent": "HK Halmstad borta"
+    "opponent": "HK Halmstad",
+    "homeAway": "borta"
   },
   {
     "date": "lör 14",
@@ -2010,7 +2192,8 @@
     "location": "Baltiska Hallen (Damer - Dam 1)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malmö borta"
+    "opponent": "HK Malmö",
+    "homeAway": "borta"
   },
   {
     "date": "lör 14",
@@ -2021,7 +2204,8 @@
     "location": "Nyvångshallen",
     "type": "Match",
     "title": "",
-    "opponent": "Dalby GIF borta"
+    "opponent": "Dalby GIF",
+    "homeAway": "borta"
   },
   {
     "date": "lör 14",
@@ -2032,7 +2216,8 @@
     "location": "Vipeholmshallen (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Tollarps IF 2 hemma"
+    "opponent": "Tollarps IF 2",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 14",
@@ -2043,7 +2228,8 @@
     "location": "Norrehedshallen",
     "type": "Match",
     "title": "",
-    "opponent": "IK Sund borta"
+    "opponent": "IK Sund",
+    "homeAway": "borta"
   },
   {
     "date": "lör 14",
@@ -2054,7 +2240,8 @@
     "location": "Sånnahallen A (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Åhus Handboll borta"
+    "opponent": "Åhus Handboll",
+    "homeAway": "borta"
   },
   {
     "date": "lör 14",
@@ -2065,7 +2252,8 @@
     "location": "USM Steg 4 i Täby",
     "type": "Träning",
     "title": "",
-    "opponent": "USM steg 4"
+    "opponent": "USM steg 4",
+    "homeAway": ""
   },
   {
     "date": "sön 15",
@@ -2076,7 +2264,8 @@
     "location": "USM Steg 4 i Täby",
     "type": "Träning",
     "title": "",
-    "opponent": "USM steg 4"
+    "opponent": "USM steg 4",
+    "homeAway": ""
   },
   {
     "date": "sön 15",
@@ -2087,7 +2276,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 15",
@@ -2098,7 +2288,8 @@
     "location": "Henriksdalshallen (Lag 1 (F11 röd Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "Ljunghusens HK Ljusblå borta"
+    "opponent": "Ljunghusens HK Ljusblå",
+    "homeAway": "borta"
   },
   {
     "date": "sön 15",
@@ -2109,7 +2300,8 @@
     "location": "Lågehall B ()",
     "type": "Match",
     "title": "",
-    "opponent": "IK Lågan svart  borta"
+    "opponent": "IK Lågan svart",
+    "homeAway": "borta"
   },
   {
     "date": "sön 15",
@@ -2120,7 +2312,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 15",
@@ -2131,7 +2324,8 @@
     "location": "Stapelbäddshallen",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malmö och IK Sund borta"
+    "opponent": "IFK Malmö och IK Sund",
+    "homeAway": "borta"
   },
   {
     "date": "sön 15",
@@ -2142,7 +2336,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 15",
@@ -2153,7 +2348,8 @@
     "location": "Borgebyhallen (Herrar - Herr 3 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Ankaret borta"
+    "opponent": "HK Ankaret",
+    "homeAway": "borta"
   },
   {
     "date": "sön 15",
@@ -2164,7 +2360,8 @@
     "location": "Tunahallen-Handboll (Pojkar - P19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Drott Halmstad hemma"
+    "opponent": "HK Drott Halmstad",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 15",
@@ -2175,7 +2372,8 @@
     "location": "Tolvåkers Idrottshall B (Lag 3 (F11 Gul Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi HF 3 borta"
+    "opponent": "Lugi HF 3",
+    "homeAway": "borta"
   },
   {
     "date": "sön 15",
@@ -2186,7 +2384,8 @@
     "location": "Prästängshallen (Pojkar - P16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Eksjö BK borta"
+    "opponent": "Eksjö BK",
+    "homeAway": "borta"
   },
   {
     "date": "sön 15",
@@ -2197,7 +2396,8 @@
     "location": "Tunahallen-Handboll (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Kristianstad HK hemma"
+    "opponent": "Kristianstad HK",
+    "homeAway": "hemma"
   },
   {
     "date": "mån 16",
@@ -2208,7 +2408,8 @@
     "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2219,7 +2420,8 @@
     "location": "Nordic Wellness",
     "type": "Träning",
     "title": "",
-    "opponent": "Frivillig styrketräning"
+    "opponent": "Frivillig styrketräning",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2230,7 +2432,8 @@
     "location": "Glasbollen",
     "type": "Träning",
     "title": "",
-    "opponent": "Pizzakväll och spelarmöte"
+    "opponent": "Pizzakväll och spelarmöte",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2241,7 +2444,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2252,7 +2456,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2263,7 +2468,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2274,7 +2480,8 @@
     "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2285,7 +2492,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2296,7 +2504,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2307,7 +2516,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 16",
@@ -2318,7 +2528,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2329,7 +2540,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2340,7 +2552,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2351,7 +2564,8 @@
     "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2362,7 +2576,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2373,7 +2588,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2384,7 +2600,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2395,7 +2612,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2406,7 +2624,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2417,7 +2636,8 @@
     "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P2015"
+    "opponent": "Träning H43 P2015",
+    "homeAway": ""
   },
   {
     "date": "tis 17",
@@ -2428,7 +2648,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 18",
@@ -2439,7 +2660,8 @@
     "location": "Heddahallen B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 18",
@@ -2450,7 +2672,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 18",
@@ -2461,7 +2684,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 18",
@@ -2472,7 +2696,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 18",
@@ -2483,7 +2708,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 18",
@@ -2494,7 +2720,8 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 18",
@@ -2505,7 +2732,8 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 18",
@@ -2516,7 +2744,8 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 18",
@@ -2527,7 +2756,8 @@
     "location": "Gunnesbohallen (Pojkar - P16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malmö hemma"
+    "opponent": "HK Malmö",
+    "homeAway": "hemma"
   },
   {
     "date": "tor 19",
@@ -2538,7 +2768,8 @@
     "location": "Nordic wellness hallen St Lars",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 19",
@@ -2549,7 +2780,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 19",
@@ -2560,7 +2792,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 19",
@@ -2571,7 +2804,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 19",
@@ -2582,7 +2816,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 19",
@@ -2593,7 +2828,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 19",
@@ -2604,7 +2840,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 20",
@@ -2615,7 +2852,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 20",
@@ -2626,7 +2864,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 20",
@@ -2637,7 +2876,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 20",
@@ -2648,7 +2888,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 20",
@@ -2659,7 +2900,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 20",
@@ -2670,7 +2912,8 @@
     "location": "Ystad Arena (Pojkar - P19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Ystad HK borta"
+    "opponent": "IFK Ystad HK",
+    "homeAway": "borta"
   },
   {
     "date": "fre 20",
@@ -2681,7 +2924,8 @@
     "location": "Läredaskolan (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Hässleholms HF borta"
+    "opponent": "Hässleholms HF",
+    "homeAway": "borta"
   },
   {
     "date": "lör 21",
@@ -2692,7 +2936,8 @@
     "location": "Hjo",
     "type": "Träning",
     "title": "",
-    "opponent": "USM Steg 4C"
+    "opponent": "USM Steg 4C",
+    "homeAway": ""
   },
   {
     "date": "lör 21",
@@ -2703,7 +2948,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 21",
@@ -2714,7 +2960,8 @@
     "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 21",
@@ -2725,7 +2972,8 @@
     "location": "Bollhuset A (Lag 3 (F11 Gul Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "Eslövs HK 1 hemma"
+    "opponent": "Eslövs HK 1",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 21",
@@ -2736,7 +2984,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 21",
@@ -2747,7 +2996,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 21",
@@ -2758,7 +3008,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P8"
+    "opponent": "Träning H43 P8",
+    "homeAway": ""
   },
   {
     "date": "lör 21",
@@ -2769,7 +3020,8 @@
     "location": "Staffanshallen ()",
     "type": "Match",
     "title": "",
-    "opponent": "Staffanstorps Handbollklubb borta"
+    "opponent": "Staffanstorps Handbollklubb",
+    "homeAway": "borta"
   },
   {
     "date": "lör 21",
@@ -2780,7 +3032,8 @@
     "location": "Dalby",
     "type": "Match",
     "title": "",
-    "opponent": "Eslöv"
+    "opponent": "Eslöv",
+    "homeAway": ""
   },
   {
     "date": "lör 21",
@@ -2791,7 +3044,8 @@
     "location": "Bollhuset A (Lag 2 (F11 Röd Syd))",
     "type": "Match",
     "title": "",
-    "opponent": "IK Sund hemma"
+    "opponent": "IK Sund",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 21",
@@ -2802,7 +3056,8 @@
     "location": "Stentorpshallen ()",
     "type": "Match",
     "title": "",
-    "opponent": "Halmstad borta"
+    "opponent": "Halmstad",
+    "homeAway": "borta"
   },
   {
     "date": "lör 21",
@@ -2813,7 +3068,8 @@
     "location": "Eksjö",
     "type": "Övrigt",
     "title": "",
-    "opponent": "USM Steg 4 Lag Blå"
+    "opponent": "USM Steg 4 Lag Blå",
+    "homeAway": ""
   },
   {
     "date": "lör 21",
@@ -2824,7 +3080,8 @@
     "location": "Bollhuset A (Pojkar -  P11 Syd Lätt Röd)",
     "type": "Match",
     "title": "",
-    "opponent": "OV Helsingborg hemma"
+    "opponent": "OV Helsingborg",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 21",
@@ -2835,7 +3092,8 @@
     "location": "Gunnesbohallen (Pojkar - P10 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "KFUM IA Lundagård borta"
+    "opponent": "KFUM IA Lundagård",
+    "homeAway": "borta"
   },
   {
     "date": "lör 21",
@@ -2846,7 +3104,8 @@
     "location": "Restaurang La Cucina",
     "type": "Övrigt",
     "title": "",
-    "opponent": "USM Lag vit"
+    "opponent": "USM Lag vit",
+    "homeAway": ""
   },
   {
     "date": "sön 22",
@@ -2857,7 +3116,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 22",
@@ -2868,7 +3128,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 22",
@@ -2879,7 +3140,8 @@
     "location": "Lunds Idrottshall (Pojkar - P11 Syd Svår Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "Staffanstorps HK och Kävlinge HK hemma"
+    "opponent": "Staffanstorps HK och Kävlinge HK",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 22",
@@ -2890,7 +3152,8 @@
     "location": "Höörs Bad och Sportcentrum",
     "type": "Övrigt",
     "title": "",
-    "opponent": "USM Lag vit dag 2"
+    "opponent": "USM Lag vit dag 2",
+    "homeAway": ""
   },
   {
     "date": "sön 22",
@@ -2901,7 +3164,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 22",
@@ -2912,7 +3176,8 @@
     "location": "Lågehall A (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IK Lågan borta"
+    "opponent": "IK Lågan",
+    "homeAway": "borta"
   },
   {
     "date": "sön 22",
@@ -2923,7 +3188,8 @@
     "location": "Söderkulla Sporthall (Flickor - F16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malmö borta"
+    "opponent": "HK Malmö",
+    "homeAway": "borta"
   },
   {
     "date": "sön 22",
@@ -2934,7 +3200,8 @@
     "location": "Väggahallen",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Bindande - intresseanmälan- Matcher i Karlshamn"
+    "opponent": "Bindande - intresseanmälan- Matcher i Karlshamn",
+    "homeAway": ""
   },
   {
     "date": "sön 22",
@@ -2945,7 +3212,8 @@
     "location": "Väggahallen",
     "type": "Match",
     "title": "",
-    "opponent": "Karlshamns HF Gul borta"
+    "opponent": "Karlshamns HF Gul",
+    "homeAway": "borta"
   },
   {
     "date": "sön 22",
@@ -2956,7 +3224,8 @@
     "location": "Väggahallen",
     "type": "Match",
     "title": "",
-    "opponent": "Karlshamn röd borta"
+    "opponent": "Karlshamn röd",
+    "homeAway": "borta"
   },
   {
     "date": "mån 23",
@@ -2967,7 +3236,8 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -2978,7 +3248,8 @@
     "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -2989,7 +3260,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -3000,7 +3272,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -3011,7 +3284,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -3022,7 +3296,8 @@
     "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -3033,7 +3308,8 @@
     "location": "Victoriastadion plan 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -3044,7 +3320,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Löpning + Hall"
+    "opponent": "Löpning + Hall",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -3055,7 +3332,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -3066,7 +3344,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -3077,7 +3356,8 @@
     "location": "Sundsbrohallen",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malmö HF Blå borta"
+    "opponent": "IFK Malmö HF Blå",
+    "homeAway": "borta"
   },
   {
     "date": "mån 23",
@@ -3088,7 +3368,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 23",
@@ -3099,7 +3380,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 24",
@@ -3110,7 +3392,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 24",
@@ -3121,7 +3404,8 @@
     "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8",
+    "homeAway": ""
   },
   {
     "date": "tis 24",
@@ -3132,7 +3416,8 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 24",
@@ -3143,7 +3428,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 24",
@@ -3154,7 +3440,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 24",
@@ -3165,7 +3452,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 24",
@@ -3176,7 +3464,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 24",
@@ -3187,7 +3476,8 @@
     "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P2015"
+    "opponent": "Träning H43 P2015",
+    "homeAway": ""
   },
   {
     "date": "tis 24",
@@ -3198,7 +3488,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 25",
@@ -3209,7 +3500,8 @@
     "location": "Heddahallen B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 25",
@@ -3220,7 +3512,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning inkl. målvaktsträning"
+    "opponent": "Träning inkl. målvaktsträning",
+    "homeAway": ""
   },
   {
     "date": "ons 25",
@@ -3231,7 +3524,8 @@
     "location": "Sparbanken Skåne Arena A (Flickor - F16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi HF 1 F10  borta"
+    "opponent": "Lugi HF 1 F10",
+    "homeAway": "borta"
   },
   {
     "date": "ons 25",
@@ -3242,7 +3536,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 25",
@@ -3253,7 +3548,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 25",
@@ -3264,7 +3560,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 25",
@@ -3275,7 +3572,8 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 25",
@@ -3286,7 +3584,8 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 25",
@@ -3297,7 +3596,8 @@
     "location": "Gunnesbohallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "ons 25",
@@ -3308,7 +3608,8 @@
     "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 26",
@@ -3319,7 +3620,8 @@
     "location": "Nordic wellness hallen St Lars",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 26",
@@ -3330,7 +3632,8 @@
     "location": "Victoriastadion 1",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 26",
@@ -3341,7 +3644,8 @@
     "location": "Arenan A",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 26",
@@ -3352,7 +3656,8 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 26",
@@ -3363,7 +3668,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Löpning + Hall"
+    "opponent": "Löpning + Hall",
+    "homeAway": ""
   },
   {
     "date": "tor 26",
@@ -3374,7 +3680,8 @@
     "location": "Torslanda Sporthall A (Herrar - Herrallsvenskan)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Torslanda Elit borta"
+    "opponent": "HK Torslanda Elit",
+    "homeAway": "borta"
   },
   {
     "date": "tor 26",
@@ -3385,7 +3692,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 26",
@@ -3396,7 +3704,8 @@
     "location": "Söderslättshallen A (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Stavsten HK U borta"
+    "opponent": "Stavsten HK U",
+    "homeAway": "borta"
   },
   {
     "date": "tor 26",
@@ -3407,7 +3716,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tor 26",
@@ -3418,7 +3728,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 27",
@@ -3429,7 +3740,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 27",
@@ -3440,7 +3752,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "fre 27",
@@ -3451,7 +3764,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 28",
@@ -3462,7 +3776,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 28",
@@ -3473,7 +3788,8 @@
     "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 28",
@@ -3484,7 +3800,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 28",
@@ -3495,7 +3812,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 28",
@@ -3506,7 +3824,8 @@
     "location": "Eslövshallen A (Pojkar - P14 Syd nivå 1 Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "Eslövs HK 1 borta"
+    "opponent": "Eslövs HK 1",
+    "homeAway": "borta"
   },
   {
     "date": "lör 28",
@@ -3517,7 +3836,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "lör 28",
@@ -3528,7 +3848,8 @@
     "location": "Ankaret",
     "type": "Match",
     "title": "",
-    "opponent": "Eslöv"
+    "opponent": "Eslöv",
+    "homeAway": ""
   },
   {
     "date": "lör 28",
@@ -3539,7 +3860,8 @@
     "location": "mfl borta",
     "type": "Match",
     "title": "",
-    "opponent": "Dalby"
+    "opponent": "Dalby",
+    "homeAway": ""
   },
   {
     "date": "lör 28",
@@ -3550,7 +3872,8 @@
     "location": "Gunnesbohallen (Flickor - F14 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "OV Helsingborg HK 1 hemma"
+    "opponent": "OV Helsingborg HK 1",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 28",
@@ -3561,7 +3884,8 @@
     "location": "Vipeholmshallen (Flickor - F8 Syd Mini)",
     "type": "Match",
     "title": "",
-    "opponent": "Gästande Lag hemma"
+    "opponent": "Gästande Lag",
+    "homeAway": "hemma"
   },
   {
     "date": "lör 28",
@@ -3572,7 +3896,8 @@
     "location": "Söderkulla Sporthall (F13 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Malmö 2 borta"
+    "opponent": "HK Malmö 2",
+    "homeAway": "borta"
   },
   {
     "date": "sön 29",
@@ -3583,7 +3908,8 @@
     "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 29",
@@ -3594,7 +3920,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Målvaktsträning"
+    "opponent": "Målvaktsträning",
+    "homeAway": ""
   },
   {
     "date": "sön 29",
@@ -3605,7 +3932,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 29",
@@ -3616,7 +3944,8 @@
     "location": "Gunnesbohallen ()",
     "type": "Match",
     "title": "",
-    "opponent": "Borta"
+    "opponent": "Borta",
+    "homeAway": "borta"
   },
   {
     "date": "sön 29",
@@ -3627,7 +3956,8 @@
     "location": "Tornhallen",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Lagaktivitet"
+    "opponent": "Lagaktivitet",
+    "homeAway": ""
   },
   {
     "date": "sön 29",
@@ -3638,7 +3968,8 @@
     "location": "Bollhuset B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "sön 29",
@@ -3649,7 +3980,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Målvaktsträning"
+    "opponent": "Målvaktsträning",
+    "homeAway": ""
   },
   {
     "date": "sön 29",
@@ -3660,7 +3992,8 @@
     "location": "Limhamns Sporthall (Pojkar - P14 Syd nivå 1 Gul)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malmö HF Gul borta"
+    "opponent": "IFK Malmö HF Gul",
+    "homeAway": "borta"
   },
   {
     "date": "sön 29",
@@ -3671,7 +4004,8 @@
     "location": "Tunahallen-Handboll (Pojkar - P19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HF Karlskrona 2 hemma"
+    "opponent": "HF Karlskrona 2",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 29",
@@ -3682,7 +4016,8 @@
     "location": "Griffel Arena (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Växjö HF borta"
+    "opponent": "Växjö HF",
+    "homeAway": "borta"
   },
   {
     "date": "sön 29",
@@ -3693,7 +4028,8 @@
     "location": "Tunahallen-Handboll (Flickor - F16 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "HK Ankaret Röd hemma"
+    "opponent": "HK Ankaret Röd",
+    "homeAway": "hemma"
   },
   {
     "date": "sön 29",
@@ -3704,7 +4040,8 @@
     "location": "Griffel Arena (Flickor - F19 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "Växjö HF borta"
+    "opponent": "Växjö HF",
+    "homeAway": "borta"
   },
   {
     "date": "sön 29",
@@ -3715,7 +4052,8 @@
     "location": "Fäladshallen",
     "type": "Match",
     "title": "",
-    "opponent": "Lugi HF P15 2 borta"
+    "opponent": "Lugi HF P15 2",
+    "homeAway": "borta"
   },
   {
     "date": "mån 30",
@@ -3726,7 +4064,8 @@
     "location": "Victoriastadion 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3737,7 +4076,8 @@
     "location": "Östratornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3748,7 +4088,8 @@
     "location": "Nordic Wellness",
     "type": "Träning",
     "title": "",
-    "opponent": "Frivillig styrketräning"
+    "opponent": "Frivillig styrketräning",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3759,7 +4100,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3770,7 +4112,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3781,7 +4124,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3792,7 +4136,8 @@
     "location": "Victoriastadion plan 2",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3803,7 +4148,8 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Löpning + Hall"
+    "opponent": "Löpning + Hall",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3814,7 +4160,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3825,7 +4172,8 @@
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "mån 30",
@@ -3836,7 +4184,8 @@
     "location": "Fäladshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 31",
@@ -3847,7 +4196,8 @@
     "location": "Vipeholmshallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 31",
@@ -3858,7 +4208,8 @@
     "location": "Nordic Wellness hallen (St Lars) ()",
     "type": "Match",
     "title": "",
-    "opponent": "Dalby borta"
+    "opponent": "Dalby",
+    "homeAway": "borta"
   },
   {
     "date": "tis 31",
@@ -3869,7 +4220,8 @@
     "location": "Hubertusgårdens Gymnastiksal",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning H43 P8 & F8"
+    "opponent": "Träning H43 P8 & F8",
+    "homeAway": ""
   },
   {
     "date": "tis 31",
@@ -3880,7 +4232,8 @@
     "location": "Tornhallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 31",
@@ -3891,7 +4244,8 @@
     "location": "Tunahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 31",
@@ -3902,7 +4256,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 31",
@@ -3913,7 +4268,8 @@
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   },
   {
     "date": "tis 31",
@@ -3924,7 +4280,8 @@
     "location": "Sparbanken Skåne Arena B (Herrar - Herr 3 Syd)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Malmö HF hemma"
+    "opponent": "IFK Malmö HF",
+    "homeAway": "hemma"
   },
   {
     "date": "tis 31",
@@ -3935,6 +4292,7 @@
     "location": "Heddahallen",
     "type": "Träning",
     "title": "",
-    "opponent": "Träning"
+    "opponent": "Träning",
+    "homeAway": ""
   }
 ]
