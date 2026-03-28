@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-03-28T20:19:02.815Z",
+  "scrapedAt": "2026-03-28T20:25:57.851Z",
   "source": "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp",
-  "eventCount": 344,
+  "eventCount": 342,
   "events": [
     {
       "date": "mån 02",
@@ -669,7 +669,7 @@
       "startTime": "",
       "endTime": "",
       "team": "P14",
-      "location": "Helsingborg Arena BUSM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
+      "location": "Helsingborg Arena BUSM steg 4 lörd 7e & sönd 8e mars i",
       "type": "Övrigt",
       "title": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
       "opponent": ""
@@ -724,7 +724,7 @@
       "startTime": "18:10",
       "endTime": "20:00",
       "team": "F10",
-      "location": "ArenanSverige VS Serbien",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Sverige VS Serbien (svar senast 30/11)",
       "opponent": ""
@@ -735,7 +735,7 @@
       "startTime": "18:10",
       "endTime": "20:00",
       "team": "F11",
-      "location": "ArenanEM-kval Damer Sverige - Serbien",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "EM-kval Damer Sverige - Serbien",
       "opponent": ""
@@ -750,17 +750,6 @@
       "type": "Match",
       "title": "",
       "opponent": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg"
-    },
-    {
-      "date": "lör 07",
-      "month": "Mars",
-      "startTime": "",
-      "endTime": "",
-      "team": "P14",
-      "location": "Helsingborg Arena BUSM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
-      "type": "Övrigt",
-      "title": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
-      "opponent": ""
     },
     {
       "date": "lör 07",
@@ -900,7 +889,7 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "team": "F14",
-      "location": "Nordic wellness St LarsGymintroduktion Nordic Wellness",
+      "location": "Nordic wellness St Lars",
       "type": "Övrigt",
       "title": "Gymintroduktion Nordic Wellness",
       "opponent": ""
@@ -1362,7 +1351,7 @@
       "startTime": "18:00",
       "endTime": "20:30",
       "team": "F11",
-      "location": "ArenanSälja 50/50-lotter på derbyt",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Sälja 50/50-lotter på derbyt",
       "opponent": ""
@@ -1373,7 +1362,7 @@
       "startTime": "18:15",
       "endTime": "20:00",
       "team": "P11",
-      "location": "ArenanSälja 50/50-lotter på derbyt",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Sälja 50/50-lotter på derbyt",
       "opponent": ""
@@ -1406,7 +1395,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollek Centrum",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund - Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
       "opponent": ""
@@ -1417,7 +1406,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollek Norr",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund - Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
       "opponent": ""
@@ -1428,7 +1417,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollskolan Centrum",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund - Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
       "opponent": ""
@@ -1439,7 +1428,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "Bollskolan Norr",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund - Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
       "opponent": ""
@@ -1461,7 +1450,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F9",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1472,7 +1461,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F10",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1483,7 +1472,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F11",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1494,7 +1483,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F13",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1505,7 +1494,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F14",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1527,7 +1516,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "F16",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1549,7 +1538,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "U7",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1560,7 +1549,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "HK Blå 85",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1571,7 +1560,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P10",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1582,7 +1571,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P11",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1593,7 +1582,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P14",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1604,7 +1593,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P16",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1615,7 +1604,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P18",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1637,7 +1626,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P8",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1648,7 +1637,7 @@
       "startTime": "19:00",
       "endTime": "20:30",
       "team": "P9",
-      "location": "ArenanAllsvenskt Lundaderby; H43 Lund vs Lugi",
+      "location": "Arenan",
       "type": "Övrigt",
       "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
       "opponent": ""
@@ -1857,7 +1846,7 @@
       "startTime": "16:15",
       "endTime": "23:59",
       "team": "F16",
-      "location": "USM Steg 4 i TäbyUSM steg 4",
+      "location": "USM Steg 4 i Täby",
       "type": "Övrigt",
       "title": "USM steg 4",
       "opponent": ""
@@ -1879,7 +1868,7 @@
       "startTime": "07:00",
       "endTime": "23:59",
       "team": "F16",
-      "location": "USM Steg 4 i TäbyUSM steg 4",
+      "location": "USM Steg 4 i Täby",
       "type": "Övrigt",
       "title": "USM steg 4",
       "opponent": ""
@@ -2495,7 +2484,7 @@
       "startTime": "07:00",
       "endTime": "23:59",
       "team": "F13",
-      "location": "HjoUSM Steg 4C",
+      "location": "Hjo",
       "type": "Övrigt",
       "title": "USM Steg 4C",
       "opponent": ""
@@ -2616,7 +2605,7 @@
       "startTime": "14:30",
       "endTime": "21:00",
       "team": "F14",
-      "location": "EksjöUSM Steg 4 Lag Blå",
+      "location": "Eksjö",
       "type": "Övrigt",
       "title": "USM Steg 4 Lag Blå",
       "opponent": ""
@@ -2649,7 +2638,7 @@
       "startTime": "17:30",
       "endTime": "19:30",
       "team": "F14",
-      "location": "Restaurang La CucinaUSM Lag vit",
+      "location": "Restaurang La Cucina",
       "type": "Övrigt",
       "title": "USM Lag vit",
       "opponent": ""
@@ -3253,17 +3242,6 @@
       "month": "Mars",
       "startTime": "17:00",
       "endTime": "18:30",
-      "team": "F14",
-      "location": "Vipeholmshallen",
-      "type": "Träning",
-      "title": "",
-      "opponent": ""
-    },
-    {
-      "date": "tor 26",
-      "month": "Mars",
-      "startTime": "17:00",
-      "endTime": "18:30",
       "team": "P16",
       "location": "Tunahallen",
       "type": "Träning",
@@ -3441,7 +3419,7 @@
       "startTime": "09:00",
       "endTime": "10:15",
       "team": "F11",
-      "location": "HeddahallenMålvakts",
+      "location": "Heddahallen",
       "type": "Träning",
       "title": "",
       "opponent": ""
@@ -3474,7 +3452,7 @@
       "startTime": "10:30",
       "endTime": "12:30",
       "team": "F14",
-      "location": "TornhallenLagaktivitet",
+      "location": "Tornhallen",
       "type": "Övrigt",
       "title": "Lagaktivitet",
       "opponent": ""
@@ -3496,7 +3474,7 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "team": "P10",
-      "location": "HeddahallenMålvakts",
+      "location": "Heddahallen",
       "type": "Träning",
       "title": "",
       "opponent": ""
@@ -3650,7 +3628,7 @@
       "startTime": "18:45",
       "endTime": "21:00",
       "team": "F19 / Dam U",
-      "location": "HeddahallenLöpning + Hall",
+      "location": "Heddahallen",
       "type": "Övrigt",
       "title": "Löpning + Hall",
       "opponent": ""
