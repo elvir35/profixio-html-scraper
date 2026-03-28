@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-28T18:27:43.003Z",
+  "scrapedAt": "2026-03-28T19:27:29.988Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 571,
   "matches": [
@@ -60,7 +60,7 @@
       "home": "H43 Lund HF",
       "away": "Gästande Lag",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -480,7 +480,7 @@
       "home": "H43 Lund HF 3",
       "away": "OV Helsingborg",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/13936_1006_S.webp",
       "status": "played"
     },
     {
@@ -2844,7 +2844,7 @@
       "home": "H43 Lund HF 3",
       "away": "Vinslövs HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/20104_1006_S.webp",
       "status": "played"
     },
     {
@@ -6444,7 +6444,7 @@
       "home": "H43 Lund",
       "away": "OV Helsingborg",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/13936_1006_S.webp",
       "status": "played"
     },
     {
