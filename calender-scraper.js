@@ -28,12 +28,12 @@ function cleanLocation(location, opponent) {
   return cleaned || "Unknown";
 }
 
-// 🔥 FINAL DATE FIX (GLOBAL CLOSEST MATCH)
+// 🔥 FINAL DATE FIX (correct + stable)
 function getDateForRow($, row) {
-  // ✅ FIRST: look backwards globally
+  // Look backwards first
   let dag = row.prevAll("tr.dag").first();
 
-  // 🔥 If not found → fallback: use first dag BELOW
+  // If not found → look forward
   if (!dag.length) {
     dag = row.nextAll("tr.dag").first();
   }
@@ -48,23 +48,6 @@ function getDateForRow($, row) {
       .trim();
 
     const date = dag.find("b").first().text().trim();
-
-    return { weekday, date };
-  }
-
-  return { weekday: "", date: "" };
-};
-
-  if (closest) {
-    const font = closest.find("font").first();
-
-    const weekday = font
-      .contents()
-      .filter((_, el) => el.type === "text")
-      .text()
-      .trim();
-
-    const date = closest.find("b").first().text().trim();
 
     return { weekday, date };
   }
@@ -96,7 +79,7 @@ function getDateForRow($, row) {
     $("tr").each((i, el) => {
       const row = $(el);
 
-      // 🔥 FIXED DATE (ONLY CHANGE)
+      // ✅ FIXED DATE
       const { weekday, date } = getDateForRow($, row);
       const finalDate = cleanDate(weekday, date);
 
