@@ -352,7 +352,95 @@
     "opponent": "KFUM Kalmar HK hemma"
   },
   {
-    "date": "mån 02",
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Victoriastadion plan 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
@@ -363,7 +451,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 02",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
@@ -374,7 +462,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 02",
+    "date": "",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -385,7 +473,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 02",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -396,7 +484,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 02",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -407,7 +495,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 02",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:00",
@@ -418,7 +506,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 02",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
@@ -429,7 +517,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 02",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:45",
@@ -440,7 +528,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 03",
+    "date": "mån 02",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -451,7 +539,51 @@
     "opponent": ""
   },
   {
-    "date": "tis 03",
+    "date": "mån 02",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 02",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 02",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Sparbanken Skåne Arena B",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi HF 2 borta"
+  },
+  {
+    "date": "",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Vipeholmshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -462,7 +594,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 03",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -473,7 +605,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 03",
+    "date": "",
     "month": "Mars",
     "startTime": "19:20",
     "endTime": "",
@@ -484,7 +616,84 @@
     "opponent": "Lugi HF 2 borta"
   },
   {
-    "date": "ons 04",
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Vipeholmshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Victoriastadion",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Bollhuset A",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Halmstad Arena A1",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Drott Halmstad borta"
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Gunnesbohallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 03",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Bollhuset A",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
@@ -495,7 +704,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 04",
+    "date": "",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -506,7 +715,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 04",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "21:00",
@@ -517,7 +726,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 04",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -528,7 +737,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 04",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "",
@@ -539,7 +748,7 @@
     "opponent": "HK Drott Halmstad borta"
   },
   {
-    "date": "ons 04",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -550,7 +759,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 04",
+    "date": "",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
@@ -561,7 +770,40 @@
     "opponent": ""
   },
   {
-    "date": "tor 05",
+    "date": "ons 04",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Victoriastadion 1",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "ons 04",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Victoriastadion 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "ons 04",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -572,7 +814,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 05",
+    "date": "",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "19:00",
@@ -583,7 +825,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 05",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -594,7 +836,40 @@
     "opponent": ""
   },
   {
-    "date": "fre 06",
+    "date": "tor 05",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P16",
+    "location": "Vipeholmshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "IFK Malmö HF Gul hemma"
+  },
+  {
+    "date": "tor 05",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P16",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tor 05",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P16",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "",
@@ -605,7 +880,7 @@
     "opponent": "IFK Malmö HF Gul hemma"
   },
   {
-    "date": "fre 06",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -616,7 +891,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 06",
+    "date": "",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -627,7 +902,161 @@
     "opponent": ""
   },
   {
-    "date": "lör 07",
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Sundsbrohallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "IFK Malmö HF Blå borta"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Söderkulla Sporthall",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Malmö och HK Ankaret borta"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Rutsborgshallen 1",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Ankaret Röd borta"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Vipeholmshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi och Karlshamns HF hemma"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Stentorpshallen Halmstad",
+    "type": "Match",
+    "title": "",
+    "opponent": "Halmstad bl a  borta"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Torslanda Sporthall A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Torslanda HK borta"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Bollhuset A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Kristianstad HK hemma"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Helsingborg Arena B",
+    "type": "Övrigt",
+    "title": "USM steg 4 lörd 7e & sönd 8e mars i Helsingborg",
+    "opponent": ""
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Bollhuset A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Växjö HF hemma"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Helsingborg Arena B",
+    "type": "Match",
+    "title": "",
+    "opponent": "Finspångs HK borta"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Bollhuset A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Halmstad HF hemma"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Tolvåkers Idrottshall B",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lödde Vikings HK 2 borta"
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Sverige VS Serbien (svar senast 30/11)",
+    "opponent": ""
+  },
+  {
+    "date": "fre 06",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "EM-kval Damer Sverige - Serbien",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "",
@@ -638,7 +1067,7 @@
     "opponent": "IFK Malmö HF Blå borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "",
@@ -649,7 +1078,7 @@
     "opponent": "HK Malmö och HK Ankaret borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "11:30",
     "endTime": "",
@@ -660,7 +1089,7 @@
     "opponent": "HK Ankaret Röd borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "12:30",
     "endTime": "",
@@ -671,7 +1100,7 @@
     "opponent": "Lugi och Karlshamns HF hemma"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "12:45",
     "endTime": "",
@@ -682,7 +1111,7 @@
     "opponent": "Halmstad bl a  borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
@@ -693,7 +1122,7 @@
     "opponent": "Torslanda HK borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
@@ -704,7 +1133,7 @@
     "opponent": "Kristianstad HK hemma"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "",
     "endTime": "",
@@ -715,7 +1144,7 @@
     "opponent": ""
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "14:50",
     "endTime": "",
@@ -726,7 +1155,7 @@
     "opponent": "Växjö HF hemma"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "16:30",
     "endTime": "",
@@ -737,7 +1166,7 @@
     "opponent": "Finspångs HK borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "16:40",
     "endTime": "",
@@ -748,7 +1177,7 @@
     "opponent": "Halmstad HF hemma"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "",
@@ -759,7 +1188,7 @@
     "opponent": "Lödde Vikings HK 2 borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "18:10",
     "endTime": "20:00",
@@ -770,7 +1199,7 @@
     "opponent": ""
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "18:10",
     "endTime": "20:00",
@@ -880,7 +1309,7 @@
     "opponent": "Ystads IF HF 1 borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "",
     "endTime": "",
@@ -891,7 +1320,7 @@
     "opponent": ""
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "11:30",
     "endTime": "",
@@ -902,7 +1331,7 @@
     "opponent": "HK Aranäs hemma"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "12:40",
     "endTime": "",
@@ -913,7 +1342,7 @@
     "opponent": "OV Helsingborg HK - 3 borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "14:10",
     "endTime": "",
@@ -924,7 +1353,7 @@
     "opponent": "Lugi HF U B borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "15:00",
     "endTime": "",
@@ -935,7 +1364,7 @@
     "opponent": "Karlshamns HF borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "15:00",
     "endTime": "",
@@ -946,7 +1375,7 @@
     "opponent": "HK Drott Halmstad borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "15:30",
     "endTime": "",
@@ -957,7 +1386,7 @@
     "opponent": "OV Helsingborg HK borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "15:50",
     "endTime": "",
@@ -968,7 +1397,7 @@
     "opponent": "Lugi P12 borta"
   },
   {
-    "date": "lör 07",
+    "date": "",
     "month": "Mars",
     "startTime": "16:00",
     "endTime": "",
@@ -979,7 +1408,95 @@
     "opponent": "Ystads IF HF 1 borta"
   },
   {
-    "date": "mån 09",
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Nordic wellness St Lars",
+    "type": "Övrigt",
+    "title": "Gymintroduktion Nordic Wellness",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Victoriastadion plan 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:00",
@@ -990,7 +1507,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 09",
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -1001,7 +1518,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 09",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
@@ -1012,7 +1529,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 09",
+    "date": "",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -1023,7 +1540,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 09",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -1034,7 +1551,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 09",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -1045,7 +1562,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 09",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:00",
@@ -1056,7 +1573,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 09",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
@@ -1067,7 +1584,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 10",
+    "date": "mån 09",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -1078,7 +1595,51 @@
     "opponent": ""
   },
   {
-    "date": "tis 10",
+    "date": "mån 09",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 09",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 09",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Sparbanken Skåne Arena B",
+    "type": "Match",
+    "title": "",
+    "opponent": "IK Lågan hemma"
+  },
+  {
+    "date": "",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Vipeholmshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -1089,7 +1650,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 10",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1100,7 +1661,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 10",
+    "date": "",
     "month": "Mars",
     "startTime": "19:15",
     "endTime": "",
@@ -1111,7 +1672,84 @@
     "opponent": "IK Lågan hemma"
   },
   {
-    "date": "ons 11",
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Vipeholmshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Victoriastadion",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Bollhuset A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi HF 2 hemma"
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Gunnesbohallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 10",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Bollhuset A",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
@@ -1122,7 +1760,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 11",
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
@@ -1133,7 +1771,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 11",
+    "date": "",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -1144,7 +1782,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 11",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "21:00",
@@ -1155,7 +1793,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 11",
+    "date": "",
     "month": "Mars",
     "startTime": "19:20",
     "endTime": "",
@@ -1166,7 +1804,7 @@
     "opponent": "Lugi HF 2 hemma"
   },
   {
-    "date": "ons 11",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -1177,7 +1815,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 11",
+    "date": "",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
@@ -1188,7 +1826,51 @@
     "opponent": ""
   },
   {
-    "date": "tor 12",
+    "date": "ons 11",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Victoriastadion 1",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "ons 11",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Victoriastadion 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "ons 11",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "ons 11",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -1199,7 +1881,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 12",
+    "date": "",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "19:00",
@@ -1210,7 +1892,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 12",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -1221,7 +1903,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 12",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:45",
@@ -1232,7 +1914,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "tor 12",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "21:00",
@@ -1243,7 +1925,304 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Sälja 50/50-lotter på derbyt",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Sälja 50/50-lotter på derbyt",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Sparbanken Skåne Arena A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi HF hemma"
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund - Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan A",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Färsingahallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Björnen borta"
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan A",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi HF",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "tor 12",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "Allsvenskt Lundaderby; H43 Lund vs Lugi",
+    "opponent": ""
+  },
+  {
+    "date": "",
+    "month": "Mars",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Allsvenskan",
+    "type": "Övrigt",
+    "title": "Support H43 - Lugi HA",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:30",
@@ -1254,7 +2233,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "18:15",
     "endTime": "20:00",
@@ -1265,7 +2244,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -1276,7 +2255,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
@@ -1287,7 +2266,7 @@
     "opponent": "Lugi HF hemma"
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1298,7 +2277,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1309,7 +2288,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1320,7 +2299,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1331,7 +2310,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1342,7 +2321,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1353,7 +2332,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1364,7 +2343,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1375,7 +2354,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1386,7 +2365,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1397,7 +2376,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
@@ -1408,7 +2387,7 @@
     "opponent": "HK Björnen borta"
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1419,7 +2398,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1430,7 +2409,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1441,7 +2420,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1452,7 +2431,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1463,7 +2442,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1474,7 +2453,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1485,7 +2464,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1496,7 +2475,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1507,7 +2486,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1518,7 +2497,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 13",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1529,7 +2508,150 @@
     "opponent": ""
   },
   {
-    "date": "lör 14",
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Bollhuset A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi HF 5 hemma"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Sporthallen Höör",
+    "type": "Match",
+    "title": "",
+    "opponent": "Höörs HK H 65 borta"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Sånnahallen B",
+    "type": "Match",
+    "title": "",
+    "opponent": "Åhus Handboll och IFK Kristianstad borta"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Färsingahallen Sjöbo",
+    "type": "Match",
+    "title": "",
+    "opponent": "Borta"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Vipeholmshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Höörs HK H 65 hemma"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Bollhuset A",
+    "type": "Match",
+    "title": "",
+    "opponent": "OV Helsingborg HK - 2 hemma"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Stenstorsphallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Halmstad borta"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Baltiska Hallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Malmö borta"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Nyvångshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Dalby GIF borta"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Vipeholmshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Tollarps IF 2 hemma"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Norrehedshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "IK Sund borta"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "Sånnahallen A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Åhus Handboll borta"
+  },
+  {
+    "date": "fre 13",
+    "month": "Mars",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "team": "Bollskolan Norr",
+    "location": "USM Steg 4 i Täby",
+    "type": "Övrigt",
+    "title": "USM steg 4",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "",
@@ -1540,7 +2662,7 @@
     "opponent": "Lugi HF 5 hemma"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "",
@@ -1551,7 +2673,7 @@
     "opponent": "Höörs HK H 65 borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "12:00",
     "endTime": "",
@@ -1562,7 +2684,7 @@
     "opponent": "Åhus Handboll och IFK Kristianstad borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "12:00",
     "endTime": "",
@@ -1573,7 +2695,7 @@
     "opponent": "Borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "12:30",
     "endTime": "",
@@ -1584,7 +2706,7 @@
     "opponent": "Höörs HK H 65 hemma"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
@@ -1595,7 +2717,7 @@
     "opponent": "OV Helsingborg HK - 2 hemma"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "13:30",
     "endTime": "",
@@ -1606,7 +2728,7 @@
     "opponent": "HK Halmstad borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
@@ -1617,7 +2739,7 @@
     "opponent": "HK Malmö borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
@@ -1628,7 +2750,7 @@
     "opponent": "Dalby GIF borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "14:10",
     "endTime": "",
@@ -1639,7 +2761,7 @@
     "opponent": "Tollarps IF 2 hemma"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "15:00",
     "endTime": "",
@@ -1650,7 +2772,7 @@
     "opponent": "IK Sund borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "16:00",
     "endTime": "",
@@ -1661,7 +2783,7 @@
     "opponent": "Åhus Handboll borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "16:15",
     "endTime": "23:59",
@@ -1771,7 +2893,7 @@
     "opponent": "Kristianstad HK hemma"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "07:00",
     "endTime": "23:59",
@@ -1782,7 +2904,7 @@
     "opponent": ""
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "",
@@ -1793,7 +2915,7 @@
     "opponent": "Ljunghusens HK Ljusblå borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "09:15",
     "endTime": "",
@@ -1804,7 +2926,7 @@
     "opponent": "IK Lågan svart  borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "",
@@ -1815,7 +2937,7 @@
     "opponent": "IFK Malmö och IK Sund borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
@@ -1826,7 +2948,7 @@
     "opponent": "HK Ankaret borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "14:45",
     "endTime": "",
@@ -1837,7 +2959,7 @@
     "opponent": "HK Drott Halmstad hemma"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "15:45",
     "endTime": "",
@@ -1848,7 +2970,7 @@
     "opponent": "Lugi HF 3 borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "16:00",
     "endTime": "",
@@ -1859,7 +2981,7 @@
     "opponent": "Eksjö BK borta"
   },
   {
-    "date": "lör 14",
+    "date": "",
     "month": "Mars",
     "startTime": "16:45",
     "endTime": "",
@@ -1870,7 +2992,7 @@
     "opponent": "Kristianstad HK hemma"
   },
   {
-    "date": "mån 16",
+    "date": "tis 17",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
@@ -1881,7 +3003,84 @@
     "opponent": ""
   },
   {
-    "date": "mån 16",
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "team": "P14",
+    "location": "Nordic Wellness",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "team": "P14",
+    "location": "Glasbollen",
+    "type": "Övrigt",
+    "title": "Pizzakväll och spelarmöte",
+    "opponent": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "team": "P14",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "team": "P14",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "team": "P14",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "team": "P14",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "team": "P14",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "18:30",
@@ -1892,7 +3091,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 16",
+    "date": "",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "18:45",
@@ -1903,7 +3102,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 16",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
@@ -1914,7 +3113,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 16",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -1925,7 +3124,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 16",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:00",
@@ -1936,7 +3135,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 16",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
@@ -1947,7 +3146,51 @@
     "opponent": ""
   },
   {
-    "date": "tis 17",
+    "date": "mån 16",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F13",
+    "location": "Vipeholmshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 16",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F13",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 16",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F13",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 16",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F13",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -1958,7 +3201,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 17",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -1969,7 +3212,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 17",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1980,7 +3223,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 17",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -1991,7 +3234,62 @@
     "opponent": ""
   },
   {
-    "date": "ons 18",
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Vipeholmshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Bollhuset A",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Bollhuset A",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Gunnesbohallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Malmö hemma"
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
@@ -2002,7 +3300,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 18",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "21:00",
@@ -2013,7 +3311,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 18",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -2024,7 +3322,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 18",
+    "date": "",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
@@ -2035,7 +3333,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 18",
+    "date": "",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "",
@@ -2046,7 +3344,29 @@
     "opponent": "HK Malmö hemma"
   },
   {
-    "date": "tor 19",
+    "date": "ons 18",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "ons 18",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -2057,7 +3377,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 19",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:45",
@@ -2068,7 +3388,51 @@
     "opponent": ""
   },
   {
-    "date": "fre 20",
+    "date": "tor 19",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "HERRAR A",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tor 19",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "HERRAR A",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tor 19",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "HERRAR A",
+    "location": "Ystad Arena",
+    "type": "Match",
+    "title": "",
+    "opponent": "IFK Ystad HK borta"
+  },
+  {
+    "date": "tor 19",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "HERRAR A",
+    "location": "Läredaskolan",
+    "type": "Match",
+    "title": "",
+    "opponent": "Hässleholms HF borta"
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -2079,7 +3443,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 20",
+    "date": "",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -2090,7 +3454,7 @@
     "opponent": ""
   },
   {
-    "date": "fre 20",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
@@ -2101,7 +3465,7 @@
     "opponent": "IFK Ystad HK borta"
   },
   {
-    "date": "fre 20",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "",
@@ -2112,7 +3476,7 @@
     "opponent": "Hässleholms HF borta"
   },
   {
-    "date": "lör 21",
+    "date": "fre 20",
     "month": "Mars",
     "startTime": "07:00",
     "endTime": "23:59",
@@ -2123,7 +3487,117 @@
     "opponent": ""
   },
   {
-    "date": "lör 21",
+    "date": "fre 20",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Bollhuset A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Eslövs HK 1 hemma"
+  },
+  {
+    "date": "fre 20",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Staffanshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Staffanstorps Handbollklubb borta"
+  },
+  {
+    "date": "fre 20",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Dalby",
+    "type": "Match",
+    "title": "",
+    "opponent": "Eslöv"
+  },
+  {
+    "date": "fre 20",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Bollhuset A",
+    "type": "Match",
+    "title": "",
+    "opponent": "IK Sund hemma"
+  },
+  {
+    "date": "fre 20",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Stentorpshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Halmstad borta"
+  },
+  {
+    "date": "fre 20",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Eksjö",
+    "type": "Övrigt",
+    "title": "USM Steg 4 Lag Blå",
+    "opponent": ""
+  },
+  {
+    "date": "fre 20",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Bollhuset A",
+    "type": "Match",
+    "title": "",
+    "opponent": "OV Helsingborg hemma"
+  },
+  {
+    "date": "fre 20",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Gunnesbohallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "KFUM IA Lundagård borta"
+  },
+  {
+    "date": "fre 20",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Restaurang La Cucina",
+    "type": "Övrigt",
+    "title": "USM Lag vit",
+    "opponent": ""
+  },
+  {
+    "date": "",
+    "month": "Mars",
+    "startTime": "07:00",
+    "endTime": "23:59",
+    "team": "F13",
+    "location": "Hjo",
+    "type": "Övrigt",
+    "title": "USM Steg 4C",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "",
@@ -2134,7 +3608,7 @@
     "opponent": "Eslövs HK 1 hemma"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "11:20",
     "endTime": "",
@@ -2145,7 +3619,7 @@
     "opponent": "Staffanstorps Handbollklubb borta"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "12:00",
     "endTime": "",
@@ -2156,7 +3630,7 @@
     "opponent": "Eslöv"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
@@ -2167,7 +3641,7 @@
     "opponent": "IK Sund hemma"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "13:15",
     "endTime": "",
@@ -2178,7 +3652,7 @@
     "opponent": "Halmstad borta"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "14:30",
     "endTime": "21:00",
@@ -2189,7 +3663,7 @@
     "opponent": ""
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "14:30",
     "endTime": "",
@@ -2200,7 +3674,7 @@
     "opponent": "OV Helsingborg hemma"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "15:15",
     "endTime": "",
@@ -2211,7 +3685,7 @@
     "opponent": "KFUM IA Lundagård borta"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "19:30",
@@ -2288,7 +3762,7 @@
     "opponent": "Karlshamn röd borta"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "09:30",
     "endTime": "",
@@ -2299,7 +3773,7 @@
     "opponent": "Staffanstorps HK och Kävlinge HK hemma"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "11:30",
     "endTime": "",
@@ -2310,7 +3784,7 @@
     "opponent": "IK Lågan borta"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
@@ -2321,7 +3795,7 @@
     "opponent": "HK Malmö borta"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "16:30",
@@ -2332,7 +3806,7 @@
     "opponent": ""
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "14:00",
     "endTime": "",
@@ -2343,7 +3817,7 @@
     "opponent": "Karlshamns HF Gul borta"
   },
   {
-    "date": "lör 21",
+    "date": "",
     "month": "Mars",
     "startTime": "15:30",
     "endTime": "",
@@ -2354,7 +3828,84 @@
     "opponent": "Karlshamn röd borta"
   },
   {
-    "date": "mån 23",
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Victoriastadion plan 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Sundsbrohallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "IFK Malmö HF Blå borta"
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
@@ -2365,7 +3916,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 23",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
@@ -2376,7 +3927,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 23",
+    "date": "",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -2387,7 +3938,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 23",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -2398,7 +3949,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 23",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
@@ -2409,7 +3960,7 @@
     "opponent": "IFK Malmö HF Blå borta"
   },
   {
-    "date": "mån 23",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -2420,7 +3971,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 23",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
@@ -2431,7 +3982,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 24",
+    "date": "mån 23",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -2442,7 +3993,51 @@
     "opponent": ""
   },
   {
-    "date": "tis 24",
+    "date": "mån 23",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 23",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 23",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Vipeholmshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -2453,7 +4048,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 24",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -2464,7 +4059,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 24",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -2475,7 +4070,73 @@
     "opponent": ""
   },
   {
-    "date": "ons 25",
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Vipeholmshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Sparbanken Skåne Arena A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi HF 1 F10  borta"
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Bollhuset A",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Gunnesbohallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 24",
+    "month": "Mars",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "team": "Bollek Centrum",
+    "location": "Bollhuset A",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
@@ -2486,7 +4147,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 25",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "",
@@ -2497,7 +4158,7 @@
     "opponent": "Lugi HF 1 F10  borta"
   },
   {
-    "date": "ons 25",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "21:00",
@@ -2508,7 +4169,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 25",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -2519,7 +4180,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 25",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -2530,7 +4191,7 @@
     "opponent": ""
   },
   {
-    "date": "ons 25",
+    "date": "",
     "month": "Mars",
     "startTime": "20:30",
     "endTime": "22:00",
@@ -2541,7 +4202,73 @@
     "opponent": ""
   },
   {
-    "date": "tor 26",
+    "date": "ons 25",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Victoriastadion 1",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "ons 25",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Victoriastadion 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "ons 25",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Torslanda Sporthall A",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Torslanda Elit borta"
+  },
+  {
+    "date": "ons 25",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "ons 25",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Söderslättshallen A",
+    "type": "Match",
+    "title": "",
+    "opponent": "Stavsten HK U borta"
+  },
+  {
+    "date": "ons 25",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F9",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -2552,7 +4279,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "19:00",
@@ -2563,7 +4290,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "",
@@ -2574,7 +4301,7 @@
     "opponent": "HK Torslanda Elit borta"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -2585,7 +4312,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "",
@@ -2596,7 +4323,7 @@
     "opponent": "Stavsten HK U borta"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:45",
@@ -2618,7 +4345,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -2695,7 +4422,7 @@
     "opponent": "HK Malmö 2 borta"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "",
@@ -2706,7 +4433,7 @@
     "opponent": "Eslövs HK 1 borta"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "12:15",
     "endTime": "",
@@ -2717,7 +4444,7 @@
     "opponent": "Eslöv"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "12:30",
     "endTime": "",
@@ -2728,7 +4455,7 @@
     "opponent": "Dalby"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "12:45",
     "endTime": "",
@@ -2739,7 +4466,7 @@
     "opponent": "OV Helsingborg HK 1 hemma"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "13:00",
     "endTime": "",
@@ -2750,7 +4477,7 @@
     "opponent": "Gästande Lag hemma"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "16:00",
     "endTime": "",
@@ -2871,7 +4598,7 @@
     "opponent": "Lugi HF P15 2 borta"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "09:00",
     "endTime": "10:15",
@@ -2882,7 +4609,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "10:00",
     "endTime": "",
@@ -2893,7 +4620,7 @@
     "opponent": "Borta"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "12:30",
@@ -2904,7 +4631,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "11:30",
@@ -2915,7 +4642,7 @@
     "opponent": ""
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "",
@@ -2926,7 +4653,7 @@
     "opponent": "IFK Malmö HF Gul borta"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "10:30",
     "endTime": "",
@@ -2937,7 +4664,7 @@
     "opponent": "HF Karlskrona 2 hemma"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "12:00",
     "endTime": "",
@@ -2948,7 +4675,7 @@
     "opponent": "Växjö HF borta"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "12:30",
     "endTime": "",
@@ -2959,7 +4686,7 @@
     "opponent": "HK Ankaret Röd hemma"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "15:45",
     "endTime": "",
@@ -2970,7 +4697,7 @@
     "opponent": "Växjö HF borta"
   },
   {
-    "date": "tor 26",
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "",
@@ -2981,7 +4708,95 @@
     "opponent": "Lugi HF P15 2 borta"
   },
   {
-    "date": "mån 30",
+    "date": "tis 31",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 31",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Nordic Wellness",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 31",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 31",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Victoriastadion plan 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 31",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Heddahallen",
+    "type": "Övrigt",
+    "title": "Löpning + Hall",
+    "opponent": ""
+  },
+  {
+    "date": "tis 31",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 31",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "tis 31",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "19:00",
@@ -2992,7 +4807,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 30",
+    "date": "",
     "month": "Mars",
     "startTime": "17:30",
     "endTime": "18:30",
@@ -3003,7 +4818,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 30",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "20:00",
@@ -3014,7 +4829,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 30",
+    "date": "",
     "month": "Mars",
     "startTime": "18:30",
     "endTime": "20:00",
@@ -3025,7 +4840,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 30",
+    "date": "",
     "month": "Mars",
     "startTime": "18:45",
     "endTime": "21:00",
@@ -3036,7 +4851,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 30",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:15",
@@ -3047,7 +4862,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 30",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "21:30",
@@ -3058,7 +4873,7 @@
     "opponent": ""
   },
   {
-    "date": "mån 30",
+    "date": "",
     "month": "Mars",
     "startTime": "20:00",
     "endTime": "21:30",
@@ -3069,7 +4884,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 31",
+    "date": "mån 30",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -3080,7 +4895,62 @@
     "opponent": ""
   },
   {
-    "date": "tis 31",
+    "date": "mån 30",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Nordic Wellness hallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Dalby borta"
+  },
+  {
+    "date": "mån 30",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 30",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "mån 30",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Sparbanken Skåne Arena B",
+    "type": "Match",
+    "title": "",
+    "opponent": "IFK Malmö HF hemma"
+  },
+  {
+    "date": "",
+    "month": "Mars",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F14",
+    "location": "Vipeholmshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": ""
+  },
+  {
+    "date": "",
     "month": "Mars",
     "startTime": "17:00",
     "endTime": "",
@@ -3091,7 +4961,7 @@
     "opponent": "Dalby borta"
   },
   {
-    "date": "tis 31",
+    "date": "",
     "month": "Mars",
     "startTime": "18:00",
     "endTime": "19:30",
@@ -3102,7 +4972,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 31",
+    "date": "",
     "month": "Mars",
     "startTime": "19:00",
     "endTime": "20:30",
@@ -3113,7 +4983,7 @@
     "opponent": ""
   },
   {
-    "date": "tis 31",
+    "date": "",
     "month": "Mars",
     "startTime": "19:30",
     "endTime": "",
