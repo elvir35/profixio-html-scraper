@@ -21,15 +21,31 @@ const URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 
     console.log("📦 HTML length:", html.length);
 
-    // ✅ SAVE DEBUG FILE
-    fs.writeFileSync("debug_calendar.html", html, "utf-8");
+    // ✅ FIXED REGEX (handles class=kal without quotes)
+    const matches = [
+      ...html.matchAll(/<a[^>]*class\s*=\s*["']?[^"'>]*\bkal\b[^"'>]*["']?[^>]*>(.*?)<\/a>/gi)
+    ];
 
-    console.log("💾 Saved debug_calendar.html");
+    console.log("📊 Found activity links:", matches.length);
 
-    // 🔍 Quick debug checks
-    console.log("Contains 'kal'?", html.includes("kal"));
-    console.log("Contains '<tr'?", html.includes("<tr"));
-    console.log("Contains 'dag'?", html.includes("dag"));
+    const events = [];
+
+    for (const match of matches) {
+      const raw = match[1]
+        .replace(/<[^>]+>/g, "")
+        .replace(/&nbsp;/g, " ")
+        .trim();
+
+      if (!raw) continue;
+
+      events.push(raw);
+    }
+
+    console.log("📊 Parsed events:", events.length);
+
+    fs.writeFileSync("calendar.json", JSON.stringify(events, null, 2), "utf-8");
+
+    console.log("✅ Done");
 
   } catch (err) {
     console.error("❌ Scraper failed:", err);
