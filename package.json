@@ -1,9 +1,10 @@
 {
-  "name": "calendar-scraper",
+  "name": "html-scraper",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
     "cheerio": "^1.0.0",
-    "axios": "^1.0.0"
+    "axios": "^1.0.0",
+    "playwright": "^1.41.0"
   }
 }
