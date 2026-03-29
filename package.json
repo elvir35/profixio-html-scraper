@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "scrape:matches": "node scrape.js",
-    "scrape:calendar": "node calendar-scraper.js"
+    "scrape:calendar": "node calender-scraper.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
