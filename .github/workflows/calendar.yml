@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Run calendar scraper
-        run: node calender-scraper.js
+        run: npm run scrape:calender-scraper.js
 
       - name: Commit and push calendar.json
         run: |
