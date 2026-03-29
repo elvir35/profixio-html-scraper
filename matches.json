@@ -1,80 +1,8 @@
 {
-  "scrapedAt": "2026-03-28T19:27:29.988Z",
+  "scrapedAt": "2026-03-29T07:15:21.462Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 571,
   "matches": [
-    {
-      "team": "P14",
-      "hall": "Eslövshallen A",
-      "time": "10:00",
-      "date": "lör 28",
-      "month": "MARS 2026",
-      "home": "Eslövs HK 1",
-      "away": "H43 Lund HF Blå",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P10",
-      "hall": "Sallerupshallen",
-      "time": "12:15",
-      "date": "lör 28",
-      "month": "MARS 2026",
-      "home": "Eslöv, Ankaret, Kävlinge",
-      "away": "H43 Lund Pojkar 10",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P8",
-      "hall": "Nyvångshallen Dalby",
-      "time": "12:30",
-      "date": "lör 28",
-      "month": "MARS 2026",
-      "home": "Dalby, mfl",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
-      "hall": "Gunnesbohallen",
-      "time": "12:45",
-      "date": "lör 28",
-      "month": "MARS 2026",
-      "home": "H43 Lund HF",
-      "away": "OV Helsingborg HK 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F8",
-      "hall": "Vipeholmshallen",
-      "time": "13:00",
-      "date": "lör 28",
-      "month": "MARS 2026",
-      "home": "H43 Lund HF",
-      "away": "Gästande Lag",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F13",
-      "hall": "Söderkulla Sporthall",
-      "time": "16:00",
-      "date": "lör 28",
-      "month": "MARS 2026",
-      "home": "HK Malmö 2",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P14",
       "hall": "Limhamns Sporthall",
@@ -350,6 +278,78 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F13",
+      "hall": "Söderkulla Sporthall",
+      "time": "16:00",
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "home": "HK Malmö 2",
+      "away": "H43 Lund HF",
+      "score": "32 - 24",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F8",
+      "hall": "Vipeholmshallen",
+      "time": "13:00",
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "home": "H43 Lund HF",
+      "away": "Gästande Lag",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F14",
+      "hall": "Gunnesbohallen",
+      "time": "12:45",
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "home": "H43 Lund HF",
+      "away": "OV Helsingborg HK 1",
+      "score": "20 - 18",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P8",
+      "hall": "Nyvångshallen Dalby",
+      "time": "12:30",
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "home": "Dalby, mfl",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P10",
+      "hall": "Sallerupshallen",
+      "time": "12:15",
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "home": "Eslöv, Ankaret, Kävlinge",
+      "away": "H43 Lund Pojkar 10",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P14",
+      "hall": "Eslövshallen A",
+      "time": "10:00",
+      "date": "lör 28",
+      "month": "MARS 2026",
+      "home": "Eslövs HK 1",
+      "away": "H43 Lund HF Blå",
+      "score": "30 - 25",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F14",
@@ -6456,7 +6456,7 @@
       "home": "H43 Lund",
       "away": "HK Malmö",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/12249_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
