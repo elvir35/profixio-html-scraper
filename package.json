@@ -2,6 +2,10 @@
   "name": "html-scraper",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "scrape:matches": "node scrape.js",
+    "scrape:calendar": "node calendar-scraper.js"
+  },
   "dependencies": {
     "cheerio": "^1.0.0",
     "axios": "^1.0.0",
