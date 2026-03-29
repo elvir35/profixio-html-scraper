@@ -29,7 +29,7 @@ jobs:
         run: npx playwright install chromium
 
       - name: Run scraper
-        run: npm run scrape:scrape
+        run: npm run scrape:matches
 
       # ✅ NEW: Commit and push matches.json
       - name: Commit and push matches.json
