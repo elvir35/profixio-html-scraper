@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-03-30T07:16:19.245Z",
+  "scrapedAt": "2026-03-30T12:55:43.621Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 571,
+  "matchCount": 572,
   "matches": [
     {
       "team": "P10",
@@ -97,6 +97,18 @@
       "away": "OV Helsingborg HK 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F13",
+      "hall": "Ystad Arena B",
+      "time": "13:00",
+      "date": "lör 11",
+      "month": "APRIL 2026",
+      "home": "Ystads IF",
+      "away": "H43",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1560,7 +1572,7 @@
       "home": "Enköpings HF",
       "away": "H43 Lund HF",
       "score": "27 - 34",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26043_1006_S.webp",
       "status": "played"
     },
     {
@@ -6096,7 +6108,7 @@
       "home": "H43 Lund HF",
       "away": "Enköpings HF",
       "score": "29 - 24",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26043_1006_S.webp",
       "status": "played"
     },
     {
