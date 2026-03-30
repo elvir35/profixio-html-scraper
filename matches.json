@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-03-30T01:27:05.355Z",
+  "scrapedAt": "2026-03-30T07:16:19.245Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 571,
   "matches": [
@@ -215,7 +215,7 @@
       "month": "MARS 2026",
       "home": "Lugi HF P15 2",
       "away": "H43 Lund HF 2",
-      "score": "",
+      "score": "22 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "played"
     },
@@ -227,7 +227,7 @@
       "month": "MARS 2026",
       "home": "Växjö HF",
       "away": "H43 Lund HF 2",
-      "score": "",
+      "score": "21 - 36",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
       "status": "played"
     },
@@ -239,7 +239,7 @@
       "month": "MARS 2026",
       "home": "H43 Lund HF",
       "away": "HK Ankaret Röd",
-      "score": "",
+      "score": "17 - 25",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "played"
     },
@@ -251,7 +251,7 @@
       "month": "MARS 2026",
       "home": "Växjö HF",
       "away": "H43 Lund HF 2",
-      "score": "",
+      "score": "24 - 31",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
       "status": "played"
     },
@@ -263,7 +263,7 @@
       "month": "MARS 2026",
       "home": "IFK Malmö HF Gul",
       "away": "H43 Lund HF Blå",
-      "score": "",
+      "score": "27 - 41",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
       "status": "played"
     },
@@ -275,7 +275,7 @@
       "month": "MARS 2026",
       "home": "H43 Lund HF 2",
       "away": "HF Karlskrona 2",
-      "score": "",
+      "score": "38 - 24",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
       "status": "played"
     },
@@ -1560,7 +1560,7 @@
       "home": "Enköpings HF",
       "away": "H43 Lund HF",
       "score": "27 - 34",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26043_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -6096,7 +6096,7 @@
       "home": "H43 Lund HF",
       "away": "Enköpings HF",
       "score": "29 - 24",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26043_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
