@@ -3195,18 +3195,6 @@
     "date": "sön 22",
     "month": "Mars",
     "startTime": "14:00",
-    "endTime": "16:30",
-    "team": "P14",
-    "location": "Väggahallen",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Bindande - intresseanmälan- Matcher i Karlshamn",
-    "homeAway": ""
-  },
-  {
-    "date": "sön 22",
-    "month": "Mars",
-    "startTime": "14:00",
     "endTime": "",
     "team": "P14",
     "location": "Väggahallen",
@@ -3214,6 +3202,18 @@
     "title": "",
     "opponent": "Karlshamns HF Gul",
     "homeAway": "borta"
+  },
+  {
+    "date": "sön 22",
+    "month": "Mars",
+    "startTime": "14:00",
+    "endTime": "16:30",
+    "team": "P14",
+    "location": "Väggahallen",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Bindande - intresseanmälan- Matcher i Karlshamn",
+    "homeAway": ""
   },
   {
     "date": "sön 22",
