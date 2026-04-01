@@ -1,32 +1,8 @@
 {
-  "scrapedAt": "2026-03-31T18:48:08.245Z",
+  "scrapedAt": "2026-04-01T01:44:54.771Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
-    {
-      "team": "P10",
-      "hall": "Nordic Wellness hallen (St Lars)",
-      "time": "17:00",
-      "date": "tis 31",
-      "month": "MARS 2026",
-      "home": "Dalby",
-      "away": "H43 Lund Pojkar 10",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "HK Blå 85",
-      "hall": "Sparbanken Skåne Arena B",
-      "time": "19:30",
-      "date": "tis 31",
-      "month": "MARS 2026",
-      "home": "HK Blå 85 Lund",
-      "away": "IFK Malmö HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F16",
       "hall": "Sparbanken Skåne Arena A",
@@ -218,6 +194,30 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "19:30",
+      "date": "tis 31",
+      "month": "MARS 2026",
+      "home": "HK Blå 85 Lund",
+      "away": "IFK Malmö HF",
+      "score": "18 - 19",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P10",
+      "hall": "Nordic Wellness hallen (St Lars)",
+      "time": "17:00",
+      "date": "tis 31",
+      "month": "MARS 2026",
+      "home": "Dalby",
+      "away": "H43 Lund Pojkar 10",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P16",
@@ -492,7 +492,7 @@
       "home": "H43 Lund HF 3",
       "away": "OV Helsingborg",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/13936_1006_S.webp",
       "status": "played"
     },
     {
@@ -4452,7 +4452,7 @@
       "home": "IFK Malmö",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/8691_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
