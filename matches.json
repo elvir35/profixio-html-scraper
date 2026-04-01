@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-04-01T07:09:09.142Z",
+  "scrapedAt": "2026-04-01T12:56:53.761Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
@@ -177,10 +177,10 @@
       "time": "09:30",
       "date": "sön 19",
       "month": "APRIL 2026",
-      "home": "Träningsmatcher i Helsingborgs arena",
+      "home": "Träningsmatcher P11 Gameday",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
       "status": "upcoming"
     },
     {
