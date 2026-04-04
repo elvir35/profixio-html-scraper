@@ -290,6 +290,18 @@
   {
     "date": "mån 06",
     "month": "April",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "team": "P9",
+    "location": "Prästängshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": ""
+  },
+  {
+    "date": "mån 06",
+    "month": "April",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "P11",
