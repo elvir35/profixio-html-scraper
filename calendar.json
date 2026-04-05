@@ -374,6 +374,18 @@
   {
     "date": "tis 07",
     "month": "April",
+    "startTime": "18:15",
+    "endTime": "20:30",
+    "team": "F19 / Dam U",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": ""
+  },
+  {
+    "date": "tis 07",
+    "month": "April",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "P19 / Herr U",
@@ -389,18 +401,6 @@
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "DAMER A",
-    "location": "Arenan B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "tis 07",
-    "month": "April",
-    "startTime": "19:00",
-    "endTime": "20:30",
-    "team": "F19 / Dam U",
     "location": "Arenan B",
     "type": "Träning",
     "title": "",
