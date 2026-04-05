@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-04-05T01:27:13.098Z",
+  "scrapedAt": "2026-04-05T06:55:24.290Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
@@ -492,7 +492,7 @@
       "home": "H43 Lund HF 3",
       "away": "OV Helsingborg",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/13936_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
