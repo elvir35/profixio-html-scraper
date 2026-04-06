@@ -110,7 +110,7 @@
   {
     "date": "tor 02",
     "month": "April",
-    "startTime": "09:00",
+    "startTime": "05:35",
     "endTime": "",
     "team": "P16",
     "location": "Prag ()",
@@ -158,6 +158,18 @@
   {
     "date": "fre 03",
     "month": "April",
+    "startTime": "00:01",
+    "endTime": "23:59",
+    "team": "P16",
+    "location": "Övrig plats",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Prag",
+    "homeAway": ""
+  },
+  {
+    "date": "fre 03",
+    "month": "April",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "P18",
@@ -165,6 +177,18 @@
     "type": "Träning",
     "title": "",
     "opponent": "",
+    "homeAway": ""
+  },
+  {
+    "date": "lör 04",
+    "month": "April",
+    "startTime": "00:01",
+    "endTime": "23:59",
+    "team": "P16",
+    "location": "Övrig plats",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Prag",
     "homeAway": ""
   },
   {
@@ -182,11 +206,23 @@
   {
     "date": "sön 05",
     "month": "April",
+    "startTime": "00:01",
+    "endTime": "23:59",
+    "team": "P16",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Övrigt",
+    "homeAway": ""
+  },
+  {
+    "date": "sön 05",
+    "month": "April",
     "startTime": "08:40",
     "endTime": "",
     "team": "P11",
     "location": "Korsbackahallen",
-    "type": "Träning",
+    "type": "Match",
     "title": "",
     "opponent": "Påskacupen",
     "homeAway": "borta"
@@ -230,13 +266,13 @@
   {
     "date": "mån 06",
     "month": "April",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "team": "P14",
-    "location": "Östratornhallen",
+    "startTime": "00:01",
+    "endTime": "23:00",
+    "team": "P16",
+    "location": "Övrig plats",
     "type": "Träning",
     "title": "",
-    "opponent": "",
+    "opponent": "Prag",
     "homeAway": ""
   },
   {
@@ -305,18 +341,6 @@
     "startTime": "19:00",
     "endTime": "20:15",
     "team": "F13",
-    "location": "Bollhuset",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "mån 06",
-    "month": "April",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "team": "F16",
     "location": "Bollhuset",
     "type": "Träning",
     "title": "",
