@@ -1586,18 +1586,6 @@
   {
     "date": "sön 19",
     "month": "April",
-    "startTime": "09:30",
-    "endTime": "",
-    "team": "P11",
-    "location": "Helsingborgs Arena ()",
-    "type": "Match",
-    "title": "",
-    "opponent": "",
-    "homeAway": "borta"
-  },
-  {
-    "date": "sön 19",
-    "month": "April",
     "startTime": "10:30",
     "endTime": "11:30",
     "team": "U7",
@@ -1606,6 +1594,18 @@
     "title": "",
     "opponent": "",
     "homeAway": ""
+  },
+  {
+    "date": "sön 19",
+    "month": "April",
+    "startTime": "10:40",
+    "endTime": "",
+    "team": "P11",
+    "location": "Helsingborgs Arena ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "",
+    "homeAway": "borta"
   },
   {
     "date": "mån 20",
