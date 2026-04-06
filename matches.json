@@ -1,20 +1,8 @@
 {
-  "scrapedAt": "2026-04-05T18:30:26.898Z",
+  "scrapedAt": "2026-04-06T01:27:10.446Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
-    {
-      "team": "P11",
-      "hall": "Korsbackahallen",
-      "time": "08:40",
-      "date": "sön 05",
-      "month": "APRIL 2026",
-      "home": "Påskacupen",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P19 / Herr U",
       "hall": "Sparbanken Skåne Arena A",
@@ -172,6 +160,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P11",
+      "hall": "Korsbackahallen",
+      "time": "08:40",
+      "date": "sön 05",
+      "month": "APRIL 2026",
+      "home": "Påskacupen",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
+    },
+    {
       "team": "P16",
       "hall": "Prag",
       "time": "09:00",
@@ -312,7 +312,7 @@
       "home": "H43 Lund HF",
       "away": "Gästande Lag",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -3552,7 +3552,7 @@
       "home": "H43 Lund HF",
       "away": "Gästande Lag",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -6622,7 +6622,7 @@
       "date": "sön 07",
       "month": "SEPTEMBER 2025",
       "home": "H43 Lund F11",
-      "away": "Lag 2 Vit",
+      "away": "Lag 1 Blå",
       "score": "",
       "logo": "",
       "status": "played"
@@ -6634,7 +6634,7 @@
       "date": "sön 07",
       "month": "SEPTEMBER 2025",
       "home": "H43 Lund F11",
-      "away": "Lag 1 Blå",
+      "away": "Lag 2 Vit",
       "score": "",
       "logo": "",
       "status": "played"
@@ -6864,7 +6864,7 @@
       "home": "Partille 2025",
       "away": "H43 Lund Pojkar 16",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/497_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     }
   ]
