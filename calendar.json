@@ -186,21 +186,9 @@
     "endTime": "23:59",
     "team": "P16",
     "location": "Övrig plats",
-    "type": "Träning",
+    "type": "Övrigt",
     "title": "",
     "opponent": "Prag",
-    "homeAway": ""
-  },
-  {
-    "date": "lör 04",
-    "month": "April",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "team": "F8",
-    "location": "Fäladshallen   B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
     "homeAway": ""
   },
   {
@@ -1458,18 +1446,6 @@
     "endTime": "10:00",
     "team": "P9",
     "location": "Vipeholmshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "lör 18",
-    "month": "April",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "team": "F8",
-    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
     "opponent": "",
