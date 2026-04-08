@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-04-08T12:59:32.503Z",
+  "scrapedAt": "2026-04-08T19:03:34.549Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 572,
+  "matchCount": 573,
   "matches": [
     {
       "team": "P19 / Herr U",
@@ -112,6 +112,18 @@
       "status": "upcoming"
     },
     {
+      "team": "F16",
+      "hall": "Arenan B",
+      "time": "18:00",
+      "date": "ons 15",
+      "month": "APRIL 2026",
+      "home": "Lugi HF",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P14",
       "hall": "Rutsborgshallen 1",
       "time": "20:15",
@@ -148,15 +160,15 @@
       "status": "upcoming"
     },
     {
-      "team": "F16",
-      "hall": "Fäladshallen",
-      "time": "00:00",
-      "date": "tor 30",
-      "month": "APRIL 2026",
-      "home": "Lugi HF",
-      "away": "H43 Lund HF 2",
+      "team": "P16",
+      "hall": "Järnvägen cup",
+      "time": "09:00",
+      "date": "lör 30",
+      "month": "MAJ 2026",
+      "home": "Järnvägen cup",
+      "away": "30-31/5",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "logo": "",
       "status": "upcoming"
     },
     {
