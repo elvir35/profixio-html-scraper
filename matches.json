@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-04-09T01:17:18.743Z",
+  "scrapedAt": "2026-04-09T07:11:30.415Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 573,
   "matches": [
     {
       "team": "P19 / Herr U",
-      "hall": "Sparbanken Skåne Arena A",
+      "hall": "Sparbanken Skåne Arena B",
       "time": "19:40",
       "date": "fre 10",
       "month": "APRIL 2026",
@@ -113,7 +113,7 @@
     },
     {
       "team": "F16",
-      "hall": "Arenan B",
+      "hall": "Sparbanken Skåne Arena A",
       "time": "18:00",
       "date": "ons 15",
       "month": "APRIL 2026",
@@ -2868,7 +2868,7 @@
       "home": "H43 Lund HF 3",
       "away": "Vinslövs HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/20104_1006_S.webp",
       "status": "played"
     },
     {
