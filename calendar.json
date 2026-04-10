@@ -1178,18 +1178,6 @@
   {
     "date": "ons 15",
     "month": "April",
-    "startTime": "18:30",
-    "endTime": "20:00",
-    "team": "F13",
-    "location": "Victoriastadion",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "ons 15",
-    "month": "April",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "DAMER A",
@@ -1386,18 +1374,6 @@
     "endTime": "20:00",
     "team": "P18",
     "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "lör 18",
-    "month": "April",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "team": "Bollskolan Norr",
-    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -2705,10 +2681,10 @@
     "startTime": "17:00",
     "endTime": "18:00",
     "team": "F19 / Dam U",
-    "location": "Åhus",
-    "type": "Träning",
+    "location": "Göteborg",
+    "type": "Övrigt",
     "title": "",
-    "opponent": "Uppdaterad kallelse: Åhus beach 12-13/7 F16",
+    "opponent": "Partille cup 29/6-4/7 2006",
     "homeAway": ""
   },
   {
@@ -2717,10 +2693,10 @@
     "startTime": "17:00",
     "endTime": "18:00",
     "team": "F19 / Dam U",
-    "location": "Göteborg",
-    "type": "Övrigt",
+    "location": "Åhus",
+    "type": "Träning",
     "title": "",
-    "opponent": "Partille cup 29/6-4/7 2006",
+    "opponent": "Uppdaterad kallelse: Åhus beach 12-13/7 F16",
     "homeAway": ""
   },
   {
