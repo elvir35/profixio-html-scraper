@@ -638,6 +638,18 @@
   {
     "date": "fre 10",
     "month": "April",
+    "startTime": "17:15",
+    "endTime": "",
+    "team": "P19 / Herr U",
+    "location": "Tunahallen-Handboll (Pojkar - P19 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi HF 3",
+    "homeAway": "hemma"
+  },
+  {
+    "date": "fre 10",
+    "month": "April",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "F13",
@@ -658,18 +670,6 @@
     "title": "",
     "opponent": "",
     "homeAway": ""
-  },
-  {
-    "date": "fre 10",
-    "month": "April",
-    "startTime": "19:40",
-    "endTime": "",
-    "team": "P19 / Herr U",
-    "location": "Sparbanken Skåne Arena B (Pojkar - P19 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Lugi HF 3",
-    "homeAway": "hemma"
   },
   {
     "date": "lör 11",
