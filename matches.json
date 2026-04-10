@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-04-10T07:15:56.833Z",
+  "scrapedAt": "2026-04-10T12:47:08.635Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 573,
+  "matchCount": 572,
   "matches": [
     {
       "team": "P19 / Herr U",
@@ -157,18 +157,6 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P16",
-      "hall": "Järnvägen cup",
-      "time": "09:00",
-      "date": "lör 30",
-      "month": "MAJ 2026",
-      "home": "Järnvägen cup",
-      "away": "30-31/5",
-      "score": "",
-      "logo": "",
       "status": "upcoming"
     },
     {
@@ -2868,7 +2856,7 @@
       "home": "H43 Lund HF 3",
       "away": "Vinslövs HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/20104_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
