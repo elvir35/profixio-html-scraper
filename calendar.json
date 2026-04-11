@@ -1020,18 +1020,6 @@
     "homeAway": ""
   },
   {
-    "date": "mån 13",
-    "month": "April",
-    "startTime": "20:00",
-    "endTime": "21:45",
-    "team": "P19 / Herr U",
-    "location": "Arenan",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
     "date": "tis 14",
     "month": "April",
     "startTime": "17:00",
@@ -1062,18 +1050,6 @@
     "endTime": "19:30",
     "team": "F10",
     "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "tis 14",
-    "month": "April",
-    "startTime": "18:30",
-    "endTime": "20:00",
-    "team": "P19 / Herr U",
-    "location": "Tunahallen",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -1302,18 +1278,6 @@
     "endTime": "21:30",
     "team": "F16",
     "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "tor 16",
-    "month": "April",
-    "startTime": "20:00",
-    "endTime": "21:45",
-    "team": "P19 / Herr U",
-    "location": "Arenan B",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -1656,18 +1620,6 @@
     "homeAway": ""
   },
   {
-    "date": "mån 20",
-    "month": "April",
-    "startTime": "20:00",
-    "endTime": "21:45",
-    "team": "P19 / Herr U",
-    "location": "Arenan",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
     "date": "tis 21",
     "month": "April",
     "startTime": "17:00",
@@ -1710,18 +1662,6 @@
     "endTime": "19:30",
     "team": "F10",
     "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "tis 21",
-    "month": "April",
-    "startTime": "18:30",
-    "endTime": "20:00",
-    "team": "P19 / Herr U",
-    "location": "Tunahallen",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -1962,18 +1902,6 @@
     "endTime": "21:30",
     "team": "F16",
     "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "tor 23",
-    "month": "April",
-    "startTime": "20:00",
-    "endTime": "21:45",
-    "team": "P19 / Herr U",
-    "location": "Arenan B",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -2424,18 +2352,6 @@
     "homeAway": ""
   },
   {
-    "date": "mån 27",
-    "month": "April",
-    "startTime": "20:00",
-    "endTime": "21:45",
-    "team": "P19 / Herr U",
-    "location": "Arenan",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
     "date": "tis 28",
     "month": "April",
     "startTime": "17:00",
@@ -2478,18 +2394,6 @@
     "endTime": "19:30",
     "team": "F10",
     "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "tis 28",
-    "month": "April",
-    "startTime": "18:30",
-    "endTime": "20:00",
-    "team": "P19 / Herr U",
-    "location": "Tunahallen",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -2669,10 +2573,10 @@
     "startTime": "17:00",
     "endTime": "18:00",
     "team": "F19 / Dam U",
-    "location": "Åhus",
-    "type": "Träning",
+    "location": "Göteborg",
+    "type": "Övrigt",
     "title": "",
-    "opponent": "Uppdaterad kallelse: Åhus beach 12-13/7 F16",
+    "opponent": "Partille cup 29/6-4/7 2006",
     "homeAway": ""
   },
   {
@@ -2681,10 +2585,10 @@
     "startTime": "17:00",
     "endTime": "18:00",
     "team": "F19 / Dam U",
-    "location": "Göteborg",
-    "type": "Övrigt",
+    "location": "Åhus",
+    "type": "Träning",
     "title": "",
-    "opponent": "Partille cup 29/6-4/7 2006",
+    "opponent": "Uppdaterad kallelse: Åhus beach 12-13/7 F16",
     "homeAway": ""
   },
   {
@@ -2730,18 +2634,6 @@
     "endTime": "21:30",
     "team": "F16",
     "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": ""
-  },
-  {
-    "date": "tor 30",
-    "month": "April",
-    "startTime": "20:00",
-    "endTime": "21:45",
-    "team": "P19 / Herr U",
-    "location": "Arenan B",
     "type": "Träning",
     "title": "",
     "opponent": "",
