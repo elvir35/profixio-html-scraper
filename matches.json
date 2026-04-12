@@ -1,68 +1,8 @@
 {
-  "scrapedAt": "2026-04-11T18:30:39.079Z",
+  "scrapedAt": "2026-04-12T01:44:10.448Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
-    {
-      "team": "P11",
-      "hall": "Lågehallarna",
-      "time": "08:50",
-      "date": "lör 11",
-      "month": "APRIL 2026",
-      "home": "Lågan Cup",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P14",
-      "hall": "Sparbanken Skåne Arena A",
-      "time": "11:15",
-      "date": "lör 11",
-      "month": "APRIL 2026",
-      "home": "H43 Lund HF Blå",
-      "away": "OV Helsingborg HK 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F13",
-      "hall": "Ystad Arena B",
-      "time": "13:00",
-      "date": "lör 11",
-      "month": "APRIL 2026",
-      "home": "Ystads IF",
-      "away": "H43",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F16",
-      "hall": "Sparbanken Skåne Arena B",
-      "time": "14:15",
-      "date": "lör 11",
-      "month": "APRIL 2026",
-      "home": "H43 Lund HF 2",
-      "away": "IFK Kristianstad Blå",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P18",
-      "hall": "Borgebyhallen",
-      "time": "15:50",
-      "date": "lör 11",
-      "month": "APRIL 2026",
-      "home": "HK Ankaret",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P16",
       "hall": "Tunahallen-Handboll",
@@ -146,6 +86,66 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P18",
+      "hall": "Borgebyhallen",
+      "time": "15:50",
+      "date": "lör 11",
+      "month": "APRIL 2026",
+      "home": "HK Ankaret",
+      "away": "H43 Lund HF 2",
+      "score": "34 - 27",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F16",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "14:15",
+      "date": "lör 11",
+      "month": "APRIL 2026",
+      "home": "H43 Lund HF 2",
+      "away": "IFK Kristianstad Blå",
+      "score": "28 - 21",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F13",
+      "hall": "Ystad Arena B",
+      "time": "13:00",
+      "date": "lör 11",
+      "month": "APRIL 2026",
+      "home": "Ystads IF",
+      "away": "H43",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P14",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "11:15",
+      "date": "lör 11",
+      "month": "APRIL 2026",
+      "home": "H43 Lund HF Blå",
+      "away": "OV Helsingborg HK 1",
+      "score": "32 - 33",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P11",
+      "hall": "Lågehallarna",
+      "time": "08:50",
+      "date": "lör 11",
+      "month": "APRIL 2026",
+      "home": "Lågan Cup",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P19 / Herr U",
