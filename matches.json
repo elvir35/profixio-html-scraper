@@ -1,44 +1,8 @@
 {
-  "scrapedAt": "2026-04-12T18:34:16.322Z",
+  "scrapedAt": "2026-04-13T01:48:41.827Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
-    {
-      "team": "P16",
-      "hall": "Tunahallen-Handboll",
-      "time": "12:30",
-      "date": "sön 12",
-      "month": "APRIL 2026",
-      "home": "H43 Lund HF 2",
-      "away": "Mörrums GOIS HK",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "HK Blå 85",
-      "hall": "Stapelbäddens IH",
-      "time": "13:00",
-      "date": "sön 12",
-      "month": "APRIL 2026",
-      "home": "IFK Malmö HF",
-      "away": "HK Blå 85 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
-      "hall": "Korsbackahallen A",
-      "time": "14:00",
-      "date": "sön 12",
-      "month": "APRIL 2026",
-      "home": "Kävlinge HK",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F16",
       "hall": "Sparbanken Skåne Arena A",
@@ -86,6 +50,42 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Korsbackahallen A",
+      "time": "14:00",
+      "date": "sön 12",
+      "month": "APRIL 2026",
+      "home": "Kävlinge HK",
+      "away": "H43 Lund HF",
+      "score": "29 - 25",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Stapelbäddens IH",
+      "time": "13:00",
+      "date": "sön 12",
+      "month": "APRIL 2026",
+      "home": "IFK Malmö HF",
+      "away": "HK Blå 85 Lund",
+      "score": "31 - 28",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P16",
+      "hall": "Tunahallen-Handboll",
+      "time": "12:30",
+      "date": "sön 12",
+      "month": "APRIL 2026",
+      "home": "H43 Lund HF 2",
+      "away": "Mörrums GOIS HK",
+      "score": "37 - 27",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P18",
