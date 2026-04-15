@@ -121,7 +121,30 @@ async function fetchMonth(month, year, monthName) {
         validLines.push(line);
       }
 
-      currentEvent.info = validLines.join("\n").trim();
+     let filteredLines = [];
+
+for (const line of validLines) {
+  const lower = line.toLowerCase();
+
+  const matchesOpponent =
+    currentEvent.opponent &&
+    lower.includes(currentEvent.opponent.toLowerCase());
+
+  const matchesLocation =
+    currentEvent.location &&
+    lower.includes(currentEvent.location.toLowerCase());
+
+  const isTrainingText =
+    currentEvent.type === "Träning" &&
+    lower.includes("träning");
+
+  // ✅ ONLY keep relevant lines
+  if (matchesOpponent || matchesLocation || isTrainingText) {
+    filteredLines.push(line);
+  }
+}
+
+currentEvent.info = filteredLines.join("\n").trim();
 
       return;
     }
