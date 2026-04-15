@@ -22,7 +22,11 @@ function getCurrentMonth() {
 function parseTime(timeText) {
   if (!timeText) return { startTime: "", endTime: "" };
 
-  const match = timeText.match(/\d{2}:\d{2}(\s*-\s*\d{2}:\d{2})?/);
+  let clean = timeText.replace(/\s+/g, " ").trim();
+  clean = clean.replace("Flera dagar", "").trim();
+
+  const match = clean.match(/\d{2}:\d{2}(\s*-\s*\d{2}:\d{2})?/);
+
   if (!match) return { startTime: "", endTime: "" };
 
   const value = match[0];
@@ -56,6 +60,46 @@ function getType(row) {
   return "";
 }
 
+/* 🔥 NEW: Safe extraction from NEXT row only */
+function extractDetails(row, $, opponent, location) {
+  let meetingTime = "";
+  let info = "";
+
+  const nextRow = row.next();
+
+  if (!nextRow || !nextRow.find(".calAkt2").length) {
+    return { meetingTime, info };
+  }
+
+  const detailDiv = nextRow.find(".calAkt2");
+
+  const textBlocks = detailDiv
+    .find("div")
+    .map((_, el) => $(el).text().trim())
+    .get()
+    .filter(Boolean);
+
+  const fullText = textBlocks.join("\n");
+
+  // Extract meeting time
+  const match = fullText.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
+  if (match) meetingTime = match[1];
+
+  // 🔥 STRICT MATCHING (prevents wrong team mapping)
+  const filtered = textBlocks.filter(t => {
+    const lower = t.toLowerCase();
+
+    return (
+      (opponent && lower.includes(opponent.toLowerCase())) ||
+      (location && lower.includes(location.toLowerCase()))
+    );
+  });
+
+  info = filtered.join("\n").trim();
+
+  return { meetingTime, info };
+}
+
 async function fetchMonth(month, year, monthName) {
   const url = `${BASE_URL}?ID=${CALENDAR_ID}&manad=${month}&ar=${year}`;
   console.log("Fetching:", url);
@@ -66,15 +110,13 @@ async function fetchMonth(month, year, monthName) {
   const $ = cheerio.load(html);
 
   const events = [];
-  let currentEvent = null;
 
   let currentDate = "";
   let currentDay = "";
 
-  $("table.mCal tr").each((i, el) => {
+  $("table.mCal tr").each((_, el) => {
     const row = $(el);
 
-    // Date handling
     const dateCell = row.find("b").first().text().trim();
     const dayCell = row.find("font").first().text().trim();
 
@@ -83,73 +125,6 @@ async function fetchMonth(month, year, monthName) {
       currentDay = dayCell;
     }
 
-    // 🔥 FIXED DETAILS HANDLING
-    if (row.find(".calAkt2").length && currentEvent && !currentEvent._detailsCaptured) {
-      currentEvent._detailsCaptured = true;
-
-      const detailDiv = row.find(".calAkt2");
-      let rawText = detailDiv.text().trim();
-
-      // Split into logical lines
-      let lines = rawText
-        .split(/\n|(?=[A-ZÅÄÖ][a-zåäö]+ (hemma|borta))/)
-        .map(l => l.trim())
-        .filter(Boolean);
-
-      // Extract meeting time
-      const samlingMatch = rawText.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
-      if (samlingMatch) {
-        currentEvent.meetingTime = samlingMatch[1];
-      }
-
-      // Keep only first relevant block
-      let validLines = [];
-
-      for (const line of lines) {
-        const lower = line.toLowerCase();
-
-        // Stop if new event-like content appears
-        if (
-          lower.includes(" borta") ||
-          lower.includes(" hemma") ||
-          lower.includes(" cup") ||
-          lower.includes(" match")
-        ) {
-          if (validLines.length > 0) break;
-        }
-
-        validLines.push(line);
-      }
-
-     let filteredLines = [];
-
-for (const line of validLines) {
-  const lower = line.toLowerCase();
-
-  const matchesOpponent =
-    currentEvent.opponent &&
-    lower.includes(currentEvent.opponent.toLowerCase());
-
-  const matchesLocation =
-    currentEvent.location &&
-    lower.includes(currentEvent.location.toLowerCase());
-
-  const isTrainingText =
-    currentEvent.type === "Träning" &&
-    lower.includes("träning");
-
-  // ✅ ONLY keep relevant lines
-  if (matchesOpponent || matchesLocation || isTrainingText) {
-    filteredLines.push(line);
-  }
-}
-
-currentEvent.info = filteredLines.join("\n").trim();
-
-      return;
-    }
-
-    // Event row
     const timeText = row.find("span").text().trim();
     const team = row.find("a").first().text().trim();
     const rawTitle = row.find("a.kal").first().text().trim();
@@ -170,23 +145,25 @@ currentEvent.info = filteredLines.join("\n").trim();
       cleanOpponent = "";
     }
 
-    const event = {
+    const type = getType(row);
+
+    // 🔥 NEW SAFE EXTRACTION
+    const { meetingTime, info } = extractDetails(row, $, cleanOpponent, location);
+
+    events.push({
       date: `${currentDay} ${currentDate}`,
       month: monthName,
       startTime,
       endTime,
       team,
       location,
-      type: getType(row),
+      type,
       title,
       opponent: cleanOpponent,
       homeAway: isHome ? "hemma" : isAway ? "borta" : "",
-      meetingTime: "",
-      info: ""
-    };
-
-    events.push(event);
-    currentEvent = event;
+      meetingTime,
+      info
+    });
   });
 
   return events;
