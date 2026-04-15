@@ -49,11 +49,7 @@ function parseTitle(title) {
   const opponent = parts[0]?.trim() || "";
   const location = parts[1]?.trim() || "";
 
-  return {
-    opponent,
-    location,
-    title: ""
-  };
+  return { opponent, location, title: "" };
 }
 
 function getType(row) {
@@ -61,51 +57,6 @@ function getType(row) {
   if (row.find(".calBox2").length) return "Match";
   if (row.find(".calBox3").length) return "Övrigt";
   return "";
-}
-
-/* 🔥 BUGFIX: Strict scoping + reset */
-function extractExtraInfo(row, $) {
-  let meetingTime = "";
-  let info = "";
-
-  // ONLY look inside this row
-  const details = row.children().find(".calAkt2").first();
-
-  if (!details.length) {
-    return { meetingTime: "", info: "" };
-  }
-
-  // Samling
-  const meetingText = details
-    .find("div")
-    .filter((_, el) => $(el).text().includes("Samling"))
-    .first()
-    .text()
-    .trim();
-
-  if (meetingText) {
-    const match = meetingText.match(/Samling:\s*(\d{2}:\d{2})/);
-    if (match) {
-      meetingTime = match[1];
-    }
-  }
-
-  // Info
-  const infoBlocks = details.find("div").filter((_, el) => {
-    const text = $(el).text().trim();
-    return text && !text.includes("Samling");
-  });
-
-  info = infoBlocks
-    .map((_, el) => $(el).text().trim())
-    .get()
-    .join("\n")
-    .trim();
-
-  return {
-    meetingTime: meetingTime || "",
-    info: info || ""
-  };
 }
 
 async function fetchMonth(month, year, monthName) {
@@ -122,9 +73,10 @@ async function fetchMonth(month, year, monthName) {
   let currentDate = "";
   let currentDay = "";
 
-  $("table.mCal tr").each((_, el) => {
+  $("table.mCal tr").each((i, el) => {
     const row = $(el);
 
+    // Date handling
     const dateCell = row.find("b").first().text().trim();
     const dayCell = row.find("font").first().text().trim();
 
@@ -133,6 +85,7 @@ async function fetchMonth(month, year, monthName) {
       currentDay = dayCell;
     }
 
+    // Event data
     const timeText = row.find("span").text().trim();
     const team = row.find("a").first().text().trim();
     const rawTitle = row.find("a.kal").first().text().trim();
@@ -142,10 +95,40 @@ async function fetchMonth(month, year, monthName) {
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
 
-    // 🔥 RESET + SAFE EXTRACTION
     let meetingTime = "";
     let info = "";
-    ({ meetingTime, info } = extractExtraInfo(row, $));
+
+    // 🔥 KEY FIX: ONLY look at next row for details
+    const nextRow = $(el).next();
+
+    if (nextRow && nextRow.find(".calAkt2").length) {
+      const details = nextRow.find(".calAkt2");
+
+      // Extract Samling
+      const meetingText = details
+        .find("div")
+        .filter((_, el) => $(el).text().includes("Samling"))
+        .first()
+        .text()
+        .trim();
+
+      if (meetingText) {
+        const match = meetingText.match(/Samling:\s*(\d{2}:\d{2})/);
+        if (match) meetingTime = match[1];
+      }
+
+      // Extract info
+      const infoBlocks = details.find("div").filter((_, el) => {
+        const text = $(el).text().trim();
+        return text && !text.includes("Samling");
+      });
+
+      info = infoBlocks
+        .map((_, el) => $(el).text().trim())
+        .get()
+        .join("\n")
+        .trim();
+    }
 
     const isHome = /hemma/i.test(opponent);
     const isAway = /borta/i.test(opponent);
@@ -171,7 +154,6 @@ async function fetchMonth(month, year, monthName) {
       title,
       opponent: cleanOpponent,
       homeAway: isHome ? "hemma" : isAway ? "borta" : "",
-
       meetingTime,
       info
     });
