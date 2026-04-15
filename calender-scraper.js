@@ -74,7 +74,7 @@ async function fetchMonth(month, year, monthName) {
   $("table.mCal tr").each((i, el) => {
     const row = $(el);
 
-    // 📅 Update date
+    // Date handling
     const dateCell = row.find("b").first().text().trim();
     const dayCell = row.find("font").first().text().trim();
 
@@ -83,49 +83,50 @@ async function fetchMonth(month, year, monthName) {
       currentDay = dayCell;
     }
 
-    // 🔍 CHECK: Is this a DETAILS row?
-    if (row.find(".calAkt2").length && currentEvent) {
-      const details = row.find(".calAkt2");
+    // 🔥 FIXED DETAILS HANDLING
+    if (row.find(".calAkt2").length && currentEvent && !currentEvent._detailsCaptured) {
+      currentEvent._detailsCaptured = true;
 
-      const textBlocks = details.find("div")
-        .map((_, el) => $(el).text().trim())
-        .get();
+      const detailDiv = row.find(".calAkt2");
+      let rawText = detailDiv.text().trim();
 
-      const fullText = textBlocks.join("\n").trim();
+      // Split into logical lines
+      let lines = rawText
+        .split(/\n|(?=[A-ZÅÄÖ][a-zåäö]+ (hemma|borta))/)
+        .map(l => l.trim())
+        .filter(Boolean);
 
       // Extract meeting time
-      const meetingMatch = fullText.match(/Samling:\s*(\d{2}:\d{2})/);
-      if (meetingMatch) {
-        currentEvent.meetingTime = meetingMatch[1];
+      const samlingMatch = rawText.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
+      if (samlingMatch) {
+        currentEvent.meetingTime = samlingMatch[1];
       }
 
-      // Extract info (exclude Samling)
-     const cleanBlocks = textBlocks.filter(t => t && !t.includes("Samling"));
+      // Keep only first relevant block
+      let validLines = [];
 
-let validInfo = "";
+      for (const line of lines) {
+        const lower = line.toLowerCase();
 
-// 🔥 ONLY keep lines that match this event
-for (const line of cleanBlocks) {
-  const lower = line.toLowerCase();
+        // Stop if new event-like content appears
+        if (
+          lower.includes(" borta") ||
+          lower.includes(" hemma") ||
+          lower.includes(" cup") ||
+          lower.includes(" match")
+        ) {
+          if (validLines.length > 0) break;
+        }
 
-  if (
-    (currentEvent.opponent && lower.includes(currentEvent.opponent.toLowerCase())) ||
-    (currentEvent.location && lower.includes(currentEvent.location.toLowerCase())) ||
-    currentEvent.type === "Träning" // allow simple training text
-  ) {
-    validInfo += line + "\n";
-  } else {
-    // 🚫 STOP when unrelated content starts
-    break;
-  }
-}
+        validLines.push(line);
+      }
 
-currentEvent.info = validInfo.trim();
+      currentEvent.info = validLines.join("\n").trim();
 
       return;
     }
 
-    // 🔍 EVENT row
+    // Event row
     const timeText = row.find("span").text().trim();
     const team = row.find("a").first().text().trim();
     const rawTitle = row.find("a.kal").first().text().trim();
@@ -162,7 +163,7 @@ currentEvent.info = validInfo.trim();
     };
 
     events.push(event);
-    currentEvent = event; // 🔥 Track latest event
+    currentEvent = event;
   });
 
   return events;
