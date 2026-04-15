@@ -59,6 +59,25 @@ function getType(row) {
   return "";
 }
 
+/* 🔥 NEW: Validate that info belongs to this event */
+function isMatchingEvent(event, infoText) {
+  if (!infoText) return false;
+
+  const normalizedInfo = infoText.toLowerCase();
+
+  // Match opponent
+  if (event.opponent && normalizedInfo.includes(event.opponent.toLowerCase())) {
+    return true;
+  }
+
+  // Match location (strong signal)
+  if (event.location && normalizedInfo.includes(event.location.toLowerCase())) {
+    return true;
+  }
+
+  return false;
+}
+
 async function fetchMonth(month, year, monthName) {
   const url = `${BASE_URL}?ID=${CALENDAR_ID}&manad=${month}&ar=${year}`;
   console.log("Fetching:", url);
@@ -76,7 +95,6 @@ async function fetchMonth(month, year, monthName) {
   $("table.mCal tr").each((i, el) => {
     const row = $(el);
 
-    // Date handling
     const dateCell = row.find("b").first().text().trim();
     const dayCell = row.find("font").first().text().trim();
 
@@ -85,7 +103,6 @@ async function fetchMonth(month, year, monthName) {
       currentDay = dayCell;
     }
 
-    // Event data
     const timeText = row.find("span").text().trim();
     const team = row.find("a").first().text().trim();
     const rawTitle = row.find("a.kal").first().text().trim();
@@ -98,36 +115,38 @@ async function fetchMonth(month, year, monthName) {
     let meetingTime = "";
     let info = "";
 
-    // 🔥 KEY FIX: ONLY look at next row for details
+    // 🔥 Look at next row
     const nextRow = $(el).next();
 
     if (nextRow && nextRow.find(".calAkt2").length) {
       const details = nextRow.find(".calAkt2");
 
-      // Extract Samling
-      const meetingText = details
+      const extractedText = details
         .find("div")
-        .filter((_, el) => $(el).text().includes("Samling"))
-        .first()
-        .text()
-        .trim();
-
-      if (meetingText) {
-        const match = meetingText.match(/Samling:\s*(\d{2}:\d{2})/);
-        if (match) meetingTime = match[1];
-      }
-
-      // Extract info
-      const infoBlocks = details.find("div").filter((_, el) => {
-        const text = $(el).text().trim();
-        return text && !text.includes("Samling");
-      });
-
-      info = infoBlocks
         .map((_, el) => $(el).text().trim())
         .get()
         .join("\n")
         .trim();
+
+      // 🔥 ONLY attach if it matches this event
+      if (isMatchingEvent({ opponent, location }, extractedText)) {
+
+        const meetingMatch = extractedText.match(/Samling:\s*(\d{2}:\d{2})/);
+        if (meetingMatch) {
+          meetingTime = meetingMatch[1];
+        }
+
+        const infoBlocks = details.find("div").filter((_, el) => {
+          const text = $(el).text().trim();
+          return text && !text.includes("Samling");
+        });
+
+        info = infoBlocks
+          .map((_, el) => $(el).text().trim())
+          .get()
+          .join("\n")
+          .trim();
+      }
     }
 
     const isHome = /hemma/i.test(opponent);
