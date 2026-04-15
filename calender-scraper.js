@@ -87,14 +87,13 @@ function extractDetails(row, $, opponent, location) {
 
   // 🔥 STRICT MATCHING (prevents wrong team mapping)
   const filtered = textBlocks.filter(t => {
-    const lower = t.toLowerCase();
+  const lower = t.toLowerCase();
 
-    return (
-  (opponent && lower.includes(opponent.toLowerCase())) ||
-  (location && lower.includes(location.toLowerCase())) ||
-  lower.includes("träning") ||
-  lower.includes("samling")
-);
+  return (
+    (opponent && lower.includes(opponent.toLowerCase())) ||
+    (location && lower.includes(location.toLowerCase()))
+  );
+});
 
   info = filtered.join("\n").trim();
 
