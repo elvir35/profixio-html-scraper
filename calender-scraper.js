@@ -24,11 +24,8 @@ function parseTime(timeText) {
   if (!timeText) return { startTime: "", endTime: "" };
 
   let clean = timeText.replace(/\s+/g, " ").trim();
-
-  // Remove "Flera dagar"
   clean = clean.replace("Flera dagar", "").trim();
 
-  // Extract ONLY first valid time range
   const match = clean.match(/\d{2}:\d{2}(\s*-\s*\d{2}:\d{2})?/);
 
   if (!match) return { startTime: "", endTime: "" };
@@ -45,6 +42,7 @@ function parseTime(timeText) {
 
   return { startTime: value.trim(), endTime: "" };
 }
+
 function parseTitle(title) {
   if (!title) return { opponent: "", location: "", title: "" };
 
@@ -66,11 +64,48 @@ function getType(row) {
   return "";
 }
 
+/* 🔥 NEW: Extract Samling + extra info */
+function extractExtraInfo(row, $) {
+  let meetingTime = "";
+  let info = "";
+
+  const details = row.find(".calAkt2");
+
+  if (!details.length) return { meetingTime, info };
+
+  // Extract Samlingstid
+  const meetingText = details
+    .find("div")
+    .filter((_, el) => $(el).text().includes("Samling"))
+    .first()
+    .text()
+    .trim();
+
+  if (meetingText) {
+    const match = meetingText.match(/Samling:\s*(\d{2}:\d{2})/);
+    if (match) {
+      meetingTime = match[1];
+    }
+  }
+
+  // Extract other info (exclude Samling)
+  const infoBlocks = details.find("div").filter((_, el) => {
+    const text = $(el).text().trim();
+    return text && !text.includes("Samling");
+  });
+
+  info = infoBlocks
+    .map((_, el) => $(el).text().trim())
+    .get()
+    .join("\n");
+
+  return { meetingTime, info };
+}
+
 async function fetchMonth(month, year, monthName) {
   const url = `${BASE_URL}?ID=${CALENDAR_ID}&manad=${month}&ar=${year}`;
   console.log("Fetching:", url);
 
-  // ✅ KEEP UTF-8 FIX
   const { data } = await axios.get(url, { responseType: "arraybuffer" });
   const html = Buffer.from(data).toString("latin1");
 
@@ -84,16 +119,14 @@ async function fetchMonth(month, year, monthName) {
   $("table.mCal tr").each((_, el) => {
     const row = $(el);
 
-    // 🔁 ORIGINAL logic (reverted)
     const dateCell = row.find("b").first().text().trim();
     const dayCell = row.find("font").first().text().trim();
 
     if (dateCell && /^\d{1,2}$/.test(dateCell)) {
-  currentDate = dateCell;
-  currentDay = dayCell;
-}
+      currentDate = dateCell;
+      currentDay = dayCell;
+    }
 
-    // 🔁 ORIGINAL time logic (reverted)
     const timeText = row.find("span").text().trim();
     const team = row.find("a").first().text().trim();
     const rawTitle = row.find("a.kal").first().text().trim();
@@ -102,18 +135,21 @@ async function fetchMonth(month, year, monthName) {
 
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
-    // ✅ ADD THIS HERE
-const isHome = /hemma/i.test(opponent);
-const isAway = /borta/i.test(opponent);
 
-let cleanOpponent = opponent
-  .replace(/\s+(hemma|borta)$/i, "")
-  .trim();
+    // 🔥 NEW extraction
+    const { meetingTime, info } = extractExtraInfo(row, $);
 
-// ✅ Remove "Träning" as opponent
-if (/träning/i.test(cleanOpponent)) {
-  cleanOpponent = "";
-}
+    const isHome = /hemma/i.test(opponent);
+    const isAway = /borta/i.test(opponent);
+
+    let cleanOpponent = opponent
+      .replace(/\s+(hemma|borta)$/i, "")
+      .trim();
+
+    if (/träning/i.test(cleanOpponent)) {
+      cleanOpponent = "";
+    }
+
     const type = getType(row);
 
     events.push({
@@ -126,7 +162,11 @@ if (/träning/i.test(cleanOpponent)) {
       type,
       title,
       opponent: cleanOpponent,
-      homeAway: isHome ? "hemma" : isAway ? "borta" : ""
+      homeAway: isHome ? "hemma" : isAway ? "borta" : "",
+
+      // ✅ NEW FIELDS
+      meetingTime,
+      info
     });
   });
 
@@ -147,7 +187,6 @@ if (/träning/i.test(cleanOpponent)) {
       return true;
     });
 
-    // ✅ KEEP UTF-8 SAVE
     fs.writeFileSync(
       "calendar.json",
       JSON.stringify(unique, null, 2),
