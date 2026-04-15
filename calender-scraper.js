@@ -100,10 +100,27 @@ async function fetchMonth(month, year, monthName) {
       }
 
       // Extract info (exclude Samling)
-      currentEvent.info = textBlocks
-        .filter(t => t && !t.includes("Samling"))
-        .join("\n")
-        .trim();
+     const cleanBlocks = textBlocks.filter(t => t && !t.includes("Samling"));
+
+let validInfo = "";
+
+// 🔥 ONLY keep lines that match this event
+for (const line of cleanBlocks) {
+  const lower = line.toLowerCase();
+
+  if (
+    (currentEvent.opponent && lower.includes(currentEvent.opponent.toLowerCase())) ||
+    (currentEvent.location && lower.includes(currentEvent.location.toLowerCase())) ||
+    currentEvent.type === "Träning" // allow simple training text
+  ) {
+    validInfo += line + "\n";
+  } else {
+    // 🚫 STOP when unrelated content starts
+    break;
+  }
+}
+
+currentEvent.info = validInfo.trim();
 
       return;
     }
