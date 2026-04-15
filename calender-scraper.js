@@ -90,10 +90,11 @@ function extractDetails(row, $, opponent, location) {
     const lower = t.toLowerCase();
 
     return (
-      (opponent && lower.includes(opponent.toLowerCase())) ||
-      (location && lower.includes(location.toLowerCase()))
-    );
-  });
+  (opponent && lower.includes(opponent.toLowerCase())) ||
+  (location && lower.includes(location.toLowerCase())) ||
+  lower.includes("träning") ||
+  lower.includes("samling")
+);
 
   info = filtered.join("\n").trim();
 
