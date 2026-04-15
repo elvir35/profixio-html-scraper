@@ -5,7 +5,6 @@ import fs from "fs";
 const BASE_URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
 const CALENDAR_ID = 331251;
 
-// Swedish month names
 const MONTH_NAMES = [
   "Januari","Februari","Mars","April","Maj","Juni",
   "Juli","Augusti","September","Oktober","November","December"
@@ -64,16 +63,19 @@ function getType(row) {
   return "";
 }
 
-/* 🔥 NEW: Extract Samling + extra info */
+/* 🔥 BUGFIX: Strict scoping + reset */
 function extractExtraInfo(row, $) {
   let meetingTime = "";
   let info = "";
 
-  const details = row.find(".calAkt2");
+  // ONLY look inside this row
+  const details = row.children().find(".calAkt2").first();
 
-  if (!details.length) return { meetingTime, info };
+  if (!details.length) {
+    return { meetingTime: "", info: "" };
+  }
 
-  // Extract Samlingstid
+  // Samling
   const meetingText = details
     .find("div")
     .filter((_, el) => $(el).text().includes("Samling"))
@@ -88,7 +90,7 @@ function extractExtraInfo(row, $) {
     }
   }
 
-  // Extract other info (exclude Samling)
+  // Info
   const infoBlocks = details.find("div").filter((_, el) => {
     const text = $(el).text().trim();
     return text && !text.includes("Samling");
@@ -97,9 +99,13 @@ function extractExtraInfo(row, $) {
   info = infoBlocks
     .map((_, el) => $(el).text().trim())
     .get()
-    .join("\n");
+    .join("\n")
+    .trim();
 
-  return { meetingTime, info };
+  return {
+    meetingTime: meetingTime || "",
+    info: info || ""
+  };
 }
 
 async function fetchMonth(month, year, monthName) {
@@ -136,8 +142,10 @@ async function fetchMonth(month, year, monthName) {
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
 
-    // 🔥 NEW extraction
-    const { meetingTime, info } = extractExtraInfo(row, $);
+    // 🔥 RESET + SAFE EXTRACTION
+    let meetingTime = "";
+    let info = "";
+    ({ meetingTime, info } = extractExtraInfo(row, $));
 
     const isHome = /hemma/i.test(opponent);
     const isAway = /borta/i.test(opponent);
@@ -164,7 +172,6 @@ async function fetchMonth(month, year, monthName) {
       opponent: cleanOpponent,
       homeAway: isHome ? "hemma" : isAway ? "borta" : "",
 
-      // ✅ NEW FIELDS
       meetingTime,
       info
     });
