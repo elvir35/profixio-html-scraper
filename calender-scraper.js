@@ -59,7 +59,7 @@ function getType(row) {
   return "";
 }
 
-/* ✅ Clean HTML → text with line breaks */
+/* ✅ Clean HTML → text */
 function cleanHtmlText(html) {
   if (!html) return "";
 
@@ -72,44 +72,35 @@ function cleanHtmlText(html) {
     .trim();
 }
 
-/* 🔥 ONLY source of info (popup) */
+/* 🔥 Popup extraction (FIXED) */
 function extractPopupInfo(row, $, fullHtml) {
   const popupLink = row.find("a.kal").filter((_, el) => {
-    return ($(el).attr("onmouseover") || "").includes("sCal");
+    const attr = $(el).attr("onmouseover");
+    return attr && attr.includes("sCal");
   });
 
   if (!popupLink.length) return "";
 
   const onmouseover = popupLink.attr("onmouseover");
+  if (!onmouseover) return "";
 
-if (!onmouseover) return "";
-
-const match = onmouseover.match(/sCal\('([^']+)'/);
-
-if (!match) return "";
+  const match = onmouseover.match(/sCal\('([^']+)'/);
+  if (!match) return "";
 
   const popupId = match[1];
 
-  // 🔥 SEARCH RAW HTML instead of DOM
+  // 🔥 Search raw HTML (critical)
   const regex = new RegExp(
     `<div[^>]*id=["']${popupId}["'][^>]*>([\\s\\S]*?)<\\/div>`,
     "i"
   );
 
   const found = fullHtml.match(regex);
-
   if (!found) return "";
 
-  let html = found[1];
-
-  html = html.replace(/<br\s*\/?>/gi, "\n");
-
-  let text = html.replace(/<[^>]+>/g, "");
-
-  return text
-    .replace(/\n{3,}/g, "\n\n")
-    .trim();
+  return cleanHtmlText(found[1]);
 }
+
 /* Extract meeting time */
 function extractMeetingTime(text) {
   const match = text.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
@@ -163,8 +154,8 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    // 🔥 ONLY popup-based info
-    const info = extractPopupInfo(row, $);
+    // 🔥 FIX: pass html here
+    const info = extractPopupInfo(row, $, html);
     const meetingTime = extractMeetingTime(info);
 
     events.push({
@@ -179,7 +170,7 @@ async function fetchMonth(month, year, monthName) {
       opponent: cleanOpponent,
       homeAway: isHome ? "hemma" : isAway ? "borta" : "",
       meetingTime,
-      info // empty if no "(..)"
+      info
     });
   });
 
