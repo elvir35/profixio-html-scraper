@@ -74,8 +74,11 @@ function cleanHtmlText(html) {
 
 /* 🔥 ONLY source of info (popup) */
 function extractPopupInfo(row, $) {
-  const popupLink = row.find("a.kal").filter((_, el) => {
-    return ($(el).attr("onmouseover") || "").includes("sCal");
+  // 🔒 ONLY direct children in THIS row
+  const popupLink = row.find("td a.kal").filter((_, el) => {
+    const onmouseover = $(el).attr("onmouseover") || "";
+
+    return onmouseover.includes("sCal");
   });
 
   // ❗ No "(..)" → NO INFO
@@ -88,10 +91,7 @@ function extractPopupInfo(row, $) {
 
   const popupId = match[1];
 
-  let popupDiv = $("#" + popupId);
-  if (!popupDiv.length) {
-    popupDiv = $(`[id="${popupId}"]`);
-  }
+  const popupDiv = $("#" + popupId);
 
   if (!popupDiv.length) return "";
 
@@ -99,13 +99,25 @@ function extractPopupInfo(row, $) {
 
   html = html.replace(/<br\s*\/?>/gi, "\n");
 
-  let text = html.replace(/<[^>]+>/g, "");
+ let text = html.replace(/<[^>]+>/g, "");
 
-  return text
-    .replace(/\n{3,}/g, "\n\n")
-    .trim();
+text = text
+  .replace(/\n{3,}/g, "\n\n")
+  .trim();
+
+// 🚨 CRITICAL: validate against THIS row
+const rowText = row.text().toLowerCase();
+
+// Extract team/location part (before "»")
+const rowMain = rowText.split("»")[0].trim();
+
+// If popup text does NOT relate → discard
+if (!text.toLowerCase().includes(rowMain)) {
+  return "";
 }
 
+return text;
+}
 /* Extract meeting time */
 function extractMeetingTime(text) {
   const match = text.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
