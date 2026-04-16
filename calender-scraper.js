@@ -162,7 +162,7 @@ async function fetchMonth(month, year, monthName) {
     // 🔥 ONLY popup-based info
     const info = extractPopupInfo(row, $);
     const meetingTime = extractMeetingTime(info);
-
+    
     const event = {
   date: `${currentDay} ${currentDate}`,
   month: monthName,
@@ -181,21 +181,7 @@ async function fetchMonth(month, year, monthName) {
 // 🔥 DEBUG LINE
 event.debug = "test";
 
-    
-    events.push({
-      date: `${currentDay} ${currentDate}`,
-      month: monthName,
-      startTime,
-      endTime,
-      team,
-      location,
-      type,
-      title,
-      opponent: cleanOpponent,
-      homeAway: isHome ? "hemma" : isAway ? "borta" : "",
-      meetingTime,
-      info // empty if no "(..)"
-    });
+events.push(event);
   });
 
   return events;
