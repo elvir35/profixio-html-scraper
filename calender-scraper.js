@@ -64,7 +64,7 @@ function getType(row) {
 }
 
 /* 🔥 FINAL FIX: Extract info using popup ID */
-function extractExtraInfo(row, $, hasPopup) {
+function extractExtraInfo(row, $, html, hasPopup) {
   let meetingTime = "";
   let info = "";
 
@@ -80,34 +80,34 @@ function extractExtraInfo(row, $, hasPopup) {
 
   const popupId = match[1];
 
-  // 🔥 Find correct popup inside same row
-  const popup = row.find(`#${popupId} .calAkt2`);
+  // 🔥 CRITICAL: search in FULL HTML (not row)
+  const regex = new RegExp(
+    `<div[^>]*id=["']${popupId}["'][^>]*>([\\s\\S]*?)<\\/div>`,
+    "i"
+  );
 
-  if (!popup.length) return { meetingTime, info };
+  const found = html.match(regex);
 
-  // --- Extract Samling ---
-  const meetingText = popup
-    .find("div")
-    .filter((_, el) => $(el).text().includes("Samling"))
-    .first()
-    .text()
+  if (!found) return { meetingTime, info };
+
+  const popupHtml = found[1];
+
+  // --- Convert HTML → text ---
+  let text = popupHtml
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<[^>]+>/g, "")
     .trim();
 
-  if (meetingText) {
-    const m = meetingText.match(/Samling[: ]+(\d{1,2}:\d{2})/);
-    if (m) meetingTime = m[1];
+  // --- Extract Samling ---
+  const meetingMatch = text.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
+  if (meetingMatch) {
+    meetingTime = meetingMatch[1];
   }
 
-  // --- Extract info ---
-  const infoBlocks = popup.find("div").filter((_, el) => {
-    const text = $(el).text().trim();
-    return text && !text.includes("Samling");
-  });
-
-  info = infoBlocks
-    .map((_, el) => $(el).text().trim())
-    .get()
-    .join("\n");
+  // --- Clean info ---
+  info = text
+    .replace(/Samling[: ]+\d{1,2}:\d{2}/i, "")
+    .trim();
 
   return { meetingTime, info };
 }
