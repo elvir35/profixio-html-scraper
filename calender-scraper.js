@@ -46,12 +46,9 @@ function parseTitle(title) {
   if (!title) return { opponent: "", location: "", title: "" };
 
   const parts = title.split(",");
-  const opponent = parts[0]?.trim() || "";
-  const location = parts[1]?.trim() || "";
-
   return {
-    opponent,
-    location,
+    opponent: parts[0]?.trim() || "",
+    location: parts[1]?.trim() || "",
     title: ""
   };
 }
@@ -63,63 +60,30 @@ function getType(row) {
   return "";
 }
 
-/* 🔥 FINAL FIX: Extract info using popup ID */
-function extractExtraInfo(row, $, hasPopup) {
+/* 🔥 FINAL FIX: AID-based popup matching */
+function extractExtraInfoByAID($, eventAID) {
   let meetingTime = "";
   let info = "";
 
-  if (!hasPopup) return { meetingTime, info };
+  if (!eventAID) return { meetingTime, info };
 
-  const popupLink = row.find("a.kal[onmouseover*='sCal']").first();
-  const onmouseover = popupLink.attr("onmouseover");
+  // 🔥 Find popup that contains SAME AID
+  const popup = $("div.calAkt1").filter((_, el) => {
+    const html = $(el).html() || "";
+    return html.includes(`AID=${eventAID}`);
+  }).first();
 
-  if (!onmouseover) return { meetingTime, info };
-
-  const match = onmouseover.match(/sCal\('([^']+)'/);
-  if (!match) return { meetingTime, info };
-
-  const popupId = match[1];
-
-  // 🔥 Find ALL popups in row
-  const popups = row.find(".calAkt1");
-
-  let correctPopup = null;
-
-  popups.each((_, el) => {
-    const id = $(el).attr("id");
-    if (id === popupId) {
-      correctPopup = $(el);
-    }
-  });
-
-  if (!correctPopup) return { meetingTime, info };
-
-  const popup = correctPopup.find(".calAkt2");
   if (!popup.length) return { meetingTime, info };
 
-  // --- Samling ---
-  const meetingText = popup
-    .find("div")
-    .filter((_, el) => $(el).text().includes("Samling"))
-    .first()
-    .text()
+  const text = popup.text().trim();
+
+  const m = text.match(/Samling[: ]+(\d{1,2}:\d{2})/);
+  if (m) meetingTime = m[1];
+
+  info = text
+    .replace(/Samling[: ]+\d{1,2}:\d{2}/i, "")
+    .replace(/\n{2,}/g, "\n")
     .trim();
-
-  if (meetingText) {
-    const m = meetingText.match(/Samling[: ]+(\d{1,2}:\d{2})/);
-    if (m) meetingTime = m[1];
-  }
-
-  // --- Info ---
-  const infoBlocks = popup.find("div").filter((_, el) => {
-    const text = $(el).text().trim();
-    return text && !text.includes("Samling");
-  });
-
-  info = infoBlocks
-    .map((_, el) => $(el).text().trim())
-    .get()
-    .join("\n");
 
   return { meetingTime, info };
 }
@@ -154,9 +118,16 @@ async function fetchMonth(month, year, monthName) {
 
     const timeText = row.find("span").text().trim();
     const team = row.find("a").first().text().trim();
-    const rawTitle = row.find("a.kal").first().text().trim();
+    const kalLink = row.find("a.kal").first();
+
+    const rawTitle = kalLink.text().trim();
+    const href = kalLink.attr("href") || "";
 
     if (!team || !rawTitle) return;
+
+    // 🔥 Extract AID
+    const aidMatch = href.match(/AID=(\d+)/);
+    const eventAID = aidMatch ? aidMatch[1] : null;
 
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
@@ -174,10 +145,8 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    // 🔥 Only extract if popup exists
-    const hasPopup = row.find("a.kal[onmouseover*='sCal']").length > 0;
-
-    const { meetingTime, info } = extractExtraInfo(row, $, hasPopup);
+    // 🔥 NEW: AID-based extraction (no more row bugs)
+    const { meetingTime, info } = extractExtraInfoByAID($, eventAID);
 
     events.push({
       date: `${currentDay} ${currentDate}`,
