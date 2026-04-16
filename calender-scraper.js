@@ -73,50 +73,39 @@ function cleanHtmlText(html) {
 }
 
 /* 🔥 ONLY source of info (popup) */
-function extractPopupInfo(row, $) {
-  // 🔒 ONLY direct children in THIS row
-  const popupLink = row.find("td a.kal").filter((_, el) => {
-    const onmouseover = $(el).attr("onmouseover") || "";
-
-    return onmouseover.includes("sCal");
+function extractPopupInfo(row, $, fullHtml) {
+  const popupLink = row.find("a.kal").filter((_, el) => {
+    return ($(el).attr("onmouseover") || "").includes("sCal");
   });
 
-  // ❗ No "(..)" → NO INFO
   if (!popupLink.length) return "";
 
   const onmouseover = popupLink.attr("onmouseover");
-
   const match = onmouseover.match(/sCal\('([^']+)'/);
+
   if (!match) return "";
 
   const popupId = match[1];
 
-  const popupDiv = $("#" + popupId);
+  // 🔥 SEARCH RAW HTML instead of DOM
+  const regex = new RegExp(
+    `<div[^>]*id=["']${popupId}["'][^>]*>([\\s\\S]*?)<\\/div>`,
+    "i"
+  );
 
-  if (!popupDiv.length) return "";
+  const found = fullHtml.match(regex);
 
-  let html = popupDiv.html() || "";
+  if (!found) return "";
+
+  let html = found[1];
 
   html = html.replace(/<br\s*\/?>/gi, "\n");
 
- let text = html.replace(/<[^>]+>/g, "");
+  let text = html.replace(/<[^>]+>/g, "");
 
-text = text
-  .replace(/\n{3,}/g, "\n\n")
-  .trim();
-
-// 🚨 CRITICAL: validate against THIS row
-const rowText = row.text().toLowerCase();
-
-// Extract team/location part (before "»")
-const rowMain = rowText.split("»")[0].trim();
-
-// If popup text does NOT relate → discard
-if (!text.toLowerCase().includes(rowMain)) {
-  return "";
-}
-
-return text;
+  return text
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
 }
 /* Extract meeting time */
 function extractMeetingTime(text) {
