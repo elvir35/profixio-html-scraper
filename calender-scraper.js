@@ -81,7 +81,12 @@ function extractPopupInfo(row, $, fullHtml) {
   if (!popupLink.length) return "";
 
   const onmouseover = popupLink.attr("onmouseover");
-  const match = onmouseover.match(/sCal\('([^']+)'/);
+
+if (!onmouseover) return "";
+
+const match = onmouseover.match(/sCal\('([^']+)'/);
+
+if (!match) return "";
 
   if (!match) return "";
 
