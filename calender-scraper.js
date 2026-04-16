@@ -79,34 +79,24 @@ function extractDetails(row, $, opponent, location) {
     .get()
     .filter(Boolean);
 
-  const fullText = textBlocks.join("\n");
-
   // Extract meeting time
+  const fullText = textBlocks.join("\n");
   const match = fullText.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
   if (match) meetingTime = match[1];
 
-  // 🔥 STRICT MATCHING (prevents wrong team mapping)
-  const filtered = textBlocks.filter(t => {
-  const lower = t.toLowerCase();
+  // 🔥 ONLY take FIRST relevant line
+  for (const t of textBlocks) {
+    const lower = t.toLowerCase();
 
-  const matchesOpponent =
-    opponent && lower.includes(opponent.toLowerCase());
-
-  const matchesLocation =
-    location && lower.includes(location.toLowerCase());
-
-  const looksLikeRealInfo =
-    lower.includes("träning") ||
-    lower.includes("samling") ||
-    lower.includes("cup") ||
-    lower.includes("match") ||
-    lower.includes("hallen") ||
-    lower.includes("arena");
-
-  return matchesOpponent || matchesLocation || looksLikeRealInfo;
-});
-
-  info = filtered.join("\n").trim();
+    if (
+      (opponent && lower.includes(opponent.toLowerCase())) ||
+      (location && lower.includes(location.toLowerCase())) ||
+      lower.includes("träning")
+    ) {
+      info = t; // 👈 ONLY ONE LINE
+      break;
+    }
+  }
 
   return { meetingTime, info };
 }
