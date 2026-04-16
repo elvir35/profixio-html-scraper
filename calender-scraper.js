@@ -82,10 +82,18 @@ function extractPopupInfo(row, $) {
   if (!popupDiv.length) return "";
 
   // Clean text
-  let text = popupDiv.text().trim();
+  let html = popupDiv.html() || "";
 
-  // Normalize spacing
-  text = text.replace(/\n{2,}/g, "\n").trim();
+// Convert <br> to line breaks
+html = html.replace(/<br\s*\/?>/gi, "\n");
+
+// Remove all other HTML tags
+let text = html.replace(/<[^>]+>/g, "");
+
+// Clean up spacing
+text = text
+  .replace(/\n{2,}/g, "\n")
+  .trim();
 
   return text;
 }
