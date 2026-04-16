@@ -74,14 +74,16 @@ function cleanHtmlText(html) {
 
 /* 🔥 ONLY source of info (popup) */
 function extractPopupInfo(row, $) {
-  const link = row.find("a.kal[onmouseover*='sCal']");
+  const popupLink = row.find("a.kal").filter((_, el) => {
+    return ($(el).attr("onmouseover") || "").includes("sCal");
+  });
 
-  // ❗ If no "(..)" → NO INFO
-  if (!link.length) return "";
+  // ❗ No "(..)" → NO INFO
+  if (!popupLink.length) return "";
 
-  const onmouseover = link.attr("onmouseover");
+  const onmouseover = popupLink.attr("onmouseover");
+
   const match = onmouseover.match(/sCal\('([^']+)'/);
-
   if (!match) return "";
 
   const popupId = match[1];
@@ -93,8 +95,15 @@ function extractPopupInfo(row, $) {
 
   if (!popupDiv.length) return "";
 
-  const html = popupDiv.html();
-  return cleanHtmlText(html);
+  let html = popupDiv.html() || "";
+
+  html = html.replace(/<br\s*\/?>/gi, "\n");
+
+  let text = html.replace(/<[^>]+>/g, "");
+
+  return text
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
 }
 
 /* Extract meeting time */
