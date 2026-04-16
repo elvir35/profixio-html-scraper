@@ -1,205 +1,37 @@
-import axios from "axios";
-import * as cheerio from "cheerio";
-import fs from "fs";
+function extractExtraInfo(row, $) {
+  let meetingTime = "";
+  let info = "";
 
-const BASE_URL = "https://h43lund.web.sportadmin.se/kalender/ajaxKalender.asp";
-const CALENDAR_ID = 331251;
+  // Find hidden detail block
+  const details = row.find(".calAkt2");
 
-const MONTH_NAMES = [
-  "Januari","Februari","Mars","April","Maj","Juni",
-  "Juli","Augusti","September","Oktober","November","December"
-];
+  if (!details.length) return { meetingTime, info };
 
-function getCurrentMonth() {
-  const now = new Date();
-  return {
-    month: now.getMonth() + 1,
-    year: now.getFullYear(),
-    monthName: MONTH_NAMES[now.getMonth()]
-  };
-}
-
-function parseTime(timeText) {
-  if (!timeText) return { startTime: "", endTime: "" };
-
-  let clean = timeText.replace(/\s+/g, " ").trim();
-  clean = clean.replace("Flera dagar", "").trim();
-
-  const match = clean.match(/\d{2}:\d{2}(\s*-\s*\d{2}:\d{2})?/);
-  if (!match) return { startTime: "", endTime: "" };
-
-  const value = match[0];
-
-  if (value.includes("-")) {
-    const [start, end] = value.split("-");
-    return {
-      startTime: start.trim(),
-      endTime: end.trim()
-    };
-  }
-
-  return { startTime: value.trim(), endTime: "" };
-}
-
-function parseTitle(title) {
-  if (!title) return { opponent: "", location: "", title: "" };
-
-  const parts = title.split(",");
-  return {
-    opponent: parts[0]?.trim() || "",
-    location: parts[1]?.trim() || "",
-    title: ""
-  };
-}
-
-function getType(row) {
-  if (row.find(".calBox1").length) return "Träning";
-  if (row.find(".calBox2").length) return "Match";
-  if (row.find(".calBox3").length) return "Övrigt";
-  return "";
-}
-
-function cleanHtmlText(html) {
-  if (!html) return "";
-
-  html = html.replace(/<br\s*\/?>/gi, "\n");
-  let text = html.replace(/<[^>]+>/g, "");
-
-  return text
-    .replace(/\n{3,}/g, "\n\n")
+  // 🔍 Extract meeting time
+  const meetingText = details
+    .find("div")
+    .filter((_, el) => $(el).text().includes("Samling"))
+    .first()
+    .text()
     .trim();
-}
 
-/* 🔥 NEW: Fetch popup via AID */
-async function extractPopupInfo(row, $) {
-  const link = row.find("a.kal[href*='AID']").first();
-
-  if (!link.length) return "";
-
-  const href = link.attr("href");
-  if (!href) return "";
-
-  const match = href.match(/AID=(\d+)/);
-  if (!match) return "";
-
-  const aid = match[1];
-
-  try {
-    const url = `https://h43lund.web.sportadmin.se/kalender/ajaxAktivitet.asp?AID=${aid}`;
-
-    const { data } = await axios.get(url);
-
-    const $popup = cheerio.load(data);
-
-    const html = $popup("div").first().html();
-
-    return cleanHtmlText(html);
-
-  } catch (err) {
-    return "";
-  }
-}
-
-function extractMeetingTime(text) {
-  const match = text.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
-  return match ? match[1] : "";
-}
-
-async function fetchMonth(month, year, monthName) {
-  const url = `${BASE_URL}?ID=${CALENDAR_ID}&manad=${month}&ar=${year}`;
-  console.log("Fetching:", url);
-
-  const { data } = await axios.get(url, { responseType: "arraybuffer" });
-  const html = Buffer.from(data).toString("latin1");
-
-  const $ = cheerio.load(html);
-
-  const events = [];
-
-  let currentDate = "";
-  let currentDay = "";
-
-  const rows = $("table.mCal tr").toArray();
-
-  for (const el of rows) {
-    const row = $(el);
-
-    const dateCell = row.find("b").first().text().trim();
-    const dayCell = row.find("font").first().text().trim();
-
-    if (dateCell && /^\d{1,2}$/.test(dateCell)) {
-      currentDate = dateCell;
-      currentDay = dayCell;
+  if (meetingText) {
+    const match = meetingText.match(/Samling:\s*(\d{2}:\d{2})/);
+    if (match) {
+      meetingTime = match[1];
     }
-
-    const timeText = row.find("span").text().trim();
-    const team = row.find("a").first().text().trim();
-    const rawTitle = row.find("a.kal").first().text().trim();
-
-    if (!team || !rawTitle) continue;
-
-    const { startTime, endTime } = parseTime(timeText);
-    const { opponent, location, title } = parseTitle(rawTitle);
-
-    const isHome = /hemma/i.test(opponent);
-    const isAway = /borta/i.test(opponent);
-
-    let cleanOpponent = opponent
-      .replace(/\s+(hemma|borta)$/i, "")
-      .trim();
-
-    if (/träning/i.test(cleanOpponent)) {
-      cleanOpponent = "";
-    }
-
-    const type = getType(row);
-
-    // 🔥 ASYNC popup fetch
-    const info = await extractPopupInfo(row, $);
-    const meetingTime = extractMeetingTime(info);
-
-    events.push({
-      date: `${currentDay} ${currentDate}`,
-      month: monthName,
-      startTime,
-      endTime,
-      team,
-      location,
-      type,
-      title,
-      opponent: cleanOpponent,
-      homeAway: isHome ? "hemma" : isAway ? "borta" : "",
-      meetingTime,
-      info
-    });
   }
 
-  return events;
+  // 🔍 Extract extra info (exclude "Samling")
+  const infoBlocks = details.find("div").filter((_, el) => {
+    const text = $(el).text().trim();
+    return text && !text.includes("Samling");
+  });
+
+  info = infoBlocks
+    .map((_, el) => $(el).text().trim())
+    .get()
+    .join(" ");
+
+  return { meetingTime, info };
 }
-
-(async () => {
-  try {
-    const { month, year, monthName } = getCurrentMonth();
-
-    const events = await fetchMonth(month, year, monthName);
-
-    const seen = new Set();
-    const unique = events.filter(e => {
-      const key = `${e.date}-${e.startTime}-${e.team}-${e.opponent}-${e.location}`;
-      if (seen.has(key)) return false;
-      seen.add(key);
-      return true;
-    });
-
-    fs.writeFileSync(
-      "calendar.json",
-      JSON.stringify(unique, null, 2),
-      "utf-8"
-    );
-
-    console.log("✅ Done. Events:", unique.length);
-
-  } catch (err) {
-    console.error(err);
-  }
-})();
