@@ -27,14 +27,19 @@ jobs:
       - name: Run calendar scraper
         run: npm run scrape:calendar
 
-      - name: Commit and push calendar.json
+      # 🔍 Debug: verify files exist
+      - name: List files
+        run: ls -la
+
+      - name: Commit and push calendar + debug HTML
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
       
           git add calendar.json
+          git add debug.html
       
           # Always commit (even if no changes)
-          git commit -m "🤖 Update calendar data" --allow-empty
+          git commit -m "🤖 Update calendar data + debug HTML" --allow-empty
       
           git push
