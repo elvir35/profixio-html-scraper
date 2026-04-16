@@ -91,9 +91,7 @@ html = html.replace(/<br\s*\/?>/gi, "\n");
 let text = html.replace(/<[^>]+>/g, "");
 
 // Clean up spacing
-text = text
-  .replace(/\n{2,}/g, "\n")
-  .trim();
+text = text.replace(/\n/g, "\n\n");
 
   return text;
 }
