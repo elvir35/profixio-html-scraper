@@ -64,7 +64,7 @@ function getType(row) {
   return "";
 }
 
-/* 🔥 NEW: Extract Samling + extra info */
+/* Extract Samling + extra info */
 function extractExtraInfo(row, $) {
   let meetingTime = "";
   let info = "";
@@ -73,7 +73,7 @@ function extractExtraInfo(row, $) {
 
   if (!details.length) return { meetingTime, info };
 
-  // Extract Samlingstid
+  // Samlingstid
   const meetingText = details
     .find("div")
     .filter((_, el) => $(el).text().includes("Samling"))
@@ -88,7 +88,7 @@ function extractExtraInfo(row, $) {
     }
   }
 
-  // Extract other info (exclude Samling)
+  // Other info
   const infoBlocks = details.find("div").filter((_, el) => {
     const text = $(el).text().trim();
     return text && !text.includes("Samling");
@@ -136,9 +136,6 @@ async function fetchMonth(month, year, monthName) {
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
 
-    // 🔥 NEW extraction
-    const { meetingTime, info } = extractExtraInfo(row, $);
-
     const isHome = /hemma/i.test(opponent);
     const isAway = /borta/i.test(opponent);
 
@@ -152,6 +149,18 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
+    // 🔥 CRITICAL FIX: only extract if popup exists
+    const hasPopup = row.find("a.kal[onmouseover*='sCal']").length > 0;
+
+    let meetingTime = "";
+    let info = "";
+
+    if (hasPopup) {
+      const extracted = extractExtraInfo(row, $);
+      meetingTime = extracted.meetingTime;
+      info = extracted.info;
+    }
+
     events.push({
       date: `${currentDay} ${currentDate}`,
       month: monthName,
@@ -163,8 +172,6 @@ async function fetchMonth(month, year, monthName) {
       title,
       opponent: cleanOpponent,
       homeAway: isHome ? "hemma" : isAway ? "borta" : "",
-
-      // ✅ NEW FIELDS
       meetingTime,
       info
     });
