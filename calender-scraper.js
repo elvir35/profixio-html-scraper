@@ -111,7 +111,7 @@ async function fetchMonth(month, year, monthName) {
 
   const { data } = await axios.get(url, { responseType: "arraybuffer" });
   const html = Buffer.from(data).toString("latin1");
-
+  fs.writeFileSync("debug.html", html, "utf-8");
   const $ = cheerio.load(html);
 
   const events = [];
