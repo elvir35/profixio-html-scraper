@@ -11,7 +11,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Vipeholmshallen"
+    "info": "Träning, Vipeholmshallen",
+    "debug": "test"
   },
   {
     "date": "ons 01",
@@ -25,7 +26,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Vipeholmshallen"
+    "info": "Träning, Vipeholmshallen",
+    "debug": "test"
   },
   {
     "date": "ons 01",
@@ -39,7 +41,8 @@
     "opponent": "Lugi HF 2 F10",
     "homeAway": "borta",
     "meetingTime": "16:45",
-    "info": "Lugi HF 2 F10 borta, Sparbanken Skåne Arena A (Flickor - F16 Syd)Samling: 16:45"
+    "info": "Lugi HF 2 F10 borta, Sparbanken Skåne Arena A (Flickor - F16 Syd)Samling: 16:45",
+    "debug": "test"
   },
   {
     "date": "ons 01",
@@ -53,7 +56,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 01",
@@ -67,7 +71,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion"
+    "info": "Träning, Victoriastadion",
+    "debug": "test"
   },
   {
     "date": "ons 01",
@@ -81,7 +86,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 01",
@@ -95,7 +101,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder."
+    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder.",
+    "debug": "test"
   },
   {
     "date": "ons 01",
@@ -109,7 +116,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 01",
@@ -123,7 +131,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset A"
+    "info": "Träning, Bollhuset A",
+    "debug": "test"
   },
   {
     "date": "tor 02",
@@ -137,7 +146,8 @@
     "opponent": "Prag handbolls cup",
     "homeAway": "borta",
     "meetingTime": "",
-    "info": "Prag handbolls cup borta, Prag ()Vi planerar att åka på cup i Prag över påskhelgen 2026. (Intresseanmälan)\n\nDatum 2-6 april\n\nKostnad: ca 6000-7500kr innan sponsring från lagkassan.\n\nhttps://www.phc.cz/en/tournament\n\n \nMvh\nTränarna"
+    "info": "Prag handbolls cup borta, Prag ()Vi planerar att åka på cup i Prag över påskhelgen 2026. (Intresseanmälan)\n\nDatum 2-6 april\n\nKostnad: ca 6000-7500kr innan sponsring från lagkassan.\n\nhttps://www.phc.cz/en/tournament\n\n \nMvh\nTränarna",
+    "debug": "test"
   },
   {
     "date": "tor 02",
@@ -151,7 +161,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska."
+    "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska.",
+    "debug": "test"
   },
   {
     "date": "tor 02",
@@ -165,7 +176,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tor 02",
@@ -179,7 +191,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "fre 03",
@@ -193,7 +206,8 @@
     "opponent": "Prag",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tunahallen"
+    "info": "Träning, Tunahallen",
+    "debug": "test"
   },
   {
     "date": "fre 03",
@@ -207,7 +221,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tunahallen"
+    "info": "Träning, Tunahallen",
+    "debug": "test"
   },
   {
     "date": "lör 04",
@@ -221,7 +236,8 @@
     "opponent": "Prag",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 05",
@@ -235,7 +251,8 @@
     "opponent": "Övrigt",
     "homeAway": "",
     "meetingTime": "08:00",
-    "info": "Påskacupen borta, Korsbackahallen, Kävlinge ()Samling: 08:00Hej allihopa!\n\nPåskacupen i Kävlinge söndagen den 5 april (Påskdagen). Vi har nu två lag anmälda.Varje lag spelar fyra matcher vardera. Matchlängd 1x17 minuter. \n \nAnmälningsavgift per spelare kommer bli ca. 150 kr. \n\nSamling i Korsbackahallen, Kävlinge kl. 08.00. Båda lagen är färdigspelade strax efter kl. 12. Kom matchklädd, ta med boll!\n \nMVH/ Tränarna"
+    "info": "Påskacupen borta, Korsbackahallen, Kävlinge ()Samling: 08:00Hej allihopa!\n\nPåskacupen i Kävlinge söndagen den 5 april (Påskdagen). Vi har nu två lag anmälda.Varje lag spelar fyra matcher vardera. Matchlängd 1x17 minuter. \n \nAnmälningsavgift per spelare kommer bli ca. 150 kr. \n\nSamling i Korsbackahallen, Kävlinge kl. 08.00. Båda lagen är färdigspelade strax efter kl. 12. Kom matchklädd, ta med boll!\n \nMVH/ Tränarna",
+    "debug": "test"
   },
   {
     "date": "sön 05",
@@ -249,7 +266,8 @@
     "opponent": "Påskacupen",
     "homeAway": "borta",
     "meetingTime": "08:00",
-    "info": "Påskacupen borta, Korsbackahallen, Kävlinge ()Samling: 08:00Hej allihopa!\n\nPåskacupen i Kävlinge söndagen den 5 april (Påskdagen). Vi har nu två lag anmälda.Varje lag spelar fyra matcher vardera. Matchlängd 1x17 minuter. \n \nAnmälningsavgift per spelare kommer bli ca. 150 kr. \n\nSamling i Korsbackahallen, Kävlinge kl. 08.00. Båda lagen är färdigspelade strax efter kl. 12. Kom matchklädd, ta med boll!\n \nMVH/ Tränarna"
+    "info": "Påskacupen borta, Korsbackahallen, Kävlinge ()Samling: 08:00Hej allihopa!\n\nPåskacupen i Kävlinge söndagen den 5 april (Påskdagen). Vi har nu två lag anmälda.Varje lag spelar fyra matcher vardera. Matchlängd 1x17 minuter. \n \nAnmälningsavgift per spelare kommer bli ca. 150 kr. \n\nSamling i Korsbackahallen, Kävlinge kl. 08.00. Båda lagen är färdigspelade strax efter kl. 12. Kom matchklädd, ta med boll!\n \nMVH/ Tränarna",
+    "debug": "test"
   },
   {
     "date": "sön 05",
@@ -263,7 +281,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 05",
@@ -277,7 +296,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 05",
@@ -291,7 +311,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 06",
@@ -305,7 +326,8 @@
     "opponent": "Prag",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Frivillig styrketräning, Nordic Wellness"
+    "info": "Frivillig styrketräning, Nordic Wellness",
+    "debug": "test"
   },
   {
     "date": "mån 06",
@@ -319,7 +341,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Frivillig styrketräning, Nordic Wellness"
+    "info": "Frivillig styrketräning, Nordic Wellness",
+    "debug": "test"
   },
   {
     "date": "mån 06",
@@ -333,7 +356,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 06",
@@ -347,7 +371,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, PrästängshallenTräning"
+    "info": "Träning, PrästängshallenTräning",
+    "debug": "test"
   },
   {
     "date": "mån 06",
@@ -361,7 +386,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion plan 2"
+    "info": "Träning, Victoriastadion plan 2",
+    "debug": "test"
   },
   {
     "date": "mån 06",
@@ -375,7 +401,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset"
+    "info": "Träning, Bollhuset",
+    "debug": "test"
   },
   {
     "date": "tis 07",
@@ -389,7 +416,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Vipeholmshallen"
+    "info": "Träning, Vipeholmshallen",
+    "debug": "test"
   },
   {
     "date": "tis 07",
@@ -403,7 +431,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 07",
@@ -417,7 +446,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll."
+    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll.",
+    "debug": "test"
   },
   {
     "date": "tis 07",
@@ -431,7 +461,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 07",
@@ -445,7 +476,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 07",
@@ -459,7 +491,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning H43 P2015, Östratornhallen"
+    "info": "Träning H43 P2015, Östratornhallen",
+    "debug": "test"
   },
   {
     "date": "tis 07",
@@ -473,7 +506,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -487,7 +521,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan AAlltid joggingskor"
+    "info": "Träning, Arenan AAlltid joggingskor",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -501,7 +536,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan AAlltid joggingskor"
+    "info": "Träning, Arenan AAlltid joggingskor",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -515,7 +551,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
+    "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor.",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -529,7 +566,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -543,7 +581,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -557,7 +596,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder."
+    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder.",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -571,7 +611,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset ATräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll."
+    "info": "Träning, Bollhuset ATräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -585,7 +626,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Gunnesbohallen"
+    "info": "Träning, Gunnesbohallen",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -599,7 +641,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 08",
@@ -613,7 +656,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset A"
+    "info": "Träning, Bollhuset A",
+    "debug": "test"
   },
   {
     "date": "tor 09",
@@ -627,7 +671,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Beachhandbollsplan Östra TornVi övar på beachhandboll! Ta med oömma kläder och strumpor, kläder efter väder."
+    "info": "Träning, Beachhandbollsplan Östra TornVi övar på beachhandboll! Ta med oömma kläder och strumpor, kläder efter väder.",
+    "debug": "test"
   },
   {
     "date": "tor 09",
@@ -641,7 +686,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tor 09",
@@ -655,7 +701,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Uteträning , VictoriastadionVi tränar ute i dag.\n\nKläder efter väder &amp; löpskor på fötterna.\n\nSamling utanför Victoriastadion. \n\nSom vanligt på träning är det bara att dyka upp - inget svar på kallelsen behövs."
+    "info": "Uteträning , VictoriastadionVi tränar ute i dag.\n\nKläder efter väder &amp; löpskor på fötterna.\n\nSamling utanför Victoriastadion. \n\nSom vanligt på träning är det bara att dyka upp - inget svar på kallelsen behövs.",
+    "debug": "test"
   },
   {
     "date": "tor 09",
@@ -669,7 +716,8 @@
     "opponent": "Löpning + Hall",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Löpning + Hall, Heddahallen"
+    "info": "Löpning + Hall, Heddahallen",
+    "debug": "test"
   },
   {
     "date": "tor 09",
@@ -683,7 +731,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, TunahallenAlltid joggingskor med"
+    "info": "Träning, TunahallenAlltid joggingskor med",
+    "debug": "test"
   },
   {
     "date": "tor 09",
@@ -697,7 +746,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan BUte+inne"
+    "info": "Träning, Arenan BUte+inne",
+    "debug": "test"
   },
   {
     "date": "tor 09",
@@ -711,7 +761,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "fre 10",
@@ -725,7 +776,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "16:15",
-    "info": "Lugi HF 3 hemma, Tunahallen-Handboll (Pojkar - P19 Syd)Samling: 16:15"
+    "info": "Lugi HF 3 hemma, Tunahallen-Handboll (Pojkar - P19 Syd)Samling: 16:15",
+    "debug": "test"
   },
   {
     "date": "fre 10",
@@ -739,7 +791,8 @@
     "opponent": "Lugi HF 3",
     "homeAway": "hemma",
     "meetingTime": "16:15",
-    "info": "Lugi HF 3 hemma, Tunahallen-Handboll (Pojkar - P19 Syd)Samling: 16:15"
+    "info": "Lugi HF 3 hemma, Tunahallen-Handboll (Pojkar - P19 Syd)Samling: 16:15",
+    "debug": "test"
   },
   {
     "date": "fre 10",
@@ -753,7 +806,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tornhallen, Stångby"
+    "info": "Träning, Tornhallen, Stångby",
+    "debug": "test"
   },
   {
     "date": "fre 10",
@@ -767,7 +821,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tunahallen"
+    "info": "Träning, Tunahallen",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -781,7 +836,8 @@
     "opponent": "Lågan Cup",
     "homeAway": "borta",
     "meetingTime": "08:05",
-    "info": "Lågan Cup borta, Lågehallarna, Hörby ()Samling: 08:05Hej allihopa! \n \nLågan Cup i Hörby lördagen den 11 april. Vi har två lag anmälda. Varje spelar fyra matcher vardera. Matchlängd 1x20 minuter. \n \nAnmälningsavgift per spelare kommer bli ca. 150 kr. \n\nSamling i Lågehallarna, Hörby kl. 08.05. Båda lagen är färdigspelade strax efter kl. 15. Kom matchklädd, ta med boll!\n \nMVH/ Tränarna"
+    "info": "Lågan Cup borta, Lågehallarna, Hörby ()Samling: 08:05Hej allihopa! \n \nLågan Cup i Hörby lördagen den 11 april. Vi har två lag anmälda. Varje spelar fyra matcher vardera. Matchlängd 1x20 minuter. \n \nAnmälningsavgift per spelare kommer bli ca. 150 kr. \n\nSamling i Lågehallarna, Hörby kl. 08.05. Båda lagen är färdigspelade strax efter kl. 15. Kom matchklädd, ta med boll!\n \nMVH/ Tränarna",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -795,7 +851,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -809,7 +866,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -823,7 +881,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -837,7 +896,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -851,7 +911,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -865,7 +926,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -879,7 +941,8 @@
     "opponent": "OV Helsingborg HK 1",
     "homeAway": "hemma",
     "meetingTime": "10:25",
-    "info": "OV Helsingborg HK 1 hemma, Sparbanken Skåne Arena A (Pojkar - P14 Syd nivå 1 Gul)Samling: 10:25Svara på kallelsen även om du inte kan komma och senast angiven tid.\n\nKom i tid till match och medtags matchkläder, skor och vattenflaska.\n\nHälsar, tränarna"
+    "info": "OV Helsingborg HK 1 hemma, Sparbanken Skåne Arena A (Pojkar - P14 Syd nivå 1 Gul)Samling: 10:25Svara på kallelsen även om du inte kan komma och senast angiven tid.\n\nKom i tid till match och medtags matchkläder, skor och vattenflaska.\n\nHälsar, tränarna",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -893,7 +956,8 @@
     "opponent": "Ystads IF",
     "homeAway": "borta",
     "meetingTime": "12:00",
-    "info": "Ystads IF borta, Ystad Arena B ()Samling: 12:00"
+    "info": "Ystads IF borta, Ystad Arena B ()Samling: 12:00",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -907,7 +971,8 @@
     "opponent": "IFK Kristianstad Blå",
     "homeAway": "hemma",
     "meetingTime": "13:00",
-    "info": "IFK Kristianstad Blå hemma, Sparbanken Skåne Arena B (Flickor - F16 Syd)Samling: 13:00"
+    "info": "IFK Kristianstad Blå hemma, Sparbanken Skåne Arena B (Flickor - F16 Syd)Samling: 13:00",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -921,7 +986,8 @@
     "opponent": "HK Ankaret",
     "homeAway": "borta",
     "meetingTime": "14:35",
-    "info": "HK Ankaret borta, Borgebyhallen (Pojkar - P19 Syd)Samling: 14:35"
+    "info": "HK Ankaret borta, Borgebyhallen (Pojkar - P19 Syd)Samling: 14:35",
+    "debug": "test"
   },
   {
     "date": "lör 11",
@@ -935,7 +1001,8 @@
     "opponent": "Övrigt",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Övrigt, LundVi går och äter någonstans i Lund efter matchen mot Kristianstad. &nbsp;\nEv någon mer aktivitet."
+    "info": "Övrigt, LundVi går och äter någonstans i Lund efter matchen mot Kristianstad. &nbsp;\nEv någon mer aktivitet.",
+    "debug": "test"
   },
   {
     "date": "sön 12",
@@ -949,7 +1016,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "11:15",
-    "info": "Mörrums GOIS HK hemma, Tunahallen-Handboll (Pojkar - P16 Syd)Samling: 11:15"
+    "info": "Mörrums GOIS HK hemma, Tunahallen-Handboll (Pojkar - P16 Syd)Samling: 11:15",
+    "debug": "test"
   },
   {
     "date": "sön 12",
@@ -963,7 +1031,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 12",
@@ -977,7 +1046,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 12",
@@ -991,7 +1061,8 @@
     "opponent": "Mörrums GOIS HK",
     "homeAway": "hemma",
     "meetingTime": "11:15",
-    "info": "Mörrums GOIS HK hemma, Tunahallen-Handboll (Pojkar - P16 Syd)Samling: 11:15"
+    "info": "Mörrums GOIS HK hemma, Tunahallen-Handboll (Pojkar - P16 Syd)Samling: 11:15",
+    "debug": "test"
   },
   {
     "date": "sön 12",
@@ -1005,7 +1076,8 @@
     "opponent": "Lågan Cup",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Lågan Cup, Lågehallarna, HörbyVi har två lag anmälda.\n\nH43 1:\n13.25 Dalby Lågehall A2\n15.30 Lågan Lågehall A2\n16.45 Lågan Lågehall A1\n18.25 H65 Lågehall A1\n\nH43 2:\n13.25 H65 Lågehall B\n15.30 Ljunghusen Lågehall A1\n16.20 Lågan Lågehall A2\n18.00 H65 Lågehall A2"
+    "info": "Lågan Cup, Lågehallarna, HörbyVi har två lag anmälda.\n\nH43 1:\n13.25 Dalby Lågehall A2\n15.30 Lågan Lågehall A2\n16.45 Lågan Lågehall A1\n18.25 H65 Lågehall A1\n\nH43 2:\n13.25 H65 Lågehall B\n15.30 Ljunghusen Lågehall A1\n16.20 Lågan Lågehall A2\n18.00 H65 Lågehall A2",
+    "debug": "test"
   },
   {
     "date": "sön 12",
@@ -1019,7 +1091,8 @@
     "opponent": "IFK Malmö HF",
     "homeAway": "borta",
     "meetingTime": "12:00",
-    "info": "IFK Malmö HF borta, Stapelbäddens IH (Herrar - Herr 3 Syd)Samling: 12:00"
+    "info": "IFK Malmö HF borta, Stapelbäddens IH (Herrar - Herr 3 Syd)Samling: 12:00",
+    "debug": "test"
   },
   {
     "date": "sön 12",
@@ -1033,7 +1106,8 @@
     "opponent": "Kävlinge HK",
     "homeAway": "borta",
     "meetingTime": "13:00",
-    "info": "Kävlinge HK borta, Korsbackahallen A (Flickor - F14 Syd)Samling: 13:00"
+    "info": "Kävlinge HK borta, Korsbackahallen A (Flickor - F14 Syd)Samling: 13:00",
+    "debug": "test"
   },
   {
     "date": "sön 12",
@@ -1047,7 +1121,8 @@
     "opponent": "Lågan cup",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Lågan cup, Lågehallarna I Hörby\n1x20 min\n\n14:15 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; H43 &nbsp; - LUGI HF:3 &nbsp; &nbsp; &nbsp;Lågehall B\n\n15:55 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lödde Vikings HK:Svart &nbsp; &nbsp; - H43 &nbsp;Lågehall B\n\n17:35 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LUGI HF:1 &nbsp; &nbsp;- H43 &nbsp; &nbsp;Lågehall A2\n\n19:15 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; H43 &nbsp; - Dalby GIF:2 &nbsp; Lågehall A2"
+    "info": "Lågan cup, Lågehallarna I Hörby\n1x20 min\n\n14:15 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; H43 &nbsp; - LUGI HF:3 &nbsp; &nbsp; &nbsp;Lågehall B\n\n15:55 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lödde Vikings HK:Svart &nbsp; &nbsp; - H43 &nbsp;Lågehall B\n\n17:35 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LUGI HF:1 &nbsp; &nbsp;- H43 &nbsp; &nbsp;Lågehall A2\n\n19:15 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; H43 &nbsp; - Dalby GIF:2 &nbsp; Lågehall A2",
+    "debug": "test"
   },
   {
     "date": "mån 13",
@@ -1061,7 +1136,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller."
+    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller.",
+    "debug": "test"
   },
   {
     "date": "mån 13",
@@ -1075,7 +1151,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Frivillig styrketräning, Nordic Wellness"
+    "info": "Frivillig styrketräning, Nordic Wellness",
+    "debug": "test"
   },
   {
     "date": "mån 13",
@@ -1089,7 +1166,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 13",
@@ -1103,7 +1181,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 13",
@@ -1117,7 +1196,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 13",
@@ -1131,7 +1211,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset"
+    "info": "Träning, Bollhuset",
+    "debug": "test"
   },
   {
     "date": "mån 13",
@@ -1145,7 +1226,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset Alltid jogginfskor med"
+    "info": "Träning, Bollhuset Alltid jogginfskor med",
+    "debug": "test"
   },
   {
     "date": "mån 13",
@@ -1159,7 +1241,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Fäladshallen"
+    "info": "Träning, Fäladshallen",
+    "debug": "test"
   },
   {
     "date": "tis 14",
@@ -1173,7 +1256,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll."
+    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll.",
+    "debug": "test"
   },
   {
     "date": "tis 14",
@@ -1187,7 +1271,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll."
+    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll.",
+    "debug": "test"
   },
   {
     "date": "tis 14",
@@ -1201,7 +1286,8 @@
     "opponent": "Löpning + Hall",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 14",
@@ -1215,7 +1301,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 14",
@@ -1229,7 +1316,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning H43 P2015, Östratornhallen"
+    "info": "Träning H43 P2015, Östratornhallen",
+    "debug": "test"
   },
   {
     "date": "tis 14",
@@ -1243,7 +1331,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 15",
@@ -1257,7 +1346,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
+    "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor.",
+    "debug": "test"
   },
   {
     "date": "ons 15",
@@ -1271,7 +1361,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
+    "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor.",
+    "debug": "test"
   },
   {
     "date": "ons 15",
@@ -1285,7 +1376,8 @@
     "opponent": "Lugi HF",
     "homeAway": "borta",
     "meetingTime": "16:45",
-    "info": "Lugi HF borta, Sparbanken Skåne Arena A (Flickor - F16 Syd)Samling: 16:45"
+    "info": "Lugi HF borta, Sparbanken Skåne Arena A (Flickor - F16 Syd)Samling: 16:45",
+    "debug": "test"
   },
   {
     "date": "ons 15",
@@ -1299,7 +1391,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 15",
@@ -1313,7 +1406,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 15",
@@ -1327,7 +1421,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder."
+    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder.",
+    "debug": "test"
   },
   {
     "date": "ons 15",
@@ -1341,7 +1436,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 15",
@@ -1355,7 +1451,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Gunnesbohallen"
+    "info": "Träning, Gunnesbohallen",
+    "debug": "test"
   },
   {
     "date": "ons 15",
@@ -1369,7 +1466,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset A"
+    "info": "Träning, Bollhuset A",
+    "debug": "test"
   },
   {
     "date": "tor 16",
@@ -1383,7 +1481,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Östra Torn BeachhandbollsplanTa på varma kläder och utegympaskor. Vi kör första 20-30 min på gräs och resten beachhandboll."
+    "info": "Träning, Östra Torn BeachhandbollsplanTa på varma kläder och utegympaskor. Vi kör första 20-30 min på gräs och resten beachhandboll.",
+    "debug": "test"
   },
   {
     "date": "tor 16",
@@ -1397,7 +1496,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tor 16",
@@ -1411,7 +1511,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning utomhus , VictoriastadionVi träffas utanför Victoriastadion vanlig tid, för löpning/träning ute på St Hansbackar. Kläder efter väder &amp; löpskor på fötterna.\n\nSom vanligt vid träning är det bara att dyka upp - inget svar behövs på kallelsen."
+    "info": "Träning utomhus , VictoriastadionVi träffas utanför Victoriastadion vanlig tid, för löpning/träning ute på St Hansbackar. Kläder efter väder &amp; löpskor på fötterna.\n\nSom vanligt vid träning är det bara att dyka upp - inget svar behövs på kallelsen.",
+    "debug": "test"
   },
   {
     "date": "tor 16",
@@ -1425,7 +1526,8 @@
     "opponent": "Löpning + Hall",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Löpning + Hall, Heddahallen"
+    "info": "Löpning + Hall, Heddahallen",
+    "debug": "test"
   },
   {
     "date": "tor 16",
@@ -1439,7 +1541,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, TunahallenAlltid joggingskor med"
+    "info": "Träning, TunahallenAlltid joggingskor med",
+    "debug": "test"
   },
   {
     "date": "tor 16",
@@ -1453,7 +1556,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "fre 17",
@@ -1467,7 +1571,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tornhallen, Stångby"
+    "info": "Träning, Tornhallen, Stångby",
+    "debug": "test"
   },
   {
     "date": "fre 17",
@@ -1481,7 +1586,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tornhallen, Stångby"
+    "info": "Träning, Tornhallen, Stångby",
+    "debug": "test"
   },
   {
     "date": "fre 17",
@@ -1495,7 +1601,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tunahallen"
+    "info": "Träning, Tunahallen",
+    "debug": "test"
   },
   {
     "date": "fre 17",
@@ -1509,7 +1616,8 @@
     "opponent": "HK Ankaret Röd",
     "homeAway": "borta",
     "meetingTime": "18:15",
-    "info": "HK Ankaret Röd borta, Hall ej klar (Pojkar - P14 Syd nivå 1 Gul)Samling: 18:15Svara på kallelsen även om du inte kan komma och senast angiven tid.\n\nKom i tid till match och medtags matchkläder, skor och vattenflaska.\n\nHälsar, tränarna"
+    "info": "HK Ankaret Röd borta, Hall ej klar (Pojkar - P14 Syd nivå 1 Gul)Samling: 18:15Svara på kallelsen även om du inte kan komma och senast angiven tid.\n\nKom i tid till match och medtags matchkläder, skor och vattenflaska.\n\nHälsar, tränarna",
+    "debug": "test"
   },
   {
     "date": "lör 18",
@@ -1523,7 +1631,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "H43 open mini hemma, Fäladshallen A ()H43 Open Mini\nVi har anmält två pojklag och ett flicklag till cupen H43 open mini. Runt 16 lag från Skåne kommer delta. \nSvara på kallelsen så fort ni kan så vi vet läget. \nMer exakta tider kommer längre fram."
+    "info": "H43 open mini hemma, Fäladshallen A ()H43 Open Mini\nVi har anmält två pojklag och ett flicklag till cupen H43 open mini. Runt 16 lag från Skåne kommer delta. \nSvara på kallelsen så fort ni kan så vi vet läget. \nMer exakta tider kommer längre fram.",
+    "debug": "test"
   },
   {
     "date": "lör 18",
@@ -1537,7 +1646,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 18",
@@ -1551,7 +1661,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 18",
@@ -1565,7 +1676,8 @@
     "opponent": "H43 open mini",
     "homeAway": "hemma",
     "meetingTime": "",
-    "info": "H43 open mini hemma, Fäladshallen A ()H43 Open Mini\nVi har anmält två pojklag och ett flicklag till cupen H43 open mini. Runt 16 lag från Skåne kommer delta. \nSvara på kallelsen så fort ni kan så vi vet läget. \nMer exakta tider kommer längre fram."
+    "info": "H43 open mini hemma, Fäladshallen A ()H43 Open Mini\nVi har anmält två pojklag och ett flicklag till cupen H43 open mini. Runt 16 lag från Skåne kommer delta. \nSvara på kallelsen så fort ni kan så vi vet läget. \nMer exakta tider kommer längre fram.",
+    "debug": "test"
   },
   {
     "date": "lör 18",
@@ -1579,7 +1691,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 18",
@@ -1593,7 +1706,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 19",
@@ -1607,7 +1721,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Cup , Fäladshallen Detta är H43 som ordnar en egen cup. Föräldrar kommer behöva hjälpa till med kiosk, matchvärdar och städ mm, denna dagen. Fundera på om du har möjlighet att hjälpa till! Mer info om exakta tider kommer."
+    "info": "Cup , Fäladshallen Detta är H43 som ordnar en egen cup. Föräldrar kommer behöva hjälpa till med kiosk, matchvärdar och städ mm, denna dagen. Fundera på om du har möjlighet att hjälpa till! Mer info om exakta tider kommer.",
+    "debug": "test"
   },
   {
     "date": "sön 19",
@@ -1621,7 +1736,8 @@
     "opponent": "Cup",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Cup , Fäladshallen Detta är H43 som ordnar en egen cup. Föräldrar kommer behöva hjälpa till med kiosk, matchvärdar och städ mm, denna dagen. Fundera på om du har möjlighet att hjälpa till! Mer info om exakta tider kommer."
+    "info": "Cup , Fäladshallen Detta är H43 som ordnar en egen cup. Föräldrar kommer behöva hjälpa till med kiosk, matchvärdar och städ mm, denna dagen. Fundera på om du har möjlighet att hjälpa till! Mer info om exakta tider kommer.",
+    "debug": "test"
   },
   {
     "date": "sön 19",
@@ -1635,7 +1751,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 19",
@@ -1649,7 +1766,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 19",
@@ -1663,7 +1781,8 @@
     "opponent": "",
     "homeAway": "borta",
     "meetingTime": "09:55",
-    "info": "Träningsmatcher P11 Gameday borta, Helsingborgs Arena ()Samling: 09:55Hej,\nKallelse till P11 Gameday, träningsmatcher mot diverse lag, bl.a. OV Helsingborg i Helsingborgs Arena söndagen den 19 april. Alla lag spelar 4 matcher vardera. Vi har två lag anmälda. Resultat räknas i matcherna, men det blir inget slutspel. Matchtid 2 x 15 min, normal ribbhöjd.\n\nDenna kallelse går i första hand till de killar som ska spela Bohus Cup men vi fyller på med andra spelare om inte alla platser fylls. Perfekt uppladdning inför Bohus Cup och bra med fortsatt &nbsp;matchträning inför Partille Cup!\n\nFörsta matchen startar kl. 10.40, samling kl. 09.55 i Helsingborgs Arena Hall B. Vi kommer vara färdigspelade strax efter 16.30. Det kommer finnas kiosk på plats. Kom matchklädd, ta med boll. Svara senast deadline, tack!\n\nMvh/ Tränarna"
+    "info": "Träningsmatcher P11 Gameday borta, Helsingborgs Arena ()Samling: 09:55Hej,\nKallelse till P11 Gameday, träningsmatcher mot diverse lag, bl.a. OV Helsingborg i Helsingborgs Arena söndagen den 19 april. Alla lag spelar 4 matcher vardera. Vi har två lag anmälda. Resultat räknas i matcherna, men det blir inget slutspel. Matchtid 2 x 15 min, normal ribbhöjd.\n\nDenna kallelse går i första hand till de killar som ska spela Bohus Cup men vi fyller på med andra spelare om inte alla platser fylls. Perfekt uppladdning inför Bohus Cup och bra med fortsatt &nbsp;matchträning inför Partille Cup!\n\nFörsta matchen startar kl. 10.40, samling kl. 09.55 i Helsingborgs Arena Hall B. Vi kommer vara färdigspelade strax efter 16.30. Det kommer finnas kiosk på plats. Kom matchklädd, ta med boll. Svara senast deadline, tack!\n\nMvh/ Tränarna",
+    "debug": "test"
   },
   {
     "date": "sön 19",
@@ -1677,7 +1796,8 @@
     "opponent": "H43 Open Mini 2026",
     "homeAway": "",
     "meetingTime": "",
-    "info": "H43 Open Mini 2026, Fäladshallen H43 anordnar H43 Open Mini: en minihandbollsturnering som spelas på Fäladsgården söndag 19 april.\n\nFunktionärspass:\n\nKl 13-15: Oscar L, Tage, Olof, Victor, Hugo, Nils R\n\nKl 15-17.30: Adam, Loui, &nbsp;Oscar N, Hugo, Nils R\n\nVi har två lag anmälda. Matcherna är 1*15 minuter. \n\n13.00 Eslöv 1 - H43 2, plan B3\n13.40 Dalby blå - H43 2, plan B3\n14.20 H43 2 - Lugi 3, plan A2\n15.40 H43 2 - Lödde röd, plan A1\n\n14.00 OV Helsingborg - H43 1, plan A2\n14.40 H43 1 - Dalby svart, plan A2\n15.20 H43 1 - Eslöv 2, plan B3\n16.00 Lugi 1 - H43 1, plan A1"
+    "info": "H43 Open Mini 2026, Fäladshallen H43 anordnar H43 Open Mini: en minihandbollsturnering som spelas på Fäladsgården söndag 19 april.\n\nFunktionärspass:\n\nKl 13-15: Oscar L, Tage, Olof, Victor, Hugo, Nils R\n\nKl 15-17.30: Adam, Loui, &nbsp;Oscar N, Hugo, Nils R\n\nVi har två lag anmälda. Matcherna är 1*15 minuter. \n\n13.00 Eslöv 1 - H43 2, plan B3\n13.40 Dalby blå - H43 2, plan B3\n14.20 H43 2 - Lugi 3, plan A2\n15.40 H43 2 - Lödde röd, plan A1\n\n14.00 OV Helsingborg - H43 1, plan A2\n14.40 H43 1 - Dalby svart, plan A2\n15.20 H43 1 - Eslöv 2, plan B3\n16.00 Lugi 1 - H43 1, plan A1",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1691,7 +1811,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller."
+    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller.",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1705,7 +1826,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller."
+    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller.",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1719,7 +1841,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Frivillig styrketräning, Nordic Wellness"
+    "info": "Frivillig styrketräning, Nordic Wellness",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1733,7 +1856,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1747,7 +1871,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1761,7 +1886,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1775,7 +1901,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion plan 2"
+    "info": "Träning, Victoriastadion plan 2",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1789,7 +1916,8 @@
     "opponent": "Löpning + Hall",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Löpning + Hall, Heddahallen"
+    "info": "Löpning + Hall, Heddahallen",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1803,7 +1931,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1817,7 +1946,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset"
+    "info": "Träning, Bollhuset",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1831,7 +1961,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset Alltid jogginfskor med"
+    "info": "Träning, Bollhuset Alltid jogginfskor med",
+    "debug": "test"
   },
   {
     "date": "mån 20",
@@ -1845,7 +1976,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Fäladshallen"
+    "info": "Träning, Fäladshallen",
+    "debug": "test"
   },
   {
     "date": "tis 21",
@@ -1859,7 +1991,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Vipeholmshallen"
+    "info": "Träning, Vipeholmshallen",
+    "debug": "test"
   },
   {
     "date": "tis 21",
@@ -1873,7 +2006,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 21",
@@ -1887,7 +2021,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 21",
@@ -1901,7 +2036,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll."
+    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll.",
+    "debug": "test"
   },
   {
     "date": "tis 21",
@@ -1915,7 +2051,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 21",
@@ -1929,7 +2066,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning H43 P2015, Östratornhallen"
+    "info": "Träning H43 P2015, Östratornhallen",
+    "debug": "test"
   },
   {
     "date": "tis 21",
@@ -1943,7 +2081,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -1957,7 +2096,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan AAlltid joggingskor"
+    "info": "Träning, Arenan AAlltid joggingskor",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -1971,7 +2111,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan AAlltid joggingskor"
+    "info": "Träning, Arenan AAlltid joggingskor",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -1985,7 +2126,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
+    "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor.",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -1999,7 +2141,8 @@
     "opponent": "Avslutning med LaserZone och sushi",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Avslutning med LaserZone och sushi, Entre i Malmö - samling vid LaserZoneEfter uppehållet samlas vi igen som ett juniorlag tillsammans med 07-08. Som en avslutning på tiden som P-09 vill ha en riktigt kul kväll!!\n\nVi samlas 17:45 på LaserZone på Entre i Malmö och därefter blir det All You Can Eat på Aiko Sushi, även det på Entre.\n\nVi räknar med att vara klara runt 21-21:30 eller när vi tömt sushibaren.....\n\nGratis för alla - vi tömmer det sista i lagkassan!\n\nMvH\nTränarna"
+    "info": "Avslutning med LaserZone och sushi, Entre i Malmö - samling vid LaserZoneEfter uppehållet samlas vi igen som ett juniorlag tillsammans med 07-08. Som en avslutning på tiden som P-09 vill ha en riktigt kul kväll!!\n\nVi samlas 17:45 på LaserZone på Entre i Malmö och därefter blir det All You Can Eat på Aiko Sushi, även det på Entre.\n\nVi räknar med att vara klara runt 21-21:30 eller när vi tömt sushibaren.....\n\nGratis för alla - vi tömmer det sista i lagkassan!\n\nMvH\nTränarna",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -2013,7 +2156,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -2027,7 +2171,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion"
+    "info": "Träning, Victoriastadion",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -2041,7 +2186,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -2055,7 +2201,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder."
+    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder.",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -2069,7 +2216,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset ATräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll."
+    "info": "Träning, Bollhuset ATräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -2083,7 +2231,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 22",
@@ -2097,7 +2246,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset A"
+    "info": "Träning, Bollhuset A",
+    "debug": "test"
   },
   {
     "date": "tor 23",
@@ -2111,7 +2261,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Beachhandbollsplan Östra TornVi övar på beachhandboll! Ta med oömma kläder och strumpor, kläder efter väder."
+    "info": "Träning, Beachhandbollsplan Östra TornVi övar på beachhandboll! Ta med oömma kläder och strumpor, kläder efter väder.",
+    "debug": "test"
   },
   {
     "date": "tor 23",
@@ -2125,7 +2276,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska."
+    "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska.",
+    "debug": "test"
   },
   {
     "date": "tor 23",
@@ -2139,7 +2291,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tor 23",
@@ -2153,7 +2306,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion 2Träning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll."
+    "info": "Träning, Victoriastadion 2Träning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.",
+    "debug": "test"
   },
   {
     "date": "tor 23",
@@ -2167,7 +2321,8 @@
     "opponent": "Löpning + Hall",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Löpning + Hall, Heddahallen"
+    "info": "Löpning + Hall, Heddahallen",
+    "debug": "test"
   },
   {
     "date": "tor 23",
@@ -2181,7 +2336,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tor 23",
@@ -2195,7 +2351,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, TunahallenAlltid joggingskor med"
+    "info": "Träning, TunahallenAlltid joggingskor med",
+    "debug": "test"
   },
   {
     "date": "tor 23",
@@ -2209,7 +2366,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "fre 24",
@@ -2223,7 +2381,8 @@
     "opponent": "Potatiscupen 2026 (24-26 april)",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Potatiscupen 2026 (24-26 april), AlingsåsHej\n\nSom vi sa på föräldramötet är vår tanke att vi ska ställa upp i Potatiscupen i Alingsås den 24-26 april. All info kring turneringen finns i nedanstående länk men den viktigaste informationen kommer här. Observera den ganska korta anmälningstiden. &nbsp;\n\n- 24-26 april (ankomst 24:e på kvällen och hemfärd 26:e beroende på hur långt vi går i cupen)\n- Plats: Alingsås\n- Boende: Vi bor på hårdförläggning (skola) och där äter vi också alla måltider. \n- Kostnader: Lagkassan står för anmälningsavgifte. Varje spelare bekostar sin egen boende- och matkostnad, som uppgår till 1495:- per spelare. Då ingår boende och mat under helgen. \n\nSå snart anmälan stängt återkommer vi. \n\nMer info: https://potatiscupen.nu/"
+    "info": "Potatiscupen 2026 (24-26 april), AlingsåsHej\n\nSom vi sa på föräldramötet är vår tanke att vi ska ställa upp i Potatiscupen i Alingsås den 24-26 april. All info kring turneringen finns i nedanstående länk men den viktigaste informationen kommer här. Observera den ganska korta anmälningstiden. &nbsp;\n\n- 24-26 april (ankomst 24:e på kvällen och hemfärd 26:e beroende på hur långt vi går i cupen)\n- Plats: Alingsås\n- Boende: Vi bor på hårdförläggning (skola) och där äter vi också alla måltider. \n- Kostnader: Lagkassan står för anmälningsavgifte. Varje spelare bekostar sin egen boende- och matkostnad, som uppgår till 1495:- per spelare. Då ingår boende och mat under helgen. \n\nSå snart anmälan stängt återkommer vi. \n\nMer info: https://potatiscupen.nu/",
+    "debug": "test"
   },
   {
     "date": "fre 24",
@@ -2237,7 +2396,8 @@
     "opponent": "Potatiscupen 24-26/4 2026",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta"
+    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta",
+    "debug": "test"
   },
   {
     "date": "fre 24",
@@ -2251,7 +2411,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "fre 24",
@@ -2265,7 +2426,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "fre 24",
@@ -2279,7 +2441,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tunahallen"
+    "info": "Träning, Tunahallen",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2293,7 +2456,8 @@
     "opponent": "Potatiscupen 24-26/4 2026",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta"
+    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2307,7 +2471,8 @@
     "opponent": "Potatiscupen 24-26/4 2026",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta"
+    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2321,7 +2486,8 @@
     "opponent": "Kanariecupen",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Kanariecupen , Malmö Vi har anmält tre lag till Kanariecupen som spelas i Malmö den 25 april."
+    "info": "Kanariecupen , Malmö Vi har anmält tre lag till Kanariecupen som spelas i Malmö den 25 april.",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2335,7 +2501,8 @@
     "opponent": "INTRESSEANMÄLAN KANARIECUPEN",
     "homeAway": "",
     "meetingTime": "",
-    "info": "INTRESSEANMÄLAN KANARIECUPEN, BortamatchINTRESSEANMÄLAN KANARIECUPEN\n\nVi tänkte spela en sista minihandbolls-turnering den 25 april. \n\nDå platserna börjar tar slut behöver vi ett snabbt svar från er. \nKostnaden kommer dras från vårt lagkonto, därmed är det viktigt att ni verkligen bara tackar ja om ni vet att ni kommer spela så vi anmäler rätt antal lag. \n\nTurneringen spelas i Malmö, mer info finns här:\n\nhttps://kanariecupen.se"
+    "info": "INTRESSEANMÄLAN KANARIECUPEN, BortamatchINTRESSEANMÄLAN KANARIECUPEN\n\nVi tänkte spela en sista minihandbolls-turnering den 25 april. \n\nDå platserna börjar tar slut behöver vi ett snabbt svar från er. \nKostnaden kommer dras från vårt lagkonto, därmed är det viktigt att ni verkligen bara tackar ja om ni vet att ni kommer spela så vi anmäler rätt antal lag. \n\nTurneringen spelas i Malmö, mer info finns här:\n\nhttps://kanariecupen.se",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2349,7 +2516,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2363,7 +2531,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2377,7 +2546,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2391,7 +2561,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2405,7 +2576,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2419,7 +2591,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "lör 25",
@@ -2433,7 +2606,8 @@
     "opponent": "Potatiscupen",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 26",
@@ -2447,7 +2621,8 @@
     "opponent": "Potatiscupen 24-26/4 2026",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta"
+    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta",
+    "debug": "test"
   },
   {
     "date": "sön 26",
@@ -2461,7 +2636,8 @@
     "opponent": "Potatiscupen 24-26/4 2026",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta"
+    "info": "Potatiscupen 24-26/4 2026, AllingsåsSVARA BARA PÅ DEN A KALLELSE TILL CUPEN!\nPotatiscupen i Alingsås blir vårens cup. Den lukrativa vinsten i denna potatisens stad är utöver pokal - förstås Chips i mängder. ??\n\nLagkassan står för anmälningsavgift för lag vi anmäler och lite ledaravgifter. Övriga kostnader står var och en för själv - egenavgift på 1495 kr samt resekostnad. Inbetalning av egenavgift görs i början av mars när betalningsförfrågan kommer ut.\n\nNÄR ÄR CUPEN:\nCupen för vår åldersgrupp spelas helgen 24e till 26e april. Ledighet från skolan kommer behövas fredag den 24e.\nBINDANDE ANMÄLAN:\nMeddela senast torsdag 22/1 klockan 17 om er son ska med genom att svara kommer.\n\nNi behöver också skriva i kommentarsfältet: jag vet att anmälan är bindande och betalar 1.495:- på förfrågan.\n\nSvara gärna även om ni inte ska med kommer ej - så vi vet att alla tagit del av erbjudandet.\n\nKOSTNADER BOENDE &amp; DELTAGARKORT:\n\n* Anmälningsavgift: 2.100 sek/lag\n(Lagkassan står för)\n\n* Deltagarkort A 1.495:-/delta",
+    "debug": "test"
   },
   {
     "date": "sön 26",
@@ -2475,7 +2651,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 26",
@@ -2489,7 +2666,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 26",
@@ -2503,7 +2681,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 26",
@@ -2517,7 +2696,8 @@
     "opponent": "Potatiscupen",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "sön 26",
@@ -2531,7 +2711,8 @@
     "opponent": "Intresseanmälan Åhus Beach  12-13/7",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Intresseanmälan Åhus Beach  12-13/7, Åhus Beach Intresseanmälan för Åhus Beach \"vanlig handboll\" \nSvara ja eller nej på kallelsen så fort som möjligt. Senast söndag denna veckan."
+    "info": "Intresseanmälan Åhus Beach  12-13/7, Åhus Beach Intresseanmälan för Åhus Beach \"vanlig handboll\" \nSvara ja eller nej på kallelsen så fort som möjligt. Senast söndag denna veckan.",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2545,7 +2726,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller."
+    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller.",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2559,7 +2741,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller."
+    "info": "Träning, ÖstratornhallenTräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.\n\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller.",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2573,7 +2756,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Frivillig styrketräning, Nordic Wellness"
+    "info": "Frivillig styrketräning, Nordic Wellness",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2587,7 +2771,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2601,7 +2786,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2615,7 +2801,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2629,7 +2816,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion plan 2"
+    "info": "Träning, Victoriastadion plan 2",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2643,7 +2831,8 @@
     "opponent": "Löpning + Hall",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Löpning + Hall, Heddahallen"
+    "info": "Löpning + Hall, Heddahallen",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2657,7 +2846,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2671,7 +2861,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset"
+    "info": "Träning, Bollhuset",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2685,7 +2876,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset Alltid jogginfskor med"
+    "info": "Träning, Bollhuset Alltid jogginfskor med",
+    "debug": "test"
   },
   {
     "date": "mån 27",
@@ -2699,7 +2891,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Fäladshallen"
+    "info": "Träning, Fäladshallen",
+    "debug": "test"
   },
   {
     "date": "tis 28",
@@ -2713,7 +2906,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Vipeholmshallen"
+    "info": "Träning, Vipeholmshallen",
+    "debug": "test"
   },
   {
     "date": "tis 28",
@@ -2727,7 +2921,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 28",
@@ -2741,7 +2936,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 28",
@@ -2755,7 +2951,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll."
+    "info": "Träning, Tornhallen, StångbyTa med vattenflaska och egen boll.",
+    "debug": "test"
   },
   {
     "date": "tis 28",
@@ -2769,7 +2966,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tis 28",
@@ -2783,7 +2981,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning H43 P2015, Östratornhallen"
+    "info": "Träning H43 P2015, Östratornhallen",
+    "debug": "test"
   },
   {
     "date": "tis 28",
@@ -2797,7 +2996,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2811,7 +3011,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan AAlltid joggingskor"
+    "info": "Träning, Arenan AAlltid joggingskor",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2825,7 +3026,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan AAlltid joggingskor"
+    "info": "Träning, Arenan AAlltid joggingskor",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2839,7 +3041,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, VipeholmshallenSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
+    "info": "Träning, VipeholmshallenSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor.",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2853,7 +3056,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2867,7 +3071,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion"
+    "info": "Träning, Victoriastadion",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2881,7 +3086,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2895,7 +3101,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder."
+    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder.",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2909,7 +3116,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset ATräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll."
+    "info": "Träning, Bollhuset ATräning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2923,7 +3131,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "ons 29",
@@ -2937,7 +3146,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset A"
+    "info": "Träning, Bollhuset A",
+    "debug": "test"
   },
   {
     "date": "tor 30",
@@ -2951,7 +3161,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska."
+    "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska.",
+    "debug": "test"
   },
   {
     "date": "tor 30",
@@ -2965,7 +3176,8 @@
     "opponent": "Uppdaterad kallelse: Åhus beach 12-13/7 F16",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Uppdaterad kallelse: Åhus beach 12-13/7 F16, ÅhusHej,\nDetta är en uppdaterad kallelse för Åhus beach F16 (2009/2010). Vi är ledsna för den väldigt korta svarstiden men vi behöver veta så fort som möjligt vilka som vill spela så att vi kan anmäla rätt antal lag. Speldagar är 12-13/7. \n\nVi hoppas många av er vill vara med! Har ni frågor så bara hör av er. \n/Carro (ledare i DamJuniorerna), 0733949375"
+    "info": "Uppdaterad kallelse: Åhus beach 12-13/7 F16, ÅhusHej,\nDetta är en uppdaterad kallelse för Åhus beach F16 (2009/2010). Vi är ledsna för den väldigt korta svarstiden men vi behöver veta så fort som möjligt vilka som vill spela så att vi kan anmäla rätt antal lag. Speldagar är 12-13/7. \n\nVi hoppas många av er vill vara med! Har ni frågor så bara hör av er. \n/Carro (ledare i DamJuniorerna), 0733949375",
+    "debug": "test"
   },
   {
     "date": "tor 30",
@@ -2979,7 +3191,8 @@
     "opponent": "Partille cup 29/6-4/7 2006",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Partille cup 29/6-4/7 2006, GöteborgHej alla,\n\nVi planerar att delta i Partille Cup i Göteborg, 29 juni  4 juli 2026. Vi behöver nu veta hur många som vill följa med innan det anmäls lag och betalning ska göras. Vi kommer spela tillsammans med tjejerna födda 2009 för att påbörja integreringen inför kommande säsong. \n\n?? Svar senast: Sön 22:a Mars\nPreliminär kostnad: ca 3000kr per spelare\n\nKallelsen går i SportAdmin inte att lägga in i Juni/Juli då det räknas in i nästa säsong så ignorera datumet som står på kallelsen. \n\nVi hoppas att så många som möjligt vill följa och inleda nästa säsong i Göteborg!\n\n/Ledarna"
+    "info": "Partille cup 29/6-4/7 2006, GöteborgHej alla,\n\nVi planerar att delta i Partille Cup i Göteborg, 29 juni  4 juli 2026. Vi behöver nu veta hur många som vill följa med innan det anmäls lag och betalning ska göras. Vi kommer spela tillsammans med tjejerna födda 2009 för att påbörja integreringen inför kommande säsong. \n\n?? Svar senast: Sön 22:a Mars\nPreliminär kostnad: ca 3000kr per spelare\n\nKallelsen går i SportAdmin inte att lägga in i Juni/Juli då det räknas in i nästa säsong så ignorera datumet som står på kallelsen. \n\nVi hoppas att så många som möjligt vill följa och inleda nästa säsong i Göteborg!\n\n/Ledarna",
+    "debug": "test"
   },
   {
     "date": "tor 30",
@@ -2993,7 +3206,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   },
   {
     "date": "tor 30",
@@ -3007,7 +3221,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Victoriastadion 2Träning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll."
+    "info": "Träning, Victoriastadion 2Träning såvitt inget annat meddelats.\n\nKom ombytt och medtag vattenflaska och boll.",
+    "debug": "test"
   },
   {
     "date": "tor 30",
@@ -3021,7 +3236,8 @@
     "opponent": "Löpning + Hall",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Löpning + Hall, Heddahallen"
+    "info": "Löpning + Hall, Heddahallen",
+    "debug": "test"
   },
   {
     "date": "tor 30",
@@ -3035,7 +3251,8 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, TunahallenAlltid joggingskor med"
+    "info": "Träning, TunahallenAlltid joggingskor med",
+    "debug": "test"
   },
   {
     "date": "tor 30",
@@ -3049,6 +3266,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "",
+    "debug": "test"
   }
 ]
