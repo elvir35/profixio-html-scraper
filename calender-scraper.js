@@ -59,45 +59,46 @@ function getType(row) {
   return "";
 }
 
-/* 🔥 NEW: Extract popup info via sCal ID */
+/* ✅ Clean HTML → text with line breaks */
+function cleanHtmlText(html) {
+  if (!html) return "";
+
+  html = html.replace(/<br\s*\/?>/gi, "\n");
+
+  let text = html.replace(/<[^>]+>/g, "");
+
+  return text
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+/* 🔥 ONLY source of info (popup) */
 function extractPopupInfo(row, $) {
   const link = row.find("a.kal[onmouseover*='sCal']");
 
+  // ❗ If no "(..)" → NO INFO
   if (!link.length) return "";
 
   const onmouseover = link.attr("onmouseover");
-
   const match = onmouseover.match(/sCal\('([^']+)'/);
+
   if (!match) return "";
 
   const popupId = match[1];
 
-  // Try to find popup content
   let popupDiv = $("#" + popupId);
-
   if (!popupDiv.length) {
     popupDiv = $(`[id="${popupId}"]`);
   }
 
   if (!popupDiv.length) return "";
 
-  // Clean text
-  let html = popupDiv.html() || "";
-
-// Convert <br> to line breaks
-html = html.replace(/<br\s*\/?>/gi, "\n");
-
-// Remove all other HTML tags
-let text = html.replace(/<[^>]+>/g, "");
-
-// Clean up spacing
-text = text.replace(/\n/g, "\n\n");
-
-  return text;
+  const html = popupDiv.html();
+  return cleanHtmlText(html);
 }
 
-/* Optional: keep Samling extraction */
-function extractMeetingTimeFromPopup(text) {
+/* Extract meeting time */
+function extractMeetingTime(text) {
   const match = text.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
   return match ? match[1] : "";
 }
@@ -119,7 +120,6 @@ async function fetchMonth(month, year, monthName) {
   $("table.mCal tr").each((_, el) => {
     const row = $(el);
 
-    // Date handling
     const dateCell = row.find("b").first().text().trim();
     const dayCell = row.find("font").first().text().trim();
 
@@ -150,9 +150,9 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    // 🔥 NEW: Popup-based info extraction
-    const popupInfo = extractPopupInfo(row, $);
-    const meetingTime = extractMeetingTimeFromPopup(popupInfo);
+    // 🔥 ONLY popup-based info
+    const info = extractPopupInfo(row, $);
+    const meetingTime = extractMeetingTime(info);
 
     events.push({
       date: `${currentDay} ${currentDate}`,
@@ -166,7 +166,7 @@ async function fetchMonth(month, year, monthName) {
       opponent: cleanOpponent,
       homeAway: isHome ? "hemma" : isAway ? "borta" : "",
       meetingTime,
-      info: popupInfo
+      info // empty if no "(..)"
     });
   });
 
