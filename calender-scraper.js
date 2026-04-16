@@ -59,45 +59,70 @@ function getType(row) {
   return "";
 }
 
-/* 🔥 NEW: Extract popup info via sCal ID */
+/* ✅ Clean HTML → text with line breaks */
+function cleanHtmlText(html) {
+  if (!html) return "";
+
+  html = html.replace(/<br\s*\/?>/gi, "\n");
+
+  let text = html.replace(/<[^>]+>/g, "");
+
+  return text
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+/* ✅ Popup extraction (ONLY if "(..)" exists) */
 function extractPopupInfo(row, $) {
   const link = row.find("a.kal[onmouseover*='sCal']");
 
   if (!link.length) return "";
 
   const onmouseover = link.attr("onmouseover");
-
   const match = onmouseover.match(/sCal\('([^']+)'/);
+
   if (!match) return "";
 
   const popupId = match[1];
 
-  // Try to find popup content
   let popupDiv = $("#" + popupId);
-
   if (!popupDiv.length) {
     popupDiv = $(`[id="${popupId}"]`);
   }
 
   if (!popupDiv.length) return "";
 
-  // Clean text
-  let html = popupDiv.html() || "";
+  const html = popupDiv.html();
+  return cleanHtmlText(html);
+}
 
-// Convert <br> to line breaks
-html = html.replace(/<br\s*\/?>/gi, "\n");
+/* ✅ Safe fallback (only real detail rows) */
+function extractFallbackInfo(row, $, location) {
+  const nextRow = row.next();
 
-// Remove all other HTML tags
-let text = html.replace(/<[^>]+>/g, "");
+  // Must exist AND be a detail row
+  if (!nextRow || !nextRow.find(".calAkt2").length) {
+    return "";
+  }
 
-// Clean up spacing
-text = text.replace(/\n/g, "\n\n");
+  // Prevent grabbing next event
+  if (nextRow.find("a").length > 0) {
+    return "";
+  }
+
+  const html = nextRow.html();
+  const text = cleanHtmlText(html);
+
+  // Must match location to be valid
+  if (location && !text.toLowerCase().includes(location.toLowerCase())) {
+    return "";
+  }
 
   return text;
 }
 
-/* Optional: keep Samling extraction */
-function extractMeetingTimeFromPopup(text) {
+/* ✅ Extract meeting time */
+function extractMeetingTime(text) {
   const match = text.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
   return match ? match[1] : "";
 }
@@ -119,7 +144,6 @@ async function fetchMonth(month, year, monthName) {
   $("table.mCal tr").each((_, el) => {
     const row = $(el);
 
-    // Date handling
     const dateCell = row.find("b").first().text().trim();
     const dayCell = row.find("font").first().text().trim();
 
@@ -150,9 +174,14 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    // 🔥 NEW: Popup-based info extraction
-    const popupInfo = extractPopupInfo(row, $);
-    const meetingTime = extractMeetingTimeFromPopup(popupInfo);
+    // 🔥 Main logic
+    let info = extractPopupInfo(row, $);
+
+    if (!info) {
+      info = extractFallbackInfo(row, $, location);
+    }
+
+    const meetingTime = extractMeetingTime(info);
 
     events.push({
       date: `${currentDay} ${currentDate}`,
@@ -166,7 +195,7 @@ async function fetchMonth(month, year, monthName) {
       opponent: cleanOpponent,
       homeAway: isHome ? "hemma" : isAway ? "borta" : "",
       meetingTime,
-      info: popupInfo
+      info
     });
   });
 
