@@ -80,12 +80,24 @@ function extractExtraInfo(row, $, hasPopup) {
 
   const popupId = match[1];
 
-  // 🔥 Find correct popup inside same row
-  const popup = row.find(`#${popupId} .calAkt2`);
+  // 🔥 Find ALL popups in row
+  const popups = row.find(".calAkt1");
 
+  let correctPopup = null;
+
+  popups.each((_, el) => {
+    const id = $(el).attr("id");
+    if (id === popupId) {
+      correctPopup = $(el);
+    }
+  });
+
+  if (!correctPopup) return { meetingTime, info };
+
+  const popup = correctPopup.find(".calAkt2");
   if (!popup.length) return { meetingTime, info };
 
-  // --- Extract Samling ---
+  // --- Samling ---
   const meetingText = popup
     .find("div")
     .filter((_, el) => $(el).text().includes("Samling"))
@@ -98,7 +110,7 @@ function extractExtraInfo(row, $, hasPopup) {
     if (m) meetingTime = m[1];
   }
 
-  // --- Extract info ---
+  // --- Info ---
   const infoBlocks = popup.find("div").filter((_, el) => {
     const text = $(el).text().trim();
     return text && !text.includes("Samling");
