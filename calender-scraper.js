@@ -158,6 +158,10 @@ async function fetchMonth(month, year, monthName) {
 const info = extractPopupInfo(row, $, html);
 const meetingTime = extractMeetingTime(info);
 
+// 🔥 FIX: pass html here
+const info = extractPopupInfo(row, $, html);
+const meetingTime = extractMeetingTime(info);
+
 const event = {
   date: `${currentDay} ${currentDate}`,
   month: monthName,
@@ -173,13 +177,12 @@ const event = {
   info
 };
 
-// 🔥 TEMP DEBUG (forces diff)
+// 🔥 DEBUG (temporary)
 event._debug = new Date().toISOString();
 
 events.push(event);
+return event;
 
-  return events;
-}
 
 (async () => {
   try {
