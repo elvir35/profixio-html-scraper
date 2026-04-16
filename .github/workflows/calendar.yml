@@ -40,10 +40,3 @@ jobs:
             git commit -m "🤖 Update calendar data"
             git push
           fi
-      
-          if git diff --cached --quiet; then
-            echo "No debug changes"
-          else
-            git commit -m "🧪 Debug: save raw calendar HTML"
-            git push
-          fi
