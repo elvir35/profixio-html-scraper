@@ -165,7 +165,7 @@ async function fetchMonth(month, year, monthName) {
     // 🔥 Only extract if popup exists
     const hasPopup = row.find("a.kal[onmouseover*='sCal']").length > 0;
 
-    const { meetingTime, info } = extractExtraInfo(row, $, hasPopup);
+    const { meetingTime, info } = extractExtraInfo(row, $, html, hasPopup);
 
     events.push({
       date: `${currentDay} ${currentDate}`,
