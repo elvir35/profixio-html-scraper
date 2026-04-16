@@ -59,20 +59,15 @@ function getType(row) {
   return "";
 }
 
-/* ✅ Clean HTML → text */
 function cleanHtmlText(html) {
   if (!html) return "";
 
   html = html.replace(/<br\s*\/?>/gi, "\n");
-
   let text = html.replace(/<[^>]+>/g, "");
 
-  return text
-    .replace(/\n{3,}/g, "\n\n")
-    .trim();
+  return text.replace(/\n{3,}/g, "\n\n").trim();
 }
 
-/* 🔥 Popup extraction (FIXED) */
 function extractPopupInfo(row, $, fullHtml) {
   const popupLink = row.find("a.kal").filter((_, el) => {
     const attr = $(el).attr("onmouseover");
@@ -89,7 +84,6 @@ function extractPopupInfo(row, $, fullHtml) {
 
   const popupId = match[1];
 
-  // 🔥 Search raw HTML (critical)
   const regex = new RegExp(
     `<div[^>]*id=["']${popupId}["'][^>]*>([\\s\\S]*?)<\\/div>`,
     "i"
@@ -101,7 +95,6 @@ function extractPopupInfo(row, $, fullHtml) {
   return cleanHtmlText(found[1]);
 }
 
-/* Extract meeting time */
 function extractMeetingTime(text) {
   const match = text.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
   return match ? match[1] : "";
@@ -154,35 +147,32 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    // 🔥 FIX: pass html here
-const info = extractPopupInfo(row, $, html);
-const meetingTime = extractMeetingTime(info);
+    const info = extractPopupInfo(row, $, html);
+    const meetingTime = extractMeetingTime(info);
 
-// 🔥 FIX: pass html here
-const info = extractPopupInfo(row, $, html);
-const meetingTime = extractMeetingTime(info);
+    const event = {
+      date: `${currentDay} ${currentDate}`,
+      month: monthName,
+      startTime,
+      endTime,
+      team,
+      location,
+      type,
+      title,
+      opponent: cleanOpponent,
+      homeAway: isHome ? "hemma" : isAway ? "borta" : "",
+      meetingTime,
+      info
+    };
 
-const event = {
-  date: `${currentDay} ${currentDate}`,
-  month: monthName,
-  startTime,
-  endTime,
-  team,
-  location,
-  type,
-  title,
-  opponent: cleanOpponent,
-  homeAway: isHome ? "hemma" : isAway ? "borta" : "",
-  meetingTime,
-  info
-};
+    // 🔥 TEMP DEBUG (remove later)
+    event._debug = new Date().toISOString();
 
-// 🔥 DEBUG (temporary)
-event._debug = new Date().toISOString();
+    events.push(event);
+  });
 
-events.push(event);
-return event;
-
+  return events;
+}
 
 (async () => {
   try {
