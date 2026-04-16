@@ -64,12 +64,15 @@ function getType(row) {
   return "";
 }
 
-/* Extract Samling + extra info */
-function extractExtraInfo(row, $) {
+/* 🔥 FIXED: Extract info ONLY from NEXT ROW */
+function extractExtraInfo(row, $, hasPopup) {
   let meetingTime = "";
   let info = "";
 
-  const details = row.find(".calAkt2");
+  if (!hasPopup) return { meetingTime, info };
+
+  const nextRow = row.next();
+  const details = nextRow.find(".calAkt2");
 
   if (!details.length) return { meetingTime, info };
 
@@ -82,13 +85,13 @@ function extractExtraInfo(row, $) {
     .trim();
 
   if (meetingText) {
-    const match = meetingText.match(/Samling:\s*(\d{2}:\d{2})/);
+    const match = meetingText.match(/Samling[: ]+(\d{2}:\d{2})/);
     if (match) {
       meetingTime = match[1];
     }
   }
 
-  // Other info
+  // Info
   const infoBlocks = details.find("div").filter((_, el) => {
     const text = $(el).text().trim();
     return text && !text.includes("Samling");
@@ -149,17 +152,10 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    // 🔥 CRITICAL FIX: only extract if popup exists
+    // 🔥 CRITICAL: only extract if popup exists
     const hasPopup = row.find("a.kal[onmouseover*='sCal']").length > 0;
 
-    let meetingTime = "";
-    let info = "";
-
-    if (hasPopup) {
-      const extracted = extractExtraInfo(row, $);
-      meetingTime = extracted.meetingTime;
-      info = extracted.info;
-    }
+    const { meetingTime, info } = extractExtraInfo(row, $, hasPopup);
 
     events.push({
       date: `${currentDay} ${currentDate}`,
