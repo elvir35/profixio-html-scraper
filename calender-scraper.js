@@ -64,7 +64,7 @@ function getType(row) {
 }
 
 /* 🔥 FINAL FIX: Extract info using popup ID */
-function extractExtraInfo(row, $, html, hasPopup) {
+function extractExtraInfo(row, $, hasPopup) {
   let meetingTime = "";
   let info = "";
 
@@ -80,34 +80,34 @@ function extractExtraInfo(row, $, html, hasPopup) {
 
   const popupId = match[1];
 
-  // 🔥 CRITICAL: search in FULL HTML (not row)
-  const regex = new RegExp(
-    `<div[^>]*id=["']${popupId}["'][^>]*>([\\s\\S]*?)<\\/div>`,
-    "i"
-  );
+  // 🔥 Find correct popup inside same row
+  const popup = row.find(`#${popupId} .calAkt2`);
 
-  const found = html.match(regex);
-
-  if (!found) return { meetingTime, info };
-
-  const popupHtml = found[1];
-
-  // --- Convert HTML → text ---
-  let text = popupHtml
-    .replace(/<br\s*\/?>/gi, "\n")
-    .replace(/<[^>]+>/g, "")
-    .trim();
+  if (!popup.length) return { meetingTime, info };
 
   // --- Extract Samling ---
-  const meetingMatch = text.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
-  if (meetingMatch) {
-    meetingTime = meetingMatch[1];
+  const meetingText = popup
+    .find("div")
+    .filter((_, el) => $(el).text().includes("Samling"))
+    .first()
+    .text()
+    .trim();
+
+  if (meetingText) {
+    const m = meetingText.match(/Samling[: ]+(\d{1,2}:\d{2})/);
+    if (m) meetingTime = m[1];
   }
 
-  // --- Clean info ---
-  info = text
-    .replace(/Samling[: ]+\d{1,2}:\d{2}/i, "")
-    .trim();
+  // --- Extract info ---
+  const infoBlocks = popup.find("div").filter((_, el) => {
+    const text = $(el).text().trim();
+    return text && !text.includes("Samling");
+  });
+
+  info = infoBlocks
+    .map((_, el) => $(el).text().trim())
+    .get()
+    .join("\n");
 
   return { meetingTime, info };
 }
@@ -165,7 +165,7 @@ async function fetchMonth(month, year, monthName) {
     // 🔥 Only extract if popup exists
     const hasPopup = row.find("a.kal[onmouseover*='sCal']").length > 0;
 
-    const { meetingTime, info } = extractExtraInfo(row, $, html, hasPopup);
+    const { meetingTime, info } = extractExtraInfo(row, $, hasPopup);
 
     events.push({
       date: `${currentDay} ${currentDate}`,
