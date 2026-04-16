@@ -88,8 +88,6 @@ const match = onmouseover.match(/sCal\('([^']+)'/);
 
 if (!match) return "";
 
-  if (!match) return "";
-
   const popupId = match[1];
 
   // 🔥 SEARCH RAW HTML instead of DOM
