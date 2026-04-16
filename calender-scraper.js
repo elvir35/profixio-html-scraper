@@ -46,9 +46,12 @@ function parseTitle(title) {
   if (!title) return { opponent: "", location: "", title: "" };
 
   const parts = title.split(",");
+  const opponent = parts[0]?.trim() || "";
+  const location = parts[1]?.trim() || "";
+
   return {
-    opponent: parts[0]?.trim() || "",
-    location: parts[1]?.trim() || "",
+    opponent,
+    location,
     title: ""
   };
 }
@@ -60,6 +63,67 @@ function getType(row) {
   return "";
 }
 
+/* 🔥 FINAL FIX: Extract info using popup ID */
+function extractExtraInfo(row, $, hasPopup) {
+  let meetingTime = "";
+  let info = "";
+
+  if (!hasPopup) return { meetingTime, info };
+
+  const popupLink = row.find("a.kal[onmouseover*='sCal']").first();
+  const onmouseover = popupLink.attr("onmouseover");
+
+  if (!onmouseover) return { meetingTime, info };
+
+  const match = onmouseover.match(/sCal\('([^']+)'/);
+  if (!match) return { meetingTime, info };
+
+  const popupId = match[1];
+
+  // 🔥 Find ALL popups in row
+  const popups = row.find(".calAkt1");
+
+  let correctPopup = null;
+
+  popups.each((_, el) => {
+    const id = $(el).attr("id");
+    if (id === popupId) {
+      correctPopup = $(el);
+    }
+  });
+
+  if (!correctPopup) return { meetingTime, info };
+
+  const popup = correctPopup.find(".calAkt2");
+  if (!popup.length) return { meetingTime, info };
+
+  // --- Samling ---
+  const meetingText = popup
+    .find("div")
+    .filter((_, el) => $(el).text().includes("Samling"))
+    .first()
+    .text()
+    .trim();
+
+  if (meetingText) {
+    const m = meetingText.match(/Samling[: ]+(\d{1,2}:\d{2})/);
+    if (m) meetingTime = m[1];
+  }
+
+  // --- Info ---
+  const infoBlocks = popup.find("div").filter((_, el) => {
+    const text = $(el).text().trim();
+    return text && !text.includes("Samling");
+  });
+
+  info = infoBlocks
+    .map((_, el) => $(el).text().trim())
+    .get()
+    .join("\n");
+
+  return { meetingTime, info };
+}
+
 async function fetchMonth(month, year, monthName) {
   const url = `${BASE_URL}?ID=${CALENDAR_ID}&manad=${month}&ar=${year}`;
   console.log("Fetching:", url);
@@ -67,7 +131,7 @@ async function fetchMonth(month, year, monthName) {
   const { data } = await axios.get(url, { responseType: "arraybuffer" });
   const html = Buffer.from(data).toString("latin1");
 
-  // Debug file
+  // 🔍 Debug save
   fs.writeFileSync("debug.html", html, "utf-8");
 
   const $ = cheerio.load(html);
@@ -87,23 +151,13 @@ async function fetchMonth(month, year, monthName) {
       currentDate = dateCell;
       currentDay = dayCell;
     }
-  });
 
-  // 🔥 NEW: iterate events instead of rows
-  $("a.kal").each((_, el) => {
-    const link = $(el);
-
-    // skip "(..)"
-    if (link.text().trim() === "(..)") return;
-
-    const row = link.closest("tr");
-
+    const timeText = row.find("span").text().trim();
     const team = row.find("a").first().text().trim();
-    const rawTitle = link.text().trim();
+    const rawTitle = row.find("a.kal").first().text().trim();
 
     if (!team || !rawTitle) return;
 
-    const timeText = row.find("span").text().trim();
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
 
@@ -120,36 +174,10 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    // 🔥 Popup extraction (correctly mapped)
-    let meetingTime = "";
-    let info = "";
+    // 🔥 Only extract if popup exists
+    const hasPopup = row.find("a.kal[onmouseover*='sCal']").length > 0;
 
-    const popupHover = row.find("a.kal[onmouseover*='sCal']").filter((_, el) => {
-      return $(el).prevAll("a.kal").first()[0] === link[0];
-    });
-
-    if (popupHover.length) {
-      const onmouseover = popupHover.attr("onmouseover");
-      const match = onmouseover?.match(/sCal\('([^']+)'/);
-
-      if (match) {
-        const popupId = match[1];
-
-        const popup = $(`#${popupId} .calAkt2`);
-
-        if (popup.length) {
-          let text = popup.text().trim();
-
-          const m = text.match(/Samling[: ]+(\d{1,2}:\d{2})/);
-          if (m) meetingTime = m[1];
-
-          info = text
-            .replace(/Samling[: ]+\d{1,2}:\d{2}/i, "")
-            .replace(/\n{2,}/g, "\n")
-            .trim();
-        }
-      }
-    }
+    const { meetingTime, info } = extractExtraInfo(row, $, hasPopup);
 
     events.push({
       date: `${currentDay} ${currentDate}`,
