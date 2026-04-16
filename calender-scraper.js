@@ -162,8 +162,8 @@ async function fetchMonth(month, year, monthName) {
     // 🔥 ONLY popup-based info
     const info = extractPopupInfo(row, $);
     const meetingTime = extractMeetingTime(info);
-    
-   events.push({
+
+    events.push({
       date: `${currentDay} ${currentDate}`,
       month: monthName,
       startTime,
@@ -177,6 +177,7 @@ async function fetchMonth(month, year, monthName) {
       meetingTime,
       info // empty if no "(..)"
     });
+  });
 
   return events;
 }
