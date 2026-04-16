@@ -89,10 +89,21 @@ function extractDetails(row, $, opponent, location) {
   const filtered = textBlocks.filter(t => {
   const lower = t.toLowerCase();
 
-  return (
-    (opponent && lower.includes(opponent.toLowerCase())) ||
-    (location && lower.includes(location.toLowerCase()))
-  );
+  const matchesOpponent =
+    opponent && lower.includes(opponent.toLowerCase());
+
+  const matchesLocation =
+    location && lower.includes(location.toLowerCase());
+
+  const looksLikeRealInfo =
+    lower.includes("träning") ||
+    lower.includes("samling") ||
+    lower.includes("cup") ||
+    lower.includes("match") ||
+    lower.includes("hallen") ||
+    lower.includes("arena");
+
+  return matchesOpponent || matchesLocation || looksLikeRealInfo;
 });
 
   info = filtered.join("\n").trim();
