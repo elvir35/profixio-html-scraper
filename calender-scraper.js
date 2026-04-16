@@ -27,7 +27,6 @@ function parseTime(timeText) {
   clean = clean.replace("Flera dagar", "").trim();
 
   const match = clean.match(/\d{2}:\d{2}(\s*-\s*\d{2}:\d{2})?/);
-
   if (!match) return { startTime: "", endTime: "" };
 
   const value = match[0];
@@ -64,20 +63,30 @@ function getType(row) {
   return "";
 }
 
-/* 🔥 FIXED: Extract info ONLY from NEXT ROW */
+/* 🔥 FINAL FIX: Extract info using popup ID */
 function extractExtraInfo(row, $, hasPopup) {
   let meetingTime = "";
   let info = "";
 
   if (!hasPopup) return { meetingTime, info };
 
-  const nextRow = row.next();
-  const details = nextRow.find(".calAkt2");
+  const popupLink = row.find("a.kal[onmouseover*='sCal']").first();
+  const onmouseover = popupLink.attr("onmouseover");
 
-  if (!details.length) return { meetingTime, info };
+  if (!onmouseover) return { meetingTime, info };
 
-  // Samlingstid
-  const meetingText = details
+  const match = onmouseover.match(/sCal\('([^']+)'/);
+  if (!match) return { meetingTime, info };
+
+  const popupId = match[1];
+
+  // 🔥 Find correct popup inside same row
+  const popup = row.find(`#${popupId} .calAkt2`);
+
+  if (!popup.length) return { meetingTime, info };
+
+  // --- Extract Samling ---
+  const meetingText = popup
     .find("div")
     .filter((_, el) => $(el).text().includes("Samling"))
     .first()
@@ -85,14 +94,12 @@ function extractExtraInfo(row, $, hasPopup) {
     .trim();
 
   if (meetingText) {
-    const match = meetingText.match(/Samling[: ]+(\d{2}:\d{2})/);
-    if (match) {
-      meetingTime = match[1];
-    }
+    const m = meetingText.match(/Samling[: ]+(\d{1,2}:\d{2})/);
+    if (m) meetingTime = m[1];
   }
 
-  // Info
-  const infoBlocks = details.find("div").filter((_, el) => {
+  // --- Extract info ---
+  const infoBlocks = popup.find("div").filter((_, el) => {
     const text = $(el).text().trim();
     return text && !text.includes("Samling");
   });
@@ -111,7 +118,10 @@ async function fetchMonth(month, year, monthName) {
 
   const { data } = await axios.get(url, { responseType: "arraybuffer" });
   const html = Buffer.from(data).toString("latin1");
+
+  // 🔍 Debug save
   fs.writeFileSync("debug.html", html, "utf-8");
+
   const $ = cheerio.load(html);
 
   const events = [];
@@ -152,7 +162,7 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    // 🔥 CRITICAL: only extract if popup exists
+    // 🔥 Only extract if popup exists
     const hasPopup = row.find("a.kal[onmouseover*='sCal']").length > 0;
 
     const { meetingTime, info } = extractExtraInfo(row, $, hasPopup);
