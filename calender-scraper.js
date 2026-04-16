@@ -155,24 +155,28 @@ async function fetchMonth(month, year, monthName) {
     const type = getType(row);
 
     // 🔥 FIX: pass html here
-    const info = extractPopupInfo(row, $, html);
-    const meetingTime = extractMeetingTime(info);
+const info = extractPopupInfo(row, $, html);
+const meetingTime = extractMeetingTime(info);
 
-    events.push({
-      date: `${currentDay} ${currentDate}`,
-      month: monthName,
-      startTime,
-      endTime,
-      team,
-      location,
-      type,
-      title,
-      opponent: cleanOpponent,
-      homeAway: isHome ? "hemma" : isAway ? "borta" : "",
-      meetingTime,
-      info
-    });
-  });
+const event = {
+  date: `${currentDay} ${currentDate}`,
+  month: monthName,
+  startTime,
+  endTime,
+  team,
+  location,
+  type,
+  title,
+  opponent: cleanOpponent,
+  homeAway: isHome ? "hemma" : isAway ? "borta" : "",
+  meetingTime,
+  info
+};
+
+// 🔥 TEMP DEBUG (forces diff)
+event._debug = new Date().toISOString();
+
+events.push(event);
 
   return events;
 }
