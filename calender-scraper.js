@@ -65,34 +65,39 @@ function cleanHtmlText(html) {
   html = html.replace(/<br\s*\/?>/gi, "\n");
   let text = html.replace(/<[^>]+>/g, "");
 
-  return text.replace(/\n{3,}/g, "\n\n").trim();
+  return text
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
 }
 
-function extractPopupInfo(row, $, fullHtml) {
-  const popupLink = row.find("a.kal").filter((_, el) => {
-    const attr = $(el).attr("onmouseover");
-    return attr && attr.includes("sCal");
-  });
+/* 🔥 NEW: Fetch popup via AID */
+async function extractPopupInfo(row, $) {
+  const link = row.find("a.kal[href*='AID']").first();
 
-  if (!popupLink.length) return "";
+  if (!link.length) return "";
 
-  const onmouseover = popupLink.attr("onmouseover");
-  if (!onmouseover) return "";
+  const href = link.attr("href");
+  if (!href) return "";
 
-  const match = onmouseover.match(/sCal\('([^']+)'/);
+  const match = href.match(/AID=(\d+)/);
   if (!match) return "";
 
-  const popupId = match[1];
+  const aid = match[1];
 
-  const regex = new RegExp(
-    `<div[^>]*id=["']${popupId}["'][^>]*>([\\s\\S]*?)<\\/div>`,
-    "i"
-  );
+  try {
+    const url = `https://h43lund.web.sportadmin.se/kalender/ajaxAktivitet.asp?AID=${aid}`;
 
-  const found = fullHtml.match(regex);
-  if (!found) return "";
+    const { data } = await axios.get(url);
 
-  return cleanHtmlText(found[1]);
+    const $popup = cheerio.load(data);
+
+    const html = $popup("div").first().html();
+
+    return cleanHtmlText(html);
+
+  } catch (err) {
+    return "";
+  }
 }
 
 function extractMeetingTime(text) {
@@ -114,7 +119,9 @@ async function fetchMonth(month, year, monthName) {
   let currentDate = "";
   let currentDay = "";
 
-  $("table.mCal tr").each((_, el) => {
+  const rows = $("table.mCal tr").toArray();
+
+  for (const el of rows) {
     const row = $(el);
 
     const dateCell = row.find("b").first().text().trim();
@@ -129,7 +136,7 @@ async function fetchMonth(month, year, monthName) {
     const team = row.find("a").first().text().trim();
     const rawTitle = row.find("a.kal").first().text().trim();
 
-    if (!team || !rawTitle) return;
+    if (!team || !rawTitle) continue;
 
     const { startTime, endTime } = parseTime(timeText);
     const { opponent, location, title } = parseTitle(rawTitle);
@@ -147,10 +154,11 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    const info = extractPopupInfo(row, $, html);
+    // 🔥 ASYNC popup fetch
+    const info = await extractPopupInfo(row, $);
     const meetingTime = extractMeetingTime(info);
 
-    const event = {
+    events.push({
       date: `${currentDay} ${currentDate}`,
       month: monthName,
       startTime,
@@ -163,13 +171,8 @@ async function fetchMonth(month, year, monthName) {
       homeAway: isHome ? "hemma" : isAway ? "borta" : "",
       meetingTime,
       info
-    };
-
-    // 🔥 TEMP DEBUG (remove later)
-    event._debug = new Date().toISOString();
-
-    events.push(event);
-  });
+    });
+  }
 
   return events;
 }
