@@ -26,7 +26,6 @@ function parseTime(timeText) {
   clean = clean.replace("Flera dagar", "").trim();
 
   const match = clean.match(/\d{2}:\d{2}(\s*-\s*\d{2}:\d{2})?/);
-
   if (!match) return { startTime: "", endTime: "" };
 
   const value = match[0];
@@ -60,45 +59,41 @@ function getType(row) {
   return "";
 }
 
-/* 🔥 NEW: Safe extraction from NEXT row only */
-function extractDetails(row, $, opponent, location) {
-  let meetingTime = "";
-  let info = "";
+/* 🔥 NEW: Extract popup info via sCal ID */
+function extractPopupInfo(row, $) {
+  const link = row.find("a.kal[onmouseover*='sCal']");
 
-  const nextRow = row.next();
+  if (!link.length) return "";
 
-  if (!nextRow || !nextRow.find(".calAkt2").length) {
-    return { meetingTime, info };
+  const onmouseover = link.attr("onmouseover");
+
+  const match = onmouseover.match(/sCal\('([^']+)'/);
+  if (!match) return "";
+
+  const popupId = match[1];
+
+  // Try to find popup content
+  let popupDiv = $("#" + popupId);
+
+  if (!popupDiv.length) {
+    popupDiv = $(`[id="${popupId}"]`);
   }
 
-  const detailDiv = nextRow.find(".calAkt2");
+  if (!popupDiv.length) return "";
 
-  const textBlocks = detailDiv
-    .find("div")
-    .map((_, el) => $(el).text().trim())
-    .get()
-    .filter(Boolean);
+  // Clean text
+  let text = popupDiv.text().trim();
 
-  // Extract meeting time
-  const fullText = textBlocks.join("\n");
-  const match = fullText.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
-  if (match) meetingTime = match[1];
+  // Normalize spacing
+  text = text.replace(/\n{2,}/g, "\n").trim();
 
-  // 🔥 ONLY take FIRST relevant line
-  for (const t of textBlocks) {
-    const lower = t.toLowerCase();
+  return text;
+}
 
-    if (
-      (opponent && lower.includes(opponent.toLowerCase())) ||
-      (location && lower.includes(location.toLowerCase())) ||
-      lower.includes("träning")
-    ) {
-      info = t; // 👈 ONLY ONE LINE
-      break;
-    }
-  }
-
-  return { meetingTime, info };
+/* Optional: keep Samling extraction */
+function extractMeetingTimeFromPopup(text) {
+  const match = text.match(/Samling[: ]+(\d{1,2}:\d{2})/i);
+  return match ? match[1] : "";
 }
 
 async function fetchMonth(month, year, monthName) {
@@ -118,6 +113,7 @@ async function fetchMonth(month, year, monthName) {
   $("table.mCal tr").each((_, el) => {
     const row = $(el);
 
+    // Date handling
     const dateCell = row.find("b").first().text().trim();
     const dayCell = row.find("font").first().text().trim();
 
@@ -148,8 +144,9 @@ async function fetchMonth(month, year, monthName) {
 
     const type = getType(row);
 
-    // 🔥 NEW SAFE EXTRACTION
-    const { meetingTime, info } = extractDetails(row, $, cleanOpponent, location);
+    // 🔥 NEW: Popup-based info extraction
+    const popupInfo = extractPopupInfo(row, $);
+    const meetingTime = extractMeetingTimeFromPopup(popupInfo);
 
     events.push({
       date: `${currentDay} ${currentDate}`,
@@ -163,7 +160,7 @@ async function fetchMonth(month, year, monthName) {
       opponent: cleanOpponent,
       homeAway: isHome ? "hemma" : isAway ? "borta" : "",
       meetingTime,
-      info
+      info: popupInfo
     });
   });
 
