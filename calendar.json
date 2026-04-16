@@ -1368,20 +1368,6 @@
     "title": "",
     "opponent": "",
     "homeAway": "",
-    "meetingTime": "19:25",
-    "info": ""
-  },
-  {
-    "date": "ons 15",
-    "month": "April",
-    "startTime": "20:15",
-    "endTime": "",
-    "team": "P14",
-    "location": "Rutsborgshallen 1",
-    "type": "Match",
-    "title": "",
-    "opponent": "HK Ankaret Röd",
-    "homeAway": "borta",
     "meetingTime": "",
     "info": ""
   },
@@ -1410,7 +1396,7 @@
     "title": "",
     "opponent": "",
     "homeAway": "",
-    "meetingTime": "",
+    "meetingTime": "18:15",
     "info": ""
   },
   {
@@ -1433,7 +1419,7 @@
     "startTime": "17:30",
     "endTime": "19:00",
     "team": "P14",
-    "location": "Victoriastadion 2",
+    "location": "Victoriastadion",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -1522,6 +1508,20 @@
     "title": "",
     "opponent": "",
     "homeAway": "",
+    "meetingTime": "18:15",
+    "info": ""
+  },
+  {
+    "date": "fre 17",
+    "month": "April",
+    "startTime": "19:00",
+    "endTime": "",
+    "team": "P14",
+    "location": "Hall ej klar (Pojkar - P14 Syd nivå 1 Gul)",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Ankaret Röd",
+    "homeAway": "borta",
     "meetingTime": "",
     "info": ""
   },
