@@ -1508,7 +1508,7 @@
     "title": "",
     "opponent": "HK Ankaret Röd",
     "homeAway": "borta",
-    "meetingTime": "18:05",
+    "meetingTime": "18:10",
     "info": "HK Ankaret Röd borta, Borgebyhallen (Pojkar - P14 Syd nivå 1 Gul)Svara på kallelsen även om du inte kan komma och senast angiven tid.Kom i tid till match och medtags matchkläder, skor och vattenflaska.Hälsar, tränarna"
   },
   {
@@ -1524,6 +1524,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 18",
+    "month": "April",
+    "startTime": "09:00",
+    "endTime": "",
+    "team": "U7",
+    "location": "Fäladshallen A ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "H43 open mini",
+    "homeAway": "hemma",
+    "meetingTime": "08:30",
+    "info": "H43 open mini hemma, Fäladshallen A ()H43 Open MiniVi har anmält två pojklag och ett flicklag till cupen H43 open mini. Runt 16 lag från Skåne kommer delta. Svara på kallelsen så fort ni kan så vi vet läget. Mer exakta tider kommer längre fram."
   },
   {
     "date": "lör 18",
@@ -1552,20 +1566,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "lör 18",
-    "month": "April",
-    "startTime": "10:00",
-    "endTime": "",
-    "team": "U7",
-    "location": "Fäladshallen A ()",
-    "type": "Match",
-    "title": "",
-    "opponent": "H43 open mini",
-    "homeAway": "hemma",
-    "meetingTime": "",
-    "info": "H43 open mini hemma, Fäladshallen A ()H43 Open MiniVi har anmält två pojklag och ett flicklag till cupen H43 open mini. Runt 16 lag från Skåne kommer delta. Svara på kallelsen så fort ni kan så vi vet läget. Mer exakta tider kommer längre fram."
   },
   {
     "date": "lör 18",
@@ -1930,6 +1930,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning H43 P2015, Östratornhallen"
+  },
+  {
+    "date": "tis 21",
+    "month": "April",
+    "startTime": "19:00",
+    "endTime": "",
+    "team": "P18",
+    "location": "Arenan ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Nordskealland",
+    "homeAway": "hemma",
+    "meetingTime": "18:30",
+    "info": "Nordskealland hemma, Arenan ()"
   },
   {
     "date": "tis 21",
