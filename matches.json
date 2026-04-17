@@ -1,12 +1,12 @@
 {
-  "scrapedAt": "2026-04-17T01:30:26.772Z",
+  "scrapedAt": "2026-04-17T07:20:13.329Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 572,
   "matches": [
     {
       "team": "P14",
-      "hall": "Hall ej klar",
-      "time": "19:00",
+      "hall": "Borgebyhallen",
+      "time": "18:50",
       "date": "fre 17",
       "month": "APRIL 2026",
       "home": "HK Ankaret Röd",
