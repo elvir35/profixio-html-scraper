@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-04-17T07:20:13.329Z",
+  "scrapedAt": "2026-04-17T12:57:05.577Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 572,
+  "matchCount": 573,
   "matches": [
     {
       "team": "P14",
@@ -18,7 +18,7 @@
     {
       "team": "U7",
       "hall": "Fäladshallen A",
-      "time": "10:00",
+      "time": "09:00",
       "date": "lör 18",
       "month": "APRIL 2026",
       "home": "H43 Lund Flickor/Pojkar 7",
@@ -37,6 +37,18 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P18",
+      "hall": "Arenan",
+      "time": "19:00",
+      "date": "tis 21",
+      "month": "APRIL 2026",
+      "home": "H43 Lund Pojkar 18",
+      "away": "födda 2007-2008",
+      "score": "",
+      "logo": "",
       "status": "upcoming"
     },
     {
