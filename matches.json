@@ -1,20 +1,8 @@
 {
-  "scrapedAt": "2026-04-17T18:44:09.996Z",
+  "scrapedAt": "2026-04-18T01:24:01.564Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 573,
+  "matchCount": 574,
   "matches": [
-    {
-      "team": "P14",
-      "hall": "Borgebyhallen",
-      "time": "18:50",
-      "date": "fre 17",
-      "month": "APRIL 2026",
-      "home": "HK Ankaret Röd",
-      "away": "H43 Lund HF Blå",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "U7",
       "hall": "Fäladshallen A",
@@ -50,6 +38,30 @@
       "score": "",
       "logo": "",
       "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Heddahallen",
+      "time": "19:30",
+      "date": "ons 22",
+      "month": "APRIL 2026",
+      "home": "H43 Lag Blå",
+      "away": "HK Malmö",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P14",
+      "hall": "Borgebyhallen",
+      "time": "18:50",
+      "date": "fre 17",
+      "month": "APRIL 2026",
+      "home": "HK Ankaret Röd",
+      "away": "H43 Lund HF Blå",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F16",
