@@ -89,6 +89,14 @@ text = text
   .replace(/[ \t]+/g, " ")
   .trim();
 
+  const m = text.match(/Samling[: ]+(\d{1,2}:\d{2})/);
+  if (m) meetingTime = m[1];
+
+  info = text
+    .replace(/Samling[: ]+\d{1,2}:\d{2}/i, "")
+    .replace(/\n{2,}/g, "\n")
+    .trim();
+
   return { meetingTime, info };
 }
 
