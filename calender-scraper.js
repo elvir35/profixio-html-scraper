@@ -77,25 +77,21 @@ function extractExtraInfoByAID($, eventAID) {
 
   let html = popup.html() || "";
 
-// convert <br> to line breaks BEFORE stripping tags
-html = html.replace(/<br\s*\/?>/gi, "\n");
+// 🔥 Convert block elements to line breaks
+html = html
+  .replace(/<\/div>/gi, "\n")   // end of div = new line
+  .replace(/<br\s*\/?>/gi, "\n");
 
-// remove HTML tags
+// 🔥 Remove all remaining HTML tags
 let text = html.replace(/<[^>]+>/g, "");
 
-// normalize spacing
+// 🔥 Clean spacing properly
 text = text
-  .replace(/\n{3,}/g, "\n\n")
+  .replace(/\r/g, "")
+  .replace(/\n\s*\n\s*\n+/g, "\n\n") // collapse multiple empty lines
   .replace(/[ \t]+/g, " ")
+  .replace(/\n /g, "\n")            // trim start of lines
   .trim();
-
-  const m = text.match(/Samling[: ]+(\d{1,2}:\d{2})/);
-  if (m) meetingTime = m[1];
-
-  info = text
-    .replace(/Samling[: ]+\d{1,2}:\d{2}/i, "")
-    .replace(/\n{2,}/g, "\n")
-    .trim();
 
   return { meetingTime, info };
 }
