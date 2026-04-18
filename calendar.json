@@ -2061,20 +2061,6 @@
     "date": "ons 22",
     "month": "April",
     "startTime": "19:00",
-    "endTime": "21:00",
-    "team": "F14",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder."
-  },
-  {
-    "date": "ons 22",
-    "month": "April",
-    "startTime": "19:00",
     "endTime": "20:30",
     "team": "P14",
     "location": "Bollhuset A",
@@ -2084,6 +2070,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Bollhuset ATräning såvitt inget annat meddelats.Kom ombytt och medtag vattenflaska och boll."
+  },
+  {
+    "date": "ons 22",
+    "month": "April",
+    "startTime": "19:30",
+    "endTime": "",
+    "team": "F14",
+    "location": "Heddahallen ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Malmö",
+    "homeAway": "hemma",
+    "meetingTime": "",
+    "info": "HK Malmö  hemma, Heddahallen ()Träningsmatch för Lag Blå inför Bohus cup Samling 19.30 Matchstart 20.00 mot HK Malmö Plats: Heddahallen"
   },
   {
     "date": "ons 22",
@@ -2952,20 +2952,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Bollhuset A"
-  },
-  {
-    "date": "tor 30",
-    "month": "April",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "F10",
-    "location": "Victoriastadion 1",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska."
   },
   {
     "date": "tor 30",
