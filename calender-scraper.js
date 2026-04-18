@@ -75,7 +75,19 @@ function extractExtraInfoByAID($, eventAID) {
 
   if (!popup.length) return { meetingTime, info };
 
-  const text = popup.text().trim();
+  let html = popup.html() || "";
+
+// convert <br> to line breaks BEFORE stripping tags
+html = html.replace(/<br\s*\/?>/gi, "\n");
+
+// remove HTML tags
+let text = html.replace(/<[^>]+>/g, "");
+
+// normalize spacing
+text = text
+  .replace(/\n{3,}/g, "\n\n")
+  .replace(/[ \t]+/g, " ")
+  .trim();
 
   const m = text.match(/Samling[: ]+(\d{1,2}:\d{2})/);
   if (m) meetingTime = m[1];
