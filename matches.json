@@ -1,20 +1,8 @@
 {
-  "scrapedAt": "2026-04-19T18:35:15.873Z",
+  "scrapedAt": "2026-04-20T01:49:33.802Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 574,
   "matches": [
-    {
-      "team": "P11",
-      "hall": "Helsingborgs Arena",
-      "time": "10:40",
-      "date": "sön 19",
-      "month": "APRIL 2026",
-      "home": "Träningsmatcher P11 Gameday",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P18",
       "hall": "Arenan",
@@ -38,6 +26,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P11",
+      "hall": "Helsingborgs Arena",
+      "time": "10:40",
+      "date": "sön 19",
+      "month": "APRIL 2026",
+      "home": "Träningsmatcher P11 Gameday",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "U7",
