@@ -1808,20 +1808,6 @@
   {
     "date": "mån 20",
     "month": "April",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "team": "F16",
-    "location": "Bollhuset",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Bollhuset Alltid jogginfskor med"
-  },
-  {
-    "date": "mån 20",
-    "month": "April",
     "startTime": "20:00",
     "endTime": "21:30",
     "team": "HK Blå 85",
@@ -1958,20 +1944,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "ons 22",
-    "month": "April",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "team": "F16",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan AAlltid joggingskor"
   },
   {
     "date": "ons 22",
@@ -2196,20 +2168,6 @@
     "homeAway": "borta",
     "meetingTime": "18:45",
     "info": "Stavsten IF borta, Söderslättshallen ()Hej\nVi har överens med Stavsten om att spela en träningsmatch borta mot de inför Bohus cup. Svara gärna senast onsdag om ert barn kan vara med och spela."
-  },
-  {
-    "date": "tor 23",
-    "month": "April",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "team": "F16",
-    "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, TunahallenAlltid joggingskor med"
   },
   {
     "date": "tor 23",
@@ -2534,20 +2492,6 @@
     "info": ""
   },
   {
-    "date": "sön 26",
-    "month": "April",
-    "startTime": "17:00",
-    "endTime": "17:10",
-    "team": "F16",
-    "location": "Åhus Beach",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Intresseanmälan Åhus Beach  12-13/7",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Intresseanmälan Åhus Beach 12-13/7, Åhus Beach Intresseanmälan för Åhus Beach \"vanlig handboll\" \nSvara ja eller nej på kallelsen så fort som möjligt. Senast söndag denna veckan."
-  },
-  {
     "date": "mån 27",
     "month": "April",
     "startTime": "17:00",
@@ -2690,20 +2634,6 @@
   {
     "date": "mån 27",
     "month": "April",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "team": "F16",
-    "location": "Bollhuset",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Bollhuset Alltid jogginfskor med"
-  },
-  {
-    "date": "mån 27",
-    "month": "April",
     "startTime": "20:00",
     "endTime": "21:30",
     "team": "HK Blå 85",
@@ -2832,20 +2762,6 @@
     "month": "April",
     "startTime": "17:00",
     "endTime": "19:00",
-    "team": "F16",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan AAlltid joggingskor"
-  },
-  {
-    "date": "ons 29",
-    "month": "April",
-    "startTime": "17:00",
-    "endTime": "19:00",
     "team": "P11",
     "location": "Vipeholmshallen",
     "type": "Träning",
@@ -2959,20 +2875,6 @@
     "startTime": "17:00",
     "endTime": "18:00",
     "team": "F19 / Dam U",
-    "location": "Göteborg",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Partille cup 29/6-4/7 2006",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Partille cup 29/6-4/7 2006, GöteborgHej alla,\nVi planerar att delta i Partille Cup i Göteborg, 29 juni  4 juli 2026. Vi behöver nu veta hur många som vill följa med innan det anmäls lag och betalning ska göras. Vi kommer spela tillsammans med tjejerna födda 2009 för att påbörja integreringen inför kommande säsong. \n?? Svar senast: Sön 22:a Mars\nPreliminär kostnad: ca 3000kr per spelare\nKallelsen går i SportAdmin inte att lägga in i Juni/Juli då det räknas in i nästa säsong så ignorera datumet som står på kallelsen. \nVi hoppas att så många som möjligt vill följa och inleda nästa säsong i Göteborg!\n/Ledarna"
-  },
-  {
-    "date": "tor 30",
-    "month": "April",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "team": "F19 / Dam U",
     "location": "Åhus",
     "type": "Träning",
     "title": "",
@@ -2980,6 +2882,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Uppdaterad kallelse: Åhus beach 12-13/7 F16, ÅhusHej,\nDetta är en uppdaterad kallelse för Åhus beach F16 (2009/2010). Vi är ledsna för den väldigt korta svarstiden men vi behöver veta så fort som möjligt vilka som vill spela så att vi kan anmäla rätt antal lag. Speldagar är 12-13/7. \nVi hoppas många av er vill vara med! Har ni frågor så bara hör av er. \n/Carro (ledare i DamJuniorerna), 0733949375"
+  },
+  {
+    "date": "tor 30",
+    "month": "April",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F19 / Dam U",
+    "location": "Göteborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Partille cup 29/6-4/7 2006",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Partille cup 29/6-4/7 2006, GöteborgHej alla,\nVi planerar att delta i Partille Cup i Göteborg, 29 juni  4 juli 2026. Vi behöver nu veta hur många som vill följa med innan det anmäls lag och betalning ska göras. Vi kommer spela tillsammans med tjejerna födda 2009 för att påbörja integreringen inför kommande säsong. \n?? Svar senast: Sön 22:a Mars\nPreliminär kostnad: ca 3000kr per spelare\nKallelsen går i SportAdmin inte att lägga in i Juni/Juli då det räknas in i nästa säsong så ignorera datumet som står på kallelsen. \nVi hoppas att så många som möjligt vill följa och inleda nästa säsong i Göteborg!\n/Ledarna"
   },
   {
     "date": "tor 30",
@@ -3022,20 +2938,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Löpning + Hall, Heddahallen"
-  },
-  {
-    "date": "tor 30",
-    "month": "April",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "team": "F16",
-    "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, TunahallenAlltid joggingskor med"
   },
   {
     "date": "tor 30",
