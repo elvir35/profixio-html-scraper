@@ -2354,6 +2354,20 @@
   {
     "date": "lör 25",
     "month": "April",
+    "startTime": "09:00",
+    "endTime": "15:00",
+    "team": "P9",
+    "location": "Bortamatch",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Kanariecupen",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Kanariecupen , BortamatchLag 1 (Caroline och John)\nAlve\nEldar\nElliot\nErik L\nGabriel\nOscar L\nSvante\nLag 2 (Magnus och Sofia)\nAlfred\nEric V\nGustas\nGustav\nOliver\nOskar B\nSander\nSixten\nLag 1 samling 8.30 Kulladals sporthall\nLag 2 samling 9.30 Kulladals sporthall\nSpelschema och information hittar ni på: https://kanariecupen.se/start"
+  },
+  {
+    "date": "lör 25",
+    "month": "April",
     "startTime": "10:00",
     "endTime": "11:00",
     "team": "F8",
