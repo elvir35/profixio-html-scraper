@@ -2019,6 +2019,20 @@
     "date": "ons 22",
     "month": "April",
     "startTime": "19:00",
+    "endTime": "21:00",
+    "team": "F14",
+    "location": "Träning",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Träning Inställd match för Lag Blå idag så det blir träning för ALLA som kan. Svara på kallelsen så fort som möjligt.\nLöpning ute 19.00-19.30 och Inomhus 19.30-21.00"
+  },
+  {
+    "date": "ons 22",
+    "month": "April",
+    "startTime": "19:00",
     "endTime": "20:30",
     "team": "P14",
     "location": "Bollhuset A",
@@ -2039,9 +2053,9 @@
     "type": "Match",
     "title": "",
     "opponent": "HK Malmö",
-    "homeAway": "hemma",
+    "homeAway": "borta",
     "meetingTime": "",
-    "info": "HK Malmö hemma, Heddahallen ()Träningsmatch för Lag Blå inför Bohus cup \nSamling 19.30 \nMatchstart 20.00 mot HK Malmö \nPlats: Heddahallen"
+    "info": "HK Malmö borta, Heddahallen ()(Match struken)Träningsmatch för Lag Blå inför Bohus cup \nSamling 19.30 \nMatchstart 20.00 mot HK Malmö \nPlats: Heddahallen"
   },
   {
     "date": "ons 22",
