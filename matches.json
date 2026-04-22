@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-04-22T01:29:17.885Z",
+  "scrapedAt": "2026-04-22T07:20:38.096Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 575,
+  "matchCount": 574,
   "matches": [
     {
       "team": "F14",
@@ -13,18 +13,6 @@
       "away": "HK Malmö",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
-      "hall": "Söderslättshallen",
-      "time": "19:30",
-      "date": "tor 23",
-      "month": "APRIL 2026",
-      "home": "Stavsten IF",
-      "away": "H43 Lund vit",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/24039_1006_S.webp",
       "status": "upcoming"
     },
     {
