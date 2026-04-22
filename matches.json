@@ -1,20 +1,8 @@
 {
-  "scrapedAt": "2026-04-21T18:58:31.801Z",
+  "scrapedAt": "2026-04-22T01:29:17.885Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 575,
   "matches": [
-    {
-      "team": "P18",
-      "hall": "Arenan",
-      "time": "19:30",
-      "date": "tis 21",
-      "month": "APRIL 2026",
-      "home": "H43 Lund Pojkar 18",
-      "away": "födda 2007-2008",
-      "score": "",
-      "logo": "",
-      "status": "upcoming"
-    },
     {
       "team": "F14",
       "hall": "Heddahallen",
@@ -38,6 +26,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/24039_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P18",
+      "hall": "Arenan",
+      "time": "19:30",
+      "date": "tis 21",
+      "month": "APRIL 2026",
+      "home": "H43 Lund Pojkar 18",
+      "away": "födda 2007-2008",
+      "score": "",
+      "logo": "",
+      "status": "played"
     },
     {
       "team": "P11",
