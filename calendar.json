@@ -2298,16 +2298,16 @@
   {
     "date": "lör 25",
     "month": "April",
-    "startTime": "08:00",
-    "endTime": "18:00",
+    "startTime": "08:30",
+    "endTime": "15:00",
     "team": "P9",
     "location": "Bortamatch",
     "type": "Övrigt",
     "title": "",
-    "opponent": "INTRESSEANMÄLAN KANARIECUPEN",
+    "opponent": "Kanariecupen",
     "homeAway": "",
     "meetingTime": "",
-    "info": "INTRESSEANMÄLAN KANARIECUPEN, BortamatchINTRESSEANMÄLAN KANARIECUPEN\nVi tänkte spela en sista minihandbolls-turnering den 25 april. \nDå platserna börjar tar slut behöver vi ett snabbt svar från er. \nKostnaden kommer dras från vårt lagkonto, därmed är det viktigt att ni verkligen bara tackar ja om ni vet att ni kommer spela så vi anmäler rätt antal lag. \nTurneringen spelas i Malmö, mer info finns här:\nhttps://kanariecupen.se"
+    "info": "Kanariecupen , BortamatchLag 1 (Caroline och John)\nAlve\nEldar\nElliot\nErik L\nGabriel\nOscar L\nSvante\nLag 2 (Magnus och Sofia)\nAlfred\nEric V\nGustas\nGustav\nOliver\nOskar B\nSander\nSixten\nLag 1 samling 8.30 Kulladals sporthall\nLag 2 samling 9.30 Kulladals sporthall\nSpelschema och information hittar ni på: https://kanariecupen.se/start"
   },
   {
     "date": "lör 25",
@@ -2350,20 +2350,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "lör 25",
-    "month": "April",
-    "startTime": "09:00",
-    "endTime": "15:00",
-    "team": "P9",
-    "location": "Bortamatch",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Kanariecupen",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Kanariecupen , BortamatchLag 1 (Caroline och John)\nAlve\nEldar\nElliot\nErik L\nGabriel\nOscar L\nSvante\nLag 2 (Magnus och Sofia)\nAlfred\nEric V\nGustas\nGustav\nOliver\nOskar B\nSander\nSixten\nLag 1 samling 8.30 Kulladals sporthall\nLag 2 samling 9.30 Kulladals sporthall\nSpelschema och information hittar ni på: https://kanariecupen.se/start"
   },
   {
     "date": "lör 25",
