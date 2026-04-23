@@ -2592,20 +2592,6 @@
   {
     "date": "mån 27",
     "month": "April",
-    "startTime": "18:45",
-    "endTime": "21:00",
-    "team": "F19 / Dam U",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Löpning + Hall",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Löpning + Hall, Heddahallen"
-  },
-  {
-    "date": "mån 27",
-    "month": "April",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -2630,6 +2616,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Bollhuset"
+  },
+  {
+    "date": "mån 27",
+    "month": "April",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "team": "F19 / Dam U",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Heddahallen"
   },
   {
     "date": "mån 27",
