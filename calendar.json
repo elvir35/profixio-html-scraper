@@ -1806,20 +1806,6 @@
     "info": "Träning, Bollhuset"
   },
   {
-    "date": "mån 20",
-    "month": "April",
-    "startTime": "20:00",
-    "endTime": "21:30",
-    "team": "HK Blå 85",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Fäladshallen"
-  },
-  {
     "date": "tis 21",
     "month": "April",
     "startTime": "17:00",
@@ -2070,20 +2056,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "ons 22",
-    "month": "April",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "team": "HK Blå 85",
-    "location": "Bollhuset A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Bollhuset A"
   },
   {
     "date": "tor 23",
@@ -2632,20 +2604,6 @@
     "info": "Träning, Heddahallen"
   },
   {
-    "date": "mån 27",
-    "month": "April",
-    "startTime": "20:00",
-    "endTime": "21:30",
-    "team": "HK Blå 85",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Fäladshallen"
-  },
-  {
     "date": "tis 28",
     "month": "April",
     "startTime": "17:00",
@@ -2769,7 +2727,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, VipeholmshallenSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
+    "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
   },
   {
     "date": "ons 29",
@@ -2854,20 +2812,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "ons 29",
-    "month": "April",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "team": "HK Blå 85",
-    "location": "Bollhuset A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Bollhuset A"
   },
   {
     "date": "tor 30",
