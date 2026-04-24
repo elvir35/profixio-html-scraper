@@ -2452,6 +2452,20 @@
   {
     "date": "sön 26",
     "month": "April",
+    "startTime": "10:30",
+    "endTime": "",
+    "team": "P16",
+    "location": "Lågehallen  ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Eslöv",
+    "homeAway": "borta",
+    "meetingTime": "",
+    "info": "Eslöv borta, Lågehallen ()Vi ska spela träningsmatch mot Eslöv inför deras steg 5. Vänligen svara på kallelsen så fort som möjligt!"
+  },
+  {
+    "date": "sön 26",
+    "month": "April",
     "startTime": "15:00",
     "endTime": "23:59",
     "team": "P14",
