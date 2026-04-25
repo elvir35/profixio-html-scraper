@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-04-25T12:41:05.307Z",
+  "scrapedAt": "2026-04-25T18:36:52.583Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 575,
+  "matchCount": 576,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -15,6 +15,18 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "U7",
+      "hall": "Heddahallen",
+      "time": "11:00",
+      "date": "lör 16",
+      "month": "MAJ 2026",
+      "home": "H43 Lund",
+      "away": "Lugi med flera",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4490,7 +4502,7 @@
       "home": "IFK Malmö",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/8691_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
