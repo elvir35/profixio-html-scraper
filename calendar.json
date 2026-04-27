@@ -2601,7 +2601,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Heddahallen"
+    "info": ""
   },
   {
     "date": "tis 28",
@@ -2760,20 +2760,6 @@
   {
     "date": "ons 29",
     "month": "April",
-    "startTime": "18:30",
-    "endTime": "20:00",
-    "team": "F13",
-    "location": "Victoriastadion",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Victoriastadion"
-  },
-  {
-    "date": "ons 29",
-    "month": "April",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "DAMER A",
@@ -2789,20 +2775,6 @@
     "date": "ons 29",
     "month": "April",
     "startTime": "19:00",
-    "endTime": "21:00",
-    "team": "F14",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning- Internmatch mot F 2012 på förslag , HeddahallenObligatorisk löpning utomhus en halvtimma innan träning. Se till att ha med löparskor och kläder efter väder."
-  },
-  {
-    "date": "ons 29",
-    "month": "April",
-    "startTime": "19:00",
     "endTime": "20:30",
     "team": "P14",
     "location": "Bollhuset A",
@@ -2812,6 +2784,34 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Bollhuset ATräning såvitt inget annat meddelats.\nKom ombytt och medtag vattenflaska och boll."
+  },
+  {
+    "date": "ons 29",
+    "month": "April",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "team": "F13",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Internmatch",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Internmatch, HeddahallenSkickar om kallelsen då onsdagens träning blir lite annorlunda. Vi kommer att spela en (eller snarare flera) internmatcher tillsammans med F14, där vi blandar lagen, och gör träningen till en blandning av lek, allvar och en social övning. \nObservera kort anmälningstid!"
+  },
+  {
+    "date": "ons 29",
+    "month": "April",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "team": "F14",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning- Internmatch mot F 2012 , HeddahallenIngen löpning \nInomhusträning 19.30-21.00 med olika matcher"
   },
   {
     "date": "ons 29",
