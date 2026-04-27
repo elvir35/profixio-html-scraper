@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-04-26T18:37:45.786Z",
+  "scrapedAt": "2026-04-27T01:53:09.991Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 576,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "P16",
-      "hall": "Lågehallen",
-      "time": "10:30",
-      "date": "sön 26",
-      "month": "APRIL 2026",
-      "home": "Eslöv",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "U7",
       "hall": "Heddahallen",
@@ -28,6 +16,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P16",
+      "hall": "Lågehallen",
+      "time": "10:30",
+      "date": "sön 26",
+      "month": "APRIL 2026",
+      "home": "Eslöv",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F14",
@@ -1622,7 +1622,7 @@
       "home": "Enköpings HF",
       "away": "H43 Lund HF",
       "score": "27 - 34",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26043_1006_S.webp",
       "status": "played"
     },
     {
@@ -2906,7 +2906,7 @@
       "home": "H43 Lund HF 3",
       "away": "Vinslövs HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/20104_1006_S.webp",
       "status": "played"
     },
     {
@@ -6158,7 +6158,7 @@
       "home": "H43 Lund HF",
       "away": "Enköpings HF",
       "score": "29 - 24",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26043_1006_S.webp",
       "status": "played"
     },
     {
