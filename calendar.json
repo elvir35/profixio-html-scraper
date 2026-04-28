@@ -2678,20 +2678,6 @@
     "month": "April",
     "startTime": "19:00",
     "endTime": "20:30",
-    "team": "P10",
-    "location": "Östratornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning H43 P2015, Östratornhallen"
-  },
-  {
-    "date": "tis 28",
-    "month": "April",
-    "startTime": "19:30",
-    "endTime": "21:00",
     "team": "F19 / Dam U",
     "location": "Arenan",
     "type": "Träning",
@@ -2700,6 +2686,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "tis 28",
+    "month": "April",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "P10",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning H43 P2015, Östratornhallen"
   },
   {
     "date": "tis 28",
