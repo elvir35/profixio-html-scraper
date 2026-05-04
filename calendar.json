@@ -478,20 +478,6 @@
   {
     "date": "mån 04",
     "month": "Maj",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "team": "P14",
-    "location": "Östratornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Östratornhallen\nTräning såvitt inget annat meddelats.\nKom ombytt och medtag vattenflaska och boll.\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller."
-  },
-  {
-    "date": "mån 04",
-    "month": "Maj",
     "startTime": "17:30",
     "endTime": "18:30",
     "team": "F14",
@@ -530,6 +516,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "mån 04",
+    "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "P14",
+    "location": "Beachplanerna Stadsparken",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Beachplanerna StadsparkenUPPDATERING!\nVi kör igång med bechhandboll måndag 5/4,  på beachplanerna i Stadsparken.\nTräning såvitt inget annat meddelats.\nKom ombytt och medtag vattenflaska och beachhandboll.\nSista halvtimmen är vi ute - så kläder efter väder och löpskor gäller."
   },
   {
     "date": "mån 04",
