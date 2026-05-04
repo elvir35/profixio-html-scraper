@@ -661,7 +661,7 @@
     "date": "tor 07",
     "month": "Maj",
     "startTime": "17:00",
-    "endTime": "18:00",
+    "endTime": "18:15",
     "team": "F9",
     "location": "Östra Torns Beachhandbollsplan",
     "type": "Träning",
@@ -781,7 +781,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träningsmatch HK Malmö, VipeholmshallenVi har fått en extra träningstid den 9 maj kl 10-11.30 i Vipeholmshallen, och har bjudit in HK Malmö för träningsmatch. Matchtid meddelar vi senare, men vår förhoppning är att Malmö får ihop två lag och att vi kan spela två matcher."
+    "info": "Träningsmatch HK Malmö, VipeholmshallenVi har fått en extra träningstid den 9 maj kl 10-11.30 i Vipeholmshallen, och har bjudit in HK Malmö för träningsmatch.\n \nMalmö kommer med ett lag och vi kommer dela upp oss i två lag. Vi kör tre korta matcher, där alla möter alla (dvs våra lag möter Malmö en gång och varandra en gång)."
   },
   {
     "date": "lör 09",
@@ -908,20 +908,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachhandbollsträning, Beachhandbollsplanen Östra TornTa med vattenflaska och boll som funkar på sand. Träningen kan ställas in vid dåligt väder."
-  },
-  {
-    "date": "tis 12",
-    "month": "Maj",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "P8",
-    "location": "Hubertusgårdens Gymnastiksal",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tis 12",
@@ -1118,20 +1104,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning, Stadsparken"
-  },
-  {
-    "date": "tis 19",
-    "month": "Maj",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "P8",
-    "location": "Hubertusgårdens Gymnastiksal",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tis 19",
@@ -1440,20 +1412,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning, Stadsparken"
-  },
-  {
-    "date": "tis 26",
-    "month": "Maj",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "P8",
-    "location": "Hubertusgårdens Gymnastiksal",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tis 26",
