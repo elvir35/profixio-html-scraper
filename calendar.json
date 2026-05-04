@@ -114,6 +114,34 @@
   {
     "date": "fre 01",
     "month": "Maj",
+    "startTime": "14:20",
+    "endTime": "22:15",
+    "team": "F11",
+    "location": "Göteborg",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Göteborg"
+  },
+  {
+    "date": "fre 01",
+    "month": "Maj",
+    "startTime": "",
+    "endTime": "",
+    "team": "F11",
+    "location": "Göteborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Flerdagsaktivitet",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Flerdagsaktivitet, Göteborg"
+  },
+  {
+    "date": "fre 01",
+    "month": "Maj",
     "startTime": "15:20",
     "endTime": "16:20",
     "team": "F14",
@@ -208,6 +236,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Bohus cup, Göteborg SernekeHej! \nFredag\n15:00 IK Sävehof -V1 H43 Lund Prioritet Serneke Konstgräs 1\n19:00 H43 Lund Önnereds HK 3 Prioritet Serneke Arena B\nLördag\n11:40 H43 Lund Önnereds HK 4 Kviberg Park Sporthall 2\n14:20 IFK Malmö Handboll Blå H43 Lund Prioritet Serneke Arena B\nSöndag\n13:00 H43 Lund Torslanda HK Blå Prioritet Serneke Konstgräs 5\nVi vet inte exakt hur vi reser dit än. Men räkna med 500 kr t/r om vi åker tåg/buss.\nI avgiften ingår 30% på Lisebergs entré och åkpass och det hoppas vi kunna åka till på lördagen. Som det ser ut nu så blir det några timmar på lördag eftermiddag/kväll. Vill någon inte dit, oavsett anledning, så löser vi det självklart. Berätta gärna om man för oss ledare om det är något vi behöver veta."
+  },
+  {
+    "date": "lör 02",
+    "month": "Maj",
+    "startTime": "",
+    "endTime": "",
+    "team": "F11",
+    "location": "Göteborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Flerdagsaktivitet",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Flerdagsaktivitet, Göteborg"
   },
   {
     "date": "lör 02",
@@ -350,6 +392,20 @@
     "info": ""
   },
   {
+    "date": "lör 02",
+    "month": "Maj",
+    "startTime": "11:00",
+    "endTime": "18:10",
+    "team": "F11",
+    "location": "Göteborg",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Göteborg"
+  },
+  {
     "date": "sön 03",
     "month": "Maj",
     "startTime": "00:00",
@@ -390,6 +446,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Bohus cup, Göteborg SernekeHej! \nFredag\n15:00 IK Sävehof -V1 H43 Lund Prioritet Serneke Konstgräs 1\n19:00 H43 Lund Önnereds HK 3 Prioritet Serneke Arena B\nLördag\n11:40 H43 Lund Önnereds HK 4 Kviberg Park Sporthall 2\n14:20 IFK Malmö Handboll Blå H43 Lund Prioritet Serneke Arena B\nSöndag\n13:00 H43 Lund Torslanda HK Blå Prioritet Serneke Konstgräs 5\nVi vet inte exakt hur vi reser dit än. Men räkna med 500 kr t/r om vi åker tåg/buss.\nI avgiften ingår 30% på Lisebergs entré och åkpass och det hoppas vi kunna åka till på lördagen. Som det ser ut nu så blir det några timmar på lördag eftermiddag/kväll. Vill någon inte dit, oavsett anledning, så löser vi det självklart. Berätta gärna om man för oss ledare om det är något vi behöver veta."
+  },
+  {
+    "date": "sön 03",
+    "month": "Maj",
+    "startTime": "",
+    "endTime": "",
+    "team": "F11",
+    "location": "Göteborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Flerdagsaktivitet",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Flerdagsaktivitet, Göteborg"
   },
   {
     "date": "sön 03",
@@ -474,6 +544,34 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Bohus Cup- Dag 3 Lag Blå , Göteborg Slutspel på söndagen, Lag Blå \nSpelplats: Åby Isstadion, plan nr beroende på match \nÅttondelsfinaler (fortsatt match vid vinst och vid förlust avslutas turneringen här)\nA slutspel, 1:a i gruppen, kl 10.30\nA slutspel, 2:a i gruppen, kl 09.45\nB slutspel, 3:a i gruppen kl 10.30\nB slutspel, 4:a i gruppen kl 09.45"
+  },
+  {
+    "date": "sön 03",
+    "month": "Maj",
+    "startTime": "09:40",
+    "endTime": "16:10",
+    "team": "F11",
+    "location": "Göteborg",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Göteborg"
+  },
+  {
+    "date": "mån 04",
+    "month": "Maj",
+    "startTime": "11:00",
+    "endTime": "",
+    "team": "U7",
+    "location": "Heddahallen ()",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "hemma",
+    "meetingTime": "11:00",
+    "info": "Träningsmatcher Lugi med flera hemma, Heddahallen ()Inbjudan till träningsmatch hos Lugi. \nSe info nedan. \nHej!\nVi arrangerar träningsmatcher den 16 maj!\nPlats: Hedda-hallen (bredvid Bollhuset)\nTid: 11.00 - 14.00\nFormat: \"Handbollsfestival\"\n3-4 matcher á 15 min, beroende på antal anmälda lag.\nMini Handbollsregler (1 mv, 4 utespelare, goalcha-boll etc.)\nUngdomsdomare från LUGI\nKiosk!\nVi hoppas att ni vill komma och spela handboll med oss!"
   },
   {
     "date": "mån 04",
@@ -758,20 +856,6 @@
   {
     "date": "lör 09",
     "month": "Maj",
-    "startTime": "09:00",
-    "endTime": "10:30",
-    "team": "P10",
-    "location": "Bollhuset B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "lör 09",
-    "month": "Maj",
     "startTime": "10:00",
     "endTime": "11:30",
     "team": "F10",
@@ -796,6 +880,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 09",
+    "month": "Maj",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "team": "P10",
+    "location": "Beachplanen i Stångby (Byaparken)",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Beachplanen i Stångby (Byaparken)På lördag kör vi beachhandboll i Stångby.\nParken som planerna ligger i heter Byaparken och det ligger bakom Stångbys församlingshem och Torns IF.\nMan parkerar bäst vid Torns IF gräsplaner, där ligger en stor parkering."
   },
   {
     "date": "lör 09",
@@ -1034,20 +1132,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "lör 16",
-    "month": "Maj",
-    "startTime": "11:00",
-    "endTime": "",
-    "team": "U7",
-    "location": "Heddahallen ()",
-    "type": "Match",
-    "title": "",
-    "opponent": "",
-    "homeAway": "hemma",
-    "meetingTime": "10:45",
-    "info": "Träningsmatcher Lugi med flera hemma, Heddahallen ()Inbjudan till träningsmatch hos Lugi. \nSe info nedan. \nHej!\nVi arrangerar träningsmatcher den 16 maj!\nPlats: Hedda-hallen (bredvid Bollhuset)\nTid: 11.00 - 14.00\nFormat: \"Handbollsfestival\"\n3-4 matcher á 15 min, beroende på antal anmälda lag.\nMini Handbollsregler (1 mv, 4 utespelare, goalcha-boll etc.)\nUngdomsdomare från LUGI\nKiosk!\nVi hoppas att ni vill komma och spela handboll med oss!"
   },
   {
     "date": "lör 16",
