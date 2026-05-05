@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-05-04T19:14:50.467Z",
+  "scrapedAt": "2026-05-05T01:58:09.493Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 576,
   "hasMatches": true,
@@ -15,7 +15,7 @@
       "away": "Träningsmatcher Lugi med flera",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
-      "status": "upcoming"
+      "status": "played"
     },
     {
       "team": "P16",
