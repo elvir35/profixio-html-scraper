@@ -30,34 +30,6 @@
   {
     "date": "fre 01",
     "month": "Maj",
-    "startTime": "09:00",
-    "endTime": "23:00",
-    "team": "P11",
-    "location": "Göteborg",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Intresseanmälan Bohus Cup 1-3 maj",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Intresseanmälan Bohus Cup 1-3 maj, GöteborgIntresseanmälan stängd! För info se den bindande kallelsen."
-  },
-  {
-    "date": "fre 01",
-    "month": "Maj",
-    "startTime": "10:00",
-    "endTime": "18:00",
-    "team": "P11",
-    "location": "Lund-Göteborg",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Bilplatser Bohus Cup-Inventering",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Bilplatser Bohus Cup-Inventering, Lund-GöteborgHej alla Bohus Cup-deltagare!\nVår ursprungliga plan var att vi skulle åka buss/tåg upp med killarna till Bohus Cup 1-3 maj. Men det verkar som en del av er föräldrar ändå ska åka upp till Göteborg för att heja och titta på matcherna.&nbsp; \nVi vill därför inventera hur många som faktisk ska göra det. Vi vill med detta få en uppfattning om det är lönt för oss att beställa och lägga extra pengar på att hyra en buss. \nSkriv kommentar här i kallelsen. Skriv Ja om ni planerar att köra upp och ner med bil och Nej om ni inte planerar att köra bil. Ni som svarar Ja ska också skriva hur många eventuella extraplatser ni har i er bil som kan nyttjas av spelare i laget (utöver egna barnet) inkl packning. Vi siktar på att vara i Göteborg ca. kl. 13 på fredagen 1 maj (är en helgdag), lite beroende på hur spelschemat ser ut.\nSvara så fort som möjligt, senast på fredag! Tack! \nMvh/ Tränarna"
-  },
-  {
-    "date": "fre 01",
-    "month": "Maj",
     "startTime": "",
     "endTime": "",
     "team": "P11",
@@ -120,10 +92,10 @@
     "location": "Göteborg",
     "type": "Träning",
     "title": "",
-    "opponent": "",
+    "opponent": "Bohus Cup dag 1",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Göteborg"
+    "info": "Bohus Cup dag 1, Göteborg"
   },
   {
     "date": "fre 01",
@@ -400,10 +372,10 @@
     "location": "Göteborg",
     "type": "Träning",
     "title": "",
-    "opponent": "",
+    "opponent": "Bohus Cup dag 2",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Göteborg"
+    "info": "Bohus Cup dag 2, Göteborg"
   },
   {
     "date": "sön 03",
@@ -554,10 +526,10 @@
     "location": "Göteborg",
     "type": "Träning",
     "title": "",
-    "opponent": "",
+    "opponent": "Bohus Cup dag 3",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Göteborg"
+    "info": "Bohus Cup dag 3, Göteborg"
   },
   {
     "date": "mån 04",
@@ -712,6 +684,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning inkl. målvaktsträning, VipeholmshallenMålvaktsträning med Bosse Nielsen. Skriv Målvakt som kommentar i träningskallelsen om ert barn vill fokusera på att vara målvakt på denna träning.\nSista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
+  },
+  {
+    "date": "ons 06",
+    "month": "Maj",
+    "startTime": "18:15",
+    "endTime": "19:30",
+    "team": "F11",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Tornhallen, Stångby"
   },
   {
     "date": "ons 06",
@@ -926,6 +912,20 @@
   {
     "date": "mån 11",
     "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Victoriastadion 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Victoriastadion 2"
+  },
+  {
+    "date": "mån 11",
+    "month": "Maj",
     "startTime": "17:30",
     "endTime": "18:30",
     "team": "F14",
@@ -1038,6 +1038,20 @@
   {
     "date": "ons 13",
     "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F11",
+    "location": "Beachplaner",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning Beachhandboll, Beachplaner, Stadsparken"
+  },
+  {
+    "date": "ons 13",
+    "month": "Maj",
     "startTime": "18:00",
     "endTime": "19:00",
     "team": "P11",
@@ -1048,6 +1062,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning, Stadsparken"
+  },
+  {
+    "date": "ons 13",
+    "month": "Maj",
+    "startTime": "18:15",
+    "endTime": "19:30",
+    "team": "F11",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "ons 13",
@@ -1164,6 +1192,20 @@
   {
     "date": "mån 18",
     "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Victoriastadion 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Victoriastadion 2"
+  },
+  {
+    "date": "mån 18",
+    "month": "Maj",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "P9",
@@ -1234,6 +1276,20 @@
   {
     "date": "ons 20",
     "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F11",
+    "location": "Beachplaner",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning Beachhandboll, Beachplaner, Stadsparken"
+  },
+  {
+    "date": "ons 20",
+    "month": "Maj",
     "startTime": "18:00",
     "endTime": "19:00",
     "team": "P11",
@@ -1244,6 +1300,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning, Stadsparken"
+  },
+  {
+    "date": "ons 20",
+    "month": "Maj",
+    "startTime": "18:15",
+    "endTime": "19:30",
+    "team": "F11",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "ons 20",
@@ -1458,6 +1528,20 @@
   {
     "date": "mån 25",
     "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Victoriastadion 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Victoriastadion 2"
+  },
+  {
+    "date": "mån 25",
+    "month": "Maj",
     "startTime": "17:30",
     "endTime": "18:30",
     "team": "F14",
@@ -1542,6 +1626,20 @@
   {
     "date": "ons 27",
     "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F11",
+    "location": "Beachplaner",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning Beachhandboll, Beachplaner, Stadsparken"
+  },
+  {
+    "date": "ons 27",
+    "month": "Maj",
     "startTime": "18:00",
     "endTime": "19:00",
     "team": "P11",
@@ -1552,6 +1650,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning, Stadsparken"
+  },
+  {
+    "date": "ons 27",
+    "month": "Maj",
+    "startTime": "18:15",
+    "endTime": "19:30",
+    "team": "F11",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "ons 27",
