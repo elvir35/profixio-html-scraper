@@ -646,6 +646,20 @@
   {
     "date": "tis 05",
     "month": "Maj",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "HERRAR A",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 05",
+    "month": "Maj",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "F10",
@@ -782,6 +796,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Victoriastadion 2Träning såvitt inget annat meddelats.\nMedtag:\nTräningskläder, vattenflaska och boll."
+  },
+  {
+    "date": "tor 07",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "HERRAR A",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "fre 08",
@@ -980,6 +1008,20 @@
     "info": ""
   },
   {
+    "date": "mån 11",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "HERRAR A",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
     "date": "tis 12",
     "month": "Maj",
     "startTime": "17:00",
@@ -1006,6 +1048,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachhandbollsträning, Beachhandbollsplanen Östra TornTa med vattenflaska och boll som funkar på sand. Träningen kan ställas in vid dåligt väder."
+  },
+  {
+    "date": "tis 12",
+    "month": "Maj",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "HERRAR A",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "tis 12",
@@ -1104,6 +1160,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenLöpning 19.00-19.30 ut, Inomhus 19.30-21.00"
+  },
+  {
+    "date": "tor 14",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "HERRAR A",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "lör 16",
@@ -1232,6 +1302,20 @@
     "info": "Beachträning, Stadsparken"
   },
   {
+    "date": "mån 18",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "HERRAR A",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
     "date": "tis 19",
     "month": "Maj",
     "startTime": "17:00",
@@ -1244,6 +1328,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachhandbollsträning, Beachhandbollsplanen Östra TornTa med vattenflaska och boll som funkar på sand. Träningen kan ställas in vid dåligt väder."
+  },
+  {
+    "date": "tis 19",
+    "month": "Maj",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "HERRAR A",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "tis 19",
@@ -1370,6 +1468,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska."
+  },
+  {
+    "date": "tor 21",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "HERRAR A",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "lör 23",
@@ -1582,6 +1694,20 @@
     "info": "Beachträning, Stadsparken"
   },
   {
+    "date": "mån 25",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "HERRAR A",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
     "date": "tis 26",
     "month": "Maj",
     "startTime": "17:00",
@@ -1594,6 +1720,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachhandbollsträning, Beachhandbollsplanen Östra TornTa med vattenflaska och boll som funkar på sand. Träningen kan ställas in vid dåligt väder."
+  },
+  {
+    "date": "tis 26",
+    "month": "Maj",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "HERRAR A",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "tis 26",
@@ -1706,6 +1846,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska."
+  },
+  {
+    "date": "tor 28",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "HERRAR A",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "fre 29",
