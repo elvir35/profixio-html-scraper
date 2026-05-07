@@ -786,6 +786,20 @@
   {
     "date": "tor 07",
     "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "F14",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tor 07",
+    "month": "Maj",
     "startTime": "17:30",
     "endTime": "19:00",
     "team": "P14",
@@ -996,6 +1010,20 @@
   {
     "date": "mån 11",
     "month": "Maj",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "team": "P16",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "mån 11",
+    "month": "Maj",
     "startTime": "18:45",
     "endTime": "20:00",
     "team": "F13",
@@ -1160,6 +1188,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenLöpning 19.00-19.30 ut, Inomhus 19.30-21.00"
+  },
+  {
+    "date": "ons 13",
+    "month": "Maj",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "team": "P16",
+    "location": "Gunnesbohallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "tor 14",
@@ -1916,6 +1958,48 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Bindande anmälan OV Beach 30 maj, Stranden i HelsingborgUtifrån tidigare intesseanmälan har vi anmält 4 lag. Vi behöver nu era bindande svar. Exakta tider återkommer vi med när det närmar sig och spelschema är satt. \nI år bekostar lagkassan anmälningsavgifterna till denna turnering. \nAnvänd kommentarer vid behov! Notera att sista svarsdatum är på söndag 29 mars."
+  },
+  {
+    "date": "lör 30",
+    "month": "Maj",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "team": "F14",
+    "location": "Helsingborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "OV Beach handboll- Lag 1",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "OV Beach handboll- Lag 1 , Helsingborg Uppdelningen för lag 1. Inga speltider finns ännu och kommer meddelas när dessa är släppta, vilket lag som ska tillhöra vilket gruppspel. \nLagen kan komma att justeras utifrån ev skador eller förhinder. \nKallelsen kommer att uppdateras när spelschemat är släppt och då kommer kallelse även skickas ut för söndagen."
+  },
+  {
+    "date": "lör 30",
+    "month": "Maj",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "team": "F14",
+    "location": "Helsingborg",
+    "type": "Träning",
+    "title": "",
+    "opponent": "OV Beach handboll- Lag 2",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "OV Beach handboll- Lag 2, Helsingborg Uppdelningen för lag 2. Inga speltider finns ännu och kommer meddelas när dessa är släppta, vilket lag som ska tillhöra vilket gruppspel. \nLagen kan komma att justeras utifrån ev skador eller förhinder. \nKallelsen kommer att uppdateras när spelschemat är släppt och då kommer kallelse även skickas ut för söndagen."
+  },
+  {
+    "date": "lör 30",
+    "month": "Maj",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "team": "F14",
+    "location": "Helsingborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "OV Beach handboll-Lag 3",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "OV Beach handboll-Lag 3, Helsingborg Uppdelningen för lag 3. Inga speltider finns ännu och kommer meddelas när dessa är släppta, vilket lag som ska tillhöra vilket gruppspel. \nLagen kan komma att justeras utifrån ev skador eller förhinder. \nKallelsen kommer att uppdateras när spelschemat är släppt och då kommer kallelse även skickas ut för söndagen."
   },
   {
     "date": "lör 30",
