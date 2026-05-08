@@ -1402,6 +1402,20 @@
   {
     "date": "tis 19",
     "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "F14",
+    "location": "Beachplanerna bakom Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning , Beachplanerna bakom Östratornhallen Löparskor ska medtages. Uppvärmning 18.30-19.00. Träning i sand 19.00-20.00"
+  },
+  {
+    "date": "tis 19",
+    "month": "Maj",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "P10",
@@ -1510,6 +1524,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Victoriastadion 1Var ombytt och klar 17.00. Ta med boll och vattenflaska."
+  },
+  {
+    "date": "tor 21",
+    "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "F14",
+    "location": "Beachplanerna bakom Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning , Beachplanerna bakom Östratornhallen Löparskor ska medtages. Uppvärmning 18.30-19.00. Träning i sand 19.00-20.00"
   },
   {
     "date": "tor 21",
@@ -1794,6 +1822,20 @@
   {
     "date": "tis 26",
     "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "F14",
+    "location": "Beachplan bakom Östra tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning , Beachplan bakom Östra tornhallen Löparskor ska medtages. Uppvärmning 18.30-19.00. Träning i sand 19.00-20.00"
+  },
+  {
+    "date": "tis 26",
+    "month": "Maj",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "P10",
@@ -1892,6 +1934,20 @@
   {
     "date": "tor 28",
     "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "F14",
+    "location": "Beachplanerna bakom Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning , Beachplanerna bakom Östratornhallen Löparskor ska medtages. Uppvärmning 18.30-19.00. Träning i sand 19.00-20.00"
+  },
+  {
+    "date": "tor 28",
+    "month": "Maj",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -1968,6 +2024,20 @@
     "location": "Helsingborg",
     "type": "Övrigt",
     "title": "",
+    "opponent": "OV Beach",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "OV Beach, HelsingborgHej;\nAcceptera kallelsen för deltagande i OV Beach. Cupen är två heldagar 30-31 Maj"
+  },
+  {
+    "date": "lör 30",
+    "month": "Maj",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "team": "F14",
+    "location": "Helsingborg",
+    "type": "Övrigt",
+    "title": "",
     "opponent": "OV Beach handboll- Lag 1",
     "homeAway": "",
     "meetingTime": "",
@@ -2000,20 +2070,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "OV Beach handboll-Lag 3, Helsingborg Uppdelningen för lag 3. Inga speltider finns ännu och kommer meddelas när dessa är släppta, vilket lag som ska tillhöra vilket gruppspel. \nLagen kan komma att justeras utifrån ev skador eller förhinder. \nKallelsen kommer att uppdateras när spelschemat är släppt och då kommer kallelse även skickas ut för söndagen."
-  },
-  {
-    "date": "lör 30",
-    "month": "Maj",
-    "startTime": "08:00",
-    "endTime": "18:00",
-    "team": "F14",
-    "location": "Helsingborg",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "OV Beach",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "OV Beach, HelsingborgHej;\nAcceptera kallelsen för deltagande i OV Beach. Cupen är två heldagar 30-31 Maj"
   },
   {
     "date": "lör 30",
