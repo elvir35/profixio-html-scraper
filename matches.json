@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-05-09T02:00:37.538Z",
+  "scrapedAt": "2026-05-09T07:43:50.783Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 576,
   "hasMatches": true,
@@ -5447,9 +5447,9 @@
       "time": "19:20",
       "date": "ons 22",
       "month": "OKTOBER 2025",
-      "home": "H43 Lund Pojkar 14",
-      "away": "Födda 2011",
-      "score": "",
+      "home": "H43 Lund HF Vit",
+      "away": "Lödde Vikings HK 2",
+      "score": "25 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "played"
     },
@@ -5459,9 +5459,9 @@
       "time": "19:20",
       "date": "ons 22",
       "month": "OKTOBER 2025",
-      "home": "H43 Lund HF Vit",
-      "away": "Lödde Vikings HK 2",
-      "score": "25 - 26",
+      "home": "H43 Lund Pojkar 14",
+      "away": "Födda 2011",
+      "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "played"
     },
