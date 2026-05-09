@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-05-09T12:55:02.266Z",
+  "scrapedAt": "2026-05-09T18:45:17.407Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 576,
   "hasMatches": true,
@@ -362,7 +362,7 @@
       "home": "H43 Lund HF",
       "away": "Gästande Lag",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -3602,7 +3602,7 @@
       "home": "H43 Lund HF",
       "away": "Gästande Lag",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
