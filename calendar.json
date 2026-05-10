@@ -1024,6 +1024,20 @@
   {
     "date": "mån 11",
     "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "P14",
+    "location": "Stadsparken beachplanerna",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning beachhandboll, Stadsparken beachplanerna på beachplanerna i Stadsparken.\nKom ombytt och medtag vattenflaska och beachhandboll. \nLöpskor ska oxå med"
+  },
+  {
+    "date": "mån 11",
+    "month": "Maj",
     "startTime": "18:45",
     "endTime": "20:00",
     "team": "F13",
@@ -1179,15 +1193,15 @@
     "date": "ons 13",
     "month": "Maj",
     "startTime": "19:00",
-    "endTime": "21:00",
-    "team": "F14",
-    "location": "Heddahallen",
+    "endTime": "20:30",
+    "team": "P14",
+    "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, HeddahallenLöpning 19.00-19.30 ut, Inomhus 19.30-21.00"
+    "info": "Klisterträning, Bollhuset AMedtag träningskläder, vattenflaska och klisterboll, strl 2."
   },
   {
     "date": "ons 13",
@@ -1346,6 +1360,20 @@
   {
     "date": "mån 18",
     "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "P14",
+    "location": "Stadsparken beachplanerna",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning , Stadsparken beachplanerna  på beachplanerna i Stadsparken.\nKom ombytt och medtag vattenflaska och beachhandboll.\nLöpskor ska oxå med"
+  },
+  {
+    "date": "mån 18",
+    "month": "Maj",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -1482,6 +1510,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Grästräning inför Partille , Klostergårdens gräsplaner"
+  },
+  {
+    "date": "ons 20",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "P14",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Klisterträning, Bollhuset Medtag träningskläder, vattenflaska och klisterboll, strl 2."
   },
   {
     "date": "ons 20",
@@ -1766,6 +1808,20 @@
   {
     "date": "mån 25",
     "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "P14",
+    "location": "Stadsparken beachplanerna",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning , Stadsparken beachplanerna  på beachplanerna i Stadsparken.\nKom ombytt och medtag vattenflaska och beachhandboll.\nLöpskor ska oxå med"
+  },
+  {
+    "date": "mån 25",
+    "month": "Maj",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -1902,6 +1958,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Grästräning inför Partille , Klostergårdens gräsplaner"
+  },
+  {
+    "date": "ons 27",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "P14",
+    "location": "Bollhuset",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Klisterträning, Bollhuset Medtag träningskläder, vattenflaska och klisterboll, strl 2."
   },
   {
     "date": "ons 27",
