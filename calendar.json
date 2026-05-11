@@ -1137,7 +1137,7 @@
     "date": "ons 13",
     "month": "Maj",
     "startTime": "17:00",
-    "endTime": "18:00",
+    "endTime": "18:15",
     "team": "P16",
     "location": "Stadsparken",
     "type": "Träning",
@@ -1160,6 +1160,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning, Stadsparken"
+  },
+  {
+    "date": "ons 13",
+    "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "team": "F13",
+    "location": "Stångby beachplan (bakom hallen)",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "ons 13",
@@ -1346,6 +1360,20 @@
   {
     "date": "mån 18",
     "month": "Maj",
+    "startTime": "18:45",
+    "endTime": "20:00",
+    "team": "F13",
+    "location": "Beachplanerna i Stadsparken",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "mån 18",
+    "month": "Maj",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -1454,6 +1482,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning, Stadsparken"
+  },
+  {
+    "date": "ons 20",
+    "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "F13",
+    "location": "Victoriastadion 1",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "ons 20",
@@ -1664,6 +1706,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "SM-final HK Malmö - IFK Kristianstad, Malmö ArenaVi har möjlighet att köpa föreningsbiljetter till SM-final mellan Malmö och Kristianstad. Begränsat antal föreningsbiljetter. \nBeroende på hur många spelare som anmäler sig kommer vi kanske behöva hjälp av medföljande föräldrar. Observera dock att föräldrar behöver köpa biljett på egen hand. Skriv gärna en kommentar om ni har möjlighet att följa med. \nVi vill ha svar på kallelsen senast 13/5, och kommer därefter skicka önskat antal biljetter till Malmö. Alla får bekosta sin biljett själva, och vi återkommer med betalningsinfo när vi vet om vi får biljetter (70 kronor). \nSe mer info nedan:\nNu är det äntligen dags att spela SM-Final i Malmö igen. IFK Kristianstad är motståndare och HK Malmö har fått möjligheten att spela sina hemmamatcher i Malmö Arena tack vare ett bra samarbete &nbsp;med Malmö Arena och Malmö Stad.\nHK Malmö vill tillsammans med grannklubbar skapa en riktigt härlig stämning och bra tryck så det blir en folkfest.\nAlla som köpt föreningsbiljett kommer så kla"
+  },
+  {
+    "date": "lör 23",
+    "month": "Maj",
+    "startTime": "16:00",
+    "endTime": "18:30",
+    "team": "P16",
+    "location": "SM final 2",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Kolla HK Malmö",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Kolla HK Malmö, SM final 2, Malmö ArenaHk Malmö - Kristianstad (SM)\nVi som förening kan köpa biljetter till aktiva spelare och ledare för endast 70:- inkl serviceavgift / match och person.\nSvara om ni vill kolla på matchen.\nVi går gemensamt med laget"
   },
   {
     "date": "sön 24",
@@ -1990,6 +2046,20 @@
   {
     "date": "fre 29",
     "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "21:45",
+    "team": "P16",
+    "location": "Hallsberg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Järnvägen cup",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Järnvägen cup, HallsbergVi funderar på om vi kan få till en cup till innan sommaren. Det är kort om tid och osäkert om vi kan få ihop det på ett bra sätt så ni får vara beredda på att det kanske inte blir något.\nOM det blir av så ska alla se det som en bonus med fokus på att komma iväg och ha kul med laget. Kostnaden är preliminär då det beror mycket på resekostnaden som inte är bekräftad samt hur många spelare som följer med.\nVi kommer strax skicka ut intresseanmälan till två cuper med svarstid på söndag. Tackar ni ja räknar vi med att ni följer med då antalet spelare är en av de viktiga aspekterna på om vi kan komma iväg.\nSvara på båda kallelserna SENAST SÖNDAG. Svara på båda kallelserna oberoende av varandra och inte utifrån vilken ni föredrar. Då är chansen större att vi kan ihop till en cup.\nLagkassan är i princip tom efter Prag så det kommer kosta lite mer än vanligt. Här är lite kort info om cup:erna. Vill ni veta mer så googlar ni cup:erna.\nJärnvägen cup i Hallsberg 29-31 maj\nUtomhuscu"
+  },
+  {
+    "date": "fre 29",
+    "month": "Maj",
     "startTime": "",
     "endTime": "",
     "team": "P16",
@@ -2000,6 +2070,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Järnvägen cup, HallsbergVi funderar på om vi kan få till en cup till innan sommaren. Det är kort om tid och osäkert om vi kan få ihop det på ett bra sätt så ni får vara beredda på att det kanske inte blir något.\nOM det blir av så ska alla se det som en bonus med fokus på att komma iväg och ha kul med laget. Kostnaden är preliminär då det beror mycket på resekostnaden som inte är bekräftad samt hur många spelare som följer med.\nVi kommer strax skicka ut intresseanmälan till två cuper med svarstid på söndag. Tackar ni ja räknar vi med att ni följer med då antalet spelare är en av de viktiga aspekterna på om vi kan komma iväg.\nSvara på båda kallelserna SENAST SÖNDAG. Svara på båda kallelserna oberoende av varandra och inte utifrån vilken ni föredrar. Då är chansen större att vi kan ihop till en cup.\nLagkassan är i princip tom efter Prag så det kommer kosta lite mer än vanligt. Här är lite kort info om cup:erna. Vill ni veta mer så googlar ni cup:erna.\nJärnvägen cup i Hallsberg 29-31 maj\nUtomhuscu"
+  },
+  {
+    "date": "fre 29",
+    "month": "Maj",
+    "startTime": "19:00",
+    "endTime": "21:45",
+    "team": "P11",
+    "location": "Malmö Arena",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Lagaktivitet SM-final HK Malmö-IFK Kristianstad",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Lagaktivitet SM-final HK Malmö-IFK Kristianstad, Malmö ArenaHej! \nSnart ska SM-finalen i handboll avgöras mellan HK Malmö och IFK Kristianstad. Vi tänkte åka och titta på en av dessa matcher med laget. Det gäller fredagen den 29 maj i Malmö Arena med matchstart kl. 19.00. Blir nog en kul batalj! Många bra spelare i båda lagen; landslagsspelare, före detta H43-spelare mm. Lagkassan bjuder på biljetterna! \nOBS! Notera att matchen den 29/5 är den fjärde matchen i bäst av fem vilket innebär att det finns en liten risk att något av lagen redan avgjort SM-finalen, i så fall blir denna match inte av. Men vi hoppas och tror att det blir en jämn finalomgång. \nVi återkommer med detaljer kring hur vi tar oss dit och hem när vi vet hur många som ska med, antingen tar vi tåget eller kanske vi kan fylla ett antal bilar. Eftersom vi kommer köpa föreningsbiljetter så ska alla ha H43-kläder på sig på matchen! \nDenna kallelse är bindande så vi vet säkert hur många biljetter vi ska beställa. Svara senast nu på fredag kl. 20! \nMvh/ Tränarna"
   },
   {
     "date": "lör 30",
