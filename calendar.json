@@ -1164,20 +1164,6 @@
   {
     "date": "ons 13",
     "month": "Maj",
-    "startTime": "18:15",
-    "endTime": "19:30",
-    "team": "F11",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "ons 13",
-    "month": "Maj",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "P11",
@@ -1482,20 +1468,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning, Stadsparken"
-  },
-  {
-    "date": "ons 20",
-    "month": "Maj",
-    "startTime": "18:15",
-    "endTime": "19:30",
-    "team": "F11",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "ons 20",
@@ -1930,20 +1902,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning, Stadsparken"
-  },
-  {
-    "date": "ons 27",
-    "month": "Maj",
-    "startTime": "18:15",
-    "endTime": "19:30",
-    "team": "F11",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "ons 27",
