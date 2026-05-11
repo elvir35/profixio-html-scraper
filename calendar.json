@@ -941,20 +941,6 @@
     "date": "mån 11",
     "month": "Maj",
     "startTime": "17:00",
-    "endTime": "18:00",
-    "team": "F10",
-    "location": "Stadsparken beachplanerna",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Beachhandbollsträning, Stadsparken beachplanernaTa med vattenflaska och boll som är lämplig för sand. Träningen kan ställas in med kort varsel vid dåligt väder."
-  },
-  {
-    "date": "mån 11",
-    "month": "Maj",
-    "startTime": "17:00",
     "endTime": "18:30",
     "team": "F11",
     "location": "Victoriastadion 2",
@@ -983,15 +969,15 @@
     "date": "mån 11",
     "month": "Maj",
     "startTime": "18:00",
-    "endTime": "19:00",
+    "endTime": "19:30",
     "team": "P9",
-    "location": "Beachplanen vid Tornshallen",
+    "location": "Prästängshallen",
     "type": "Träning",
     "title": "",
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Beachträning, Beachplanen vid TornshallenHej!\nIdag tänkte vi köra träningen utomhus på beachplanen vid Tornshallen. \nSamling utanför Prästängshallen som vanligt.\nTänk på att vi kommer träna utomhus! \nKlä på barnen tillräckligt med kläder. Det är ofta blåsigt och kan bli lite kyligt på kvällen, så ett underställ är kanske något att överväga.\nI sanden kör vi utan skor, men det är många som tycker det är skönt att ha på sig ett par strumpor. \n \nSkulle det regna, tränar vi inomhus i hallen så ta med er inomhusskor också. \nVi ses utanför Prästängshallen några minuter innan träningsstart och går gemensamt ner till planen."
+    "info": "Inomhusträning, PrästängshallenInställd beachträning pga regn!\nVi kör inomhus i Prästängshallen idag."
   },
   {
     "date": "mån 11",
@@ -1038,10 +1024,10 @@
   {
     "date": "mån 11",
     "month": "Maj",
-    "startTime": "18:45",
-    "endTime": "20:00",
-    "team": "F13",
-    "location": "Stadsparkens beachplaner",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "HERRAR A",
+    "location": "Arenan A",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -1053,15 +1039,15 @@
     "date": "mån 11",
     "month": "Maj",
     "startTime": "19:00",
-    "endTime": "20:30",
-    "team": "HERRAR A",
-    "location": "Arenan A",
+    "endTime": "20:00",
+    "team": "F13",
+    "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Beachträning, Bollhuset A"
   },
   {
     "date": "tis 12",
@@ -1150,6 +1136,20 @@
   {
     "date": "ons 13",
     "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "P16",
+    "location": "Stadsparken",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "ons 13",
+    "month": "Maj",
     "startTime": "18:00",
     "endTime": "19:00",
     "team": "P11",
@@ -1188,20 +1188,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Klisterträning, Bollhuset AMedtag träningskläder, vattenflaska och klisterboll, strl 2."
-  },
-  {
-    "date": "ons 13",
-    "month": "Maj",
-    "startTime": "19:30",
-    "endTime": "21:30",
-    "team": "P16",
-    "location": "Gunnesbohallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tor 14",
@@ -1664,6 +1650,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 23",
+    "month": "Maj",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "team": "F10",
+    "location": "Malmö Arena",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "SM-final HK Malmö - IFK Kristianstad",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "SM-final HK Malmö - IFK Kristianstad, Malmö ArenaVi har möjlighet att köpa föreningsbiljetter till SM-final mellan Malmö och Kristianstad. Begränsat antal föreningsbiljetter. \nBeroende på hur många spelare som anmäler sig kommer vi kanske behöva hjälp av medföljande föräldrar. Observera dock att föräldrar behöver köpa biljett på egen hand. Skriv gärna en kommentar om ni har möjlighet att följa med. \nVi vill ha svar på kallelsen senast 13/5, och kommer därefter skicka önskat antal biljetter till Malmö. Alla får bekosta sin biljett själva, och vi återkommer med betalningsinfo när vi vet om vi får biljetter (70 kronor). \nSe mer info nedan:\nNu är det äntligen dags att spela SM-Final i Malmö igen. IFK Kristianstad är motståndare och HK Malmö har fått möjligheten att spela sina hemmamatcher i Malmö Arena tack vare ett bra samarbete &nbsp;med Malmö Arena och Malmö Stad.\nHK Malmö vill tillsammans med grannklubbar skapa en riktigt härlig stämning och bra tryck så det blir en folkfest.\nAlla som köpt föreningsbiljett kommer så kla"
   },
   {
     "date": "sön 24",
