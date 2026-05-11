@@ -997,20 +997,6 @@
     "date": "mån 11",
     "month": "Maj",
     "startTime": "18:00",
-    "endTime": "19:00",
-    "team": "P11",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Beachträning, Stadsparken"
-  },
-  {
-    "date": "mån 11",
-    "month": "Maj",
-    "startTime": "18:00",
     "endTime": "20:00",
     "team": "P16",
     "location": "Fäladshallen",
@@ -1020,6 +1006,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "mån 11",
+    "month": "Maj",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "P11",
+    "location": "Victoriastadion plan 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Victoriastadion plan 2"
   },
   {
     "date": "mån 11",
