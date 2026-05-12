@@ -1626,25 +1626,11 @@
   {
     "date": "lör 23",
     "month": "Maj",
-    "startTime": "02:00",
-    "endTime": "23:00",
-    "team": "P9",
-    "location": "Helsingborg",
-    "type": "Träning",
-    "title": "",
-    "opponent": "OV Beachhandboll",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "OV Beachhandboll, HelsingborgHej!\nDet är dags för OV Beachhandboll! Den 23 maj gäller det!\nEn superkul dag framför oss, på stranden i Helsingborg. Alla håller tummarna för bra väder. \nTitta på den bifogade bilden för att se var vi ska samlas. \nOch vill ni läsa mer om själva turneringen kan ni titta här, https://ovbeachhandboll.com/ \nLäs gärna genom reglerna en extra gång tillsammans med ditt barn. \nTa med er fullt matchställ. \nAngående betalning, så kostar ett lag 1300 kronor och eftersom vi max kommer vara 9 spelare med från laget, kändes det inte rätt att ta från lagkassan. Jag hoppas att alla har förståelse för det. \nNär vi vet exakt hur många spelare vi är, skickar jag ut en summa och ett swishnummer till er. \nMVH\nJohn och Magnus"
-  },
-  {
-    "date": "lör 23",
-    "month": "Maj",
     "startTime": "08:00",
     "endTime": "21:00",
     "team": "F13",
     "location": "Fria Bad",
-    "type": "Övrigt",
+    "type": "Träning",
     "title": "",
     "opponent": "OV Beach 2026 (23-24/5)",
     "homeAway": "",
@@ -1692,6 +1678,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "OV beachhandbollsturnering, Helsingborghttps://ovbeachhandboll.com/wp-content/uploads/2025/02/omradeskarta-2025.pdf\nDet kan vara svårt att hitta parkering, så tåg/buss alternativt vara i god tid är att rekommendera.\nTa med matchtröja (ni som har) och kläder efter väder. Badkläder för de som vill."
+  },
+  {
+    "date": "lör 23",
+    "month": "Maj",
+    "startTime": "09:30",
+    "endTime": "16:00",
+    "team": "P9",
+    "location": "Helsingborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "OV Beachhandboll",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "OV Beachhandboll, HelsingborgHej!\nDet är dags för OV Beachhandboll! Den 23 maj gäller det! Samling klockan 9.00!\nEn superkul dag framför oss, på stranden i Helsingborg. Alla håller tummarna för bra väder. \nTitta på den bifogade bilden för att se var vi ska samlas. \nOch vill ni läsa mer om själva turneringen kan ni titta här, https://ovbeachhandboll.com/ \nLäs gärna genom reglerna en extra gång tillsammans med ditt barn. \nTa med er fullt matchställ. \nAngående betalning, så kostar ett lag 1300 kronor och eftersom vi max kommer vara 9 spelare med från laget, kändes det inte rätt att ta från lagkassan. Jag hoppas att alla har förståelse för det. \nNär vi vet exakt hur många spelare vi är, skickar jag ut en summa och ett swishnummer till er. \nMVH\nJohn och Magnus"
   },
   {
     "date": "lör 23",
