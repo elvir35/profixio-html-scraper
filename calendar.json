@@ -996,6 +996,20 @@
   {
     "date": "mån 11",
     "month": "Maj",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "team": "P18",
+    "location": "Fäladshallen A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "mån 11",
+    "month": "Maj",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "P11",
@@ -1468,6 +1482,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning Beachhandboll, Beachplaner, Stadsparken"
+  },
+  {
+    "date": "ons 20",
+    "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "P10",
+    "location": "Bollhuset - löparbanorna",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Fokus löpteknik med IFK Lund",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fokus löpteknik med IFK Lund, Bollhuset - löparbanornaVi kommer att ha löpteknik som IFK Lund kommer hålla i. Eftersom att vi är inbjudna så ber jag alla att verkligen försöka komma i tid"
   },
   {
     "date": "ons 20",
