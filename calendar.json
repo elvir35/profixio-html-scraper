@@ -1641,20 +1641,6 @@
     "date": "lör 23",
     "month": "Maj",
     "startTime": "09:00",
-    "endTime": "18:00",
-    "team": "F9",
-    "location": "Helsingborg",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "OV beachhandbollsturnering",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "lör 23",
-    "month": "Maj",
-    "startTime": "09:00",
     "endTime": "10:30",
     "team": "P10",
     "location": "Bollhuset B",
@@ -1664,6 +1650,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 23",
+    "month": "Maj",
+    "startTime": "09:30",
+    "endTime": "16:00",
+    "team": "F9",
+    "location": "Helsingborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "OV beachhandbollsturnering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "OV beachhandbollsturnering, Helsingborghttps://ovbeachhandboll.com/wp-content/uploads/2025/02/omradeskarta-2025.pdf\nDet kan vara svårt att hitta parkering, så tåg/buss alternativt vara i god tid är att rekommendera.\nTa med matchtröja (ni som har) och kläder efter väder. Badkläder för de som vill."
   },
   {
     "date": "lör 23",
@@ -1706,6 +1706,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "SM-final HK Malmö - IFK Kristianstad, Malmö ArenaVi har möjlighet att köpa föreningsbiljetter till SM-final mellan Malmö och Kristianstad. Begränsat antal föreningsbiljetter. \nBeroende på hur många spelare som anmäler sig kommer vi kanske behöva hjälp av medföljande föräldrar. Observera dock att föräldrar behöver köpa biljett på egen hand. Skriv gärna en kommentar om ni har möjlighet att följa med. \nVi vill ha svar på kallelsen senast 13/5, och kommer därefter skicka önskat antal biljetter till Malmö. Alla får bekosta sin biljett själva, och vi återkommer med betalningsinfo när vi vet om vi får biljetter (70 kronor). \nSe mer info nedan:\nNu är det äntligen dags att spela SM-Final i Malmö igen. IFK Kristianstad är motståndare och HK Malmö har fått möjligheten att spela sina hemmamatcher i Malmö Arena tack vare ett bra samarbete &nbsp;med Malmö Arena och Malmö Stad.\nHK Malmö vill tillsammans med grannklubbar skapa en riktigt härlig stämning och bra tryck så det blir en folkfest.\nAlla som köpt föreningsbiljett kommer så kla"
+  },
+  {
+    "date": "lör 23",
+    "month": "Maj",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "team": "F19 / Dam U",
+    "location": "Malmö arena",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "SM-final HK Malmö - IFK Kristianstad",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "SM-final HK Malmö - IFK Kristianstad , Malmö arena Hej tjejer,\nVi har fått möjlighet att köpa föreningsbiljetter för 70 kr till första SM-finalmatchen mellan HK Malmö- IFK Kristianstad. \nSvara senast fredag 15/5!"
   },
   {
     "date": "lör 23",
