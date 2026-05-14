@@ -1,10 +1,22 @@
 {
-  "scrapedAt": "2026-05-14T08:28:20.259Z",
+  "scrapedAt": "2026-05-14T13:45:41.181Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 576,
+  "matchCount": 577,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
+    {
+      "team": "U7",
+      "hall": "Arenan",
+      "time": "10:50",
+      "date": "lör 16",
+      "month": "MAJ 2026",
+      "home": "H43 Lund",
+      "away": "Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "upcoming"
+    },
     {
       "team": "U7",
       "hall": "Heddahallen",
