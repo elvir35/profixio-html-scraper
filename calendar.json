@@ -1276,6 +1276,20 @@
   {
     "date": "lör 16",
     "month": "Maj",
+    "startTime": "10:50",
+    "endTime": "",
+    "team": "U7",
+    "location": "Arenan ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi",
+    "homeAway": "hemma",
+    "meetingTime": "",
+    "info": "Lugi hemma, Arenan ()Hej!\nPå lördag är det träningsmatch. \nSamling Heddahallen 10:50. \nMer info nedan. \nHär kommer info om eventet!\nPlats: Hedda-hallen (sidan om Bollhuset)\nTider: Vi har hallen 11.00-14.00 \n(Men öppnar omkl.rum 10.45 ca)\nSpelschema: https://sammandrag.se/FNGDRF\nEgen uppvärmning.\nDet blir 4 matcher/lag á 15 min!\nUngdomsdomare från Lugi.\nGrön Goalcha boll.\nKiosk !\nMed vänlig hälsning, Niklas\nLugi P2018"
+  },
+  {
+    "date": "lör 16",
+    "month": "Maj",
     "startTime": "17:30",
     "endTime": "18:30",
     "team": "F14",
@@ -2378,5 +2392,19 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "OV Beach, Beachen Hbg ??? ?? \nNu är det hög tid att anmäla oss till OV-Beach 2026- spelas lörd 30 &amp; sönd 31/5. \n?? \nDu behöver anmäla dig så snart som möjligt - senast tisdag 5/5.\n?? \nVid anmälan ska 275 kr/spelare betalas i egenavgift. Detta används till anmälningsavgifter.\n* Betalning till;\nBank: SEB\nClearingnr: 5624 Kontonr: 3399729\nMeddelande: ange spelarens initial (eller namn om det får plats)\nKontohavare: Margret Gunnarsdottir \n?? ???? \nMånga av ledarna är tyvärr borta den helgen så det kommer behövas att några föräldrar hoppar in och stöttar upp. Om du som förälder kan ställa upp gör en notering i Sportadmin i ditt barns anmälan.\n?? ??????? \nDå OV avgörs med beachregler så är det viktigt med hög närvaro på beachträningarna för att kunna göra sig själv och laget rättvisa.\nVi återkommer inom kort med information om träningstillfällen. Närmre inpå kommer mer info om OV Beach; så som samlings- och speltider. Tiderna i denna kallelse är Inte fastställda.\nHälsar, Tränarna"
+  },
+  {
+    "date": "sön 31",
+    "month": "Maj",
+    "startTime": "09:00",
+    "endTime": "16:00",
+    "team": "F11",
+    "location": "dag 2 - slutspel",
+    "type": "Träning",
+    "title": "",
+    "opponent": "OV Beach",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "OV Beach, dag 2 - slutspel , Stranden, Helsingborg Föräldrar! \nVi får pudla!! ??\nDet har visat sig att OV Beach i år är inte enbart en dag utan TVÅ! Vi spelar alltså gruppspel den 30/5 (enligt tidigare kallelse) OCH slutspel den 30/5. Vi ber om ursäkt för att detta kommer så sent - det har inte varit tydligt för oss vid anmälan heller.\nVi har ju sedan tidigare en bindande anmälan för den 30/5, nu hoppas vi att så många som möjligt kan göra det möjligt att spela även slutspelslagen den 31/5. Vi behöver alla vi kan!!!\nStort tack för förståelse!!\n(Vi återkommer med lagindelning när det finns spelschema)"
   }
 ]
