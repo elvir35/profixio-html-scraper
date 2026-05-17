@@ -1402,6 +1402,20 @@
   {
     "date": "tis 19",
     "month": "Maj",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "team": "P10",
+    "location": "Östra Torn Beachhandbollsplan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Östra Torn BeachhandbollsplanVi spelar träningsmatch mot Staffanstorp och har planen 1 timma. Vår tanke är nog att dela upp killarna i två lag där de får spela varannan 10 min."
+  },
+  {
+    "date": "tis 19",
+    "month": "Maj",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "F14",
@@ -1412,20 +1426,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachträning , Beachplanerna bakom Östratornhallen Löparskor ska medtages. Uppvärmning 18.30-19.00. Träning i sand 19.00-20.00"
-  },
-  {
-    "date": "tis 19",
-    "month": "Maj",
-    "startTime": "19:00",
-    "endTime": "20:30",
-    "team": "P10",
-    "location": "Östratornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning H43 P2015, Östratornhallen"
   },
   {
     "date": "tis 19",
@@ -1468,6 +1468,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Fokus löpteknik med IFK Lund, Bollhuset - löparbanornaVi kommer att ha löpteknik som IFK Lund kommer hålla i. Eftersom att vi är inbjudna så ber jag alla att verkligen försöka komma i tid"
+  },
+  {
+    "date": "ons 20",
+    "month": "Maj",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "P10",
+    "location": "Centrala Idrottsplatsen (bredvid Bollhuset)",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Löpträning med IFK Lund, Centrala Idrottsplatsen (bredvid Bollhuset)På onsdag kl 17.00 kommer vi att köra löpteknik tillsammans med IFK Lund. \nVi tränar då på löparbanorna vid Bollhuset. \nVi tänker att de kan det här med löpning bäst och hoppas att de kan ge bra inspiration till våra killar. Hoppas så många som möjligt har möjlighet att vara med trots att de är en onsdag. ??"
   },
   {
     "date": "ons 20",
