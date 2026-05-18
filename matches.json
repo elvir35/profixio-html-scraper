@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-05-18T02:27:56.985Z",
+  "scrapedAt": "2026-05-18T09:39:55.896Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 578,
   "hasMatches": true,
@@ -14,7 +14,7 @@
       "home": "IFK Malmö",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/8691_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -386,7 +386,7 @@
       "home": "H43 Lund HF",
       "away": "Gästande Lag",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
       "status": "played"
     },
     {
@@ -3626,7 +3626,7 @@
       "home": "H43 Lund HF",
       "away": "Gästande Lag",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
       "status": "played"
     },
     {
