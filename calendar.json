@@ -1682,20 +1682,6 @@
   {
     "date": "lör 23",
     "month": "Maj",
-    "startTime": "09:00",
-    "endTime": "10:30",
-    "team": "P10",
-    "location": "Bollhuset B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "lör 23",
-    "month": "Maj",
     "startTime": "09:30",
     "endTime": "16:00",
     "team": "F9",
@@ -1734,6 +1720,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 23",
+    "month": "Maj",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "team": "P10",
+    "location": "Beachplanen i Stångby Byapark",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning, Beachplanen i Stångby ByaparkBeach i Stångby.\n1h denna gången.\nParkera bakom församlingshemmet eller vid Torns IF."
   },
   {
     "date": "lör 23",
