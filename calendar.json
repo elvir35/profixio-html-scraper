@@ -1472,20 +1472,6 @@
   {
     "date": "ons 20",
     "month": "Maj",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "team": "P9",
-    "location": "Prästängshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Beachträning, PrästängshallenFör de som vill testa på lite mer beachhandboll kör vi ett extra tillfälle nu på onsdag. \nInställt vid dåligt väder och om det är färre än 8 anmälda spelare. Så se till att anmäla era barn om de har lust att vara med."
-  },
-  {
-    "date": "ons 20",
-    "month": "Maj",
     "startTime": "18:00",
     "endTime": "19:00",
     "team": "P11",
@@ -1824,20 +1810,6 @@
     "month": "Maj",
     "startTime": "08:00",
     "endTime": "18:00",
-    "team": "F10",
-    "location": "Helsingborg",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "OV Beachhandboll",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "OV Beachhandboll, Helsingborg Vi har tre lag anmälda till OV-beach. Återkommer med samlingstid när vi har fått spelschema."
-  },
-  {
-    "date": "sön 24",
-    "month": "Maj",
-    "startTime": "08:00",
-    "endTime": "18:00",
     "team": "P10",
     "location": "Helsingborg",
     "type": "Övrigt",
@@ -1846,6 +1818,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "OV BEACH, Helsingborg Intresseanmälan för OV beach"
+  },
+  {
+    "date": "sön 24",
+    "month": "Maj",
+    "startTime": "09:45",
+    "endTime": "17:00",
+    "team": "F10",
+    "location": "Fria bad",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "OV Beachhandboll",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "OV Beachhandboll, Fria bad, Helsingborg Vi har tre lag anmälda, samling kl 9.45 för samtliga. Matcherna håller på till strax före kl 17.\nDet kan vara svårt med parkering så var ute i god tid. Adressen är Drottninggatan 136 i Helsingborg.\nVarje lag spelar 5 matcher, som är 1*10 minuter. \nTa med matchkläder, keps och kläder att ha mellan matcherna (beroende på väder). Glöm inte vattenflaska och mat för att fylla på med energi. Om någon spelare inte har föräldrar eller annan anhörig på plats vill vi ledare bli informerande om det. \nVi ser fram emot en härlig dag på beachen! \nSe mer information på hemsidan eller i appen."
   },
   {
     "date": "sön 24",
