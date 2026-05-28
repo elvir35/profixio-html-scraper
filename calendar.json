@@ -2158,20 +2158,6 @@
   {
     "date": "tor 28",
     "month": "Maj",
-    "startTime": "18:30",
-    "endTime": "20:00",
-    "team": "F14",
-    "location": "Beachplanerna bakom Östratornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Beachträning , Beachplanerna bakom Östratornhallen Löparskor ska medtages. Uppvärmning 18.30-19.00. Träning i sand 19.00-20.00"
-  },
-  {
-    "date": "tor 28",
-    "month": "Maj",
     "startTime": "18:45",
     "endTime": "21:00",
     "team": "F19 / Dam U",
@@ -2196,6 +2182,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "tor 28",
+    "month": "Maj",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "team": "P14",
+    "location": "Östra Torns beachhandbollsplan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning, Östra Torns beachhandbollsplanExtrainsatt beachträning. Kom i träningskläder, med vattenflaska och löpskor.\nNi behöver inte svara på kallelsen - det är bara att komma."
   },
   {
     "date": "fre 29",
