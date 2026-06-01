@@ -112,20 +112,6 @@
     "info": "Träning, Heddahallen19-19:30 uppvärmning utomhus\n19:30-21:00 hallträning\nTa med både inne- och uteskor."
   },
   {
-    "date": "mån 01",
-    "month": "Juni",
-    "startTime": "19:30",
-    "endTime": "21:00",
-    "team": "P16",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
     "date": "tis 02",
     "month": "Juni",
     "startTime": "17:00",
@@ -292,6 +278,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "tor 04",
+    "month": "Juni",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P14",
+    "location": "Gräsplanerna på Klostergården",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Gräsplansträning, Gräsplanerna på KlostergårdenFörsta grästräningen.Ta med träningskläder och vattenflaska. Här kan ni passa på att testa era fotbollsskor inför parrtille. Annars gäller uteskor.\nSom vanligt är det bara att dyka upp på träningen och ingen föranmälan behövs."
   },
   {
     "date": "tor 04",
