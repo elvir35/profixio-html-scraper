@@ -1,10 +1,46 @@
 {
-  "scrapedAt": "2026-06-01T17:18:12.401Z",
+  "scrapedAt": "2026-06-01T21:21:53.732Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 578,
+  "matchCount": 581,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
+    {
+      "team": "P16",
+      "hall": "Hallsberg",
+      "time": "00:01",
+      "date": "sön 31",
+      "month": "MAJ 2026",
+      "home": "Järnvägen cup",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26195_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P16",
+      "hall": "Hallsberg",
+      "time": "00:01",
+      "date": "lör 30",
+      "month": "MAJ 2026",
+      "home": "Järnvägen cup",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26195_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P16",
+      "hall": "Hallsberg",
+      "time": "13:00",
+      "date": "fre 29",
+      "month": "MAJ 2026",
+      "home": "Järnvägen cup",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26195_1006_S.webp",
+      "status": "played"
+    },
     {
       "team": "P14",
       "hall": "Lindängens sporthall",
@@ -14,7 +50,7 @@
       "home": "IFK Malmö",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/8691_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -4526,7 +4562,7 @@
       "home": "IFK Malmö",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/8691_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
