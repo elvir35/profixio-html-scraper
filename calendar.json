@@ -632,6 +632,20 @@
   {
     "date": "tor 11",
     "month": "Juni",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P14",
+    "location": "Klostergårdens gräsplaner",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Gräsplansträning, Klostergårdens gräsplaner Ta med träningskläder och vattenflaska. Här kan ni passa på att testa era fotbollsskor inför parrtille. Annars gäller uteskor.\nSom vanligt är det bara att dyka upp på träningen och ingen föranmälan behövs."
+  },
+  {
+    "date": "tor 11",
+    "month": "Juni",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -936,6 +950,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning Utomhus, Klostergården gräsplan (Korpaplanerna)Utomhusträning på gräs inför Partille. Kläder efter väder \nKan bli inslag av löpning och fysträning"
+  },
+  {
+    "date": "tor 18",
+    "month": "Juni",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P14",
+    "location": "Klostergårdens gräsplaner",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Gräsplansträning, Klostergårdens gräsplaner Ta med träningskläder och vattenflaska. Här kan ni passa på att testa era fotbollsskor inför parrtille. Annars gäller uteskor.\nSom vanligt är det bara att dyka upp på träningen och ingen föranmälan behövs."
   },
   {
     "date": "tor 18",
