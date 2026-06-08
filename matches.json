@@ -1,10 +1,22 @@
 {
-  "scrapedAt": "2026-06-08T15:30:08.213Z",
+  "scrapedAt": "2026-06-08T20:01:23.166Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 581,
+  "matchCount": 582,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
+    {
+      "team": "P11",
+      "hall": "Bollhuset A",
+      "time": "15:00",
+      "date": "sön 14",
+      "month": "JUNI 2026",
+      "home": "Lugi P13",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
     {
       "team": "P16",
       "hall": "Hallsberg",
