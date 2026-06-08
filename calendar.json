@@ -520,20 +520,6 @@
   {
     "date": "tis 09",
     "month": "Juni",
-    "startTime": "17:30",
-    "endTime": "19:00",
-    "team": "HERRAR A",
-    "location": "Arenan B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tis 09",
-    "month": "Juni",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "F10",
@@ -599,7 +585,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träningsmatch inför Partille , Klostergårdens gräsplaner IK Sund pojkar födda 2013 kommer till vår träning på onsdag för att spela träningsmatch mot oss. Blir en bra förberedelse inför Partille Cup!"
+    "info": "Träningsmatch inför Partille , Klostergårdens gräsplaner IK Sund pojkar födda 2013 kommer till vår träning på onsdag för att spela träningsmatch mot oss. Blir en bra förberedelse inför Partille Cup! Kom matchklädd!"
   },
   {
     "date": "ons 10",
@@ -726,6 +712,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "sön 14",
+    "month": "Juni",
+    "startTime": "15:00",
+    "endTime": "",
+    "team": "P11",
+    "location": "Bollhuset A ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi P13",
+    "homeAway": "borta",
+    "meetingTime": "14:15",
+    "info": "Lugi P13 borta, Bollhuset A ()Träningsmatch (inomhus) mot Lugi pojkar födda 2013 nu på söndag den 14 juni kl. 15.00. Vi samlas i Bollhuset kl. 14.15, kom matchklädd! I första hand är det de spelare som ska spela Partille Cup som blir kallade, om det visar sig att många inte kan så fyller vi på med andra spelare därför är vi tacksamma om ni svarar på kallelsen så fort som möjligt! Tack!\n/ Tränarna"
   },
   {
     "date": "mån 15",
