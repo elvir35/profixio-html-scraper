@@ -1078,34 +1078,6 @@
     "info": "Beachträning, Stadsparken"
   },
   {
-    "date": "mån 22",
-    "month": "Juni",
-    "startTime": "19:30",
-    "endTime": "21:00",
-    "team": "P16",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tis 23",
-    "month": "Juni",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "team": "P16",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
     "date": "tis 23",
     "month": "Juni",
     "startTime": "17:00",
@@ -1216,20 +1188,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Extraträning inför Partille, Klostergårdens gräsplaner"
-  },
-  {
-    "date": "tor 25",
-    "month": "Juni",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "team": "P16",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tor 25",
