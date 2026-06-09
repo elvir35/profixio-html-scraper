@@ -182,6 +182,20 @@
     "info": "Styrketräning på Nordic wellness, Nordic wellness, Sankt LarsVi kommer köra styrketräning i mindre grupper. Grupper och exakt tid meddelas senare. Obs! Svara på kallelsen så fort som möjligt så vi har möjlighet att planera på ett bra sätt."
   },
   {
+    "date": "tis 02",
+    "month": "Juni",
+    "startTime": "18:05",
+    "endTime": "19:00",
+    "team": "HK Blå 85",
+    "location": "Beachplanen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
     "date": "ons 03",
     "month": "Juni",
     "startTime": "17:00",
@@ -275,6 +289,20 @@
     "type": "Träning",
     "title": "",
     "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tor 04",
+    "month": "Juni",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "HK Blå 85",
+    "location": "Beachplanen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Beachtäning",
     "homeAway": "",
     "meetingTime": "",
     "info": ""
@@ -590,16 +618,16 @@
   {
     "date": "ons 10",
     "month": "Juni",
-    "startTime": "19:00",
+    "startTime": "18:50",
     "endTime": "20:30",
     "team": "P14",
-    "location": "Bollhuset",
+    "location": "Stadsparkens beachplaner",
     "type": "Träning",
     "title": "",
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Klisterträning, Bollhuset Medtag träningskläder, vattenflaska och klisterboll, strl 2."
+    "info": "Beachträning, Stadsparkens beachplanerVi samlas för beachhandboll. Skulle inte vädret tillåta drar vi vidare till bollhuset. Medtag löparskor, träningskläder för båda alternativen (inkl klisterboll) samt vattenflaska. \nSom vanligt vid träning är det bara att dyka upp. Ingen föranmälan krävs."
   },
   {
     "date": "ons 10",
