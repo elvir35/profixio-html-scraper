@@ -912,20 +912,6 @@
   {
     "date": "ons 17",
     "month": "Juni",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "team": "P11",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Beachträning, Stadsparken"
-  },
-  {
-    "date": "ons 17",
-    "month": "Juni",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "P11",
@@ -1118,20 +1104,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning Beachhandboll, Beachplaner, Stadsparken"
-  },
-  {
-    "date": "ons 24",
-    "month": "Juni",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "team": "P11",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Beachträning, Stadsparken"
   },
   {
     "date": "ons 24",
@@ -1356,20 +1328,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Beachhandbollsträning, Stadsparken beachplanernaTa med vattenflaska och boll som är lämplig för sand. Träningen kan ställas in med kort varsel vid dåligt väder."
-  },
-  {
-    "date": "mån 29",
-    "month": "Juni",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "team": "P11",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Beachträning, Stadsparken"
   },
   {
     "date": "tis 30",
