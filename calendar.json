@@ -800,6 +800,20 @@
   {
     "date": "mån 15",
     "month": "Juni",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "P14",
+    "location": "Stadsparken beachplanerna",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning , Stadsparken beachplanerna  på beachplanerna i Stadsparken.\nKom ombytt och medtag vattenflaska och beachhandboll.\nLöpskor ska oxå med"
+  },
+  {
+    "date": "mån 15",
+    "month": "Juni",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -884,20 +898,6 @@
   {
     "date": "ons 17",
     "month": "Juni",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "team": "F11",
-    "location": "Beachplaner",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning Beachhandboll, Beachplaner, Stadsparken"
-  },
-  {
-    "date": "ons 17",
-    "month": "Juni",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "P11",
@@ -908,6 +908,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Grästräning inför Partille , Klostergårdens gräsplaner"
+  },
+  {
+    "date": "ons 17",
+    "month": "Juni",
+    "startTime": "18:45",
+    "endTime": "20:15",
+    "team": "P14",
+    "location": "Stadsparken beachplanerna",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Beachträning , Stadsparken beachplanerna på beachplanerna i Stadsparken \nKom ombytt och medtag vattenflaska och beachhandboll.\nLöpskor ska oxå med"
   },
   {
     "date": "ons 17",
@@ -1370,6 +1384,34 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Partille Cup dag 2, GöteborgHej! \nHär kommer en bindande anmälan för Partille Cup 29 juni-4 juli till alla er som svarade ja på intresseanmälan tidigare (lördag 4 juli enbart om vi går till A- eller B-final). Vid utslagning innan final avslutas turneringen för laget på fredagen. Baserat på intresseanmälan har vi anmält ett lag till Partille. \n \nKostnaden för anmälningsavgift plus deltagaravgift kommer landa på omkring 3300 kr per spelare. I det ingår lagavgift, boende på skola, måltider (frukost, lunch och middag) från måndag kväll t.o.m. lördag lunch samt Partille Cup Pass som i sin tur inkluderar gratis kollektivtrafik under cupen, biljett till invigningen och inträde till samtliga finaler på lördagen. \n \nUtöver ovan summa tillkommer kostnad för resa till och från Göteborg samt fickpengar som ska räcka hela veckan (eventuellt Lisebergsbesök, mellanmål, godis mm.). När det gäller resa till Göteborg brukar föreningen hyra en eller flera stora bussar som alla H43-lag tillsammans åker upp med. Enkelresa med bu"
+  },
+  {
+    "date": "tis 30",
+    "month": "Juni",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "team": "F14",
+    "location": "Heden",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Partille- Gruppspel H43 2",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Partille- Gruppspel H43 2, Heden Första gruppspelsmatchen är mot Kvik Sport på Heden. Plan 27. Matchstart: 11.30 \nhttps://results.partillecup.com/2026/categories/74172372/division/80452334?st=group"
+  },
+  {
+    "date": "tis 30",
+    "month": "Juni",
+    "startTime": "13:15",
+    "endTime": "16:15",
+    "team": "F14",
+    "location": "Kviberg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Partille Gruppspel- H43 1",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Partille Gruppspel- H43 1 , Kviberg Dag 1:\nMatch mot Torslanda HK på i Kviberg, plan 23. Matchstart: 13.15\nMatch mot Ellingsrud IL i Kviberg, plan 20. Matchstart: 15.00\nhttps://results.partillecup.com/2026/categories/74172372/division/80452602?st=group"
   },
   {
     "date": "tis 30",
