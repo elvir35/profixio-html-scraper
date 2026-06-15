@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-06-14T19:09:16.050Z",
+  "scrapedAt": "2026-06-15T02:47:05.778Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 582,
   "hasMatches": true,
@@ -15,7 +15,7 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
+      "status": "played"
     },
     {
       "team": "P16",
