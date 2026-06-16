@@ -942,20 +942,6 @@
     "month": "Juni",
     "startTime": "17:00",
     "endTime": "18:30",
-    "team": "F14",
-    "location": "Klostergården gräsplan (Korpaplanerna)",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning Utomhus, Klostergården gräsplan (Korpaplanerna)Utomhusträning på gräs inför Partille. Kläder efter väder \nKan bli inslag av löpning och fysträning"
-  },
-  {
-    "date": "tor 18",
-    "month": "Juni",
-    "startTime": "17:00",
-    "endTime": "18:30",
     "team": "P14",
     "location": "Klostergårdens gräsplaner",
     "type": "Träning",
@@ -978,6 +964,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "tor 18",
+    "month": "Juni",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "F14",
+    "location": "Klostergården gräsplan (Korpaplanerna)",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning Utomhus, Klostergården gräsplan (Korpaplanerna)Utomhusträning på gräs inför Partille. Kläder efter väder \nKan bli inslag av löpning och fysträning"
   },
   {
     "date": "tor 18",
