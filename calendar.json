@@ -1220,20 +1220,6 @@
   {
     "date": "mån 29",
     "month": "Juni",
-    "startTime": "",
-    "endTime": "",
-    "team": "P11",
-    "location": "Göteborg",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Partille Cup 29 juni-4 juli",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Partille Cup 29 juni-4 juli , GöteborgHej! \nHär kommer en bindande anmälan för Partille Cup 29 juni-4 juli till alla er som svarade ja på intresseanmälan tidigare (lördag 4 juli enbart om vi går till A- eller B-final). Vid utslagning innan final avslutas turneringen för laget på fredagen. Baserat på intresseanmälan har vi anmält ett lag till Partille. \n \nKostnaden för anmälningsavgift plus deltagaravgift kommer landa på omkring 3300 kr per spelare. I det ingår lagavgift, boende på skola, måltider (frukost, lunch och middag) från måndag kväll t.o.m. lördag lunch samt Partille Cup Pass som i sin tur inkluderar gratis kollektivtrafik under cupen, biljett till invigningen och inträde till samtliga finaler på lördagen. \n \nUtöver ovan summa tillkommer kostnad för resa till och från Göteborg samt fickpengar som ska räcka hela veckan (eventuellt Lisebergsbesök, mellanmål, godis mm.). När det gäller resa till Göteborg brukar föreningen hyra en eller flera stora bussar som alla H43-lag tillsammans åker upp med. Enkelresa med bu"
-  },
-  {
-    "date": "mån 29",
-    "month": "Juni",
     "startTime": "12:00",
     "endTime": "00:00",
     "team": "P11",
@@ -1258,6 +1244,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Deltagande Partillecup, Göteborg?Favorit i repris - nu är det dax att anmäla sig till sommarens Partille Cup. OBS! Anmälan är bindande.\nPartille cup är väldens största handbollsturnering på gräsplan som spelas i Göteborg under nästan en vecka, i år 29/6 - 4/7. Utöver handbollsspelande passar vi förstås också på att göra kul aktiviteter ihop - kanske blir det Liseberg även i år?! ?????\nMer information om cupen: https://partillecup.com/sv\nVi avser ha samma paket som förra sommaren - Skolboende; kategori A\n??KOSTNADER:\n2200:- anmälningsavgift/lag\n3125:- för deltagarkort + boendekostnad/deltagare\nI dagsläget är det oklart om eller med hur mycket lagkassan kan bidra. Beroende på antal anmälda lag kan totalkostnaden också variera - så för nu har vi räknat på vad varje spelare maximalt kan behöva betala. Förhoppningsvis blir det mindre än så.\n??EGENAVGIFT: max 3700:-/spelare (då inkluderar det även ledarkostnad) exklusive resa och ev nöjen\nVi återkommer kring slutkostnaden och betalningen lite längre fr"
+  },
+  {
+    "date": "mån 29",
+    "month": "Juni",
+    "startTime": "",
+    "endTime": "",
+    "team": "P11",
+    "location": "Göteborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Partille Cup 29 juni-4 juli",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Partille Cup 29 juni-4 juli , GöteborgHej! \nHär kommer en bindande anmälan för Partille Cup 29 juni-4 juli till alla er som svarade ja på intresseanmälan tidigare (lördag 4 juli enbart om vi går till A- eller B-final). Vid utslagning innan final avslutas turneringen för laget på fredagen. Baserat på intresseanmälan har vi anmält ett lag till Partille. \n \nKostnaden för anmälningsavgift plus deltagaravgift kommer landa på omkring 3300 kr per spelare. I det ingår lagavgift, boende på skola, måltider (frukost, lunch och middag) från måndag kväll t.o.m. lördag lunch samt Partille Cup Pass som i sin tur inkluderar gratis kollektivtrafik under cupen, biljett till invigningen och inträde till samtliga finaler på lördagen. \n \nUtöver ovan summa tillkommer kostnad för resa till och från Göteborg samt fickpengar som ska räcka hela veckan (eventuellt Lisebergsbesök, mellanmål, godis mm.). När det gäller resa till Göteborg brukar föreningen hyra en eller flera stora bussar som alla H43-lag tillsammans åker upp med. Enkelresa med bu"
   },
   {
     "date": "mån 29",
@@ -1296,10 +1296,10 @@
     "location": "Göteborg",
     "type": "Träning",
     "title": "",
-    "opponent": "Partille Cup 29 juni-4 juli",
+    "opponent": "Partille Cup dag 1",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Partille Cup 29 juni-4 juli , GöteborgHej! \nHär kommer en bindande anmälan för Partille Cup 29 juni-4 juli till alla er som svarade ja på intresseanmälan tidigare (lördag 4 juli enbart om vi går till A- eller B-final). Vid utslagning innan final avslutas turneringen för laget på fredagen. Baserat på intresseanmälan har vi anmält ett lag till Partille. \n \nKostnaden för anmälningsavgift plus deltagaravgift kommer landa på omkring 3300 kr per spelare. I det ingår lagavgift, boende på skola, måltider (frukost, lunch och middag) från måndag kväll t.o.m. lördag lunch samt Partille Cup Pass som i sin tur inkluderar gratis kollektivtrafik under cupen, biljett till invigningen och inträde till samtliga finaler på lördagen. \n \nUtöver ovan summa tillkommer kostnad för resa till och från Göteborg samt fickpengar som ska räcka hela veckan (eventuellt Lisebergsbesök, mellanmål, godis mm.). När det gäller resa till Göteborg brukar föreningen hyra en eller flera stora bussar som alla H43-lag tillsammans åker upp med. Enkelresa med bu"
+    "info": "Partille Cup dag 1, GöteborgHej! \nHär kommer en bindande anmälan för Partille Cup 29 juni-4 juli till alla er som svarade ja på intresseanmälan tidigare (lördag 4 juli enbart om vi går till A- eller B-final). Vid utslagning innan final avslutas turneringen för laget på fredagen. Baserat på intresseanmälan har vi anmält ett lag till Partille. \n \nKostnaden för anmälningsavgift plus deltagaravgift kommer landa på omkring 3300 kr per spelare. I det ingår lagavgift, boende på skola, måltider (frukost, lunch och middag) från måndag kväll t.o.m. lördag lunch samt Partille Cup Pass som i sin tur inkluderar gratis kollektivtrafik under cupen, biljett till invigningen och inträde till samtliga finaler på lördagen. \n \nUtöver ovan summa tillkommer kostnad för resa till och från Göteborg samt fickpengar som ska räcka hela veckan (eventuellt Lisebergsbesök, mellanmål, godis mm.). När det gäller resa till Göteborg brukar föreningen hyra en eller flera stora bussar som alla H43-lag tillsammans åker upp med. Enkelresa med bu"
   },
   {
     "date": "tis 30",
@@ -1314,20 +1314,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Partille Cup 29 juni-4 juli , GöteborgHej! \nHär kommer en bindande anmälan för Partille Cup 29 juni-4 juli till alla er som svarade ja på intresseanmälan tidigare (lördag 4 juli enbart om vi går till A- eller B-final). Vid utslagning innan final avslutas turneringen för laget på fredagen. Baserat på intresseanmälan har vi anmält ett lag till Partille. \n \nKostnaden för anmälningsavgift plus deltagaravgift kommer landa på omkring 3300 kr per spelare. I det ingår lagavgift, boende på skola, måltider (frukost, lunch och middag) från måndag kväll t.o.m. lördag lunch samt Partille Cup Pass som i sin tur inkluderar gratis kollektivtrafik under cupen, biljett till invigningen och inträde till samtliga finaler på lördagen. \n \nUtöver ovan summa tillkommer kostnad för resa till och från Göteborg samt fickpengar som ska räcka hela veckan (eventuellt Lisebergsbesök, mellanmål, godis mm.). När det gäller resa till Göteborg brukar föreningen hyra en eller flera stora bussar som alla H43-lag tillsammans åker upp med. Enkelresa med bu"
-  },
-  {
-    "date": "tis 30",
-    "month": "Juni",
-    "startTime": "12:00",
-    "endTime": "00:00",
-    "team": "P11",
-    "location": "Göteborg",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Partille Cup dag 1",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Partille Cup dag 1, GöteborgHej! \nHär kommer en bindande anmälan för Partille Cup 29 juni-4 juli till alla er som svarade ja på intresseanmälan tidigare (lördag 4 juli enbart om vi går till A- eller B-final). Vid utslagning innan final avslutas turneringen för laget på fredagen. Baserat på intresseanmälan har vi anmält ett lag till Partille. \n \nKostnaden för anmälningsavgift plus deltagaravgift kommer landa på omkring 3300 kr per spelare. I det ingår lagavgift, boende på skola, måltider (frukost, lunch och middag) från måndag kväll t.o.m. lördag lunch samt Partille Cup Pass som i sin tur inkluderar gratis kollektivtrafik under cupen, biljett till invigningen och inträde till samtliga finaler på lördagen. \n \nUtöver ovan summa tillkommer kostnad för resa till och från Göteborg samt fickpengar som ska räcka hela veckan (eventuellt Lisebergsbesök, mellanmål, godis mm.). När det gäller resa till Göteborg brukar föreningen hyra en eller flera stora bussar som alla H43-lag tillsammans åker upp med. Enkelresa med bu"
   },
   {
     "date": "tis 30",
