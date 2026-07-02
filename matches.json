@@ -1,45 +1,8 @@
 {
-  "scrapedAt": "2026-07-02T13:30:06.593Z",
+  "scrapedAt": "2026-07-02T19:10:33.229Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 3,
-  "hasMatches": true,
-  "message": "Matches retrieved successfully",
-  "matches": [
-    {
-      "team": "P10",
-      "hall": "Bostället beachhandbollsplan",
-      "time": "17:00",
-      "date": "mån 06",
-      "month": "JULI 2026",
-      "home": "Lundagård flickor 2015",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26301_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P11",
-      "hall": "Kävlinge/Löddeköpinge",
-      "time": "08:30",
-      "date": "sön 20",
-      "month": "SEPTEMBER 2026",
-      "home": "Vikingaspelen",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P11",
-      "hall": "Bollhuset A",
-      "time": "15:00",
-      "date": "sön 14",
-      "month": "JUNI 2026",
-      "home": "Lugi P13",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "played"
-    }
-  ]
+  "matchCount": 0,
+  "hasMatches": false,
+  "message": "No new or upcoming matches found (season may be finished)",
+  "matches": []
 }
