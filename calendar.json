@@ -450,20 +450,6 @@
   {
     "date": "tor 09",
     "month": "Juli",
-    "startTime": "09:00",
-    "endTime": "22:30",
-    "team": "P12",
-    "location": "Åhus",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Åhus Beach Classic dag 1",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tor 09",
-    "month": "Juli",
     "startTime": "10:30",
     "endTime": "19:00",
     "team": "F12",
@@ -490,10 +476,24 @@
     "info": "Åhus Beach LAG 2 - torsdag 9 juli, Åhus BeachSå var det äntligen dags för Åhus beach igen! Ni som får denna kallelse tillhör H43 Lund HF F12 Classic (F.2014) 2. Ladda ner Åhus Beach-appen så kan ni söka upp och gilla laget och därmed kunna följa frammarschen. \nGruppspelet består av 9 matcher fördelade på torsdagen och fredagen. Därefter spelas A-, B- eller C-slutspel. I appen kan ni följa när och vart matcher och slutspel spelas. \nDag 1 torsdag 9 juli: samling 09.45 i festivalområdets entré. Här hämtar vi ut entréband tillsammans med Lag 1. Kom i tid, det är alltid mycket folk och svårt med parkering så se till att planera er ankomst i tid (parkering brukar gå att förboka på Åhus Beach hemsida)."
   },
   {
+    "date": "tor 09",
+    "month": "Juli",
+    "startTime": "11:15",
+    "endTime": "20:15",
+    "team": "P12",
+    "location": "Åhus",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Åhus Beach Classic dag 1",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Åhus Beach Classic dag 1, ÅhusHej! &nbsp;\nHär kommer en bindande anmälan för Åhus Beachhandboll Classic 9-10 juli till alla er som svarade ja på intresseanmälan tidigare. Baserat på intresseanmälan har vi anmält tre lag till Åhus Beach Classic. Spelformen bygger på regler för inomhushandboll fast på sand.\nKostnaden för anmälningsavgift plus deltagaravgift kommer landa på omkring 600 kr per spelare för båda dagarna. \nVi kommer inte bo tillsammans på denna cup. Var och en ansvarar för transport till och från Åhus båda dagarna. Vill man ordna boende så gör man det på egen hand. \nNär deadline för denna bindande kallelse gått ut kommer vi begära in pengar från er som anmäler ert barn (separat utskick), viktigt att betalning sker i tid så vi kan betala arrangören. \nSvara senast den 18 mars. Tack! \nMvh/ Tränarna"
+  },
+  {
     "date": "fre 10",
     "month": "Juli",
-    "startTime": "09:00",
-    "endTime": "22:30",
+    "startTime": "10:00",
+    "endTime": "22:00",
     "team": "P12",
     "location": "Åhus",
     "type": "Träning",
@@ -520,8 +520,8 @@
   {
     "date": "fre 10",
     "month": "Juli",
-    "startTime": "09:00",
-    "endTime": "22:30",
+    "startTime": "10:00",
+    "endTime": "22:00",
     "team": "P12",
     "location": "Åhus",
     "type": "Träning",
@@ -529,7 +529,7 @@
     "opponent": "Åhus Beach Classic dag 2",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Åhus Beach Classic dag 2, ÅhusHej! &nbsp;\nHär kommer en bindande anmälan för Åhus Beachhandboll Classic 9-10 juli till alla er som svarade ja på intresseanmälan tidigare. Baserat på intresseanmälan har vi anmält tre lag till Åhus Beach Classic. Spelformen bygger på regler för inomhushandboll fast på sand.\nKostnaden för anmälningsavgift plus deltagaravgift kommer landa på omkring 600 kr per spelare för båda dagarna. \nVi kommer inte bo tillsammans på denna cup. Var och en ansvarar för transport till och från Åhus båda dagarna. Vill man ordna boende så gör man det på egen hand. \nNär deadline för denna bindande kallelse gått ut kommer vi begära in pengar från er som anmäler ert barn (separat utskick), viktigt att betalning sker i tid så vi kan betala arrangören. \nSvara senast den 18 mars. Tack! \nMvh/ Tränarna"
   },
   {
     "date": "fre 10",
