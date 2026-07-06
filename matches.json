@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-07-06T09:55:43.842Z",
+  "scrapedAt": "2026-07-06T14:59:17.186Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 3,
+  "matchCount": 7,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -15,6 +15,54 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26301_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "11:00",
+      "date": "lör 15",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "Holte",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "16:00",
+      "date": "sön 23",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "Ystads IF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "18:00",
+      "date": "tor 27",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "19:20",
+      "date": "ons 02",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Eslöv",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
       "status": "upcoming"
     },
     {
