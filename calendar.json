@@ -464,6 +464,20 @@
   {
     "date": "tor 09",
     "month": "Juli",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "team": "P16",
+    "location": "Stångby beachplan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Stångby beachplanVi provar om vi får ihop folk till extra beachträningar torsdag och fredag. Håll kolla i spelargruppen på onsdag kväll så meddelar vi om det blir träning.\nSvara på båda kallelserna senast onsdag kl 19\nBeachplanen i Stångby ligger bakom hallen i lekparken"
+  },
+  {
+    "date": "tor 09",
+    "month": "Juli",
     "startTime": "11:00",
     "endTime": "19:15",
     "team": "F12",
@@ -558,6 +572,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Åhus Beach LAG 2 - fredag 10 juli, Åhus BeachDag 2: samling vid entrén till festivalområdet. Samma plats som dagen innan. \nNotera att det i nuläget inte är möjligt att säga när dagen är slut för tjejerna då detta är helt beroende av slutsspelsresultaten. Läs instruktion om app och parkering i kallelsen till torsdagen."
+  },
+  {
+    "date": "fre 10",
+    "month": "Juli",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "team": "P16",
+    "location": "Stångby beachplan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Stångby beachplanVi provar om vi får ihop folk till extra beachträningar torsdag och fredag. Håll kolla i spelargruppen på onsdag kväll så meddelar vi om det blir träning.\nSvara på båda kallelserna senast onsdag kl 19\nBeachplanen i Stångby ligger bakom hallen i lekparken"
   },
   {
     "date": "lör 11",
