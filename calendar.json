@@ -800,53 +800,11 @@
   {
     "date": "tor 16",
     "month": "Juli",
-    "startTime": "08:00",
-    "endTime": "20:00",
-    "team": "P15",
-    "location": "Åhus beach",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Bindande Intresseanmälan Åhus beach 16 18/7",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Bindande Intresseanmälan Åhus beach 16 18/7, Åhus beach Hej,\nNu är det dags att tänka på sommar, sol och Åhus beach ?? ??? ??\n?? ?? \nSom vanligt är det lägre kostnad till Åhus beach om man anmäler sig före årsskiftet - vilket vi klart inte vill missa.\n?? \nAnmäl dig genom att svara kommer på denna kallelse. \n?? \nI meddelandefältet ska du skriva om du vill vara med på classic, Beachhandboll eller både och. \n?\nVi vill gärna att du svarar kommer ej om du inte ska vara med.\n??\nI samband med anmälan ska en egenavgift betalas in enl nedan; \n- Beach 250:-\n- Classic 250:-\n- Beach+classic 500:-\nSwisha Sara på 0705083870\nSkriv namn samt t ex C för Classic\n?? \nSvara senast söndag 7/6 före kl 19. Anmälan är bindande. \nInformation om Åhusbeach och dagarna :?? ?? ??? \n*Classic 17 - 18/7\nAnmälningsavgift\nEarly Bird: 1790 kr/lag\n(Ord. pris: 1995 kr/lag)\n* Beachhandboll 16/7\nAnmälningsavgift\nEarly Bird: 790 kr/lag\n(Ord. pris: 995 kr per lag)\nMer information: https://ahusbeach.com/ahus-beachhandboll-"
-  },
-  {
-    "date": "tor 16",
-    "month": "Juli",
-    "startTime": "08:00",
-    "endTime": "23:59",
-    "team": "P15",
-    "location": "Åhus Beachhandboll",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Åhusbeach dag 1",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Åhusbeach dag 1, Åhus Beachhandboll OBS, tider här är ungefärliga. Separat utskick kommer"
-  },
-  {
-    "date": "tor 16",
-    "month": "Juli",
-    "startTime": "",
-    "endTime": "",
-    "team": "P15",
-    "location": "Åhus Beachhandboll",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Åhusbeach",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Åhusbeach, Åhus Beachhandboll OBS, tider här är ungefärliga. Separat utskick kommer"
-  },
-  {
-    "date": "tor 16",
-    "month": "Juli",
     "startTime": "09:00",
     "endTime": "18:00",
     "team": "F19 / Damer J",
     "location": "Åhus",
-    "type": "Övrigt",
+    "type": "Träning",
     "title": "",
     "opponent": "Åhus beach 16-17/7 2026",
     "homeAway": "",
@@ -868,6 +826,48 @@
     "info": "Åhus beach 2026 - intressekoll , ÅhusHej!\nVi vill undersöka intresset för att anmäla ett eller två lag till årets omgång av Åhus Beach! En riktigt rolig turnering på stranden i Åhus. Det är en heldag den 16 juli. \n Läs mer här https://ahusbeach.com/ahus-beachhandboll-festival/\nVår lagkassa bör räcka för att täcka anmälningsavgiften och avgift för spelare. Kostnad för vuxna att komma in på området tillkommer och bekostas av var och en. \nBesvara gärna kommer om ni vill vara med så snart som möjligt. \nMed vänlig hälsning,\nTränarna"
   },
   {
+    "date": "tor 16",
+    "month": "Juli",
+    "startTime": "09:45",
+    "endTime": "23:59",
+    "team": "P15",
+    "location": "Åhus Beachhandboll",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Åhusbeach dag 1",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Åhusbeach dag 1, Åhus Beachhandboll Separat utskick kommer"
+  },
+  {
+    "date": "tor 16",
+    "month": "Juli",
+    "startTime": "",
+    "endTime": "",
+    "team": "P15",
+    "location": "Åhus Beachhandboll",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Åhusbeach",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Åhusbeach, Åhus Beachhandboll Separat infoutskick kommer"
+  },
+  {
+    "date": "tor 16",
+    "month": "Juli",
+    "startTime": "09:45",
+    "endTime": "20:00",
+    "team": "P15",
+    "location": "Åhus beach",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Bindande Intresseanmälan Åhus beach 16 18/7",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Bindande Intresseanmälan Åhus beach 16 18/7, Åhus beach Hej,\nNu är det dags att tänka på sommar, sol och Åhus beach ?? ??? ??\n?? ?? \nSom vanligt är det lägre kostnad till Åhus beach om man anmäler sig före årsskiftet - vilket vi klart inte vill missa.\n?? \nAnmäl dig genom att svara kommer på denna kallelse. \n?? \nI meddelandefältet ska du skriva om du vill vara med på classic, Beachhandboll eller både och. \n?\nVi vill gärna att du svarar kommer ej om du inte ska vara med.\n??\nI samband med anmälan ska en egenavgift betalas in enl nedan; \n- Beach 250:-\n- Classic 250:-\n- Beach+classic 500:-\nSwisha Sara på 0705083870\nSkriv namn samt t ex C för Classic\n?? \nSvara senast söndag 7/6 före kl 19. Anmälan är bindande. \nInformation om Åhusbeach och dagarna :?? ?? ??? \n*Classic 17 - 18/7\nAnmälningsavgift\nEarly Bird: 1790 kr/lag\n(Ord. pris: 1995 kr/lag)\n* Beachhandboll 16/7\nAnmälningsavgift\nEarly Bird: 790 kr/lag\n(Ord. pris: 995 kr per lag)\nMer information: https://ahusbeach.com/ahus-beachhandboll-"
+  },
+  {
     "date": "fre 17",
     "month": "Juli",
     "startTime": "00:00",
@@ -879,7 +879,7 @@
     "opponent": "Åhusbeach",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Åhusbeach, Åhus Beachhandboll OBS, tider här är ungefärliga. Separat utskick kommer"
+    "info": "Åhusbeach, Åhus Beachhandboll Separat infoutskick kommer"
   },
   {
     "date": "fre 17",
@@ -893,7 +893,7 @@
     "opponent": "Åhusbeach",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Åhusbeach, Åhus Beachhandboll OBS, tider här är ungefärliga. Separat utskick kommer"
+    "info": "Åhusbeach, Åhus Beachhandboll Separat infoutskick kommer"
   },
   {
     "date": "fre 17",
@@ -949,7 +949,7 @@
     "opponent": "Åhusbeach",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Åhusbeach, Åhus Beachhandboll OBS, tider här är ungefärliga. Separat utskick kommer"
+    "info": "Åhusbeach, Åhus Beachhandboll Separat infoutskick kommer"
   },
   {
     "date": "lör 18",
@@ -963,7 +963,7 @@
     "opponent": "Åhusbeach",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Åhusbeach, Åhus Beachhandboll OBS, tider här är ungefärliga. Separat utskick kommer"
+    "info": "Åhusbeach, Åhus Beachhandboll Separat infoutskick kommer"
   },
   {
     "date": "lör 18",
