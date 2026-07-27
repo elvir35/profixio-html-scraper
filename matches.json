@@ -1,10 +1,34 @@
 {
-  "scrapedAt": "2026-07-27T09:31:16.918Z",
+  "scrapedAt": "2026-07-27T14:10:22.385Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 7,
+  "matchCount": 13,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
+    {
+      "team": "HERRAR A",
+      "hall": "Övrig plats",
+      "time": "19:30",
+      "date": "tis 04",
+      "month": "AUGUSTI 2026",
+      "home": "Vinslöv HK",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HERRAR A",
+      "hall": "Arenan B",
+      "time": "19:30",
+      "date": "tor 06",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "Vinslöv HK",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "status": "upcoming"
+    },
     {
       "team": "DAMER A",
       "hall": "Arenan A",
@@ -18,6 +42,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HERRAR A",
+      "hall": "Arenan B",
+      "time": "19:30",
+      "date": "tor 20",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "IK Lågan",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "DAMER A",
       "hall": "Arenan A",
       "time": "16:00",
@@ -26,7 +62,19 @@
       "home": "H43 Lund",
       "away": "Ystads IF",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/20826_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HERRAR A",
+      "hall": "Arenan",
+      "time": "19:00",
+      "date": "tis 25",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "LUGI",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -42,6 +90,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HERRAR A",
+      "hall": "Arenan",
+      "time": "19:00",
+      "date": "fre 28",
+      "month": "AUGUSTI 2026",
+      "home": "LUGI",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "DAMER A",
       "hall": "Arenan A",
       "time": "19:20",
@@ -51,6 +111,18 @@
       "away": "Eslöv",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HERRAR A",
+      "hall": "Arenan B",
+      "time": "19:30",
+      "date": "tor 10",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Åhus",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
