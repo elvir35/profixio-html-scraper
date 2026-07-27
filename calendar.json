@@ -978,5 +978,61 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Åhusbeach dag 3 , Åhus Beachhandboll OBS, tider här är ungefärliga. Separat utskick kommer"
+  },
+  {
+    "date": "mån 27",
+    "month": "Juli",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "team": "HERRAR A",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 28",
+    "month": "Juli",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "HERRAR A",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Arenan B"
+  },
+  {
+    "date": "ons 29",
+    "month": "Juli",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "HERRAR A",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tor 30",
+    "month": "Juli",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "HERRAR A",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   }
 ]
