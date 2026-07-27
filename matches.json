@@ -1,8 +1,93 @@
 {
-  "scrapedAt": "2026-07-27T02:00:09.032Z",
+  "scrapedAt": "2026-07-27T09:31:16.918Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 0,
-  "hasMatches": false,
-  "message": "No new or upcoming matches found (season may be finished)",
-  "matches": []
+  "matchCount": 7,
+  "hasMatches": true,
+  "message": "Matches retrieved successfully",
+  "matches": [
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "11:00",
+      "date": "lör 15",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "Holte",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "16:00",
+      "date": "sön 23",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "Ystads IF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/20826_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "18:00",
+      "date": "tor 27",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "19:20",
+      "date": "ons 02",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Eslöv",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Kävlinge/Löddeköpinge",
+      "time": "08:30",
+      "date": "sön 20",
+      "month": "SEPTEMBER 2026",
+      "home": "Vikingaspelen",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P11",
+      "hall": "Bostället beachhandbollsplan",
+      "time": "17:00",
+      "date": "mån 06",
+      "month": "JULI 2026",
+      "home": "Lundagård flickor 2015",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26301_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "15:00",
+      "date": "sön 14",
+      "month": "JUNI 2026",
+      "home": "Lugi P13",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
+    }
+  ]
 }
