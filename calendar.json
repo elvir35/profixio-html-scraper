@@ -2,6 +2,20 @@
   {
     "date": "mån 03",
     "month": "Augusti",
+    "startTime": "12:00",
+    "endTime": "",
+    "team": "P11",
+    "location": "Vipeholmshallen ()",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Hemma",
+    "homeAway": "hemma",
+    "meetingTime": "",
+    "info": "Hemma, Vipeholmshallen ()Träningssammandrag mot minst två lag. 2x 20 min &nbsp;5 min paus"
+  },
+  {
+    "date": "mån 03",
+    "month": "Augusti",
     "startTime": "17:30",
     "endTime": "19:00",
     "team": "HERRAR A",
