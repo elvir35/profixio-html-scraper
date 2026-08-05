@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-08-04T19:18:23.768Z",
+  "scrapedAt": "2026-08-05T01:42:12.310Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 13,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "HERRAR A",
-      "hall": "Övrig plats",
-      "time": "19:30",
-      "date": "tis 04",
-      "month": "AUGUSTI 2026",
-      "home": "Vinslöv HK",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "HERRAR A",
       "hall": "Arenan B",
@@ -136,6 +124,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "HERRAR A",
+      "hall": "Övrig plats",
+      "time": "19:30",
+      "date": "tis 04",
+      "month": "AUGUSTI 2026",
+      "home": "Vinslöv HK",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P11",
