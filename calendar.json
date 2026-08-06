@@ -296,20 +296,6 @@
   {
     "date": "tis 11",
     "month": "Augusti",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "team": "F19 / Damer J",
-    "location": "Bollhuset",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Bollhuset 17:00-17:30 Löpning\n17:30-19:00 Hallträning"
-  },
-  {
-    "date": "tis 11",
-    "month": "Augusti",
     "startTime": "17:30",
     "endTime": "19:00",
     "team": "HERRAR A",
@@ -334,6 +320,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Arenan BCooper/löpning 18.15 - Hall 19.00"
+  },
+  {
+    "date": "tis 11",
+    "month": "Augusti",
+    "startTime": "19:45",
+    "endTime": "21:30",
+    "team": "F19 / Damer J",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Arenan B19:45-20:30 Löpning\n20:30-21:30 Hallträning"
   },
   {
     "date": "ons 12",
@@ -465,7 +465,7 @@
     "date": "sön 16",
     "month": "Augusti",
     "startTime": "14:00",
-    "endTime": "15:00",
+    "endTime": "17:00",
     "team": "F12",
     "location": "Henrikdalshallen",
     "type": "Träning",
@@ -473,7 +473,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Bindande anmälan: träningsmatch Ljunghusen, Henrikdalshallen2026-08-02: nu uppdaterad med samlingstid och plats! Vi kommer spela 1 match med start 14.00.\nhttps://maps.app.goo.gl/pQfiFNc7tD35FCV1A?g_st=ic\nHej!\nVi har blivit inbjudna till av Ljunghusen att spela träningsmatch/er. Anmälan är bindande och svar behövs senast den 31/7 så att vi kan meddela Ljunghusen hur många lag vi kommer med. Exakt samlingstid och sluttid kommer längre fram, men räkna med samlingstid runt kl 14.00.\nDet blir en kul uppvärmning inför säsongen! Lägg gärna en kommentar om ni har extra platser i bilen!\nAllt gott så länge - hoppas ni alla har en fin sommar!"
+    "info": "Bindande anmälan: träningsmatch Ljunghusen, Henrikdalshallen2026-08-06: nu uppdaterad med samlingstid och plats! Vi kommer spela 2 matcher med start 14.00 (samling 13.15). Vi hoppas våra matchtröjor är klara till detta tillfälle, ta gärna med blå T-shirt om ni har för säkerhets skull.\nhttps://maps.app.goo.gl/pQfiFNc7tD35FCV1A?g_st=ic\nHej!\nVi har blivit inbjudna till av Ljunghusen att spela träningsmatch/er. Anmälan är bindande och svar behövs senast den 31/7 så att vi kan meddela Ljunghusen hur många lag vi kommer med. Exakt samlingstid och sluttid kommer längre fram, men räkna med samlingstid runt kl 14.00.\nDet blir en kul uppvärmning inför säsongen! Lägg gärna en kommentar om ni har extra platser i bilen!\nAllt gott så länge - hoppas ni alla har en fin sommar!"
   },
   {
     "date": "mån 17",
@@ -612,8 +612,8 @@
     "title": "",
     "opponent": "",
     "homeAway": "",
-    "meetingTime": "18:00",
-    "info": "Träningsmatch mot HK Malmö, Söderkulla sporthall, MalmöHar hallen 18:30-21:00."
+    "meetingTime": "19:00",
+    "info": "Träningsmatch mot HK Malmö, Söderkulla sporthall, MalmöHar hallen 19:30-21:00."
   },
   {
     "date": "ons 19",
@@ -1062,6 +1062,34 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "tis 25",
+    "month": "Augusti",
+    "startTime": "17:00",
+    "endTime": "21:30",
+    "team": "DAMER A",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Jobba på derbyt",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Jobba på derbyt, ArenanTisdagen den 25 augusti möter våra herrar Lugi i Svenska Cupen. Ni i Damer A, HK Blå Herr och HK Blå Dam behöver den kvällen hjälpa till och jobba den kvällen, uppgifterna kommer kunna vara allt från hallvärdar, kiosker och inträde. Mer information får ni när det närmar er men ni behöver vara på plats på arenan senast kl. 17.00.\nSvara ja på denna kallelse så fort ni vet att ni kan men vi behöver minst 15 personer från varje lag som ställer upp."
+  },
+  {
+    "date": "tis 25",
+    "month": "Augusti",
+    "startTime": "17:00",
+    "endTime": "21:30",
+    "team": "HK Blå 85",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Hjälp till derbyt",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Hjälp till derbyt, ArenanTisdagen den 25 augusti möter våra herrar Lugi i Svenska Cupen. Ni i Damer A, HK Blå Herr och HK Blå Dam behöver den kvällen hjälpa till och jobba den kvällen, uppgifterna kommer kunna vara allt från hallvärdar, kiosker och inträde. Mer information får ni när det närmar er men ni behöver vara på plats på arenan senast kl. 17.00.\nSvara ja på denna kallelse så fort ni vet att ni kan men vi behöver minst 15 personer från varje lag som ställer upp."
   },
   {
     "date": "tis 25",
