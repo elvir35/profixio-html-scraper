@@ -380,6 +380,20 @@
   {
     "date": "tor 13",
     "month": "Augusti",
+    "startTime": "16:30",
+    "endTime": "17:15",
+    "team": "HERRAR A",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Skoprovning",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Skoprovning, ArenanHej killar! \nNu på torsdag den 13/8 kl. 16.30-17.15 är ni välkomna på skoprovning i arenan. Exakt plats är oklar just nu men troligtvis foajén. Den tiden är specifik för er med kontrakt i Herrar A, därefter är resterande spelare och ledare i föreningen inbjudna. \nAbbe har fått information om vad som gäller angående vilka skor ni kan välja mellan och allt annat. \nSvara på kallelsen så snart som möjligt så vi vet att ni kommer!"
+  },
+  {
+    "date": "tor 13",
+    "month": "Augusti",
     "startTime": "17:00",
     "endTime": "19:00",
     "team": "F19 / Damer J",
@@ -781,7 +795,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träningsläger i Damnark, Danmark Den 21-23 augusti är det träningsläger &nbsp;i Danmark. Det blir både träning och match.\nAvfärd fredag ca 14:00 (tåg)\nHemma söndag kväll.\nKostnad: 1500-2000kr.\nSvara senast söndag.\nMvh\nTränarna"
   },
   {
     "date": "fre 21",
@@ -795,7 +809,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träningsläger i Damnark, Danmark Den 21-23 augusti är det träningsläger &nbsp;i Danmark. Det blir både träning och match.\nAvfärd fredag ca 14:00 (tåg)\nHemma söndag kväll.\nKostnad: 1500-2000kr.\nSvara senast söndag.\nMvh\nTränarna"
   },
   {
     "date": "fre 21",
@@ -851,7 +865,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träningsläger i Damnark, Danmark Den 21-23 augusti är det träningsläger &nbsp;i Danmark. Det blir både träning och match.\nAvfärd fredag ca 14:00 (tåg)\nHemma söndag kväll.\nKostnad: 1500-2000kr.\nSvara senast söndag.\nMvh\nTränarna"
   },
   {
     "date": "lör 22",
@@ -865,7 +879,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träningsläger i Damnark, Danmark Den 21-23 augusti är det träningsläger &nbsp;i Danmark. Det blir både träning och match.\nAvfärd fredag ca 14:00 (tåg)\nHemma söndag kväll.\nKostnad: 1500-2000kr.\nSvara senast söndag.\nMvh\nTränarna"
   },
   {
     "date": "lör 22",
@@ -963,7 +977,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träningsläger i Damnark, Danmark Den 21-23 augusti är det träningsläger &nbsp;i Danmark. Det blir både träning och match.\nAvfärd fredag ca 14:00 (tåg)\nHemma söndag kväll.\nKostnad: 1500-2000kr.\nSvara senast söndag.\nMvh\nTränarna"
   },
   {
     "date": "sön 23",
@@ -977,7 +991,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träningsläger i Damnark, Danmark Den 21-23 augusti är det träningsläger &nbsp;i Danmark. Det blir både träning och match.\nAvfärd fredag ca 14:00 (tåg)\nHemma söndag kväll.\nKostnad: 1500-2000kr.\nSvara senast söndag.\nMvh\nTränarna"
   },
   {
     "date": "sön 23",
@@ -1580,6 +1594,20 @@
     "homeAway": "borta",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
+    "startTime": "08:00",
+    "endTime": "16:00",
+    "team": "P15",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Fotografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fotografering, ArenanMer info och tid för vår fotografering kommer längre fram."
   },
   {
     "date": "lör 29",
