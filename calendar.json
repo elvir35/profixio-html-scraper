@@ -254,7 +254,7 @@
   {
     "date": "mån 10",
     "month": "Augusti",
-    "startTime": "18:00",
+    "startTime": "17:30",
     "endTime": "19:30",
     "team": "P16",
     "location": "Fäladshallen",
@@ -366,7 +366,7 @@
   {
     "date": "ons 12",
     "month": "Augusti",
-    "startTime": "19:00",
+    "startTime": "18:30",
     "endTime": "20:30",
     "team": "P16",
     "location": "Arenan A",
@@ -520,7 +520,7 @@
   {
     "date": "mån 17",
     "month": "Augusti",
-    "startTime": "19:30",
+    "startTime": "19:00",
     "endTime": "21:00",
     "team": "P16",
     "location": "Fäladshallen",
@@ -688,7 +688,7 @@
   {
     "date": "ons 19",
     "month": "Augusti",
-    "startTime": "20:30",
+    "startTime": "20:00",
     "endTime": "22:00",
     "team": "P16",
     "location": "Bollhuset",
@@ -744,6 +744,20 @@
   {
     "date": "tor 20",
     "month": "Augusti",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "team": "P16",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tor 20",
+    "month": "Augusti",
     "startTime": "19:30",
     "endTime": "",
     "team": "HERRAR A",
@@ -768,20 +782,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tunahallen19:30-20:00 Löpning\n20:00-21:30 Hallträning"
-  },
-  {
-    "date": "tor 20",
-    "month": "Augusti",
-    "startTime": "19:30",
-    "endTime": "21:00",
-    "team": "P16",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "fre 21",
@@ -1066,7 +1066,7 @@
   {
     "date": "mån 24",
     "month": "Augusti",
-    "startTime": "19:30",
+    "startTime": "19:00",
     "endTime": "21:00",
     "team": "P16",
     "location": "Fäladshallen",
@@ -1458,7 +1458,7 @@
   {
     "date": "ons 26",
     "month": "Augusti",
-    "startTime": "20:30",
+    "startTime": "20:00",
     "endTime": "22:00",
     "team": "P16",
     "location": "Bollhuset",
@@ -1514,6 +1514,20 @@
   {
     "date": "tor 27",
     "month": "Augusti",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "team": "P16",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tor 27",
+    "month": "Augusti",
     "startTime": "19:30",
     "endTime": "21:30",
     "team": "F19 / Damer J",
@@ -1524,20 +1538,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tunahallen19:30-20:00 Löpning\n20:00-21:30 Hallträning"
-  },
-  {
-    "date": "tor 27",
-    "month": "Augusti",
-    "startTime": "19:30",
-    "endTime": "21:00",
-    "team": "P16",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "fre 28",
@@ -1794,7 +1794,7 @@
   {
     "date": "mån 31",
     "month": "Augusti",
-    "startTime": "19:30",
+    "startTime": "19:00",
     "endTime": "21:00",
     "team": "P16",
     "location": "Fäladshallen",
