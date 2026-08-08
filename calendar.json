@@ -408,6 +408,20 @@
   {
     "date": "tor 13",
     "month": "Augusti",
+    "startTime": "17:15",
+    "endTime": "18:30",
+    "team": "DAMER A",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, ArenanSkoprovning från kl 17.15 i Arenan"
+  },
+  {
+    "date": "tor 13",
+    "month": "Augusti",
     "startTime": "17:30",
     "endTime": "19:00",
     "team": "HERRAR A",
