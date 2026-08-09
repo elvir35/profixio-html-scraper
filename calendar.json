@@ -414,10 +414,10 @@
     "location": "Arenan",
     "type": "Träning",
     "title": "",
-    "opponent": "",
+    "opponent": "Skoprovning from 17.15",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, ArenanSkoprovning från kl 17.15 i Arenan"
+    "info": "Skoprovning from 17.15, ArenanSkoprovning från kl 17.15 i Arenan"
   },
   {
     "date": "tor 13",
@@ -670,6 +670,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Arenan AHall 17.30 - Löpning 19.00"
+  },
+  {
+    "date": "ons 19",
+    "month": "Augusti",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "team": "F8",
+    "location": "Prästängshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Prästängshallen"
   },
   {
     "date": "ons 19",
@@ -1034,6 +1048,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träningsläger i Damnark, Danmark Den 21-23 augusti är det träningsläger &nbsp;i Danmark. Det blir både träning och match.\nAvfärd fredag ca 14:00 (tåg)\nHemma söndag kväll.\nKostnad: 1500-2000kr.\nSvara senast söndag.\nMvh\nTränarna"
+  },
+  {
+    "date": "sön 23",
+    "month": "Augusti",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "team": "F8",
+    "location": "Bollhuset B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Bollhuset B"
   },
   {
     "date": "sön 23",
@@ -1472,6 +1500,20 @@
   {
     "date": "ons 26",
     "month": "Augusti",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "team": "F8",
+    "location": "Prästängshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Prästängshallen"
+  },
+  {
+    "date": "ons 26",
+    "month": "Augusti",
     "startTime": "18:15",
     "endTime": "19:30",
     "team": "F14",
@@ -1804,6 +1846,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Fotografering och löpträning - oklar tid, Arenan A &amp; StadsparkenNästa säsongs fotografering sker den 29de augusti. Vi återkommer med klockslag.\nVi passar på att köra en löpträning i Stadsparken efter fotogtaferingen"
+  },
+  {
+    "date": "sön 30",
+    "month": "Augusti",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "team": "F8",
+    "location": "Bollhuset B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Bollhuset B"
   },
   {
     "date": "mån 31",
