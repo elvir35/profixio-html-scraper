@@ -338,20 +338,6 @@
   {
     "date": "ons 12",
     "month": "Augusti",
-    "startTime": "17:30",
-    "endTime": "19:00",
-    "team": "DAMER A",
-    "location": "Arenan",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, ArenanSt Larsparken/NordicWellness\n17.30 Löpning - 18.00 Gym"
-  },
-  {
-    "date": "ons 12",
-    "month": "Augusti",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "F19 / Damer J",
@@ -376,6 +362,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "ons 12",
+    "month": "Augusti",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "team": "DAMER A",
+    "location": "Söderkulla Sporthall",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träningsmatch HK Malmö, Söderkulla Sporthall, Malmö"
   },
   {
     "date": "tor 13",
