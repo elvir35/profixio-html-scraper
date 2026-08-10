@@ -324,6 +324,20 @@
   {
     "date": "tis 11",
     "month": "Augusti",
+    "startTime": "18:15",
+    "endTime": "19:15",
+    "team": "P16",
+    "location": "Stadsparken",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 11",
+    "month": "Augusti",
     "startTime": "19:45",
     "endTime": "21:30",
     "team": "F19 / Damer J",
@@ -353,7 +367,7 @@
     "date": "ons 12",
     "month": "Augusti",
     "startTime": "18:30",
-    "endTime": "20:30",
+    "endTime": "21:00",
     "team": "P16",
     "location": "Arenan A",
     "type": "Träning",
@@ -426,6 +440,20 @@
     "endTime": "19:00",
     "team": "HERRAR A",
     "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tor 13",
+    "month": "Augusti",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "team": "P16",
+    "location": "Gunnesbo fotbollsplan",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -658,6 +686,20 @@
     "info": "Träningsmatch mot HK Malmö, Söderkulla sporthall, Malmö. Match 19:50. Har hallen 19:30-21:00."
   },
   {
+    "date": "tis 18",
+    "month": "Augusti",
+    "startTime": "20:30",
+    "endTime": "22:00",
+    "team": "HK Blå 85",
+    "location": "Arenan B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
     "date": "ons 19",
     "month": "Augusti",
     "startTime": "17:30",
@@ -824,6 +866,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tunahallen19:30-20:00 Löpning\n20:00-21:30 Hallträning"
+  },
+  {
+    "date": "tor 20",
+    "month": "Augusti",
+    "startTime": "21:00",
+    "endTime": "22:30",
+    "team": "HK Blå 85",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "fre 21",
@@ -1636,6 +1692,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tunahallen19:30-20:00 Löpning\n20:00-21:30 Hallträning"
+  },
+  {
+    "date": "tor 27",
+    "month": "Augusti",
+    "startTime": "21:00",
+    "endTime": "22:30",
+    "team": "HK Blå 85",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "fre 28",
