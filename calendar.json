@@ -2,20 +2,6 @@
   {
     "date": "mån 03",
     "month": "Augusti",
-    "startTime": "12:00",
-    "endTime": "",
-    "team": "P11",
-    "location": "Vipeholmshallen ()",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Hemma",
-    "homeAway": "hemma",
-    "meetingTime": "",
-    "info": "Hemma, Vipeholmshallen ()Träningssammandrag mot minst två lag. 2x 20 min &nbsp;5 min paus"
-  },
-  {
-    "date": "mån 03",
-    "month": "Augusti",
     "startTime": "17:30",
     "endTime": "19:00",
     "team": "HERRAR A",
@@ -1818,6 +1804,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Lagfotografering H43 P12 (2014), Arenan ALagfotograferingen är bokad, den kommer äga rum lördagen den 29 augusti i Arena A. Vi återkommer med exakt tidpunkt.\n/ Tränarna"
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
+    "startTime": "09:15",
+    "endTime": "11:00",
+    "team": "F8",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Lag Photografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Lag Photografering , ArenanDet är inte helt bestämt vilken tid det är slut så alla tänker på det. Alla ska ha på sig match tröja också."
   },
   {
     "date": "lör 29",
