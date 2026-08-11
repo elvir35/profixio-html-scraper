@@ -352,7 +352,7 @@
   {
     "date": "ons 12",
     "month": "Augusti",
-    "startTime": "19:30",
+    "startTime": "19:00",
     "endTime": "21:00",
     "team": "DAMER A",
     "location": "Söderkulla Sporthall",
@@ -618,6 +618,20 @@
   {
     "date": "tis 18",
     "month": "Augusti",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "team": "P9",
+    "location": "Prästängshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 18",
+    "month": "Augusti",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "P15",
@@ -856,8 +870,8 @@
   {
     "date": "tor 20",
     "month": "Augusti",
-    "startTime": "21:00",
-    "endTime": "22:30",
+    "startTime": "20:30",
+    "endTime": "22:00",
     "team": "HK Blå 85",
     "location": "Heddahallen",
     "type": "Träning",
@@ -865,7 +879,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, HeddahallenFörsta 30 minutrarna utomhus samling vid Centrala Idrottsplatsen, (1h inomhus)."
   },
   {
     "date": "fre 21",
@@ -972,6 +986,20 @@
     "endTime": "11:30",
     "team": "P11",
     "location": "St Hans backar",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "lör 22",
+    "month": "Augusti",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "team": "P9",
+    "location": "Fäladshallen   B",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -1272,6 +1300,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, ArenanOBS St Larsparken/Nordic Wellness\nLöpning 17.30 - Gym 18.00"
+  },
+  {
+    "date": "tis 25",
+    "month": "Augusti",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "team": "P9",
+    "location": "Prästängshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "tis 25",
@@ -1710,8 +1752,8 @@
   {
     "date": "tor 27",
     "month": "Augusti",
-    "startTime": "21:00",
-    "endTime": "22:30",
+    "startTime": "20:30",
+    "endTime": "22:00",
     "team": "HK Blå 85",
     "location": "Heddahallen",
     "type": "Träning",
@@ -1719,7 +1761,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, HeddahallenFörsta 30 minutrarna utomhus samling vid Centrala Idrottsplatsen, (1h inomhus)."
   },
   {
     "date": "fre 28",
@@ -1860,6 +1902,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Fotografering P9 H43, Arenan AFotograferingen för kommande säsong är bokad till den 29e augusti i arenans A-hall. Vi vet ännu inte vilken tid vårt lag får utan återkommer när vi har fått schemat."
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "team": "P9",
+    "location": "Fäladshallen   B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "lör 29",
