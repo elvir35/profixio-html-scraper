@@ -688,6 +688,20 @@
   {
     "date": "ons 19",
     "month": "Augusti",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P12",
+    "location": "Victoriastadion 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Victoriastadion 2"
+  },
+  {
+    "date": "ons 19",
+    "month": "Augusti",
     "startTime": "17:30",
     "endTime": "19:30",
     "team": "DAMER A",
@@ -1150,6 +1164,20 @@
   {
     "date": "mån 24",
     "month": "Augusti",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P12",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning"
+  },
+  {
+    "date": "mån 24",
+    "month": "Augusti",
     "startTime": "18:00",
     "endTime": "20:00",
     "team": "F19 / Damer J",
@@ -1584,6 +1612,20 @@
   {
     "date": "ons 26",
     "month": "Augusti",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P12",
+    "location": "Victoriastadion 2",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Victoriastadion 2"
+  },
+  {
+    "date": "ons 26",
+    "month": "Augusti",
     "startTime": "17:30",
     "endTime": "19:30",
     "team": "DAMER A",
@@ -1705,7 +1747,7 @@
     "opponent": "Föräldramöte H43 P12 (2014)",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Föräldramöte H43 P12 (2014), Glasbollen, ArenanFöräldramöte H43 P12. Återkommer med mer information."
+    "info": "Föräldramöte H43 P12 (2014), Glasbollen, ArenanHej alla föräldrar,\nVälkomna på föräldramöte torsdagen den 27 augusti kl. 18.00 i konferensrum Glasbollen i Sparbanken Skåne Arena (första våningen mellan H43:s och Lugis kansli)!\nVi ser gärna att minst en vårdnadshavare per barn medverkar.\nVi kommer bl.a. ta upp följande:\n- Ev. allmän föreningsinfo\n- Träningar och träningsnärvaro mm\n- Målvaktsträning\n- Serien\n- Ansvar vid hemmamatcher (Sekretariat, kiosk, matchvärd mm)\n- Kommunikation från ledarna, kallelser mm\n- Cuper \n- Lagansvar\n- Föreningsgemensamma försäljningar samt ev egna \n- Övriga punkter\nVi har avsatt en och en halv timme men avslutar så klart om vi blir färdiga innan dess.\nVarmt välkomna!\nMVH/ Tränarna"
   },
   {
     "date": "tor 27",
@@ -2028,6 +2070,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Bollhuset B"
+  },
+  {
+    "date": "mån 31",
+    "month": "Augusti",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "team": "P12",
+    "location": "Östratornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Östratornhallen"
   },
   {
     "date": "mån 31",
