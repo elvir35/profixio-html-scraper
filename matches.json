@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-10T18:42:07.301Z",
+  "scrapedAt": "2026-08-11T00:58:26.249Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 13,
   "hasMatches": true,
@@ -26,7 +26,7 @@
       "home": "H43 Lund",
       "away": "IK Lågan",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/8288_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -38,7 +38,7 @@
       "home": "H43 Lund",
       "away": "Ystads IF",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/20826_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
