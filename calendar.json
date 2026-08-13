@@ -717,6 +717,20 @@
     "date": "ons 19",
     "month": "Augusti",
     "startTime": "18:00",
+    "endTime": "19:15",
+    "team": "F14",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "ons 19",
+    "month": "Augusti",
+    "startTime": "18:00",
     "endTime": "19:00",
     "team": "F8",
     "location": "Prästängshallen",
@@ -726,20 +740,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Prästängshallen"
-  },
-  {
-    "date": "ons 19",
-    "month": "Augusti",
-    "startTime": "18:15",
-    "endTime": "19:30",
-    "team": "F14",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "ons 19",
@@ -949,7 +949,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
   },
   {
     "date": "fre 21",
@@ -1262,24 +1262,24 @@
   {
     "date": "mån 24",
     "month": "Augusti",
-    "startTime": "19:00",
+    "startTime": "18:30",
     "endTime": "20:30",
-    "team": "HERRAR A",
-    "location": "Arenan A",
+    "team": "F15",
+    "location": "Bollhuset",
     "type": "Träning",
     "title": "",
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Bollhuset 18:30 - 19:00: Löpning\n19:00 - 20:30: Hallträning"
   },
   {
     "date": "mån 24",
     "month": "Augusti",
     "startTime": "19:00",
     "endTime": "20:30",
-    "team": "F15",
-    "location": "Bollhuset",
+    "team": "HERRAR A",
+    "location": "Arenan A",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -1697,6 +1697,20 @@
     "date": "ons 26",
     "month": "Augusti",
     "startTime": "18:00",
+    "endTime": "19:15",
+    "team": "F14",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "ons 26",
+    "month": "Augusti",
+    "startTime": "18:00",
     "endTime": "19:00",
     "team": "F8",
     "location": "Prästängshallen",
@@ -1706,20 +1720,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Prästängshallen"
-  },
-  {
-    "date": "ons 26",
-    "month": "Augusti",
-    "startTime": "18:15",
-    "endTime": "19:30",
-    "team": "F14",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "ons 26",
@@ -1887,7 +1887,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
   },
   {
     "date": "fre 28",
@@ -1976,22 +1976,8 @@
   {
     "date": "lör 29",
     "month": "Augusti",
-    "startTime": "09:00",
-    "endTime": "16:00",
-    "team": "P12",
-    "location": "Arenan A",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Lagfotografering H43 P12 (2014)",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Lagfotografering H43 P12 (2014), Arenan ALagfotograferingen är bokad, den kommer äga rum lördagen den 29 augusti i Arena A. Vi återkommer med exakt tidpunkt.\n/ Tränarna"
-  },
-  {
-    "date": "lör 29",
-    "month": "Augusti",
     "startTime": "09:15",
-    "endTime": "11:00",
+    "endTime": "09:35",
     "team": "F8",
     "location": "Arenan",
     "type": "Övrigt",
@@ -2102,6 +2088,20 @@
   {
     "date": "lör 29",
     "month": "Augusti",
+    "startTime": "11:05",
+    "endTime": "12:30",
+    "team": "P12",
+    "location": "Arenan A",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Lagfotografering H43 P12 (2014)",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Lagfotografering H43 P12 (2014), Arenan ALagfotograferingen är bokad, den kommer äga rum lördagen den 29 augusti i Arena A. Vi återkommer med exakt tidpunkt.\n/ Tränarna"
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
     "startTime": "12:00",
     "endTime": "13:30",
     "team": "F10",
@@ -2112,6 +2112,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
+    "startTime": "12:00",
+    "endTime": "15:00",
+    "team": "F12",
+    "location": "Samlingslokal vid Margaretavägen 3 L",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Säsongskickoff med grillning",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Säsongskickoff med grillning, Samlingslokal vid Margaretavägen 3 LTjejerna har vid flera tillfällen uttryckt önskemål om att träffas och umgås utanför handbollsträning, match, cup (eller skola för den delen).\nVi tänkte därför passa på att köra en liten säsongskickoff med grillning!\nOBS! Håll koll på ev. ändring i starttid kopplat till fotograferingen.\nNotera deadline för svar. Icke-svar tolkas som att man inte kommer. Meddela eventuella allergier eller matpreferenser i svaret."
   },
   {
     "date": "lör 29",
@@ -2140,6 +2154,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Fotografering och löpträning - oklar tid, Arenan A &amp; StadsparkenNästa säsongs fotografering sker den 29de augusti. Vi återkommer med klockslag.\nVi passar på att köra en löpträning i Stadsparken efter fotogtaferingen"
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
+    "startTime": "14:10",
+    "endTime": "15:00",
+    "team": "DAMER A",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Fotografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fotografering, Arenan, foajenKom i tid för att hinna byta om."
   },
   {
     "date": "lör 29",
@@ -2228,24 +2256,24 @@
   {
     "date": "mån 31",
     "month": "Augusti",
-    "startTime": "19:00",
+    "startTime": "18:30",
     "endTime": "20:30",
-    "team": "HERRAR A",
-    "location": "Arenan A",
+    "team": "F15",
+    "location": "Bollhuset",
     "type": "Träning",
     "title": "",
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Bollhuset 18:30 - 19:00: Löpning\n19:00 - 20:30: Hallträning"
   },
   {
     "date": "mån 31",
     "month": "Augusti",
     "startTime": "19:00",
     "endTime": "20:30",
-    "team": "F15",
-    "location": "Bollhuset",
+    "team": "HERRAR A",
+    "location": "Arenan A",
     "type": "Träning",
     "title": "",
     "opponent": "",
