@@ -744,6 +744,20 @@
   {
     "date": "ons 19",
     "month": "Augusti",
+    "startTime": "18:15",
+    "endTime": "20:30",
+    "team": "F19 / Damer J",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
+  },
+  {
+    "date": "ons 19",
+    "month": "Augusti",
     "startTime": "19:00",
     "endTime": "21:00",
     "team": "F15",
@@ -754,20 +768,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Heddahallen19:00 - 19:30: Löpning\n19:30 - 21:00: Hallträning"
-  },
-  {
-    "date": "ons 19",
-    "month": "Augusti",
-    "startTime": "19:00",
-    "endTime": "20:30",
-    "team": "F19 / Damer J",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "ons 19",
@@ -884,7 +884,7 @@
   {
     "date": "tor 20",
     "month": "Augusti",
-    "startTime": "19:30",
+    "startTime": "20:00",
     "endTime": "21:30",
     "team": "F19 / Damer J",
     "location": "Tunahallen",
@@ -893,7 +893,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tunahallen19:30-20:00 Löpning\n20:00-21:30 Hallträning"
+    "info": "Träning, Tunahallen20:00-21:30 Hallträning"
   },
   {
     "date": "tor 20",
@@ -1221,7 +1221,7 @@
     "date": "mån 24",
     "month": "Augusti",
     "startTime": "18:00",
-    "endTime": "20:00",
+    "endTime": "20:15",
     "team": "F19 / Damer J",
     "location": "Heddahallen",
     "type": "Träning",
@@ -1229,7 +1229,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Heddahallen18:00-19:30 Hallträning\n19:30-20:00 Löpning"
+    "info": "Träning, Heddahallen18:00-19:30 Hallträning\n19:30-20:15 Löpning"
   },
   {
     "date": "mån 24",
@@ -1384,6 +1384,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, ArenanOBS St Larsparken/Nordic Wellness\nLöpning 17.30 - Gym 18.00"
+  },
+  {
+    "date": "tis 25",
+    "month": "Augusti",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "team": "F19 / Damer J",
+    "location": "Nordic",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Gemensamt gym",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "tis 25",
@@ -1724,6 +1738,20 @@
   {
     "date": "ons 26",
     "month": "Augusti",
+    "startTime": "18:15",
+    "endTime": "20:30",
+    "team": "F19 / Damer J",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
+  },
+  {
+    "date": "ons 26",
+    "month": "Augusti",
     "startTime": "19:00",
     "endTime": "21:00",
     "team": "F15",
@@ -1734,20 +1762,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Heddahallen19:00 - 19:30: Löpning\n19:30 - 21:00: Hallträning"
-  },
-  {
-    "date": "ons 26",
-    "month": "Augusti",
-    "startTime": "19:00",
-    "endTime": "20:30",
-    "team": "F19 / Damer J",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan A19:00-20:30 Hallträning"
   },
   {
     "date": "ons 26",
@@ -1850,7 +1864,7 @@
   {
     "date": "tor 27",
     "month": "Augusti",
-    "startTime": "19:30",
+    "startTime": "20:00",
     "endTime": "21:30",
     "team": "F19 / Damer J",
     "location": "Tunahallen",
@@ -1859,7 +1873,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Tunahallen19:30-20:00 Löpning\n20:00-21:30 Hallträning"
+    "info": "Träning, TunahallenHallträning 20:00-21:30"
   },
   {
     "date": "tor 27",
@@ -2215,7 +2229,7 @@
     "date": "mån 31",
     "month": "Augusti",
     "startTime": "18:00",
-    "endTime": "20:00",
+    "endTime": "20:15",
     "team": "F19 / Damer J",
     "location": "Heddahallen",
     "type": "Träning",
@@ -2223,7 +2237,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Heddahallen18:00-19:30 Hallträning\n19:30-20:00 Löpning"
+    "info": "Träning, Heddahallen18:00-19:30 Hallträning\n19:30-20:15 Löpning"
   },
   {
     "date": "mån 31",
