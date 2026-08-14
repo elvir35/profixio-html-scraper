@@ -536,6 +536,20 @@
     "month": "Augusti",
     "startTime": "19:00",
     "endTime": "21:00",
+    "team": "F15",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Uppstartsträff",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Uppstartsträff, Tornhallen, StångbyDå vi tyvärr inte har tillgång till hall denna måndag 17/8 kommer vi istället ses vid Tornhallen i Stångby för en första uppstartsträff. Det kommer bli en del information om kommande säsong, lite fysisk aktivitet och avslutas med en gemensam fika.\nKom klädda för utomhusträning och ta gärna med en handduk och extra tröja."
+  },
+  {
+    "date": "mån 17",
+    "month": "Augusti",
+    "startTime": "19:00",
+    "endTime": "21:00",
     "team": "P16",
     "location": "Fäladshallen",
     "type": "Träning",
@@ -1192,6 +1206,20 @@
   {
     "date": "sön 23",
     "month": "Augusti",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "team": "DAMER A",
+    "location": "Stadsparken",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Grillning i Stadsparken DA/DU",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Grillning i Stadsparken DA/DU, StadsparkenVi grillar tillsammans med DU och deras ledare i Stadsparken innan vår match mot YIF kl 16.00."
+  },
+  {
+    "date": "sön 23",
+    "month": "Augusti",
     "startTime": "16:00",
     "endTime": "",
     "team": "DAMER A",
@@ -1369,7 +1397,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, VipeholmshallenDirekt efter träning så åker vi, som har möjlighet, till Arenan och hejar på H43 mot Lugi."
   },
   {
     "date": "tis 25",
@@ -1850,20 +1878,6 @@
   {
     "date": "tor 27",
     "month": "Augusti",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "team": "P16",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tor 27",
-    "month": "Augusti",
     "startTime": "20:00",
     "endTime": "21:30",
     "team": "F19 / Damer J",
@@ -1888,6 +1902,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenFörsta 30 minutrarna utomhus samling vid Centrala Idrottsplatsen, (1h inomhus)."
+  },
+  {
+    "date": "tor 27",
+    "month": "Augusti",
+    "startTime": "20:30",
+    "endTime": "22:00",
+    "team": "P16",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Arenan"
   },
   {
     "date": "fre 28",
@@ -2060,6 +2088,20 @@
   {
     "date": "lör 29",
     "month": "Augusti",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "team": "P11",
+    "location": "Arenan A & Stadsparken",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fotografering och löpträning, Arenan A &amp; StadsparkenNästa säsongs fotografering sker den 29de augusti.\nVi passar på att köra en löpträning i Stadsparken efter fotogtaferingen.\nSkriv in kommentar om ni inte kan vara med på löpträningen."
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
     "startTime": "11:00",
     "endTime": "12:30",
     "team": "HERRAR A",
@@ -2154,20 +2196,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Lagfotografering + Löpning ÅTERKOMMER MED TID, Arenan ALagfotografering i Arena A\nLöpträning efteråt i stadsparken. Ca 45 min."
-  },
-  {
-    "date": "lör 29",
-    "month": "Augusti",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "team": "P11",
-    "location": "Arenan A & Stadsparken",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Fotografering och löpträning - oklar tid, Arenan A &amp; StadsparkenNästa säsongs fotografering sker den 29de augusti. Vi återkommer med klockslag.\nVi passar på att köra en löpträning i Stadsparken efter fotogtaferingen"
   },
   {
     "date": "lör 29",
