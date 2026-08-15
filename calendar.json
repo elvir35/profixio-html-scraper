@@ -828,20 +828,6 @@
   {
     "date": "tor 20",
     "month": "Augusti",
-    "startTime": "09:00",
-    "endTime": "18:00",
-    "team": "P10",
-    "location": "Arenan",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Fotografering",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tor 20",
-    "month": "Augusti",
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "F12",
@@ -852,6 +838,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Victoriastadion 3"
+  },
+  {
+    "date": "tor 20",
+    "month": "Augusti",
+    "startTime": "17:00",
+    "endTime": "18:15",
+    "team": "P10",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Fotografering och spelarmöte",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fotografering och spelarmöte, ArenanVi samlas 17.00 för att sedan fotograferas kl 17.20. På fotograferingen ska vi ha på oss matchtröja (vi fixar), shorts, strumpor och skor. Det är både lagbild och enskilda bilder. \n \nEfter mötet vill vi träffa spelarna för ett kortare möte kring säsongen. Vi beräknas vara klara 18.15. \nInnan fotograferingen måste ni vårdnadshavare fylla i ett dokument. Detta kommer komma ut via mail under nästa vecka. \nVi hoppas alla spelarna prioriterar denna aktivitet."
   },
   {
     "date": "tor 20",
@@ -880,6 +880,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "tor 20",
+    "month": "Augusti",
+    "startTime": "18:15",
+    "endTime": "19:30",
+    "team": "F11",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Tornhallen, StångbyVar ombytta och redo 18.15. Kom ihåg vattenflaska och egen boll."
   },
   {
     "date": "tor 20",
@@ -1176,6 +1190,20 @@
     "info": "Uppstartshelg 22/8 kl 11:00 - 23/8 14:00, Arenan BHej!\n22-23/8 kör vi uppstartshelg! Den här helgen kommer vi lägga grunden för säsongen. \nVi kommer köra träningar, lagmöte, träningsmatch och avrundar på söndagen med grillunch med Damlaget. \nMer info kommer när vi närmar oss men räkna med att vi börjar vid 11:00 på lördagen och avslutar vid 14:00 på söndagen. Vi är i Lund, ingen övernattning den här gången utan alla sover hemma. \nEventuellt behöver vi ta en mindre summa för att täcka matkostnaderna under helgen. Vi återkommer även med det. \nSvara så fort som möjligt men absolut senast 10/8 så vi kan planera. \nSer fram emot det!\n/Ledarna"
   },
   {
+    "date": "lör 22",
+    "month": "Augusti",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "team": "F15",
+    "location": "Gunnesbohallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "13:15",
+    "info": "Träningsmatch - KFUM Lundagård, GunnesbohallenTräningsmatch mot KFUM Lundagård\nMatchstart: 14:00"
+  },
+  {
     "date": "sön 23",
     "month": "Augusti",
     "startTime": "00:00",
@@ -1216,6 +1244,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Bollhuset B"
+  },
+  {
+    "date": "sön 23",
+    "month": "Augusti",
+    "startTime": "12:45",
+    "endTime": "14:00",
+    "team": "F15",
+    "location": "Stadsparken",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Korvgrillning i Stadsparken med Damer J & Damer A",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Korvgrillning i Stadsparken med Damer J &amp; Damer A, StadsparkenHej! \nDJ (Damer J) och damerna kommer att ha korvgrillning nästa söndag 23/8 kl. 12:45 i Stadsparken, och ni är varmt välkomna att komma och vara med!\nDet hade varit superkul om så många som möjligt kunde komma. Det blir ett bra tillfälle för er att lära känna dem, och såklart för dem att lära känna er också. Inför säsongen kommer ni att träffa varandra mycket i hallarna och på träningar, så lika bra att ta första steget redan nästa söndag."
   },
   {
     "date": "sön 23",
@@ -1328,6 +1370,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "mån 24",
+    "month": "Augusti",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "team": "F11",
+    "location": "Victoriastadion 1",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Victoriastadion 1Var ombytta och redo klockan 19. Kom ihåg vattenflaska och egen boll."
   },
   {
     "date": "mån 24",
@@ -1892,6 +1948,20 @@
   {
     "date": "tor 27",
     "month": "Augusti",
+    "startTime": "18:15",
+    "endTime": "19:30",
+    "team": "F11",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Tornhallen, StångbyVar ombytta och redo 18.15. Kom ihåg vattenflaska och egen boll."
+  },
+  {
+    "date": "tor 27",
+    "month": "Augusti",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -2167,7 +2237,7 @@
     "opponent": "Lagfotografering H43 P12 (2014)",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Lagfotografering H43 P12 (2014), Arenan ALagfotografering lördagen den 29 augusti i Arena A. Preliminärt ska P12 fotograferas kl. 11.25. \nMer info kommer senare.\n/ Tränarna"
+    "info": "Lagfotografering H43 P12 (2014), Arenan AHej allihopa! \n \nLördagen den 29 augusti är det dags för lagfotografering i Arenans A-hall. Vårt lag är schemalagt kl. 11.25. Vi samlas 20 minuter innan. Vore toppen om så många som möjligt kan prioritera detta så vi får en fin och så komplett lagbild som möjligt! ?? \n \nDet blir både gruppfoto och individuella porträttbilder. Bilderna kommer att publiceras på vår hemsida och om man vill kan man även beställa bilder. \n \nKom ombytta i matchkläder, blåa shorts och matchtröja inkl. handbollsskor och helst vita strumpor. Förhoppningsvis har vi fått tillbaka de omtryckta matchtröjorna vid det laget! Ledarna ska ha ledarkläder på, helst likadana overallsjackor/tröjor. \n \nI god tid innan fotograferingen kommer ni få en länk till en digital registrerings- och beställningsblankett. Samtliga spelare och ledare ska registrera sig via länken innan fototillfället, oavsett om man önskar beställa bilder eller ej. Länken skickas ut via mejl! \n \nSamling kl. 11.05! Svara på kallelsen så vi vet"
   },
   {
     "date": "lör 29",
@@ -2350,6 +2420,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "mån 31",
+    "month": "Augusti",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "team": "F11",
+    "location": "Victoriastadion 1",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Victoriastadion 1Var ombytta och redo klockan 19. Kom ihåg vattenflaska och egen boll."
   },
   {
     "date": "mån 31",
