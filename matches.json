@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-08-16T12:18:50.262Z",
+  "scrapedAt": "2026-08-16T18:14:12.029Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 13,
+  "matchCount": 14,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -14,7 +14,7 @@
       "home": "H43 Lund",
       "away": "IK Lågan",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/8288_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -26,7 +26,7 @@
       "home": "H43 Lund",
       "away": "Ystads IF",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/20826_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -75,6 +75,18 @@
       "away": "Eslöv",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F10",
+      "hall": "Fäladshallen B",
+      "time": "09:00",
+      "date": "lör 05",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund",
+      "away": "H43 Open",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
