@@ -674,6 +674,20 @@
   {
     "date": "tis 18",
     "month": "Augusti",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "team": "F12",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 18",
+    "month": "Augusti",
     "startTime": "19:30",
     "endTime": "21:00",
     "team": "F19 / Damer J",
