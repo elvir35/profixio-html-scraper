@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-08-18T06:25:27.411Z",
+  "scrapedAt": "2026-08-18T12:24:18.662Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 14,
+  "matchCount": 15,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -99,6 +99,18 @@
       "away": "Åhus",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P8",
+      "hall": "Tolvåkershallen - Lödde idrottshall",
+      "time": "09:00",
+      "date": "lör 12",
+      "month": "SEPTEMBER 2026",
+      "home": "Ystad, Lödde, Lugi mfl.",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
       "status": "upcoming"
     },
     {
