@@ -1151,15 +1151,15 @@
     "date": "lör 22",
     "month": "Augusti",
     "startTime": "11:00",
-    "endTime": "12:00",
+    "endTime": "18:00",
     "team": "F19 / Damer J",
-    "location": "Borgebyhallen",
-    "type": "Övrigt",
+    "location": "Arenan B",
+    "type": "Träning",
     "title": "",
-    "opponent": "",
+    "opponent": "Uppstartshelg 22/8 kl 11:00 - 23/8 14:00",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träningsmatch mot HK Ankaret, Borgebyhallen, Bjärred"
+    "info": "Uppstartshelg 22/8 kl 11:00 - 23/8 14:00, Arenan BHej!\n22-23/8 kör vi uppstartshelg! Den här helgen kommer vi lägga grunden för säsongen. \nVi kommer köra träningar, lagmöte, träningsmatch och avrundar på söndagen med grillunch med Damlaget. \nMer info kommer när vi närmar oss men räkna med att vi börjar vid 11:00 på lördagen och avslutar vid 14:00 på söndagen. Vi är i Lund, ingen övernattning den här gången utan alla sover hemma. \nEventuellt behöver vi ta en mindre summa för att täcka matkostnaderna under helgen. Vi återkommer även med det. \nSvara så fort som möjligt men absolut senast 10/8 så vi kan planera. \nSer fram emot det!\n/Ledarna"
   },
   {
     "date": "lör 22",
@@ -1206,20 +1206,6 @@
   {
     "date": "lör 22",
     "month": "Augusti",
-    "startTime": "13:00",
-    "endTime": "18:00",
-    "team": "F19 / Damer J",
-    "location": "Arenan B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Uppstartshelg 22/8 kl 11:00 - 23/8 14:00",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Uppstartshelg 22/8 kl 11:00 - 23/8 14:00, Arenan BHej!\n22-23/8 kör vi uppstartshelg! Den här helgen kommer vi lägga grunden för säsongen. \nVi kommer köra träningar, lagmöte, träningsmatch och avrundar på söndagen med grillunch med Damlaget. \nMer info kommer när vi närmar oss men räkna med att vi börjar vid 11:00 på lördagen och avslutar vid 14:00 på söndagen. Vi är i Lund, ingen övernattning den här gången utan alla sover hemma. \nEventuellt behöver vi ta en mindre summa för att täcka matkostnaderna under helgen. Vi återkommer även med det. \nSvara så fort som möjligt men absolut senast 10/8 så vi kan planera. \nSer fram emot det!\n/Ledarna"
-  },
-  {
-    "date": "lör 22",
-    "month": "Augusti",
     "startTime": "14:00",
     "endTime": "15:30",
     "team": "F15",
@@ -1258,6 +1244,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träningsläger i Damnark, Danmark Den 21-23 augusti är det träningsläger &nbsp;i Danmark. Det blir både träning och match.\nAvfärd fredag ca 14:00 (tåg)\nHemma söndag kväll.\nKostnad: 1500-2000kr.\nSvara senast söndag.\nMvh\nTränarna"
+  },
+  {
+    "date": "sön 23",
+    "month": "Augusti",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "team": "P8",
+    "location": "Bollhuset B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "sön 23",
@@ -2004,6 +2004,20 @@
   {
     "date": "tor 27",
     "month": "Augusti",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "team": "P8",
+    "location": "Prästängshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tor 27",
+    "month": "Augusti",
     "startTime": "18:15",
     "endTime": "19:30",
     "team": "F11",
@@ -2214,6 +2228,20 @@
   {
     "date": "lör 29",
     "month": "Augusti",
+    "startTime": "09:15",
+    "endTime": "09:45",
+    "team": "P8",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Fotografering - Lagfoto Arenan",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
     "startTime": "09:45",
     "endTime": "13:30",
     "team": "F10",
@@ -2389,6 +2417,20 @@
     "type": "Övrigt",
     "title": "",
     "opponent": "Fotografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "sön 30",
+    "month": "Augusti",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "team": "P8",
+    "location": "Bollhuset B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
     "homeAway": "",
     "meetingTime": "",
     "info": ""
