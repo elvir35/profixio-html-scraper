@@ -826,20 +826,6 @@
     "info": ""
   },
   {
-    "date": "ons 19",
-    "month": "Augusti",
-    "startTime": "21:00",
-    "endTime": "22:30",
-    "team": "HK Blå 85",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
     "date": "tor 20",
     "month": "Augusti",
     "startTime": "17:00",
@@ -982,7 +968,7 @@
   {
     "date": "fre 21",
     "month": "Augusti",
-    "startTime": "15:00",
+    "startTime": "14:00",
     "endTime": "23:59",
     "team": "P16",
     "location": "Danmark",
@@ -1066,8 +1052,8 @@
   {
     "date": "lör 22",
     "month": "Augusti",
-    "startTime": "00:00",
-    "endTime": "23:59",
+    "startTime": "00:01",
+    "endTime": "23:00",
     "team": "P16",
     "location": "Danmark",
     "type": "Träning",
@@ -1234,7 +1220,7 @@
   {
     "date": "sön 23",
     "month": "Augusti",
-    "startTime": "00:00",
+    "startTime": "00:01",
     "endTime": "18:00",
     "team": "P16",
     "location": "Danmark",
