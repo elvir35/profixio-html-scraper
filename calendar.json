@@ -898,6 +898,20 @@
   {
     "date": "tor 20",
     "month": "Augusti",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "team": "F15",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Lagfotografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Lagfotografering, Arenan!!OBS!! Samtliga spelare behöver fylla i den digitala beställningsblanketten innan fotograferingen, oavsett om man önskar beställa bilder eller inte. \nBlanketten är unik per lag. Vår länk hittar ni här:\nhttps://registrering-digital-blankett.idrottsfoto.com/?t=d3e0dcf0-0356-48fc-97ab-83740aaa8f08\n- Spelare skall vara ombytta i matchkläder inkl. matchskor. Matchtröjor kommer finnas på plats i Arenan.\n- Ledare bör ha gemensam overallsjacka/tröja"
+  },
+  {
+    "date": "tor 20",
+    "month": "Augusti",
     "startTime": "18:15",
     "endTime": "19:30",
     "team": "F11",
