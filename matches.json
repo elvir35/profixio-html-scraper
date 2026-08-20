@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-08-20T12:26:24.688Z",
+  "scrapedAt": "2026-08-20T18:23:34.701Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 41,
+  "matchCount": 63,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -102,6 +102,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "19:30",
+      "date": "fre 11",
+      "month": "SEPTEMBER 2026",
+      "home": "HK Blå 85 Lund",
+      "away": "Lödde Vikings HK B",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P8",
       "hall": "Tolvåkershallen - Lödde idrottshall",
       "time": "09:00",
@@ -138,6 +150,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Östergårdshallen",
+      "time": "13:30",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "Halmstad HF",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Fleminghallen",
       "time": "15:00",
@@ -162,6 +186,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Tunahallen-Handboll",
+      "time": "18:00",
+      "date": "lör 03",
+      "month": "OKTOBER 2026",
+      "home": "HK Blå 85 Lund",
+      "away": "KFUM Lundagård",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Sparbanken Skåne Arena A",
       "time": "14:00",
@@ -174,6 +210,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Borgebyhallen",
+      "time": "14:15",
+      "date": "sön 11",
+      "month": "OKTOBER 2026",
+      "home": "HK Ankaret",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Tyresöhallen",
       "time": "16:30",
@@ -183,6 +231,18 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26331_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Tunahallen-Handboll",
+      "time": "16:20",
+      "date": "lör 24",
+      "month": "OKTOBER 2026",
+      "home": "HK Blå 85 Lund",
+      "away": "Kävlinge HK",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -210,6 +270,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Brinova Arena Karlskrona",
+      "time": "14:00",
+      "date": "sön 08",
+      "month": "NOVEMBER 2026",
+      "home": "HF Karlskrona U",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26363_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Sparbanken Skåne Arena A",
       "time": "17:00",
@@ -222,6 +294,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "16:00",
+      "date": "fre 13",
+      "month": "NOVEMBER 2026",
+      "home": "HK Blå 85 Lund",
+      "away": "IFK Ystad HK",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Mimershallen A Kungälv",
       "time": "15:30",
@@ -231,6 +315,18 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26186_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Griffel Arena",
+      "time": "17:00",
+      "date": "lör 21",
+      "month": "NOVEMBER 2026",
+      "home": "Växjö HF",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -258,6 +354,30 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Bollhuset A",
+      "time": "16:30",
+      "date": "sön 29",
+      "month": "NOVEMBER 2026",
+      "home": "LUGI HF U B",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "16:30",
+      "date": "lör 05",
+      "month": "DECEMBER 2026",
+      "home": "HK Blå 85 Lund",
+      "away": "Stavsten HK U",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Lunds Idrottshall",
       "time": "16:00",
@@ -279,6 +399,30 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26111_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Lågehall A",
+      "time": "15:30",
+      "date": "lör 12",
+      "month": "DECEMBER 2026",
+      "home": "IK Lågan",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "16:30",
+      "date": "lör 19",
+      "month": "DECEMBER 2026",
+      "home": "HK Blå 85 Lund",
+      "away": "HK Ankaret",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -318,6 +462,30 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Gunnesbohallen",
+      "time": "16:00",
+      "date": "sön 10",
+      "month": "JANUARI 2027",
+      "home": "KFUM Lundagård",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Tunahallen-Handboll",
+      "time": "18:10",
+      "date": "lör 16",
+      "month": "JANUARI 2027",
+      "home": "HK Blå 85 Lund",
+      "away": "IK Lågan",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Lunds Idrottshall",
       "time": "17:30",
@@ -342,6 +510,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "16:00",
+      "date": "sön 24",
+      "month": "JANUARI 2027",
+      "home": "HK Blå 85 Lund",
+      "away": "Växjö HF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Ystad Arena",
       "time": "19:00",
@@ -354,6 +534,30 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Korsbackahallen A",
+      "time": "15:30",
+      "date": "lör 30",
+      "month": "JANUARI 2027",
+      "home": "Kävlinge HK",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "19:30",
+      "date": "fre 05",
+      "month": "FEBRUARI 2027",
+      "home": "HK Blå 85 Lund",
+      "away": "LUGI HF U B",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Lunds Idrottshall",
       "time": "17:30",
@@ -363,6 +567,18 @@
       "away": "HK Torslanda Elit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26042_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Ystad Arena B",
+      "time": "14:00",
+      "date": "lör 13",
+      "month": "FEBRUARI 2027",
+      "home": "IFK Ystad HK",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -390,6 +606,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "12:30",
+      "date": "sön 28",
+      "month": "FEBRUARI 2027",
+      "home": "HK Blå 85 Lund",
+      "away": "HF Karlskrona U",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26363_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Tumba Idrottshus A",
       "time": "16:15",
@@ -399,6 +627,18 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26074_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Söderslättshallen A",
+      "time": "19:00",
+      "date": "fre 05",
+      "month": "MARS 2027",
+      "home": "Stavsten HK U",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -423,6 +663,30 @@
       "away": "Kungälvs HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26186_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "12:40",
+      "date": "sön 14",
+      "month": "MARS 2027",
+      "home": "HK Blå 85 Lund",
+      "away": "Halmstad HF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Tolvåkers Idrottshall A",
+      "time": "17:00",
+      "date": "sön 21",
+      "month": "MARS 2027",
+      "home": "Lödde Vikings HK B",
+      "away": "HK Blå 85 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
