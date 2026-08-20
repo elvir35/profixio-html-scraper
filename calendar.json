@@ -1360,20 +1360,6 @@
   {
     "date": "mån 24",
     "month": "Augusti",
-    "startTime": "18:15",
-    "endTime": "20:30",
-    "team": "DAMER A",
-    "location": "Bollhuset A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "mån 24",
-    "month": "Augusti",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "F14",
@@ -1412,6 +1398,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "mån 24",
+    "month": "Augusti",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "team": "DAMER A",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, HeddahallenLöpning 18.00, hall 19.30"
   },
   {
     "date": "mån 24",
@@ -2508,20 +2508,6 @@
   {
     "date": "mån 31",
     "month": "Augusti",
-    "startTime": "18:15",
-    "endTime": "20:30",
-    "team": "DAMER A",
-    "location": "Bollhuset A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "mån 31",
-    "month": "Augusti",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "F14",
@@ -2560,6 +2546,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "mån 31",
+    "month": "Augusti",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "team": "DAMER A",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, HeddahallenLöpning 18.00, hall 19.30"
   },
   {
     "date": "mån 31",
