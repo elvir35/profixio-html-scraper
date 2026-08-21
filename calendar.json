@@ -1501,7 +1501,7 @@
     "date": "tis 25",
     "month": "Augusti",
     "startTime": "17:00",
-    "endTime": "18:30",
+    "endTime": "18:00",
     "team": "P11",
     "location": "Vipeholmshallen",
     "type": "Träning",
@@ -2298,7 +2298,7 @@
   {
     "date": "lör 29",
     "month": "Augusti",
-    "startTime": "10:30",
+    "startTime": "10:25",
     "endTime": "12:00",
     "team": "P11",
     "location": "Arenan A & Stadsparken",
