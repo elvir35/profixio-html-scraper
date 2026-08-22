@@ -1215,7 +1215,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "13:15",
-    "info": "Träningsmatch - KFUM Lundagård, GunnesbohallenTräningsmatch mot KFUM Lundagård\nMatchstart: 14:00"
+    "info": "INSTÄLLD - Träningsmatch - KFUM Lundagård, GunnesbohallenTräningsmatch mot KFUM Lundagård\nMatchstart: 14:00"
   },
   {
     "date": "sön 23",
@@ -2448,6 +2448,34 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
+    "startTime": "16:40",
+    "endTime": "21:00",
+    "team": "F15",
+    "location": "Helsingborg Arena",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Helsingborg Cup",
+    "homeAway": "",
+    "meetingTime": "15:45",
+    "info": "Helsingborg Cup, Helsingborg ArenaHelsingborg Cup 29/8 - 30/8\n29/8:  med matchstart 16:40\n30/8: Samling 07:15 med matchstart 08:00\nhttps://www.procup.se/cup/cupresgeneric_skin03.php?ev=39509&amp;lang=SVE&amp;LAG=H43%20Lund&amp;class=F16-svår"
+  },
+  {
+    "date": "sön 30",
+    "month": "Augusti",
+    "startTime": "08:00",
+    "endTime": "14:30",
+    "team": "F15",
+    "location": "Helsingborg Arena",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Helsingborg Cup",
+    "homeAway": "",
+    "meetingTime": "15:45",
+    "info": "Helsingborg Cup , Helsingborg ArenaHelsingborg Cup 29/8 - 30/8\n29/8:  med matchstart 16:40\n30/8: Samling 07:15 med matchstart 08:00\nhttps://www.procup.se/cup/cupresgeneric_skin03.php?ev=39509&amp;lang=SVE&amp;LAG=H43%20Lund&amp;class=F16-svår"
   },
   {
     "date": "sön 30",
