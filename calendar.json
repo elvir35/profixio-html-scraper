@@ -1530,20 +1530,6 @@
     "month": "Augusti",
     "startTime": "18:00",
     "endTime": "19:30",
-    "team": "F12",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Tornhallen, Stångby"
-  },
-  {
-    "date": "tis 25",
-    "month": "Augusti",
-    "startTime": "18:00",
-    "endTime": "19:30",
     "team": "F19 / Damer J",
     "location": "Nordic",
     "type": "Träning",
@@ -2313,15 +2299,15 @@
     "date": "lör 29",
     "month": "Augusti",
     "startTime": "10:25",
-    "endTime": "12:00",
+    "endTime": "11:15",
     "team": "P11",
-    "location": "Arenan A & Stadsparken",
+    "location": "Arenan A",
     "type": "Övrigt",
     "title": "",
-    "opponent": "",
+    "opponent": "Fotografering",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Fotografering och löpträning, Arenan A &amp; StadsparkenNästa säsongs fotografering sker den 29de augusti.\nVi passar på att köra en löpträning i Stadsparken efter fotogtaferingen.\nSkriv in kommentar om ni inte kan vara med på löpträningen."
+    "info": "Fotografering, Arenan AFotografering kl 10:45 och vi samlas 10:25.\nMatchkläder och inneskor.\nAlla MÅSTE fylla i en digital blankett innan fotograferingen oavsett köp eller ej.\nPojkar 11:\nhttps://registrering-digital-blankett.idrottsfoto.com/?t=1ed3d6b1-e6b2-4545-9e43-1394ac569f92\nVi passar på att köra en löpträning i Stadsparken efter fotogtaferingen (separat kallelse)"
   },
   {
     "date": "lör 29",
@@ -2378,6 +2364,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Lagfotografering H43 P12 (2014), Arenan AHej allihopa! \n \nLördagen den 29 augusti är det dags för lagfotografering i Arenans A-hall. Vårt lag är schemalagt kl. 11.25. Vi samlas 20 minuter innan. Vore toppen om så många som möjligt kan prioritera detta så vi får en fin och så komplett lagbild som möjligt! ?? \n \nDet blir både gruppfoto och individuella porträttbilder. Bilderna kommer att publiceras på vår hemsida och om man vill kan man även beställa bilder. \n \nKom ombytta i matchkläder, blåa shorts och matchtröja inkl. handbollsskor och helst vita strumpor. Förhoppningsvis har vi fått tillbaka de omtryckta matchtröjorna vid det laget! Ledarna ska ha ledarkläder på, helst likadana overallsjackor/tröjor. \n \nI god tid innan fotograferingen kommer ni få en länk till en digital registrerings- och beställningsblankett. Samtliga spelare och ledare ska registrera sig via länken innan fototillfället, oavsett om man önskar beställa bilder eller ej. Länken skickas ut via mejl! \n \nSamling kl. 11.05! Svara på kallelsen så vi vet"
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
+    "startTime": "11:15",
+    "endTime": "12:15",
+    "team": "P11",
+    "location": "Stadsparken",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Löpträning, StadsparkenDirekt efter fotograferingen kör vi ett löppass i Stadsparken.\nEftersom vi hört att några har svårt att vara med lägger vi detta som en separat kallelse så att vi ser att vi är tillräckligt många som kan deltaga."
   },
   {
     "date": "lör 29",
