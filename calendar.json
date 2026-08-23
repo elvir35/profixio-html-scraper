@@ -1388,6 +1388,20 @@
   {
     "date": "mån 24",
     "month": "Augusti",
+    "startTime": "18:45",
+    "endTime": "20:00",
+    "team": "P15",
+    "location": "Stadsparken Beachhandbollsplanerna.",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "mån 24",
+    "month": "Augusti",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -1538,20 +1552,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "tis 25",
-    "month": "Augusti",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "team": "P15",
-    "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, TunahallenIngen föranmälan behövs.\nVi börjar träningen utomhus med fys. Kom ombytta och klara för fys 18:00, kläder efter väder. 18:30 påbörjar vi träningen i hallen.\nTa med träningskläder, skor ute och inne, &nbsp;vattenflaska och boll (storlek 2, klister)."
   },
   {
     "date": "tis 25",
