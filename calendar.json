@@ -2046,6 +2046,20 @@
   {
     "date": "tor 27",
     "month": "Augusti",
+    "startTime": "20:00",
+    "endTime": "22:00",
+    "team": "P16",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Arenan"
+  },
+  {
+    "date": "tor 27",
+    "month": "Augusti",
     "startTime": "20:30",
     "endTime": "22:00",
     "team": "HK Blå 85",
@@ -2056,20 +2070,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenFörsta 30 minutrarna utomhus samling vid Centrala Idrottsplatsen, (1h inomhus)."
-  },
-  {
-    "date": "tor 27",
-    "month": "Augusti",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "team": "P16",
-    "location": "Arenan",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan"
   },
   {
     "date": "fre 28",
