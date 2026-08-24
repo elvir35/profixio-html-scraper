@@ -1544,20 +1544,6 @@
     "month": "Augusti",
     "startTime": "18:00",
     "endTime": "19:30",
-    "team": "F19 / Damer J",
-    "location": "Nordic",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Gemensamt gym",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tis 25",
-    "month": "Augusti",
-    "startTime": "18:00",
-    "endTime": "19:30",
     "team": "P9",
     "location": "Prästängshallen",
     "type": "Träning",
@@ -1585,20 +1571,6 @@
     "date": "tis 25",
     "month": "Augusti",
     "startTime": "19:00",
-    "endTime": "20:15",
-    "team": "F10",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tis 25",
-    "month": "Augusti",
-    "startTime": "19:00",
     "endTime": "20:30",
     "team": "F10",
     "location": "Arenan",
@@ -1608,6 +1580,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Lundaderby - H43 vs Lugi, ArenanTisdagen den 25 augusti tar våra herrar emot Lugi HF i ett rafflande Lundaderby i Svenska Cupen!\nSom vanligt har våra medlemmar gratis inträde men för att garantera er en plats behöver ni svara ja på denna kallelsen! Svarar ni ja på denna kallelse kommer ni få en digital biljett via er ledare som gäller istället för ert medlemskort denna matchen. Biljetten gäller endast den spelare/ledare som tackat ja i kallelsen och får inte överlämnas till någon annan! Våra spelare och ledare kommer hänvisas till kortsidan, sektion H där vi vill ha många sjungande ungdomar i sina blå H43-kläder!\nTackar ni inte ja på denna kallelsen senast tisdagen den 18e augusti kommer vi inte kunna garantera inträde endast via medlemskortet. \nMedföljande föräldrar/syskon köper biljett via TicketCo; https://h43lund.ticketco.events/se/en/e/svenska_cupen_h43_lund_lugi"
+  },
+  {
+    "date": "tis 25",
+    "month": "Augusti",
+    "startTime": "19:00",
+    "endTime": "20:15",
+    "team": "F10",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "tis 25",
@@ -2396,16 +2382,16 @@
   {
     "date": "lör 29",
     "month": "Augusti",
-    "startTime": "12:00",
+    "startTime": "12:20",
     "endTime": "14:00",
     "team": "F19 / Damer J",
     "location": "Arenan A",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Lagfotografering + Löpning ÅTERKOMMER MED TID",
+    "opponent": "Lagfotografering + Löpning",
     "homeAway": "",
-    "meetingTime": "",
-    "info": "Lagfotografering + Löpning ÅTERKOMMER MED TID, Arenan ALagfotografering i Arena A\nLöpträning efteråt i stadsparken. Ca 45 min."
+    "meetingTime": "12:20",
+    "info": "Lagfotografering + Löpning, Arenan A\nFotografering 12:40\nLöpning i Stadsparken ca 13:10-14:00"
   },
   {
     "date": "lör 29",
