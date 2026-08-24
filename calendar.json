@@ -2410,6 +2410,20 @@
   {
     "date": "lör 29",
     "month": "Augusti",
+    "startTime": "13:50",
+    "endTime": "14:30",
+    "team": "HK Blå 85",
+    "location": "Arena A",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Fotografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
     "startTime": "14:10",
     "endTime": "15:00",
     "team": "DAMER A",
@@ -2420,20 +2434,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Fotografering, Arenan, foajenKom i tid för att hinna byta om."
-  },
-  {
-    "date": "lör 29",
-    "month": "Augusti",
-    "startTime": "15:00",
-    "endTime": "15:30",
-    "team": "HK Blå 85",
-    "location": "Arena A",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Fotografering",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "lör 29",
