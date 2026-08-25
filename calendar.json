@@ -1822,20 +1822,6 @@
   {
     "date": "ons 26",
     "month": "Augusti",
-    "startTime": "17:30",
-    "endTime": "19:30",
-    "team": "DAMER A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan AHall 17.30 - Löpning 19.00"
-  },
-  {
-    "date": "ons 26",
-    "month": "Augusti",
     "startTime": "18:00",
     "endTime": "19:15",
     "team": "F14",
@@ -1906,6 +1892,20 @@
   {
     "date": "ons 26",
     "month": "Augusti",
+    "startTime": "19:10",
+    "endTime": "",
+    "team": "DAMER A",
+    "location": "Arenan A ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi",
+    "homeAway": "hemma",
+    "meetingTime": "17:50",
+    "info": "Lugi hemma, Arenan A ()"
+  },
+  {
+    "date": "ons 26",
+    "month": "Augusti",
     "startTime": "20:00",
     "endTime": "22:00",
     "team": "P19",
@@ -1948,16 +1948,16 @@
   {
     "date": "tor 27",
     "month": "Augusti",
-    "startTime": "18:00",
-    "endTime": "",
+    "startTime": "17:30",
+    "endTime": "19:00",
     "team": "DAMER A",
-    "location": "Arenan A ()",
-    "type": "Match",
+    "location": "Arenan A",
+    "type": "Träning",
     "title": "",
-    "opponent": "Lugi",
-    "homeAway": "hemma",
-    "meetingTime": "16:45",
-    "info": "Lugi hemma, Arenan A ()"
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "tor 27",
@@ -2405,7 +2405,7 @@
     "opponent": "Fotografering",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Fotografering, ArenanFotografering med laget - inte bestämt vilken tid"
+    "info": "Fotografering, ArenanFotografering med laget - 13:05\nViktigt att alla följer instruktionen nedan\n==&gt;\nDet är viktigt att beställningsblanketten är korrekt ifylld och inskickad INNAN fotograferingen oavsett om man önskar beställa bilder eller inte eftersom det är registrering för fotograferingen.\nREGISTRERERING-OCH BESTÄLLNINGSBLANKETT\nSamtliga spelare och ledare ska registrera sig via länken oavsett om man önskar beställa bilder eller inte.\nBlanketten behöver vara korrekt ifylld för att registreringen och beställningen ska godkännas:\n Fyll i de obligatoriska uppgifterna\n Fyll i antal vid önskade produkter för att göra en beställning\n Beställaren måste vara myndig och personnumret måste vara fullständigt (inkl. 4 sista siffrorna)\n Beställaren måste godkänna Idrottsfotos villkor\nBeställningsblanketten är ett specialerbjudande som endast gäller vid fotograferingstillfället. Blanketter som\nskickas in i efterhand via länken behöver vara oss tillhanda inom 4 dagar efter fotograferingstil"
   },
   {
     "date": "lör 29",
