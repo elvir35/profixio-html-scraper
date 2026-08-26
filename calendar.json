@@ -2116,6 +2116,20 @@
   {
     "date": "fre 28",
     "month": "Augusti",
+    "startTime": "18:30",
+    "endTime": "21:00",
+    "team": "P19",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Lundaderby Lugi - H43",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Lundaderby Lugi - H43, ArenanSvara på kallelsen senast idag onsdag 20:00 om ni vill ha biljetter till derbyt på fredag.\nGäller bara spelare som är under 18år!!\nSvarar man inte så har man ingen biljett!\nVi har fått fribiljetter till våra ungdomsspelare och ungdomsledare till derbyt nu på fredag då Lugi står\nsom arrangörer. Dessa fribiljetter gäller endast spelare som är under 18 år samt deras ledare."
+  },
+  {
+    "date": "fre 28",
+    "month": "Augusti",
     "startTime": "19:00",
     "endTime": "",
     "team": "HERRAR A",
