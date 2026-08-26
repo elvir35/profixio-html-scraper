@@ -1822,7 +1822,7 @@
   {
     "date": "ons 26",
     "month": "Augusti",
-    "startTime": "18:00",
+    "startTime": "17:30",
     "endTime": "19:15",
     "team": "F14",
     "location": "Tornhallen",
@@ -1831,7 +1831,21 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Tornhallen, Stångby"
+  },
+  {
+    "date": "ons 26",
+    "month": "Augusti",
+    "startTime": "17:30",
+    "endTime": "19:15",
+    "team": "F19 / Damer J",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Arenan A17:30-18:45 Hallträning\n18:45-19:15 Löpning"
   },
   {
     "date": "ons 26",
@@ -1846,20 +1860,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Prästängshallen"
-  },
-  {
-    "date": "ons 26",
-    "month": "Augusti",
-    "startTime": "18:15",
-    "endTime": "20:30",
-    "team": "F19 / Damer J",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
   },
   {
     "date": "ons 26",
