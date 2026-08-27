@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-08-26T19:34:10.683Z",
+  "scrapedAt": "2026-08-27T05:47:01.882Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 89,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "DAMER A",
-      "hall": "Arenan A",
-      "time": "19:10",
-      "date": "ons 26",
-      "month": "AUGUSTI 2026",
-      "home": "H43 Lund",
-      "away": "Lugi",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "HERRAR A",
       "hall": "Arenan",
@@ -976,6 +964,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26226_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "19:10",
+      "date": "ons 26",
+      "month": "AUGUSTI 2026",
+      "home": "H43 Lund",
+      "away": "Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "HERRAR A",
