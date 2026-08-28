@@ -2256,6 +2256,20 @@
   {
     "date": "lör 29",
     "month": "Augusti",
+    "startTime": "09:45",
+    "endTime": "10:30",
+    "team": "F9",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Fotografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fotografering , ArenanHej alla!\nVi ses på lördag allihop för fotografering. Jag skickar ut en kallelse med kort varsel, då jag nu inser att vi behöver kallelser till alla våra aktiviteter för att vår förening ska kunna ansöka om LOK. Så svara gärna på kallelsen. \nVi samlas kl 9.20 på lördag innanför lilla entrédörren som går till H43s och Lugis kansli (på Arenan). Dörren ligger mellan huvudentrén och entrén till B-hallen. (Andra dörrar kommer sannolikt vara låsta). Vi tränare har med oss matchtröjor som alla tjejer behöver ta på sig innan fotograferingen. \nVi ses på lördag, och glöm inte att fylla i beställningsblanketten digitalt, som ni alla ska ha fått i en bilaga i sportadmin, oavsett om ni vill beställa bilder eller inte. \n/Tränarna"
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
     "startTime": "10:00",
     "endTime": "11:00",
     "team": "P9",
