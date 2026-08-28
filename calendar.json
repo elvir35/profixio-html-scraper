@@ -2312,6 +2312,20 @@
   {
     "date": "lör 29",
     "month": "Augusti",
+    "startTime": "10:45",
+    "endTime": "12:00",
+    "team": "F12",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Fotografering - årets lagfoto",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fotografering - årets lagfoto , ArenanHej!\nHär följer viktig information inför fotograferingen lör 29/8 kl 11:00 (samling 10.45) i Sparbanken Skåne Arena (separat kallelse finns i SportAdmin).\nREGISTRERERING-OCH BESTÄLLNINGSBLANKETT\nSamtliga spelare och ledare ska registrera sig via länken oavsett om man önskar beställa bilder eller inte.\nBlanketten behöver vara korrekt ifylld för att registreringen och beställningen ska godkännas:\n Fyll i de obligatoriska uppgifterna\n Fyll i antal vid önskade produkter för att göra en beställning\n Beställaren måste vara myndig och personnumret måste vara fullständigt (inkl. 4 sista siffrorna)\n Beställaren måste godkänna Idrottsfotos villkor\nBeställningsblanketten är ett specialerbjudande som endast gäller vid fotograferingstillfället. Blanketter som\nskickas in i efterhand via länken behöver vara oss tillhanda inom 4 dagar efter fotograferingstillfället. Övriga\nbeställningar hänvisar vi till köp i vår webbshop.\nLänk till F2014:s digitala blankett: https://registre"
+  },
+  {
+    "date": "lör 29",
+    "month": "Augusti",
     "startTime": "11:00",
     "endTime": "12:30",
     "team": "HERRAR A",
@@ -2322,20 +2336,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "lör 29",
-    "month": "Augusti",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "team": "F12",
-    "location": "Arenan",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Fotografering - årets lagfoto",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Fotografering - årets lagfoto , Arenan2026-08-10: preliminär starttid 11.00. Håll utkik för uppdatering.\nBoka in den 29/8 i kalendrarna, då är det nämligen dags för årets lagfotografering! Det brukar ta ca 1h och vi uppdaterar denna kallelsen så fort vi vet vår exakta tidsslot. Det kommer tas både lagbild och individuell bild. Man kommer kunna köpa bilder om man vill. Som vanligt finns det inte något köptvång!\nKom i matchkläder (matchtröjorna hoppas vi ha nytryckta till detta tillfälle) samt innegympaskor.\nSannolikt kommer ni behöva fylla i en GDPR-blankett inför, vi återkommer med detta."
   },
   {
     "date": "lör 29",
