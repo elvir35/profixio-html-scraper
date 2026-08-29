@@ -2424,13 +2424,13 @@
   {
     "date": "lör 29",
     "month": "Augusti",
-    "startTime": "13:50",
-    "endTime": "14:30",
-    "team": "HK Blå 85",
-    "location": "Arena A",
+    "startTime": "13:30",
+    "endTime": "14:00",
+    "team": "HERRAR U",
+    "location": "Arenan",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Fotografering",
+    "opponent": "Övrigt",
     "homeAway": "",
     "meetingTime": "",
     "info": ""
@@ -2517,7 +2517,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Östratornhallen"
+    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning"
   },
   {
     "date": "mån 31",
@@ -2610,6 +2610,20 @@
     "endTime": "21:00",
     "team": "P19",
     "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "mån 31",
+    "month": "Augusti",
+    "startTime": "20:30",
+    "endTime": "22:30",
+    "team": "HERRAR U",
+    "location": "Fäladshallen A",
     "type": "Träning",
     "title": "",
     "opponent": "",
