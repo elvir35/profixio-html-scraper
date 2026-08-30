@@ -2466,6 +2466,20 @@
   {
     "date": "sön 30",
     "month": "Augusti",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "team": "F15",
+    "location": "Helsingborg Arena",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Helsingborg Cup 29/8 - 30/8",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Helsingborg Cup 29/8 - 30/8, Helsingborg Arena"
+  },
+  {
+    "date": "sön 30",
+    "month": "Augusti",
     "startTime": "11:00",
     "endTime": "12:00",
     "team": "P8",
