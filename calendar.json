@@ -408,6 +408,20 @@
   {
     "date": "tor 03",
     "month": "September",
+    "startTime": "20:00",
+    "endTime": "20:45",
+    "team": "P12",
+    "location": "Teams",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Möte inför H43 Open",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Möte inför H43 Open, TeamsHej,\nHär kommer kallelse till informationsmötet inför H43 Open på torsdag den 3 september kl. 20.00. I detta möte kommer vi informera om de olika uppgifterna (kiosk, grill, sekk, matchvärd mm.), förväntningar samt såklart svara på eventuella frågar. \nMötet hålls via Teams och anslutningslänk finns i det utskick som ni fick måndag kväll 31 augusti. \nMvh/ Pontus och tävlingsledningen i H43 Open"
+  },
+  {
+    "date": "tor 03",
+    "month": "September",
     "startTime": "20:30",
     "endTime": "22:00",
     "team": "HK Blå 85",
@@ -501,7 +515,7 @@
     "opponent": "H43 Open - cup på hemmaplan",
     "homeAway": "hemma",
     "meetingTime": "",
-    "info": "H43 Open - cup på hemmaplan , Bollhuset ADen 5 september kommer vi att spela H43 Open. Vi kommer att spela i Bollhuset A och Hedda-hallen.\nFör att det ska bli en lyckad cup behöver klubben hjälp från er med sekretariat, kiosk med mera. Alla spelare som är med förväntas ha minst en anhörig som hjälper till. \nLagindelning:\nLag 1: Alma, Anja, Arva, Celine, Ebba, Eliana, Elizabeth, Freja, Jael, Josefin, Juni, Michelle. Ansvarig ledare: Rebecca \nLag 2: Louise, Lykke, Magdalena, Melodie, Minella, Nikki, Ragnhildur, Siri, Valentine, Wilma, Zoé, Åsa. Ansvarig ledare: Malin"
+    "info": "H43 Open - cup på hemmaplan , Bollhuset ADen 5 september kommer vi att spela H43 Open. Vi kommer att spela i Bollhuset A och Hedda-hallen.\nFör att det ska bli en lyckad cup behöver klubben hjälp från er med sekretariat, kiosk med mera. Alla spelare som är med förväntas ha minst en anhörig som hjälper till. \nSpelschema: https://h43open.cupmanager.net/2026,sv/result\nLagindelning:\nLag 1: Alma, Anja, Arva, Celine, Ebba, Eliana, Elizabeth, Freja, Jael, Josefin, Juni, Michelle. Ansvarig ledare: Rebecca \nLag 2: Louise, Lykke, Magdalena, Melodie, Minella, Nikki, Ragnhildur, Siri, Valentine, Wilma, Zoé, Åsa. Ansvarig ledare: Malin"
   },
   {
     "date": "lör 05",
@@ -838,6 +852,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Victoriastadion 1Var ombytta och redo klockan 19. Kom ihåg vattenflaska och egen boll."
+  },
+  {
+    "date": "mån 07",
+    "month": "September",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "team": "F11",
+    "location": "Victoriastadion",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Föräldramöte F11",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Föräldramöte F11, VictoriastadionHej,\nUnder träningen på måndag 7/9 kommer vi ha ett föräldramöte där vi informerar om kommande säsong. Vi vill gärna att minst en vårdnadshavare per spelare kommer. Vi kommer att informera om serien, kallelser, cuper, klubbgemensamma försäljningar samt vilka uppgifter som ni föräldrar ansvarar för. Det kommer finnas möjlighet att ställa frågor, men är det något specifikt ni vill att vi lyfter får ni gärna höra av er före. \nVi ses!"
   },
   {
     "date": "mån 07",
