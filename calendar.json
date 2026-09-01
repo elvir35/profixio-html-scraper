@@ -417,7 +417,7 @@
     "opponent": "Möte inför H43 Open",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Möte inför H43 Open, TeamsHej,\nHär kommer kallelse till informationsmötet inför H43 Open på torsdag den 3 september kl. 20.00. I detta möte kommer vi informera om de olika uppgifterna (kiosk, grill, sekk, matchvärd mm.), förväntningar samt såklart svara på eventuella frågar. \nMötet hålls via Teams och anslutningslänk finns i det utskick som ni fick måndag kväll 31 augusti. \nMvh/ Pontus och tävlingsledningen i H43 Open"
+    "info": "Möte inför H43 Open, TeamsHej,\nHär kommer kallelse till informationsmötet inför H43 Open på torsdag den 3 september kl. 20.00. I detta möte kommer vi informera om de olika uppgifterna som ni föräldrar har (kiosk, grill, sekk, matchvärd mm.), förväntningar samt såklart svara på eventuella frågar. \nMötet hålls via Teams och anslutningslänk finns i det utskick som ni fick måndag kväll 31 augusti. \nMvh/ Pontus och tävlingsledningen i H43 Open"
   },
   {
     "date": "tor 03",
@@ -1150,7 +1150,7 @@
   {
     "date": "ons 09",
     "month": "September",
-    "startTime": "19:20",
+    "startTime": "19:15",
     "endTime": "20:30",
     "team": "F19 / Damer J",
     "location": "Arenan A",
@@ -1159,7 +1159,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träningsmatch mot HK Malmö, Arenan AMatchstart 19:20"
+    "info": "Träningsmatch mot HK Malmö, Arenan AMatchstart 19:15"
   },
   {
     "date": "ons 09",
