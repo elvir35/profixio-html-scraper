@@ -912,6 +912,20 @@
   {
     "date": "tis 08",
     "month": "September",
+    "startTime": "16:00",
+    "endTime": "18:30",
+    "team": "F19 / Damer J",
+    "location": "Nordic",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Gemensamt gym",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 08",
+    "month": "September",
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "F9",
@@ -978,20 +992,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tornhallen, Stångby"
-  },
-  {
-    "date": "tis 08",
-    "month": "September",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "team": "F19 / Damer J",
-    "location": "Nordic",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Gemensamt gym",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tis 08",
@@ -2307,7 +2307,7 @@
     "opponent": "Vikingaspelen 2026",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Vikingaspelen 2026, Övrig platsVi kommer att spela Vikingaspelen i år och för att veta om vi ska anmäla ett eller två lag behöver vi säkra att det finns tillräckligt många spelare intresserade. \nDå det bara finns fåtal platser kvar till cupen är svarstiden kort och vi berer svara så snabbt det bara går. \nTack."
+    "info": "Vikingaspelen 2026, Övrig platsTvå lag är anmälda och betalade och vi inväntar nu spelschema. Lagen kommer vi att dela in samma vecka och då vi precis fått ihop två lag är det viktigt att alla kommer, och är laddade till tänderna - för det blir rejält med speltid för samtliga :)"
   },
   {
     "date": "lör 19",
