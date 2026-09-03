@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-03T10:23:00.445Z",
+  "scrapedAt": "2026-09-03T15:28:27.835Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 191,
+  "matchCount": 192,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -96,6 +96,18 @@
       "date": "lör 12",
       "month": "SEPTEMBER 2026",
       "home": "Ystad, Lödde, Lugi mfl.",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "11:00",
+      "date": "lör 12",
+      "month": "SEPTEMBER 2026",
+      "home": "Lugi P2015",
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
