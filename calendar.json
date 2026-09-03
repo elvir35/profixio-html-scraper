@@ -745,7 +745,7 @@
     "date": "mån 07",
     "month": "September",
     "startTime": "17:00",
-    "endTime": "18:30",
+    "endTime": "19:00",
     "team": "P12",
     "location": "Östratornhallen",
     "type": "Träning",
@@ -753,7 +753,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning"
+    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning.Sista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
   },
   {
     "date": "mån 07",
@@ -1556,6 +1556,20 @@
   {
     "date": "lör 12",
     "month": "September",
+    "startTime": "11:00",
+    "endTime": "",
+    "team": "P12",
+    "location": "Bollhuset A ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi P2015",
+    "homeAway": "borta",
+    "meetingTime": "10:15",
+    "info": "Lugi P2015 borta, Bollhuset A ()Hej,\nTräningsmatch mot Lugi pojkar 2015. Vi spelar en match."
+  },
+  {
+    "date": "lör 12",
+    "month": "September",
     "startTime": "12:00",
     "endTime": "13:30",
     "team": "F10",
@@ -1683,7 +1697,7 @@
     "date": "mån 14",
     "month": "September",
     "startTime": "17:00",
-    "endTime": "18:30",
+    "endTime": "19:00",
     "team": "P12",
     "location": "Östratornhallen",
     "type": "Träning",
@@ -1691,7 +1705,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning"
+    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning.Sista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
   },
   {
     "date": "mån 14",
@@ -2537,7 +2551,7 @@
     "date": "mån 21",
     "month": "September",
     "startTime": "17:00",
-    "endTime": "18:30",
+    "endTime": "19:00",
     "team": "P12",
     "location": "Östratornhallen",
     "type": "Träning",
@@ -2545,7 +2559,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning"
+    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning.Sista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
   },
   {
     "date": "mån 21",
@@ -3279,7 +3293,7 @@
     "date": "mån 28",
     "month": "September",
     "startTime": "17:00",
-    "endTime": "18:30",
+    "endTime": "19:00",
     "team": "P12",
     "location": "Östratornhallen",
     "type": "Träning",
@@ -3287,7 +3301,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning"
+    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning.Sista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
   },
   {
     "date": "mån 28",
