@@ -3152,6 +3152,20 @@
   {
     "date": "lör 26",
     "month": "September",
+    "startTime": "09:30",
+    "endTime": "14:30",
+    "team": "F9",
+    "location": "Tollarps Sporthall",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Sammandrag",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
     "startTime": "10:00",
     "endTime": "11:00",
     "team": "P9",
