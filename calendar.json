@@ -2074,6 +2074,20 @@
   {
     "date": "ons 16",
     "month": "September",
+    "startTime": "18:45",
+    "endTime": "20:30",
+    "team": "HK Blå 85",
+    "location": "Arena A",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Fotografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fotografering, Arena A"
+  },
+  {
+    "date": "ons 16",
+    "month": "September",
     "startTime": "19:00",
     "endTime": "21:00",
     "team": "F15",
@@ -2102,16 +2116,16 @@
   {
     "date": "ons 16",
     "month": "September",
-    "startTime": "20:00",
-    "endTime": "20:30",
-    "team": "HK Blå 85",
-    "location": "Arena A",
+    "startTime": "19:25",
+    "endTime": "20:00",
+    "team": "DAMER A",
+    "location": "Arenan",
     "type": "Övrigt",
     "title": "",
     "opponent": "Fotografering",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Fotografering, Arena A"
+    "info": "Fotografering, Arenan"
   },
   {
     "date": "ons 16",
@@ -3276,6 +3290,20 @@
     "info": "Halmstad HF borta, Östergårdshallen (Damer - Dam 3 Syd)"
   },
   {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "16:00",
+    "endTime": "",
+    "team": "F14",
+    "location": "Bollhuset A (Flickor - F14 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Växjö HF",
+    "homeAway": "hemma",
+    "meetingTime": "15:00",
+    "info": "Växjö HF hemma, Bollhuset A (Flickor - F14 Syd)"
+  },
+  {
     "date": "sön 27",
     "month": "September",
     "startTime": "11:00",
@@ -3344,6 +3372,20 @@
     "homeAway": "borta",
     "meetingTime": "13:15",
     "info": "Huddinge HK borta, Fleminghallen (Herrar - Herrallsvenskan)"
+  },
+  {
+    "date": "sön 27",
+    "month": "September",
+    "startTime": "18:30",
+    "endTime": "",
+    "team": "F14",
+    "location": "Nyvångshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Dalby GIF",
+    "homeAway": "borta",
+    "meetingTime": "17:30",
+    "info": "Dalby GIF borta, Nyvångshallen, Dalby (Flickor - F14 Syd)"
   },
   {
     "date": "mån 28",
@@ -3628,6 +3670,20 @@
   {
     "date": "tis 29",
     "month": "September",
+    "startTime": "20:20",
+    "endTime": "",
+    "team": "F14",
+    "location": "Eslövshallen B (Flickor - F14 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Eslövs HK",
+    "homeAway": "borta",
+    "meetingTime": "19:20",
+    "info": "Eslövs HK borta, Eslövshallen B (Flickor - F14 Syd)"
+  },
+  {
+    "date": "tis 29",
+    "month": "September",
     "startTime": "20:30",
     "endTime": "22:00",
     "team": "HK Blå 85",
@@ -3694,6 +3750,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Prästängshallen"
+  },
+  {
+    "date": "ons 30",
+    "month": "September",
+    "startTime": "18:10",
+    "endTime": "",
+    "team": "F14",
+    "location": "Tornhallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Ystads IF HF Blå",
+    "homeAway": "hemma",
+    "meetingTime": "17:10",
+    "info": "Ystads IF HF Blå hemma, Tornhallen, Stångby (Flickor - F14 Syd)"
   },
   {
     "date": "ons 30",
