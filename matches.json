@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-05T14:14:04.823Z",
+  "scrapedAt": "2026-09-05T19:42:44.039Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 237,
   "hasMatches": true,
@@ -44,10 +44,10 @@
     {
       "team": "F12",
       "hall": "Arenan",
-      "time": "09:00",
+      "time": "10:30",
       "date": "sön 06",
       "month": "SEPTEMBER 2026",
-      "home": "H43 Lund Lag 1",
+      "home": "H43 Lund Lag 2",
       "away": "H43 Open 2026 dag 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
@@ -56,10 +56,10 @@
     {
       "team": "F12",
       "hall": "Arenan",
-      "time": "09:00",
+      "time": "11:15",
       "date": "sön 06",
       "month": "SEPTEMBER 2026",
-      "home": "H43 Lund Lag 2",
+      "home": "H43 Lund Lag 1",
       "away": "H43 Open 2026 dag 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
