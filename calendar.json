@@ -697,7 +697,7 @@
     "opponent": "H43 Open 2026 dag 2",
     "homeAway": "hemma",
     "meetingTime": "",
-    "info": "H43 Open 2026 dag 2 hemma, Arenan ()Spelschema Lag 1:\nhttps://h43open.cupmanager.net/2026,sv/result/team/79404562"
+    "info": "H43 Open 2026 dag 2 hemma, Arenan ()Spelschema Lag 2:\nhttps://h43open.cupmanager.net/2026,sv/result/team/79404566"
   },
   {
     "date": "sön 06",
@@ -712,6 +712,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "sön 06",
+    "month": "September",
+    "startTime": "11:15",
+    "endTime": "",
+    "team": "F12",
+    "location": "Arenan ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "H43 Open 2026 dag 2",
+    "homeAway": "hemma",
+    "meetingTime": "10:30",
+    "info": "H43 Open 2026 dag 2 hemma, Arenan ()Spelschema Lag 1:\nhttps://h43open.cupmanager.net/2026,sv/result/team/79404562"
   },
   {
     "date": "sön 06",
