@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-04T20:02:10.301Z",
+  "scrapedAt": "2026-09-05T02:01:04.318Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 237,
   "hasMatches": true,
@@ -107,10 +107,10 @@
       "time": "11:00",
       "date": "lör 12",
       "month": "SEPTEMBER 2026",
-      "home": "Lugi P2015",
+      "home": "Lugi",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
