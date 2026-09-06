@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-06T01:56:49.139Z",
+  "scrapedAt": "2026-09-06T09:54:31.456Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 237,
+  "matchCount": 248,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -210,6 +210,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P10",
+      "hall": "Vipeholmshallen",
+      "time": "12:30",
+      "date": "lör 03",
+      "month": "OKTOBER 2026",
+      "home": "Match",
+      "away": "Ankaret + Lågan",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P9",
       "hall": "Lågehall B",
       "time": "13:00",
@@ -318,6 +330,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P10",
+      "hall": "Östratornhallen",
+      "time": "14:50",
+      "date": "sön 04",
+      "month": "OKTOBER 2026",
+      "home": "Macth",
+      "away": "Staffanstorp + Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F14",
       "hall": "Sparbankshallen Vinslöv",
       "time": "15:15",
@@ -414,6 +438,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P10",
+      "hall": "Sjövisskolan",
+      "time": "10:00",
+      "date": "sön 11",
+      "month": "OKTOBER 2026",
+      "home": "Match",
+      "away": "Tollarp + Stavsten",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HK Blå 85",
       "hall": "Borgebyhallen",
       "time": "14:15",
@@ -483,6 +519,18 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25969_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P10",
+      "hall": "Västervångshallen",
+      "time": "13:00",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "Match",
+      "away": "Ystad + Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -654,6 +702,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P10",
+      "hall": "Idrottshallen",
+      "time": "11:00",
+      "date": "lör 07",
+      "month": "NOVEMBER 2026",
+      "home": "Match",
+      "away": "- Åhus",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P11",
       "hall": "Vipeholmshallen",
       "time": "12:30",
@@ -786,6 +846,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P10",
+      "hall": "Tunahallen",
+      "time": "14:30",
+      "date": "lör 14",
+      "month": "NOVEMBER 2026",
+      "home": "Match",
+      "away": "Kristianstad + Göinge",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F10",
       "hall": "Vipeholmshallen",
       "time": "15:10",
@@ -843,6 +915,18 @@
       "away": "IK Lågan Vit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P10",
+      "hall": "Bollhuset",
+      "time": "09:00",
+      "date": "lör 21",
+      "month": "NOVEMBER 2026",
+      "home": "Match",
+      "away": "Staffanstorp",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -990,6 +1074,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P10",
+      "hall": "Henrikdalshallen",
+      "time": "13:00",
+      "date": "sön 22",
+      "month": "NOVEMBER 2026",
+      "home": "Match",
+      "away": "Ljunghusen + Vinslöv",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HERRAR A",
       "hall": "Sparbanken Skåne Arena A",
       "time": "14:00",
@@ -999,6 +1095,18 @@
       "away": "Eskilstuna Guif IF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26170_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P10",
+      "hall": "Staffanshallen",
+      "time": "11:40",
+      "date": "lör 28",
+      "month": "NOVEMBER 2026",
+      "home": "Match",
+      "away": "Staffanstorp",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1155,6 +1263,18 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P10",
+      "hall": "Tollarps",
+      "time": "12:00",
+      "date": "lör 05",
+      "month": "DECEMBER 2026",
+      "home": "Match",
+      "away": "Tollarp + Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1347,6 +1467,18 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P10",
+      "hall": "Sännahallen",
+      "time": "16:30",
+      "date": "lör 12",
+      "month": "DECEMBER 2026",
+      "home": "Match",
+      "away": "Åhus",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
