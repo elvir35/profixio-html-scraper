@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-06T09:54:31.456Z",
+  "scrapedAt": "2026-09-06T14:37:31.181Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 248,
   "hasMatches": true,
@@ -55,8 +55,8 @@
     },
     {
       "team": "P8",
-      "hall": "Tolvåkershallen - Lödde idrottshall",
-      "time": "09:00",
+      "hall": "Korsbacka i Kävlinge",
+      "time": "08:30",
       "date": "lör 12",
       "month": "SEPTEMBER 2026",
       "home": "Ystad, Lödde, Lugi mfl.",
@@ -926,7 +926,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1106,7 +1106,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
