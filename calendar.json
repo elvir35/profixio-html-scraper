@@ -436,34 +436,6 @@
   {
     "date": "fre 04",
     "month": "September",
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "team": "F15",
-    "location": "Plats: Göteborg",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Intresseanmälan Göteborgscupen 2026",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Intresseanmälan Göteborgscupen 2026, Plats: Göteborg Utskick Intresseanmälan inför Göteborgscupen 2026, som spelas 4-6 september. \nVi har anmält övernattning på hårdförläggning. Pris per spelare: 1550 kr och då ingår boende och mat samt gratis resor med kollektivtrafiken under cupen. \nMAT\nFöljande mattillfällen erbjuds övernattande lag:\nFredag - middag\nLördag - frukost, lunch och middag\nSöndag - frukost och lunch\nMer info kommer när kallelse skickas ut utifrån intresseanmälan."
-  },
-  {
-    "date": "fre 04",
-    "month": "September",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "F15",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Inställd träning pga Göteborg Cup, Fäladshallen OBS!! Träningen är inställd på grund av Göteborg Cup"
-  },
-  {
-    "date": "fre 04",
-    "month": "September",
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "P11",
@@ -506,11 +478,25 @@
   {
     "date": "lör 05",
     "month": "September",
+    "startTime": "08:00",
+    "endTime": "15:00",
+    "team": "F15",
+    "location": "Plats: Göteborg",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Göteborg Cup",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Göteborg Cup, Plats: Göteborg Utskick Intresseanmälan inför Göteborgscupen 2026, som spelas 4-6 september. \nVi har anmält övernattning på hårdförläggning. Pris per spelare: 1550 kr och då ingår boende och mat samt gratis resor med kollektivtrafiken under cupen. \nMAT\nFöljande mattillfällen erbjuds övernattande lag:\nFredag - middag\nLördag - frukost, lunch och middag\nSöndag - frukost och lunch\nMer info kommer när kallelse skickas ut utifrån intresseanmälan."
+  },
+  {
+    "date": "lör 05",
+    "month": "September",
     "startTime": "08:15",
     "endTime": "16:00",
     "team": "F11",
     "location": "Bollhuset A",
-    "type": "Träning",
+    "type": "Övrigt",
     "title": "",
     "opponent": "H43 Open - cup på hemmaplan",
     "homeAway": "hemma",
@@ -647,7 +633,7 @@
     "date": "sön 06",
     "month": "September",
     "startTime": "08:00",
-    "endTime": "18:30",
+    "endTime": "18:00",
     "team": "P12",
     "location": "Arenan",
     "type": "Träning",
@@ -670,6 +656,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "H43 Open 5-6 september, ArenanHej!\nKallelse till H43 Open den 5-6 september i Lund. Totalt fem matcher per lag fördelat på två dagar. \nMatcherna i vår åldersklass spelas i Arenan. Matchtid är 2x15 min per match. Matcherna spelas med resultat och det blir slutspel (A eller B-slutspel).\nEftersom det är H43:s egna turnering så behöver vi inte betala någon anmälningsavgift men för att få ihop allt kring turneringen kommer föreningen behöva hjälp av föräldrarna med kiosktjänstgöring, grill, matchvärdskap, sitta i sekretariatet mm. Så en anmälan för ert barn betyder också anmälan för er föräldrar att hjälpa till ??.\nSvara på kallelsen senast deadline, tack!\nMvh/ Tränarna"
+  },
+  {
+    "date": "sön 06",
+    "month": "September",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "team": "F15",
+    "location": "Göteborg",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Göteborg Cup",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "sön 06",
@@ -1486,6 +1486,20 @@
   {
     "date": "lör 12",
     "month": "September",
+    "startTime": "08:30",
+    "endTime": "",
+    "team": "P8",
+    "location": "Lödde",
+    "type": "Match",
+    "title": "",
+    "opponent": "Ystad",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "lör 12",
+    "month": "September",
     "startTime": "09:00",
     "endTime": "10:00",
     "team": "U7",
@@ -1507,20 +1521,6 @@
     "type": "Träning",
     "title": "",
     "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "lör 12",
-    "month": "September",
-    "startTime": "09:00",
-    "endTime": "",
-    "team": "P8",
-    "location": "Lödde",
-    "type": "Match",
-    "title": "",
-    "opponent": "Ystad",
     "homeAway": "",
     "meetingTime": "",
     "info": ""
@@ -1579,7 +1579,7 @@
     "opponent": "Lugi",
     "homeAway": "borta",
     "meetingTime": "10:15",
-    "info": "Lugi borta, Bollhuset A ()Hej,\nTräningsmatch mot Lugi pojkar 2015. Vi spelar en match."
+    "info": "Lugi borta, Bollhuset A ()Hej,\nLugi pojkar 2015 har bjudit in oss att spela en träningsmatch mot dem på lördag den 12 september kl. 11. Vi samlas i Bollhuset kl. 10.15. Svara gärna på kallelsen så fort som möjligt, senast på tisdag kväll.\nMvh/ Tränarna"
   },
   {
     "date": "lör 12",
