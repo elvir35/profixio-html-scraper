@@ -1666,6 +1666,20 @@
     "info": "Träningsmatch - KFUM Lundagård, Gunnesbohallen"
   },
   {
+    "date": "sön 13",
+    "month": "September",
+    "startTime": "13:15",
+    "endTime": "",
+    "team": "HK Blå 85",
+    "location": "Lunds Idrottshall (Herrar - Herr 3 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi HF U B",
+    "homeAway": "borta",
+    "meetingTime": "11:45",
+    "info": "Lugi HF U B borta, Lunds Idrottshall (Herrar - Herr 3 Syd)"
+  },
+  {
     "date": "mån 14",
     "month": "September",
     "startTime": "17:00",
@@ -3218,6 +3232,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenIngen förhandsanmälan behövs.\nTa med träningskläder, skor och vattenflaska."
+  },
+  {
+    "date": "fre 25",
+    "month": "September",
+    "startTime": "19:30",
+    "endTime": "",
+    "team": "HK Blå 85",
+    "location": "Sölvesborg IH (Herrar - Herr 3 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "H78 Sölvesborg",
+    "homeAway": "borta",
+    "meetingTime": "18:00",
+    "info": "H78 Sölvesborg borta, Sölvesborg IH (Herrar - Herr 3 Syd)"
   },
   {
     "date": "lör 26",
