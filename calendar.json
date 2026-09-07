@@ -590,20 +590,6 @@
   {
     "date": "lör 05",
     "month": "September",
-    "startTime": "11:00",
-    "endTime": "12:30",
-    "team": "HERRAR A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "lör 05",
-    "month": "September",
     "startTime": "11:40",
     "endTime": "",
     "team": "F12",
@@ -2047,6 +2033,20 @@
     "date": "ons 16",
     "month": "September",
     "startTime": "18:00",
+    "endTime": "19:15",
+    "team": "F14",
+    "location": "Tornhallen",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Föräldramöte",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Föräldramöte, Tornhallen, StångbyVälkomna till säsongens första föräldramöte!\nVi kommer att gå igenom allt inför kommande säsong och eftersom det är mycket (minst sagt) nytt så vill vi att MINST en vårdnadshavare per tjej kommer, och gärna fler om ni vill och kan. \nKaffe? Det löser vi! \n//R"
+  },
+  {
+    "date": "ons 16",
+    "month": "September",
+    "startTime": "18:00",
     "endTime": "19:00",
     "team": "F8",
     "location": "Prästängshallen",
@@ -2070,6 +2070,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
+  },
+  {
+    "date": "ons 16",
+    "month": "September",
+    "startTime": "18:40",
+    "endTime": "19:00",
+    "team": "HERRAR A",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Fotografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fotografering, Arenan"
   },
   {
     "date": "ons 16",
