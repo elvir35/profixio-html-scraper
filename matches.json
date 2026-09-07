@@ -1,34 +1,10 @@
 {
-  "scrapedAt": "2026-09-06T19:45:42.406Z",
+  "scrapedAt": "2026-09-07T01:54:03.571Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 228,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F12",
-      "hall": "Arenan",
-      "time": "10:30",
-      "date": "sön 06",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund Lag 1",
-      "away": "H43 Open 2026 dag 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F12",
-      "hall": "Arenan",
-      "time": "10:30",
-      "date": "sön 06",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund Lag 2",
-      "away": "H43 Open 2026 dag 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "HERRAR A",
       "hall": "Arenan B",
@@ -854,7 +830,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1010,7 +986,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2572,6 +2548,30 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F12",
+      "hall": "Arenan",
+      "time": "10:30",
+      "date": "sön 06",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund Lag 1",
+      "away": "H43 Open 2026 dag 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F12",
+      "hall": "Arenan",
+      "time": "10:30",
+      "date": "sön 06",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund Lag 2",
+      "away": "H43 Open 2026 dag 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F12",
