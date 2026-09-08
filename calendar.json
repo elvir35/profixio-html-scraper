@@ -2088,7 +2088,7 @@
   {
     "date": "ons 16",
     "month": "September",
-    "startTime": "18:15",
+    "startTime": "18:20",
     "endTime": "20:30",
     "team": "F19 / Damer J",
     "location": "Arenan A",
@@ -2097,21 +2097,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning + Fotografering , Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
-  },
-  {
-    "date": "ons 16",
-    "month": "September",
-    "startTime": "18:40",
-    "endTime": "19:00",
-    "team": "HERRAR A",
-    "location": "Arenan",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Fotografering",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Fotografering, Arenan"
+    "info": "Träning + Fotografering 18:40, Arenan A18:20 samling\n18:40 fotografering\n19:00-20:30 Hallträning"
   },
   {
     "date": "ons 16",
@@ -2154,6 +2140,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Bollhuset AIngen förhandsanmälan behövs.\nTa med träningskläder, skor och vattenflaska."
+  },
+  {
+    "date": "ons 16",
+    "month": "September",
+    "startTime": "19:05",
+    "endTime": "19:30",
+    "team": "HERRAR A",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Fotografering",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fotografering, Arenan"
   },
   {
     "date": "ons 16",
@@ -2436,6 +2436,34 @@
     "info": "IFK Ystad HK hemma, Sparbanken Skåne Arena A (Herrar - Herrallsvenskan)"
   },
   {
+    "date": "fre 18",
+    "month": "September",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "team": "DAMER A",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Allsvensk Premiär",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Allsvensk Premiär, ArenanHej tjejer! \nDet väntas ännu en stormatch för våra herrar i den allsvenska premiären. IFK Ystad kommer då på besök och har fyllt 4 supporterbussar till Lund så vi räknar med mycket folk på läktaren och vi behöver all hjälp vi kan få! \nNi som kan hjälpa till får gärna svara på kallelsen senast nu på söndag!"
+  },
+  {
+    "date": "fre 18",
+    "month": "September",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "team": "HK Blå 85",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Allsvensk Premiär",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Allsvensk Premiär, ArenanHej tjejer! \nDet väntas ännu en stormatch för våra herrar i den allsvenska premiären. IFK Ystad kommer då på besök och har fyllt 4 supporterbussar till Lund så vi räknar med mycket folk på läktaren och vi behöver all hjälp vi kan få! \nNi som kan hjälpa till får gärna svara på kallelsen senast nu på söndag!"
+  },
+  {
     "date": "lör 19",
     "month": "September",
     "startTime": "08:00",
@@ -2473,6 +2501,20 @@
     "type": "Övrigt",
     "title": "",
     "opponent": "USM F18 steg 1",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "lör 19",
+    "month": "September",
+    "startTime": "08:00",
+    "endTime": "23:59",
+    "team": "P19",
+    "location": "BK Heid",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "USM steg 1",
     "homeAway": "",
     "meetingTime": "",
     "info": ""
@@ -2620,16 +2662,30 @@
   {
     "date": "sön 20",
     "month": "September",
-    "startTime": "08:30",
+    "startTime": "00:00",
+    "endTime": "17:00",
+    "team": "P19",
+    "location": "BK Heid",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "USM steg 1",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "sön 20",
+    "month": "September",
+    "startTime": "09:30",
     "endTime": "",
     "team": "P12",
-    "location": "Kävlinge/Löddeköpinge ()",
+    "location": "Kävlinge ()",
     "type": "Match",
     "title": "",
     "opponent": "Vikingaspelen",
     "homeAway": "borta",
-    "meetingTime": "",
-    "info": "Vikingaspelen borta, Kävlinge/Löddeköpinge ()Hej,\nKallelse till Vikingaspelen i Löddeköpinge/Kävlinge söndagen den 20 september. Det blir gruppspelsmatcher med resultat samt slutspel med utslagsmatcher. Matchtid är 1x25 minuter. Det finns inget spelschema än men vi får nog räkna med att cupen tar hela dagen i anspråk.\nAnmälningsavgiften kommer preliminärt landa på omkring 160 kr per spelare.\nSvara på kallelsen senast deadline, tack!\nMvh/ Pontus"
+    "meetingTime": "08:45",
+    "info": "Vikingaspelen borta, Kävlinge ()Hej,\nKallelse till Vikingaspelen i Löddeköpinge/Kävlinge söndagen den 20 september. Det blir gruppspelsmatcher med resultat samt slutspel med utslagsmatcher. Matchtid är 1x25 minuter. Det finns inget spelschema än men vi får nog räkna med att cupen tar hela dagen i anspråk.\nAnmälningsavgiften kommer preliminärt landa på omkring 160 kr per spelare.\nSvara på kallelsen senast deadline, tack!\nMvh/ Pontus"
   },
   {
     "date": "sön 20",
