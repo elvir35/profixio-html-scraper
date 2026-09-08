@@ -1164,6 +1164,20 @@
   {
     "date": "ons 09",
     "month": "September",
+    "startTime": "20:00",
+    "endTime": "",
+    "team": "P19",
+    "location": "Bollhuset  ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Ankaret",
+    "homeAway": "hemma",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "ons 09",
+    "month": "September",
     "startTime": "21:00",
     "endTime": "22:30",
     "team": "HK Blå 85",
@@ -1263,20 +1277,6 @@
     "date": "tor 10",
     "month": "September",
     "startTime": "20:00",
-    "endTime": "21:30",
-    "team": "F19 / Damer J",
-    "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, TunahallenHallträning 20:00-21:30"
-  },
-  {
-    "date": "tor 10",
-    "month": "September",
-    "startTime": "20:00",
     "endTime": "22:00",
     "team": "HERRAR U",
     "location": "Arenan B",
@@ -1360,6 +1360,20 @@
   {
     "date": "fre 11",
     "month": "September",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "P12",
+    "location": "Stadsparken",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fysträning, StadsparkenTräning utomhus, kläder efter väder."
+  },
+  {
+    "date": "fre 11",
+    "month": "September",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "F14",
@@ -1397,7 +1411,7 @@
     "opponent": "Lödde Vikings HK B",
     "homeAway": "hemma",
     "meetingTime": "18:15",
-    "info": "Lödde Vikings HK B hemma, Sparbanken Skåne Arena A (Damer - Dam 3 Syd)"
+    "info": "Lödde Vikings HK B hemma, Sparbanken Skåne Arena A (Damer - Dam 3 Syd)Seriepremiär! Dags att kavla upp ärmarna och ta första steget mot toppen 2026-27.\nSamling Arena A kl 18.15. Jag tar med nya tröjor, ta med blåa shorts och vita matchstrumpor.\nSvara senast torsdag kl. 19.30.\nCoach J"
   },
   {
     "date": "lör 12",
@@ -1985,7 +1999,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träningsmatch mot LIGU , Arenan"
+    "info": "Träningsmatch mot LIGU , ArenanTräningsmatch mot Ligu!\nSamling i Arena A kl 19.30, matchstart ca 20.30. Ta med ny matchtröja (ni som fått) och blåa shorts.\nJag tar med tröjor till er andra.\nDerbyförlust är inte aktuellt...\nCoach J"
   },
   {
     "date": "tis 15",
@@ -2083,7 +2097,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
+    "info": "Träning + Fotografering , Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
   },
   {
     "date": "ons 16",
@@ -2364,6 +2378,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "fre 18",
+    "month": "September",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "P12",
+    "location": "Stadsparken",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fysträning, StadsparkenTräning utomhus, kläder efter väder."
   },
   {
     "date": "fre 18",
@@ -3204,6 +3232,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "fre 25",
+    "month": "September",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "P12",
+    "location": "Stadsparken",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Fysträning, StadsparkenTräning utomhus, kläder efter väder."
   },
   {
     "date": "fre 25",
