@@ -1,10 +1,22 @@
 {
-  "scrapedAt": "2026-09-08T02:05:09.510Z",
+  "scrapedAt": "2026-09-08T10:17:00.403Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 250,
+  "matchCount": 251,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
+    {
+      "team": "P19",
+      "hall": "Bollhuset",
+      "time": "20:00",
+      "date": "ons 09",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Ankaret",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/340_1006_S.webp",
+      "status": "upcoming"
+    },
     {
       "team": "HERRAR A",
       "hall": "Arenan B",
