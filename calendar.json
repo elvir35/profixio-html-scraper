@@ -1582,6 +1582,20 @@
     "info": ""
   },
   {
+    "date": "lör 12",
+    "month": "September",
+    "startTime": "14:00",
+    "endTime": "",
+    "team": "F19 / Damer J",
+    "location": "Sparbanken Skåne Arena B (Flickor - F19 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Höörs HK H 65",
+    "homeAway": "hemma",
+    "meetingTime": "13:00",
+    "info": "Höörs HK H 65 hemma, Sparbanken Skåne Arena B (Flickor - F19 Syd)"
+  },
+  {
     "date": "sön 13",
     "month": "September",
     "startTime": "00:00",
@@ -3446,6 +3460,20 @@
   {
     "date": "lör 26",
     "month": "September",
+    "startTime": "15:55",
+    "endTime": "",
+    "team": "F19 / Damer J",
+    "location": "Tunahallen-Handboll (Flickor - F19 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Drott Halmstad",
+    "homeAway": "hemma",
+    "meetingTime": "14:55",
+    "info": "HK Drott Halmstad hemma, Tunahallen-Handboll (Flickor - F19 Syd)"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
     "startTime": "16:00",
     "endTime": "",
     "team": "F14",
@@ -3456,6 +3484,20 @@
     "homeAway": "hemma",
     "meetingTime": "15:00",
     "info": "Växjö HF hemma, Bollhuset A (Flickor - F14 Syd)"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "17:40",
+    "endTime": "",
+    "team": "F19 / Damer J",
+    "location": "Tunahallen-Handboll (Flickor - F19 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Ystads IF HF",
+    "homeAway": "hemma",
+    "meetingTime": "16:40",
+    "info": "Ystads IF HF hemma, Tunahallen-Handboll (Flickor - F19 Syd)"
   },
   {
     "date": "sön 27",
