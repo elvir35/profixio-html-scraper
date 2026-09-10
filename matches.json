@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-10T15:29:31.818Z",
+  "scrapedAt": "2026-09-10T20:13:50.461Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 331,
+  "matchCount": 332,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -51,6 +51,18 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P19",
+      "hall": "Fäladshallen",
+      "time": "12:00",
+      "date": "lör 12",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Internmatch",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26265_1006_S.webp",
       "status": "upcoming"
     },
     {
