@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-09-10T20:13:50.461Z",
+  "scrapedAt": "2026-09-11T02:04:30.245Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 332,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "HERRAR A",
-      "hall": "Arenan B",
-      "time": "19:30",
-      "date": "tor 10",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund",
-      "away": "Åhus",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "HK Blå 85",
       "hall": "Sparbanken Skåne Arena A",
@@ -895,18 +883,6 @@
     },
     {
       "team": "F14",
-      "hall": "Sparbanken Skåne Arena A",
-      "time": "19:00",
-      "date": "fre 06",
-      "month": "NOVEMBER 2026",
-      "home": "H43 Lund HF",
-      "away": "Lugi HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
       "hall": "Tolvåkers Idrottshall B",
       "time": "19:30",
       "date": "fre 06",
@@ -915,6 +891,18 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "19:30",
+      "date": "fre 06",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund HF",
+      "away": "Lugi HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3784,6 +3772,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "HERRAR A",
+      "hall": "Arenan B",
+      "time": "19:30",
+      "date": "tor 10",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Åhus",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P19",
