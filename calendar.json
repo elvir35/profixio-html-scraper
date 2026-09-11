@@ -1467,7 +1467,7 @@
     "opponent": "Ystad",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Ystad, Lödde, Lugi mfl. borta, Korsbacka i Kävlinge ()Vikingacup!\nTa med shorts, skor och vattenflaska. Vi har med matchtröjor. \nMed vänlig hälsning,\nTränarna."
   },
   {
     "date": "lör 12",
@@ -1789,7 +1789,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, HeddahallenLöpning 19.00, hall 19.30"
+    "info": "Träning, HeddahallenLöpning 19.00 - Hall 19.30"
   },
   {
     "date": "mån 14",
@@ -2033,7 +2033,7 @@
     "date": "ons 16",
     "month": "September",
     "startTime": "17:30",
-    "endTime": "19:30",
+    "endTime": "19:00",
     "team": "DAMER A",
     "location": "Arenan A",
     "type": "Träning",
@@ -2041,7 +2041,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan AHall 17.30 - Löpning 19.00"
+    "info": "Träning, Arenan AIngen löpning"
   },
   {
     "date": "ons 16",
@@ -2229,7 +2229,7 @@
     "date": "tor 17",
     "month": "September",
     "startTime": "17:30",
-    "endTime": "19:00",
+    "endTime": "19:30",
     "team": "DAMER A",
     "location": "Arenan A",
     "type": "Träning",
@@ -2237,7 +2237,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Arenan ALöpning efter hall - Denna ersätter onsdagens fotografering"
   },
   {
     "date": "tor 17",
@@ -3069,20 +3069,6 @@
     "date": "mån 21",
     "month": "September",
     "startTime": "19:00",
-    "endTime": "21:00",
-    "team": "DAMER A",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, HeddahallenLöpning 19.00, hall 19.30"
-  },
-  {
-    "date": "mån 21",
-    "month": "September",
-    "startTime": "19:00",
     "endTime": "20:00",
     "team": "F11",
     "location": "Victoriastadion 1",
@@ -3100,6 +3086,20 @@
     "endTime": "21:00",
     "team": "P19",
     "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "mån 21",
+    "month": "September",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "team": "DAMER A",
+    "location": "Heddahallen",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -3923,20 +3923,6 @@
     "date": "mån 28",
     "month": "September",
     "startTime": "19:00",
-    "endTime": "21:00",
-    "team": "DAMER A",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, HeddahallenLöpning 19.00, hall 19.30"
-  },
-  {
-    "date": "mån 28",
-    "month": "September",
-    "startTime": "19:00",
     "endTime": "20:00",
     "team": "F11",
     "location": "Victoriastadion 1",
@@ -3954,6 +3940,20 @@
     "endTime": "21:00",
     "team": "P19",
     "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "mån 28",
+    "month": "September",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "team": "DAMER A",
+    "location": "Heddahallen",
     "type": "Träning",
     "title": "",
     "opponent": "",
