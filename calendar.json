@@ -2789,6 +2789,20 @@
     "date": "lör 19",
     "month": "September",
     "startTime": "10:00",
+    "endTime": "",
+    "team": "F12",
+    "location": "Korsbackahallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Vikingaspelen 2026",
+    "homeAway": "borta",
+    "meetingTime": "09:15",
+    "info": "Vikingaspelen 2026 borta, Korsbackahallen, Kävlinge ()Spelschema: https://www.procup.se/cup/cupresgeneric_skin01.php?ev=39785&amp;lang=SVE&amp;LAG=H43%20Lund%202&amp;class=F12%20(2014)\nA-slutspel: https://www.procup.se/cup/cupresplayoff_lista_skin01.php?ev=39785&amp;lang=SVE&amp;Klass=F12%20(2014)&amp;ABCD=A\nB-slutspel: https://www.procup.se/cup/cupresplayoff_lista_skin01.php?ev=39785&amp;lang=SVE&amp;Klass=F12%20(2014)&amp;ABCD=B"
+  },
+  {
+    "date": "lör 19",
+    "month": "September",
+    "startTime": "10:00",
     "endTime": "11:00",
     "team": "P9",
     "location": "Fäladshallen   B",
@@ -2798,6 +2812,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 19",
+    "month": "September",
+    "startTime": "10:30",
+    "endTime": "",
+    "team": "F12",
+    "location": "Korsbackahallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "Vikingaspelen 2026",
+    "homeAway": "borta",
+    "meetingTime": "09:45",
+    "info": "Vikingaspelen 2026 borta, Korsbackahallen, Kävlinge ()Spelschema: https://www.procup.se/cup/cupresgeneric_skin01.php?ev=39785&amp;lang=SVE&amp;LAG=H43%20Lund%201&amp;class=F12%20(2014)\nA-slutspel: https://www.procup.se/cup/cupresplayoff_lista_skin01.php?ev=39785&amp;lang=SVE&amp;Klass=F12%20(2014)&amp;ABCD=A\nB-slutspel: https://www.procup.se/cup/cupresplayoff_lista_skin01.php?ev=39785&amp;lang=SVE&amp;Klass=F12%20(2014)&amp;ABCD=B"
   },
   {
     "date": "lör 19",
