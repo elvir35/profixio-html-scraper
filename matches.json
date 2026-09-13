@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-13T02:05:42.926Z",
+  "scrapedAt": "2026-09-13T10:48:03.419Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 332,
+  "matchCount": 334,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -27,6 +27,30 @@
       "away": "IFK Ystad HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F12",
+      "hall": "Korsbackahallen",
+      "time": "10:00",
+      "date": "lör 19",
+      "month": "SEPTEMBER 2026",
+      "home": "Vikingaspelen 2026",
+      "away": "H43 Lund Lag 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F12",
+      "hall": "Korsbackahallen",
+      "time": "10:30",
+      "date": "lör 19",
+      "month": "SEPTEMBER 2026",
+      "home": "Vikingaspelen 2026",
+      "away": "H43 Lund Lag 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
       "status": "upcoming"
     },
     {
