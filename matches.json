@@ -1,46 +1,10 @@
 {
-  "scrapedAt": "2026-09-12T19:52:09.686Z",
+  "scrapedAt": "2026-09-13T02:05:42.926Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 332,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "P8",
-      "hall": "Korsbacka i Kävlinge",
-      "time": "08:30",
-      "date": "lör 12",
-      "month": "SEPTEMBER 2026",
-      "home": "Ystad, Lödde, Lugi mfl.",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P12",
-      "hall": "Bollhuset A",
-      "time": "11:00",
-      "date": "lör 12",
-      "month": "SEPTEMBER 2026",
-      "home": "Lugi",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P19",
-      "hall": "Fäladshallen",
-      "time": "12:00",
-      "date": "lör 12",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund",
-      "away": "Internmatch med Lejonen",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26265_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "HK Blå 85",
       "hall": "Lunds Idrottshall",
@@ -871,18 +835,6 @@
     },
     {
       "team": "F14",
-      "hall": "Tolvåkers Idrottshall B",
-      "time": "19:30",
-      "date": "fre 06",
-      "month": "NOVEMBER 2026",
-      "home": "Lödde Vikings HK Svart",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
       "hall": "Sparbanken Skåne Arena A",
       "time": "19:30",
       "date": "fre 06",
@@ -891,6 +843,18 @@
       "away": "Lugi HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Tolvåkers Idrottshall B",
+      "time": "19:30",
+      "date": "fre 06",
+      "month": "NOVEMBER 2026",
+      "home": "Lödde Vikings HK Svart",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3760,6 +3724,42 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P19",
+      "hall": "Fäladshallen",
+      "time": "12:00",
+      "date": "lör 12",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Internmatch med Lejonen",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26265_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "11:00",
+      "date": "lör 12",
+      "month": "SEPTEMBER 2026",
+      "home": "Lugi",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P8",
+      "hall": "Korsbacka i Kävlinge",
+      "time": "08:30",
+      "date": "lör 12",
+      "month": "SEPTEMBER 2026",
+      "home": "Ystad, Lödde, Lugi mfl.",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "HK Blå 85",
