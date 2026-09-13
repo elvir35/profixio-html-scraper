@@ -1809,6 +1809,20 @@
     "date": "mån 14",
     "month": "September",
     "startTime": "19:00",
+    "endTime": "",
+    "team": "P19",
+    "location": "Fäladshallen  ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "OV Helsingborg",
+    "homeAway": "hemma",
+    "meetingTime": "19:00",
+    "info": "OV Helsingborg hemma, Fäladshallen ()Träningsmatch mot OV"
+  },
+  {
+    "date": "mån 14",
+    "month": "September",
+    "startTime": "19:00",
     "endTime": "21:00",
     "team": "P19",
     "location": "Fäladshallen",
@@ -1817,7 +1831,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Fäladshallen"
   },
   {
     "date": "mån 14",
@@ -3736,6 +3750,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "12:40",
+    "endTime": "",
+    "team": "F12",
+    "location": "Bollhuset A (Flickor - F12 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Stavsten HK U",
+    "homeAway": "hemma",
+    "meetingTime": "11:55",
+    "info": "Stavsten HK U hemma, Bollhuset A (Flickor - F12 Syd)"
   },
   {
     "date": "lör 26",
