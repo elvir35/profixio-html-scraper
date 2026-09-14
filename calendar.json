@@ -3699,6 +3699,20 @@
     "date": "lör 26",
     "month": "September",
     "startTime": "10:00",
+    "endTime": "",
+    "team": "F12",
+    "location": "Hjärups Idrottshall (Flickor - F12 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Staffanstorps HK",
+    "homeAway": "borta",
+    "meetingTime": "09:15",
+    "info": "Staffanstorps HK borta, Hjärups Idrottshall (Flickor - F12 Syd)"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "10:00",
     "endTime": "11:00",
     "team": "P9",
     "location": "Fäladshallen   B",
@@ -3778,6 +3792,20 @@
     "homeAway": "borta",
     "meetingTime": "12:15",
     "info": "Halmstad HF borta, Östergårdshallen (Damer - Dam 3 Syd)"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "14:20",
+    "endTime": "",
+    "team": "F12",
+    "location": "Bollhuset A (Flickor - F12 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lödde Vikings HK Svart",
+    "homeAway": "hemma",
+    "meetingTime": "13:35",
+    "info": "Lödde Vikings HK Svart hemma, Bollhuset A (Flickor - F12 Syd)"
   },
   {
     "date": "lör 26",
