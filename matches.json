@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-15T15:54:54.452Z",
+  "scrapedAt": "2026-09-15T20:39:01.833Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 420,
   "hasMatches": true,
@@ -1766,7 +1766,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
