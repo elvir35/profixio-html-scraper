@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-09-14T21:10:36.371Z",
+  "scrapedAt": "2026-09-15T02:28:40.200Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 421,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "P19",
-      "hall": "Fäladshallen",
-      "time": "19:00",
-      "date": "mån 14",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund",
-      "away": "OV Helsingborg",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "HERRAR A",
       "hall": "Sparbanken Skåne Arena A",
@@ -4780,6 +4768,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P19",
+      "hall": "Fäladshallen",
+      "time": "19:00",
+      "date": "mån 14",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund",
+      "away": "OV Helsingborg",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "HK Blå 85",
