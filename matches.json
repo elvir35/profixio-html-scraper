@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-16T10:29:21.609Z",
+  "scrapedAt": "2026-09-16T15:46:26.857Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 420,
   "hasMatches": true,
@@ -210,18 +210,6 @@
       "status": "upcoming"
     },
     {
-      "team": "P15",
-      "hall": "Lindängens Sporthall",
-      "time": "10:00",
-      "date": "sön 27",
-      "month": "SEPTEMBER 2026",
-      "home": "IFK Malmö HF",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
       "team": "F11",
       "hall": "Bollhuset A",
       "time": "13:00",
@@ -279,6 +267,18 @@
       "away": "Ystads IF HF Blå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P15",
+      "hall": "Lindängens Sporthall",
+      "time": "19:30",
+      "date": "tor 01",
+      "month": "OKTOBER 2026",
+      "home": "IFK Malmö HF",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
       "status": "upcoming"
     },
     {
