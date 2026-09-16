@@ -3150,20 +3150,6 @@
     "info": ""
   },
   {
-    "date": "mån 21",
-    "month": "September",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "team": "HK Blå 85",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
     "date": "tis 22",
     "month": "September",
     "startTime": "17:00",
@@ -3740,6 +3726,20 @@
   {
     "date": "lör 26",
     "month": "September",
+    "startTime": "11:00",
+    "endTime": "",
+    "team": "P12",
+    "location": "Bollhuset A (Pojkar - P12 Syd Nivå 2)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Staffanstorps HK 1",
+    "homeAway": "hemma",
+    "meetingTime": "10:15",
+    "info": "Staffanstorps HK 1 hemma, Bollhuset A (Pojkar - P12 Syd Nivå 2)Hej, \n \nSeriematch lördagen den 26 september. Vi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk. En match ska spelas: \n \nKl. 11.00: H43 Lund-Staffanstorps HK \n \nSamling i Bollhuset kl. 10.15. Kom matchklädd, ta med boll. \n \nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack! \n \nMVH/ Tränarna"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
     "startTime": "12:00",
     "endTime": "13:30",
     "team": "F10",
@@ -3792,6 +3792,20 @@
     "homeAway": "hemma",
     "meetingTime": "13:35",
     "info": "Lödde Vikings HK Svart hemma, Bollhuset A (Flickor - F12 Syd)"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "14:20",
+    "endTime": "",
+    "team": "P12",
+    "location": "Tunahallen-Handboll (Pojkar - P12 Syd Nivå 1)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Åhus HB 1",
+    "homeAway": "hemma",
+    "meetingTime": "13:35",
+    "info": "Åhus HB 1 hemma, Tunahallen-Handboll (Pojkar - P12 Syd Nivå 1)Hej,\nSeriematch lördagen den 26 september. Vi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk. En match ska spelas:\nKl. 14.20: H43 Lund-Åhus HB\nSamling i Tunahallen kl. 13.35. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "lör 26",
@@ -3904,6 +3918,20 @@
     "homeAway": "borta",
     "meetingTime": "13:15",
     "info": "Huddinge HK borta, Fleminghallen (Herrar - Herrallsvenskan)"
+  },
+  {
+    "date": "sön 27",
+    "month": "September",
+    "startTime": "16:00",
+    "endTime": "17:30",
+    "team": "HK Blå 85",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "sön 27",
