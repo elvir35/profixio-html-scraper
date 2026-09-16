@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-16T15:46:26.857Z",
+  "scrapedAt": "2026-09-16T20:38:13.495Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 420,
+  "matchCount": 464,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -126,6 +126,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "11:00",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "Staffanstorps HK 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F12",
       "hall": "Bollhuset A",
       "time": "12:40",
@@ -159,6 +171,18 @@
       "away": "Lödde Vikings HK Svart",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Tunahallen-Handboll",
+      "time": "14:20",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Åhus HB 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -330,6 +354,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "12:30",
+      "date": "lör 03",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Växjö HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P9",
       "hall": "Lågehall B",
       "time": "13:00",
@@ -498,6 +534,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Rydebäckshallen",
+      "time": "15:30",
+      "date": "sön 04",
+      "month": "OKTOBER 2026",
+      "home": "OV Helsingborg HK 2",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P15",
       "hall": "Bollhuset A",
       "time": "19:20",
@@ -519,6 +567,18 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "09:00",
+      "date": "lör 10",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "Lödde Vikings HK Svart",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -578,7 +638,7 @@
       "home": "H43 Lund",
       "away": "Staffanstorp HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -627,6 +687,18 @@
       "away": "Tollarps IF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26414_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Uppåkrahallen",
+      "time": "15:45",
+      "date": "lör 10",
+      "month": "OKTOBER 2026",
+      "home": "Staffanstorps HK 2",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -719,8 +791,8 @@
       "time": "11:45",
       "date": "lör 17",
       "month": "OKTOBER 2026",
-      "home": "H43 Lund",
-      "away": "HK Malmö 2",
+      "home": "HK Malmö 2",
+      "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
@@ -798,6 +870,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "10:00",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "Lugi HF 3",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P9",
       "hall": "Söderkulla sporthall",
       "time": "10:00",
@@ -819,6 +903,18 @@
       "away": "Ystad + Lugi",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Brinova Arena Karlskrona",
+      "time": "13:50",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "HF Karlskrona Gul",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -918,6 +1014,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Vipeholmshallen",
+      "time": "12:30",
+      "date": "lör 24",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Lugi HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F14",
       "hall": "Bollhuset A",
       "time": "13:20",
@@ -951,6 +1059,18 @@
       "away": "Stavsten HK U",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Vipeholmshallen",
+      "time": "15:50",
+      "date": "lör 24",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "IK Lågan",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -998,7 +1118,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1131,6 +1251,18 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "09:30",
+      "date": "lör 07",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "HK Ankaret 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1362,6 +1494,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Rutsborgshallen 1",
+      "time": "14:00",
+      "date": "lör 14",
+      "month": "NOVEMBER 2026",
+      "home": "HK Ankaret 2",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P10",
       "hall": "Tunahallen",
       "time": "14:30",
@@ -1431,6 +1575,18 @@
       "away": "IFK Kristianstad 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "09:00",
+      "date": "sön 15",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "HK Halmstad Svart",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1526,7 +1682,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1590,6 +1746,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Västervångshallen",
+      "time": "14:15",
+      "date": "lör 21",
+      "month": "NOVEMBER 2026",
+      "home": "IFK Ystad HK 1",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F14",
       "hall": "Tunahallen-Handboll",
       "time": "14:30",
@@ -1599,6 +1767,18 @@
       "away": "Lödde Vikings HK Röd",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Västervångshallen",
+      "time": "15:30",
+      "date": "lör 21",
+      "month": "NOVEMBER 2026",
+      "home": "Ystads IF HF Vit",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1746,6 +1926,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Ystad Arena A1",
+      "time": "15:00",
+      "date": "sön 22",
+      "month": "NOVEMBER 2026",
+      "home": "Ystads IF HF Gul",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F19 / Damer J",
       "hall": "Kristianstad Arena",
       "time": "18:30",
@@ -1758,6 +1950,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Söderkulla Sporthall",
+      "time": "11:30",
+      "date": "lör 28",
+      "month": "NOVEMBER 2026",
+      "home": "HK Malmö 1",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P10",
       "hall": "Staffanshallen",
       "time": "11:40",
@@ -1766,7 +1970,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1827,6 +2031,18 @@
       "away": "HK Drott Halmstad Vit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Söderkulla Sporthall",
+      "time": "13:00",
+      "date": "lör 28",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Ystads IF HF Vit",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1911,6 +2127,18 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Semmehallen",
+      "time": "15:00",
+      "date": "sön 29",
+      "month": "NOVEMBER 2026",
+      "home": "GW Landskrona HK",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2034,6 +2262,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Vipeholmshallen",
+      "time": "12:30",
+      "date": "lör 05",
+      "month": "DECEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "IFK Ystad HK 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P15",
       "hall": "Bollhuset A",
       "time": "12:40",
@@ -2082,6 +2322,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Vipeholmshallen",
+      "time": "15:30",
+      "date": "lör 05",
+      "month": "DECEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "IFK Kristianstad Orange",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HK Blå 85",
       "hall": "Sparbanken Skåne Arena B",
       "time": "16:30",
@@ -2091,6 +2343,18 @@
       "away": "Stavsten HK U",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "09:00",
+      "date": "sön 06",
+      "month": "DECEMBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "Eslövs HK 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2306,7 +2570,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2495,8 +2759,8 @@
       "time": "09:15",
       "date": "sön 20",
       "month": "DECEMBER 2026",
-      "home": "H43 Lund",
-      "away": "Vinslövs HK",
+      "home": "Vinslövs HK",
+      "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
       "status": "upcoming"
@@ -2511,6 +2775,30 @@
       "away": "Kävlinge HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Helsingborg Arena B",
+      "time": "10:00",
+      "date": "sön 20",
+      "month": "DECEMBER 2026",
+      "home": "OV Helsingborg HK 1",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Helsingborg Arena B",
+      "time": "11:20",
+      "date": "sön 20",
+      "month": "DECEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Eslövs HK 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2702,7 +2990,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2826,6 +3114,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Hedda Idrottshall",
+      "time": "09:40",
+      "date": "sön 17",
+      "month": "JANUARI 2027",
+      "home": "H43 Lund HF 1",
+      "away": "HK Ankaret 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F12",
       "hall": "Östratornhallen",
       "time": "12:30",
@@ -2835,6 +3135,18 @@
       "away": "Staffanstorps HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Hedda Idrottshall",
+      "time": "12:40",
+      "date": "sön 17",
+      "month": "JANUARI 2027",
+      "home": "H43 Lund HF 1",
+      "away": "HF Karlskrona Gul",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2859,6 +3171,18 @@
       "away": "Dalby GIF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Eslövshallen B",
+      "time": "14:30",
+      "date": "sön 17",
+      "month": "JANUARI 2027",
+      "home": "Eslövs HK 2",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2919,6 +3243,18 @@
       "away": "Kortplan Hemma",
       "score": "",
       "logo": "",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "09:30",
+      "date": "lör 23",
+      "month": "JANUARI 2027",
+      "home": "H43 Lund HF 2",
+      "away": "GW Landskrona HK",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3114,6 +3450,30 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Sånnahallen C",
+      "time": "13:30",
+      "date": "sön 24",
+      "month": "JANUARI 2027",
+      "home": "Åhus HB 1",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Sånnahallen C",
+      "time": "15:00",
+      "date": "sön 24",
+      "month": "JANUARI 2027",
+      "home": "H43 Lund HF 1",
+      "away": "Staffanstorps HK 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "HK Blå 85",
       "hall": "Sparbanken Skåne Arena A",
       "time": "16:00",
@@ -3171,6 +3531,18 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "12:10",
+      "date": "lör 30",
+      "month": "JANUARI 2027",
+      "home": "H43 Lund HF 2",
+      "away": "Ystads IF HF Gul",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3378,6 +3750,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Örjanhallen",
+      "time": "10:50",
+      "date": "lör 06",
+      "month": "FEBRUARI 2027",
+      "home": "HK Halmstad Svart",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P15",
       "hall": "Sparbanken Skåne Arena A",
       "time": "11:15",
@@ -3411,6 +3795,18 @@
       "away": "Minihandboll sammandrag Hemma",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25969_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "14:00",
+      "date": "lör 06",
+      "month": "FEBRUARI 2027",
+      "home": "H43 Lund HF 1",
+      "away": "OV Helsingborg HK 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3654,6 +4050,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Rutsborgshallen 1",
+      "time": "15:45",
+      "date": "lör 13",
+      "month": "FEBRUARI 2027",
+      "home": "IFK Kristianstad Orange",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P15",
       "hall": "Väggahallen",
       "time": "16:00",
@@ -3687,6 +4095,18 @@
       "away": "Karlshamns HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26153_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Rutsborgshallen 1",
+      "time": "17:10",
+      "date": "lör 13",
+      "month": "FEBRUARI 2027",
+      "home": "HK Ankaret 1",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3783,6 +4203,18 @@
       "away": "Ystads IF HF Gul",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Lågehall A",
+      "time": "14:00",
+      "date": "lör 20",
+      "month": "FEBRUARI 2027",
+      "home": "IK Lågan",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4074,6 +4506,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Vipeholmshallen",
+      "time": "17:40",
+      "date": "lör 06",
+      "month": "MARS 2027",
+      "home": "H43 Lund HF 2",
+      "away": "Lugi HF 3",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P15",
       "hall": "Tunahallen-Handboll",
       "time": "17:50",
@@ -4134,6 +4578,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Östratornhallen",
+      "time": "12:20",
+      "date": "sön 07",
+      "month": "MARS 2027",
+      "home": "Lugi HF 1",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F11",
       "hall": "Vipeholmshallen",
       "time": "12:30",
@@ -4143,6 +4599,18 @@
       "away": "Höörs HK H 65 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Östratornhallen",
+      "time": "13:40",
+      "date": "sön 07",
+      "month": "MARS 2027",
+      "home": "Växjö HF 1",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4263,6 +4731,18 @@
       "away": "HK Hearts",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26050_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Eslövshallen B",
+      "time": "14:00",
+      "date": "lör 13",
+      "month": "MARS 2027",
+      "home": "Eslövs HK 1",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4410,6 +4890,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Tolvåkers Idrottshall B",
+      "time": "18:00",
+      "date": "sön 14",
+      "month": "MARS 2027",
+      "home": "Lödde Vikings HK Svart",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F19 / Damer J",
       "hall": "Tunahallen-Handboll",
       "time": "18:00",
@@ -4431,6 +4923,30 @@
       "away": "IK Lågan Vit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "10:30",
+      "date": "lör 20",
+      "month": "MARS 2027",
+      "home": "H43 Lund HF 2",
+      "away": "OV Helsingborg HK 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "12:10",
+      "date": "lör 20",
+      "month": "MARS 2027",
+      "home": "H43 Lund HF 1",
+      "away": "HK Malmö 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4659,6 +5175,18 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Staffanshallen",
+      "time": "12:15",
+      "date": "lör 27",
+      "month": "MARS 2027",
+      "home": "Staffanstorps HK 1",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
       "status": "upcoming"
     },
     {
