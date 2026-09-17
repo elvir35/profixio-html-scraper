@@ -3307,20 +3307,6 @@
     "date": "ons 23",
     "month": "September",
     "startTime": "17:30",
-    "endTime": "19:30",
-    "team": "DAMER A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan AHall 17.30 - Löpning 19.00"
-  },
-  {
-    "date": "ons 23",
-    "month": "September",
-    "startTime": "17:30",
     "endTime": "19:15",
     "team": "F14",
     "location": "Tornhallen",
@@ -3390,6 +3376,20 @@
   {
     "date": "ons 23",
     "month": "September",
+    "startTime": "19:30",
+    "endTime": "21:00",
+    "team": "DAMER A",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, HeddahallenHall 17.30 - Löpning 19.00"
+  },
+  {
+    "date": "ons 23",
+    "month": "September",
     "startTime": "20:00",
     "endTime": "22:00",
     "team": "P19",
@@ -3428,20 +3428,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Victoriastadion 3"
-  },
-  {
-    "date": "tor 24",
-    "month": "September",
-    "startTime": "17:30",
-    "endTime": "19:00",
-    "team": "DAMER A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tor 24",
@@ -3540,6 +3526,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenFörsta 30 minutrarna utomhus samling vid Centrala Idrottsplatsen, (1h inomhus)."
+  },
+  {
+    "date": "fre 25",
+    "month": "September",
+    "startTime": "17:00",
+    "endTime": "19:30",
+    "team": "DAMER A",
+    "location": "Fäladshallen A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "fre 25",
@@ -3805,7 +3805,7 @@
     "opponent": "Matcher mot Drott och Ystad",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Matcher mot Drott och Ystad , TunahallenLördagen den 26/9 spelar vi två F19-matcher direkt efter varandra i Tunahallen - därav behöver vi så många som möjligt av er! Svara på den här kallelsen och beroende på hur många som kan så delar vi den upp vem som spelar vilken match. Det kan också bli att vissa får dubbla för att få ihop det."
+    "info": "Matcher mot Drott och Ystad , TunahallenLördagen den 26/9 spelar vi två F19-matcher direkt efter varandra i Tunahallen - därav behöver vi så många som möjligt av er! Svara på den här kallelsen och beroende på hur många som kan så delar vi sen upp vem som spelar vilken match. Det kan också bli att vissa får dubbla för att få ihop det."
   },
   {
     "date": "lör 26",
