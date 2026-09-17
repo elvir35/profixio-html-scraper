@@ -3068,20 +3068,6 @@
   {
     "date": "mån 21",
     "month": "September",
-    "startTime": "18:30",
-    "endTime": "20:30",
-    "team": "F15",
-    "location": "Bollhuset",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Bollhuset 18:30 - 19:00: Löpning\n19:00 - 20:30: Hallträning"
-  },
-  {
-    "date": "mån 21",
-    "month": "September",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -3106,6 +3092,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Victoriastadion 1Var ombytta och redo klockan 19. Kom ihåg vattenflaska och egen boll."
+  },
+  {
+    "date": "mån 21",
+    "month": "September",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "team": "F15",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Fäladshallen 19:00 - 19:30: Löpning\n19:30 - 21:00: Hallträning"
   },
   {
     "date": "mån 21",
@@ -3666,20 +3666,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "lör 26",
-    "month": "September",
-    "startTime": "10:00",
-    "endTime": "",
-    "team": "F12",
-    "location": "Hjärups Idrottshall (Flickor - F12 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Staffanstorps HK",
-    "homeAway": "borta",
-    "meetingTime": "09:15",
-    "info": "Staffanstorps HK borta, Hjärups Idrottshall (Flickor - F12 Syd)"
   },
   {
     "date": "lör 26",
@@ -4366,6 +4352,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Bollhuset AIngen förhandsanmälan behövs.\nTa med träningskläder, skor och vattenflaska."
+  },
+  {
+    "date": "ons 30",
+    "month": "September",
+    "startTime": "19:30",
+    "endTime": "",
+    "team": "F12",
+    "location": "Uppåkrahallen  (Flickor - F12 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Staffanstorps HK",
+    "homeAway": "borta",
+    "meetingTime": "18:45",
+    "info": "Staffanstorps HK borta, Uppåkrahallen (Flickor - F12 Syd)"
   },
   {
     "date": "ons 30",
