@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-17T02:26:47.339Z",
+  "scrapedAt": "2026-09-17T10:39:22.640Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 464,
+  "matchCount": 465,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -111,18 +111,6 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F12",
-      "hall": "Hjärups Idrottshall",
-      "time": "10:00",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "Staffanstorps HK",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -291,6 +279,18 @@
       "away": "Ystads IF HF Blå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F12",
+      "hall": "Uppåkrahallen",
+      "time": "19:30",
+      "date": "ons 30",
+      "month": "SEPTEMBER 2026",
+      "home": "Staffanstorps HK",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -975,6 +975,18 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F12",
+      "hall": "Tornhallen",
+      "time": "18:00",
+      "date": "tis 20",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund (Träningsmatch)",
+      "away": "Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
