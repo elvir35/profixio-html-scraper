@@ -3721,7 +3721,7 @@
     "opponent": "Staffanstorps HK 1",
     "homeAway": "hemma",
     "meetingTime": "10:15",
-    "info": "Staffanstorps HK 1 hemma, Bollhuset A (Pojkar - P12 Syd Nivå 2)Hej, \n \nSeriematch lördagen den 26 september. Vi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk. En match ska spelas: \n \nKl. 11.00: H43 Lund-Staffanstorps HK \n \nSamling i Bollhuset kl. 10.15. Kom matchklädd, ta med boll. \n \nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack! \n \nMVH/ Tränarna"
+    "info": "Staffanstorps HK 1 hemma, Bollhuset A (Pojkar - P12 Syd Nivå 2)Hej, \n \nSeriematch. Vi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk. \n \nAvkast kl. 11.00: H43 Lund-Staffanstorps HK \n \nSamling i Bollhuset kl. 10.15. Kom matchklädd, ta med boll. \n \nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack! \n \nMVH/ Tränarna"
   },
   {
     "date": "lör 26",
@@ -3791,7 +3791,21 @@
     "opponent": "Åhus HB 1",
     "homeAway": "hemma",
     "meetingTime": "13:35",
-    "info": "Åhus HB 1 hemma, Tunahallen-Handboll (Pojkar - P12 Syd Nivå 1)Hej,\nSeriematch lördagen den 26 september. Vi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk. En match ska spelas:\nKl. 14.20: H43 Lund-Åhus HB\nSamling i Tunahallen kl. 13.35. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
+    "info": "Åhus HB 1 hemma, Tunahallen-Handboll (Pojkar - P12 Syd Nivå 1)Hej,\nSeriematch. Vi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk. \nAvkast kl. 14.20: H43 Lund-Åhus HB\nSamling i Tunahallen kl. 13.35. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "15:00",
+    "endTime": "19:00",
+    "team": "F19 / Damer J",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Matcher mot Drott och Ystad",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Matcher mot Drott och Ystad , TunahallenLördagen den 26/9 spelar vi två F19-matcher direkt efter varandra i Tunahallen - därav behöver vi så många som möjligt av er! Svara på den här kallelsen och beroende på hur många som kan så delar vi den upp vem som spelar vilken match. Det kan också bli att vissa får dubbla för att få ihop det."
   },
   {
     "date": "lör 26",
