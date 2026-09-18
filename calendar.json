@@ -2749,13 +2749,13 @@
     "startTime": "09:00",
     "endTime": "19:00",
     "team": "F12",
-    "location": "Löddeköpinge",
+    "location": "Korsbackahallen",
     "type": "Träning",
     "title": "",
     "opponent": "Bindande anmälan: Vikingaspelen - först till kvarn",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Bindande anmälan: Vikingaspelen - först till kvarn, LöddeköpingeVarmt välkomna till Vikingaspelen 2026! Cupen spelas den 19/9. Vi har anmält 2 lag och kommer tillämpa först till kvarn-principen. Anmälan är bindande. Anmälan stängs automatiskt efter 22 anmälningar.\nSamlingstid och lagindelning kommer när det närmar sig då vi får spelschemat för cupen!"
+    "info": "Bindande anmälan: Vikingaspelen - först till kvarn, Korsbackahallen, KävlingeVarmt välkomna till Vikingaspelen 2026! Cupen spelas den 19/9. Vi har anmält 2 lag och kommer tillämpa först till kvarn-principen. Anmälan är bindande. Anmälan stängs automatiskt efter 22 anmälningar.\nSamlingstid och lagindelning kommer när det närmar sig då vi får spelschemat för cupen!"
   },
   {
     "date": "lör 19",
@@ -3628,6 +3628,20 @@
   {
     "date": "fre 25",
     "month": "September",
+    "startTime": "19:15",
+    "endTime": "",
+    "team": "P19",
+    "location": "Lindängens Sporthall (Pojkar - P19 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Malmö",
+    "homeAway": "borta",
+    "meetingTime": "18:00",
+    "info": "HK Malmö borta, Lindängens Sporthall (Pojkar - P19 Syd)"
+  },
+  {
+    "date": "fre 25",
+    "month": "September",
     "startTime": "19:30",
     "endTime": "",
     "team": "HK Blå 85",
@@ -3764,6 +3778,20 @@
     "homeAway": "borta",
     "meetingTime": "12:15",
     "info": "Halmstad HF borta, Östergårdshallen (Damer - Dam 3 Syd)"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "14:00",
+    "endTime": "",
+    "team": "P19",
+    "location": "Olsbergs Arena",
+    "type": "Match",
+    "title": "",
+    "opponent": "Eksjö BK",
+    "homeAway": "borta",
+    "meetingTime": "12:45",
+    "info": "Eksjö BK borta, Olsbergs Arena, Eksjö (Pojkar - P19 Syd)"
   },
   {
     "date": "lör 26",
