@@ -1582,6 +1582,20 @@
     "info": ""
   },
   {
+    "date": "lör 12",
+    "month": "September",
+    "startTime": "15:00",
+    "endTime": "",
+    "team": "DAMER A",
+    "location": "Norrehedshallen",
+    "type": "Match",
+    "title": "",
+    "opponent": "IK Sund",
+    "homeAway": "borta",
+    "meetingTime": "13:30",
+    "info": "IK Sund borta, Norrehedshallen, Helsingborg (Damer - Dam 2 Syd)"
+  },
+  {
     "date": "sön 13",
     "month": "September",
     "startTime": "00:00",
@@ -3834,6 +3848,20 @@
     "homeAway": "hemma",
     "meetingTime": "14:55",
     "info": "HK Drott Halmstad hemma, Tunahallen-Handboll (Flickor - F19 Syd)"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "16:00",
+    "endTime": "",
+    "team": "DAMER A",
+    "location": "Söderkulla Sporthall (Damer - Dam 2 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Malmö HP",
+    "homeAway": "borta",
+    "meetingTime": "14:30",
+    "info": "Malmö HP borta, Söderkulla Sporthall (Damer - Dam 2 Syd)"
   },
   {
     "date": "lör 26",
