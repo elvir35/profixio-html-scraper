@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-19T09:57:05.185Z",
+  "scrapedAt": "2026-09-19T15:02:12.273Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 505,
   "hasMatches": true,
@@ -674,7 +674,7 @@
       "home": "H43 Lund",
       "away": "Staffanstorp HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -787,14 +787,14 @@
     },
     {
       "team": "P9",
-      "hall": "Tolvåkers Idrottshall B",
-      "time": "15:40",
+      "hall": "Tolvåkers idrottshall B",
+      "time": "15:00",
       "date": "sön 11",
       "month": "OKTOBER 2026",
-      "home": "Kortplan Löddeköpinge",
+      "home": "Lödde Vikings HK Svart",
       "away": "H43 Lund",
       "score": "",
-      "logo": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -947,10 +947,10 @@
       "time": "10:00",
       "date": "sön 18",
       "month": "OKTOBER 2026",
-      "home": "Minihandboll sammandrag HK Malmö",
+      "home": "HK Malmö",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25969_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1190,7 +1190,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1778,7 +1778,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2102,7 +2102,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2774,7 +2774,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -3266,7 +3266,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
