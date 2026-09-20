@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-20T15:05:49.939Z",
+  "scrapedAt": "2026-09-20T19:58:53.511Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 528,
+  "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -99,6 +99,18 @@
       "away": "H43 Lund HF 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26212_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F12",
+      "hall": "Bollhuset A",
+      "time": "14:20",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "Lödde Vikings HK Svart",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
