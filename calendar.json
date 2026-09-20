@@ -3026,20 +3026,6 @@
   {
     "date": "mån 21",
     "month": "September",
-    "startTime": "18:00",
-    "endTime": "20:15",
-    "team": "F19 / Damer J",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Heddahallen18:00-19:30 Hallträning\n19:30-20:15 Löpning"
-  },
-  {
-    "date": "mån 21",
-    "month": "September",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "F14",
@@ -3138,6 +3124,20 @@
   {
     "date": "tis 22",
     "month": "September",
+    "startTime": "16:30",
+    "endTime": "19:00",
+    "team": "F19 / Damer J",
+    "location": "Nordic",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Gemensamt gym - skriv vilken tid ni går dit",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Gemensamt gym - skriv vilken tid ni går dit , Nordic"
+  },
+  {
+    "date": "tis 22",
+    "month": "September",
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "F9",
@@ -3190,20 +3190,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tornhallen, Stångby"
-  },
-  {
-    "date": "tis 22",
-    "month": "September",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "team": "F19 / Damer J",
-    "location": "Nordic",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Gemensamt gym",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tis 22",
@@ -3320,16 +3306,30 @@
   {
     "date": "ons 23",
     "month": "September",
-    "startTime": "18:15",
-    "endTime": "20:30",
-    "team": "F19 / Damer J",
-    "location": "Arenan A",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "team": "P19",
+    "location": "Stadsparken",
     "type": "Träning",
     "title": "",
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
+    "info": ""
+  },
+  {
+    "date": "ons 23",
+    "month": "September",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "team": "F19 / Damer J",
+    "location": "Stadsparken",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Löppass",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
   },
   {
     "date": "ons 23",
@@ -3372,20 +3372,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenHall 17.30 - Löpning 19.00"
-  },
-  {
-    "date": "ons 23",
-    "month": "September",
-    "startTime": "20:00",
-    "endTime": "22:00",
-    "team": "P19",
-    "location": "Bollhuset",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "ons 23",
@@ -3764,6 +3750,20 @@
     "homeAway": "borta",
     "meetingTime": "12:45",
     "info": "Eksjö BK borta, Olsbergs Arena, Eksjö (Pojkar - P19 Syd)"
+  },
+  {
+    "date": "lör 26",
+    "month": "September",
+    "startTime": "14:20",
+    "endTime": "",
+    "team": "F12",
+    "location": "Bollhuset A ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lödde Vikings HK Svart",
+    "homeAway": "hemma",
+    "meetingTime": "13:35",
+    "info": "Lödde Vikings HK Svart hemma, Bollhuset A ()"
   },
   {
     "date": "lör 26",
