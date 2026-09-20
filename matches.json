@@ -1,58 +1,10 @@
 {
-  "scrapedAt": "2026-09-19T19:46:01.401Z",
+  "scrapedAt": "2026-09-20T02:23:46.615Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F12",
-      "hall": "Korsbackahallen",
-      "time": "10:00",
-      "date": "lör 19",
-      "month": "SEPTEMBER 2026",
-      "home": "Vikingaspelen 2026",
-      "away": "H43 Lund Lag 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F12",
-      "hall": "Korsbackahallen",
-      "time": "10:30",
-      "date": "lör 19",
-      "month": "SEPTEMBER 2026",
-      "home": "Vikingaspelen 2026",
-      "away": "H43 Lund Lag 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F15",
-      "hall": "Bollhuset A",
-      "time": "14:00",
-      "date": "lör 19",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF",
-      "away": "Stavsten HK U",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P15",
-      "hall": "Sparbanken Skåne Arena B",
-      "time": "15:00",
-      "date": "lör 19",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF 1",
-      "away": "OV Helsingborg HK",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P12",
       "hall": "Kävlinge",
@@ -3787,18 +3739,6 @@
     },
     {
       "team": "F14",
-      "hall": "Norreportskolan",
-      "time": "14:00",
-      "date": "lör 23",
-      "month": "JANUARI 2027",
-      "home": "Ystads IF HF Blå",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
       "hall": "Griffel Arena",
       "time": "14:00",
       "date": "lör 23",
@@ -3807,6 +3747,18 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Norreportskolan",
+      "time": "14:00",
+      "date": "lör 23",
+      "month": "JANUARI 2027",
+      "home": "Ystads IF HF Blå",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -6052,6 +6004,54 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P15",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "15:00",
+      "date": "lör 19",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "OV Helsingborg HK",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F15",
+      "hall": "Bollhuset A",
+      "time": "14:00",
+      "date": "lör 19",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF",
+      "away": "Stavsten HK U",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F12",
+      "hall": "Korsbackahallen",
+      "time": "10:30",
+      "date": "lör 19",
+      "month": "SEPTEMBER 2026",
+      "home": "Vikingaspelen 2026",
+      "away": "H43 Lund Lag 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F12",
+      "hall": "Korsbackahallen",
+      "time": "10:00",
+      "date": "lör 19",
+      "month": "SEPTEMBER 2026",
+      "home": "Vikingaspelen 2026",
+      "away": "H43 Lund Lag 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "HERRAR A",
