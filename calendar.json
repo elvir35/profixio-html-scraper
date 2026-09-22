@@ -3222,6 +3222,20 @@
   {
     "date": "tis 22",
     "month": "September",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "team": "HK Blå 85",
+    "location": "Idrottshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, IdrottshallenLöpning, samling i idrottshallen."
+  },
+  {
+    "date": "tis 22",
+    "month": "September",
     "startTime": "19:00",
     "endTime": "20:15",
     "team": "F10",
@@ -3232,20 +3246,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "tis 22",
-    "month": "September",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "team": "HK Blå 85",
-    "location": "Idrottshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, IdrottshallenLöpning, samling i idrottshallen."
   },
   {
     "date": "ons 23",
