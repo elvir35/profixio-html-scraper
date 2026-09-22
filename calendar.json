@@ -3838,6 +3838,20 @@
   {
     "date": "sön 27",
     "month": "September",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "team": "P19",
+    "location": "Fäladshallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Övrigt",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Övrigt, Fäladshallen Vi har hallen. Ingen organiserad träning.\nöppet för alla som vill köra själva"
+  },
+  {
+    "date": "sön 27",
+    "month": "September",
     "startTime": "11:00",
     "endTime": "12:00",
     "team": "P8",
