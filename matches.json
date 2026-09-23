@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-23T15:46:44.577Z",
+  "scrapedAt": "2026-09-23T20:51:11.098Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 529,
+  "matchCount": 530,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -638,7 +638,7 @@
       "home": "H43 Lund",
       "away": "Staffanstorp HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1302,6 +1302,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Tolvåkershallen B",
+      "time": "18:00",
+      "date": "fre 06",
+      "month": "NOVEMBER 2026",
+      "home": "Lödde Vikings",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/12085_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "DAMER A",
       "hall": "Sporthallen Höör",
       "time": "19:00",
@@ -1814,7 +1826,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2846,7 +2858,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
