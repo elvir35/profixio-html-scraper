@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-25T10:49:24.077Z",
+  "scrapedAt": "2026-09-25T16:09:02.857Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 528,
+  "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -459,6 +459,18 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Idrottshallen",
+      "time": "13:00",
+      "date": "sön 04",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund",
+      "away": "HK Kristianstad",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/21914_1006_S.webp",
       "status": "upcoming"
     },
     {
