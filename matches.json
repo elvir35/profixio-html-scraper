@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-25T02:31:59.150Z",
+  "scrapedAt": "2026-09-25T10:49:24.077Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 529,
+  "matchCount": 528,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -1131,18 +1131,6 @@
       "away": "Kävlinge HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P15",
-      "hall": "Sparbanken Skåne Arena B",
-      "time": "09:00",
-      "date": "sön 25",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF 2",
-      "away": "Stavsten HK U",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "upcoming"
     },
     {
