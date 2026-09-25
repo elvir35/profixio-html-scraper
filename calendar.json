@@ -3729,13 +3729,13 @@
     "startTime": "14:00",
     "endTime": "",
     "team": "P19",
-    "location": "Olsbergs Arena",
+    "location": "Prästängshallen (Pojkar - P19 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "Eksjö BK",
     "homeAway": "borta",
     "meetingTime": "12:45",
-    "info": "Eksjö BK borta, Olsbergs Arena, Eksjö (Pojkar - P19 Syd)"
+    "info": "Eksjö BK borta, Prästängshallen (Pojkar - P19 Syd)"
   },
   {
     "date": "lör 26",
@@ -4359,7 +4359,7 @@
     "startTime": "19:30",
     "endTime": "",
     "team": "F12",
-    "location": "Uppåkrahallen  (Flickor - F12 Syd)",
+    "location": "Uppåkrahallen (Flickor - F12 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "Staffanstorps HK",
