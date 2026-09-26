@@ -4090,6 +4090,20 @@
   {
     "date": "tis 29",
     "month": "September",
+    "startTime": "16:00",
+    "endTime": "19:00",
+    "team": "F19 / Damer J",
+    "location": "Nordic",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Gemensamt gym; Skriv vilken tid ni går dit!",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 29",
+    "month": "September",
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "F9",
@@ -4142,20 +4156,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tornhallen, Stångby"
-  },
-  {
-    "date": "tis 29",
-    "month": "September",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "team": "F19 / Damer J",
-    "location": "Nordic",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Gemensamt gym",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tis 29",
