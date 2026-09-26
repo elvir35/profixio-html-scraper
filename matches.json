@@ -1,46 +1,10 @@
 {
-  "scrapedAt": "2026-09-25T20:52:18.047Z",
+  "scrapedAt": "2026-09-26T02:34:10.386Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F15",
-      "hall": "Tunahallen-Handboll",
-      "time": "18:45",
-      "date": "fre 25",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF",
-      "away": "HK Malmö",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P19",
-      "hall": "Lindängens Sporthall",
-      "time": "19:15",
-      "date": "fre 25",
-      "month": "SEPTEMBER 2026",
-      "home": "HK Malmö",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "HK Blå 85",
-      "hall": "Sölvesborg IH",
-      "time": "19:30",
-      "date": "fre 25",
-      "month": "SEPTEMBER 2026",
-      "home": "H78 Sölvesborg",
-      "away": "HK Blå 85 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P12",
       "hall": "Bollhuset A",
@@ -5992,6 +5956,42 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Sölvesborg IH",
+      "time": "19:30",
+      "date": "fre 25",
+      "month": "SEPTEMBER 2026",
+      "home": "H78 Sölvesborg",
+      "away": "HK Blå 85 Lund",
+      "score": "25 - 32",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P19",
+      "hall": "Lindängens Sporthall",
+      "time": "19:15",
+      "date": "fre 25",
+      "month": "SEPTEMBER 2026",
+      "home": "HK Malmö",
+      "away": "H43 Lund HF 2",
+      "score": "40 - 30",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F15",
+      "hall": "Tunahallen-Handboll",
+      "time": "18:45",
+      "date": "fre 25",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF",
+      "away": "HK Malmö",
+      "score": "14 - 25",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P12",
