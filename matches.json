@@ -1,142 +1,10 @@
 {
-  "scrapedAt": "2026-09-26T20:22:15.736Z",
+  "scrapedAt": "2026-09-27T02:32:08.347Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 530,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "P12",
-      "hall": "Bollhuset A",
-      "time": "11:00",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF 2",
-      "away": "Staffanstorps HK 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F12",
-      "hall": "Bollhuset A",
-      "time": "12:40",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF 1",
-      "away": "Stavsten HK U",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "HK Blå 85",
-      "hall": "Östergårdshallen",
-      "time": "13:30",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "Halmstad HF",
-      "away": "HK Blå 85 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P19",
-      "hall": "Prästängshallen",
-      "time": "14:00",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "Eksjö BK",
-      "away": "H43 Lund HF 3",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26212_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F12",
-      "hall": "Bollhuset A",
-      "time": "14:20",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF 2",
-      "away": "Lödde Vikings HK Svart",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P12",
-      "hall": "Tunahallen-Handboll",
-      "time": "14:20",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF 1",
-      "away": "Åhus HB 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F19 / Damer J",
-      "hall": "Tunahallen-Handboll",
-      "time": "15:55",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF 2",
-      "away": "HK Drott Halmstad",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "DAMER A",
-      "hall": "Söderkulla Sporthall",
-      "time": "16:00",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "Malmö HP",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26298_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
-      "hall": "Bollhuset A",
-      "time": "16:00",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF",
-      "away": "Växjö HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F15",
-      "hall": "Brinova Arena Karlskrona",
-      "time": "16:00",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "HF Karlskrona Gul",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F19 / Damer J",
-      "hall": "Tunahallen-Handboll",
-      "time": "17:40",
-      "date": "lör 26",
-      "month": "SEPTEMBER 2026",
-      "home": "H43 Lund HF 1",
-      "away": "Ystads IF HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F11",
       "hall": "Bollhuset A",
@@ -602,7 +470,7 @@
       "home": "H43 Lund",
       "away": "Staffanstorp HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1142,7 +1010,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1790,7 +1658,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2126,7 +1994,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2822,7 +2690,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -3338,7 +3206,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -3703,18 +3571,6 @@
     },
     {
       "team": "F14",
-      "hall": "Griffel Arena",
-      "time": "14:00",
-      "date": "lör 23",
-      "month": "JANUARI 2027",
-      "home": "Växjö HF",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
       "hall": "Norreportskolan",
       "time": "14:00",
       "date": "lör 23",
@@ -3723,6 +3579,18 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Griffel Arena",
+      "time": "14:00",
+      "date": "lör 23",
+      "month": "JANUARI 2027",
+      "home": "Växjö HF",
+      "away": "H43 Lund HF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -5968,6 +5836,138 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F19 / Damer J",
+      "hall": "Tunahallen-Handboll",
+      "time": "17:40",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Ystads IF HF",
+      "score": "29 - 22",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Söderkulla Sporthall",
+      "time": "16:00",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "Malmö HP",
+      "away": "H43 Lund HF",
+      "score": "27 - 25",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26298_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F14",
+      "hall": "Bollhuset A",
+      "time": "16:00",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF",
+      "away": "Växjö HF",
+      "score": "24 - 20",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F15",
+      "hall": "Brinova Arena Karlskrona",
+      "time": "16:00",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "HF Karlskrona Gul",
+      "away": "H43 Lund HF",
+      "score": "35 - 13",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F19 / Damer J",
+      "hall": "Tunahallen-Handboll",
+      "time": "15:55",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "HK Drott Halmstad",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F12",
+      "hall": "Bollhuset A",
+      "time": "14:20",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "Lödde Vikings HK Svart",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P12",
+      "hall": "Tunahallen-Handboll",
+      "time": "14:20",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Åhus HB 1",
+      "score": "36 - 28",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P19",
+      "hall": "Prästängshallen",
+      "time": "14:00",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "Eksjö BK",
+      "away": "H43 Lund HF 3",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26212_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Östergårdshallen",
+      "time": "13:30",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "Halmstad HF",
+      "away": "HK Blå 85 Lund",
+      "score": "15 - 22",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F12",
+      "hall": "Bollhuset A",
+      "time": "12:40",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Stavsten HK U",
+      "score": "34 - 24",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "11:00",
+      "date": "lör 26",
+      "month": "SEPTEMBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "Staffanstorps HK 1",
+      "score": "27 - 26",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "HK Blå 85",
