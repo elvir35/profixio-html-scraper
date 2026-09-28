@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-09-28T12:21:51.413Z",
+  "scrapedAt": "2026-09-28T22:45:16.674Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 530,
+  "matchCount": 528,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -923,10 +923,10 @@
       "time": "14:15",
       "date": "lör 24",
       "month": "OKTOBER 2026",
-      "home": "H43 Lund HF 2",
-      "away": "IK Lågan",
+      "home": "H43 Lund",
+      "away": "OV Helsingborg",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1491,18 +1491,6 @@
       "away": "OV Helsingborg HK 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F15",
-      "hall": "Bollhuset A",
-      "time": "16:50",
-      "date": "lör 14",
-      "month": "NOVEMBER 2026",
-      "home": "H43 Lund HF",
-      "away": "IFK Kristianstad 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4215,18 +4203,6 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F15",
-      "hall": "Fröknegårdshallen",
-      "time": "15:00",
-      "date": "sön 07",
-      "month": "FEBRUARI 2027",
-      "home": "IFK Kristianstad 1",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
       "status": "upcoming"
     },
     {
