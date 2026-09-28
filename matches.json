@@ -1,46 +1,10 @@
 {
-  "scrapedAt": "2026-09-27T20:36:16.466Z",
+  "scrapedAt": "2026-09-28T02:35:52.533Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 530,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F11",
-      "hall": "Bollhuset A",
-      "time": "13:00",
-      "date": "sön 27",
-      "month": "SEPTEMBER 2026",
-      "home": "Lugi",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "HERRAR A",
-      "hall": "Fleminghallen",
-      "time": "15:00",
-      "date": "sön 27",
-      "month": "SEPTEMBER 2026",
-      "home": "Huddinge HK",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26104_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
-      "hall": "Nyvångshallen",
-      "time": "18:30",
-      "date": "sön 27",
-      "month": "SEPTEMBER 2026",
-      "home": "Dalby GIF",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F14",
       "hall": "Eslövshallen B",
@@ -1010,7 +974,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1994,7 +1958,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3206,7 +3170,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -5836,6 +5800,42 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Nyvångshallen",
+      "time": "18:30",
+      "date": "sön 27",
+      "month": "SEPTEMBER 2026",
+      "home": "Dalby GIF",
+      "away": "H43 Lund HF 2",
+      "score": "21 - 15",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "HERRAR A",
+      "hall": "Fleminghallen",
+      "time": "15:00",
+      "date": "sön 27",
+      "month": "SEPTEMBER 2026",
+      "home": "Huddinge HK",
+      "away": "H43 Lund HF",
+      "score": "30 - 37",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26104_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F11",
+      "hall": "Bollhuset A",
+      "time": "13:00",
+      "date": "sön 27",
+      "month": "SEPTEMBER 2026",
+      "home": "Lugi",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F19 / Damer J",
