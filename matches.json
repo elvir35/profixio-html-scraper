@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-30T03:00:53.247Z",
+  "scrapedAt": "2026-09-30T11:34:54.505Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 528,
   "hasMatches": true,
@@ -422,7 +422,7 @@
       "home": "H43 Lund",
       "away": "Staffanstorp HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -962,7 +962,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1380,9 +1380,9 @@
       "date": "lör 14",
       "month": "NOVEMBER 2026",
       "home": "H43 Lund",
-      "away": "Minihandboll sammandrag Hemma",
+      "away": "Minihandboll hemma",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25969_1006_S.webp",
+      "logo": "",
       "status": "upcoming"
     },
     {
@@ -1412,13 +1412,13 @@
     {
       "team": "P9",
       "hall": "Bollhuset A",
-      "time": "13:30",
+      "time": "13:00",
       "date": "lör 14",
       "month": "NOVEMBER 2026",
       "home": "H43 Lund",
-      "away": "Kortplan Hemma",
+      "away": "Kortplansmatcher",
       "score": "",
-      "logo": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1598,7 +1598,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1628,13 +1628,13 @@
     {
       "team": "P9",
       "hall": "Bollhuset A",
-      "time": "10:30",
+      "time": "10:00",
       "date": "lör 21",
       "month": "NOVEMBER 2026",
       "home": "H43 Lund",
-      "away": "Kortplan Hemma",
+      "away": "HK Halmstad",
       "score": "",
-      "logo": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1779,6 +1779,18 @@
       "away": "IF Kristianstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P9",
+      "hall": "Skurup Sparbank Arena",
+      "time": "09:00",
+      "date": "sön 22",
+      "month": "NOVEMBER 2026",
+      "home": "Minihandboll Skurups Handboll",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16009_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1934,7 +1946,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1951,14 +1963,14 @@
     },
     {
       "team": "P9",
-      "hall": "Nyvångshallen",
+      "hall": "Nyvångshallen Dalby",
       "time": "12:00",
       "date": "lör 28",
       "month": "NOVEMBER 2026",
-      "home": "Minihandboll sammandrag Dalby",
+      "home": "Minihandboll Dalby GIF",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25969_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2055,18 +2067,6 @@
       "away": "HK Halmstad Röd",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P9",
-      "hall": "Skurups sparbank arena",
-      "time": "09:00",
-      "date": "sön 29",
-      "month": "NOVEMBER 2026",
-      "home": "Minihandboll sammandrag Skurups HB",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25969_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2180,13 +2180,13 @@
     {
       "team": "P9",
       "hall": "Lingenässkolan",
-      "time": "11:45",
+      "time": "11:00",
       "date": "lör 05",
       "month": "DECEMBER 2026",
-      "home": "Kortplan Kristianstad",
+      "home": "IFK Kristianstad",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26226_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2503,14 +2503,14 @@
     },
     {
       "team": "P9",
-      "hall": "Lingenässkolan Kristianstad",
-      "time": "10:30",
+      "hall": "Lingennässkolan",
+      "time": "10:00",
       "date": "lör 12",
       "month": "DECEMBER 2026",
-      "home": "Kortplan Kristianstad",
+      "home": "IFK Kristianstad",
       "away": "H43 Lund",
       "score": "",
-      "logo": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2630,7 +2630,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -3158,7 +3158,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
