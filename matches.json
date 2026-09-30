@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-09-29T21:39:17.858Z",
+  "scrapedAt": "2026-09-30T03:00:53.247Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 528,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F14",
-      "hall": "Eslövshallen B",
-      "time": "20:20",
-      "date": "tis 29",
-      "month": "SEPTEMBER 2026",
-      "home": "Eslövs HK",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F14",
       "hall": "Tornhallen",
@@ -1327,7 +1315,7 @@
     },
     {
       "team": "DAMER A",
-      "hall": "Arenan A",
+      "hall": "Sparbanken Skåne Arena A",
       "time": "19:10",
       "date": "ons 11",
       "month": "NOVEMBER 2026",
@@ -5788,6 +5776,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Eslövshallen B",
+      "time": "20:20",
+      "date": "tis 29",
+      "month": "SEPTEMBER 2026",
+      "home": "Eslövs HK",
+      "away": "H43 Lund HF",
+      "score": "34 - 15",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F14",
