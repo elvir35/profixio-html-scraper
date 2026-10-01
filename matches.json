@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-10-01T03:07:17.683Z",
+  "scrapedAt": "2026-10-01T12:03:40.085Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 528,
+  "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -398,7 +398,7 @@
       "home": "H43 Lund",
       "away": "Staffanstorp HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -938,7 +938,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1574,7 +1574,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2606,7 +2606,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2910,6 +2910,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P19",
+      "hall": "Lundaspelen",
+      "time": "09:00",
+      "date": "sön 27",
+      "month": "DECEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Lundaspelen 2026",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26301_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F19 / Damer J",
       "hall": "Tunahallen-Handboll",
       "time": "01:00",
@@ -3134,7 +3146,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
