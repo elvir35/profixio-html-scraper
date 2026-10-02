@@ -87,20 +87,6 @@
     "date": "tor 01",
     "month": "Oktober",
     "startTime": "20:00",
-    "endTime": "21:30",
-    "team": "F19 / Damer J",
-    "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "INSTÄLLD!! Träning, TunahallenHallträning 20:00-21:30"
-  },
-  {
-    "date": "tor 01",
-    "month": "Oktober",
-    "startTime": "20:00",
     "endTime": "22:00",
     "team": "HERRAR U",
     "location": "Arenan B",
@@ -744,20 +730,6 @@
   {
     "date": "mån 05",
     "month": "Oktober",
-    "startTime": "18:30",
-    "endTime": "20:30",
-    "team": "F15",
-    "location": "Bollhuset",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Bollhuset 18:30 - 19:00: Löpning\n19:00 - 20:30: Hallträning"
-  },
-  {
-    "date": "mån 05",
-    "month": "Oktober",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -842,6 +814,20 @@
   {
     "date": "tis 06",
     "month": "Oktober",
+    "startTime": "16:00",
+    "endTime": "19:30",
+    "team": "F19 / Damer J",
+    "location": "Nordic",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Gemensamt gym - Skriv vilken tid ni tränar!",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 06",
+    "month": "Oktober",
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "F9",
@@ -894,20 +880,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tornhallen, Stångby"
-  },
-  {
-    "date": "tis 06",
-    "month": "Oktober",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "team": "F19 / Damer J",
-    "location": "Nordic",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Gemensamt gym",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tis 06",
@@ -1089,7 +1061,7 @@
     "opponent": "Vinslövs HK",
     "homeAway": "hemma",
     "meetingTime": "18:35",
-    "info": "Vinslövs HK hemma, Bollhuset A (Pojkar - P15 Syd)"
+    "info": "Vinslövs HK hemma, Bollhuset A (Pojkar - P15 Syd)Svara senast Söndag 4/10"
   },
   {
     "date": "ons 07",
@@ -1536,8 +1508,8 @@
     "title": "",
     "opponent": "IFK Ystad HK",
     "homeAway": "hemma",
-    "meetingTime": "11:35",
-    "info": "IFK Ystad HK hemma, Bollhuset A (Pojkar - P15 Syd)"
+    "meetingTime": "11:40",
+    "info": "IFK Ystad HK hemma, Bollhuset A (Pojkar - P15 Syd)Svara senast Tisdag 6/10"
   },
   {
     "date": "lör 10",
