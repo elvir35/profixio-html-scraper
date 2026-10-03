@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-10-02T21:35:12.737Z",
+  "scrapedAt": "2026-10-03T02:55:29.745Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "P19",
-      "hall": "Eslövshallen A",
-      "time": "19:00",
-      "date": "fre 02",
-      "month": "OKTOBER 2026",
-      "home": "Eslövs HK 1",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F12",
       "hall": "Bollhuset A",
@@ -5752,6 +5740,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P19",
+      "hall": "Eslövshallen A",
+      "time": "19:00",
+      "date": "fre 02",
+      "month": "OKTOBER 2026",
+      "home": "Eslövs HK 1",
+      "away": "H43 Lund HF 2",
+      "score": "29 - 29",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P15",
