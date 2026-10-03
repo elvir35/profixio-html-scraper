@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-10-03T10:48:55.475Z",
+  "scrapedAt": "2026-10-03T15:25:13.456Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 529,
+  "matchCount": 531,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -642,6 +642,18 @@
       "status": "upcoming"
     },
     {
+      "team": "F9",
+      "hall": "Skurups Sparbank Arena",
+      "time": "08:30",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "Skurup mfl",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P12",
       "hall": "Bollhuset A",
       "time": "10:00",
@@ -914,7 +926,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1614,6 +1626,18 @@
       "status": "upcoming"
     },
     {
+      "team": "F9",
+      "hall": "Fäladshallen",
+      "time": "13:00",
+      "date": "lör 21",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "HF Syd",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "DAMER A",
       "hall": "Sånnahallen A",
       "time": "14:00",
@@ -1898,7 +1922,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3122,7 +3146,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
