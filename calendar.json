@@ -198,11 +198,25 @@
   {
     "date": "lör 03",
     "month": "Oktober",
+    "startTime": "06:30",
+    "endTime": "18:00",
+    "team": "F15",
+    "location": "Tyresö",
+    "type": "Träning",
+    "title": "",
+    "opponent": "USM F16 steg 1 - 3/10 - 4/10",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "USM F16 steg 1 - 3/10 - 4/10, TyresöVi ska till Tyresö för spel i USM F16 steg 1, 34 oktober. Alla som vill är varmt välkomna att följa med och vi hoppas vi blir ett stort gäng, men ingen speltid kan garanteras. Första matchen spelas på lördag 15:30 så vi tänker oss resa upp på lördag. Det kommer då bli en övernattning och förmodligen kommer vi bo i stugor på First Camp Älta drygt 15 minuter med bil från hallen.\nTotalkostnaden per person kommer bland annat bero på vilka transportmedel vi behöver använda och vi ber er därför gärna att använda samåkningsfunktionen i SportAdmin för att på denna kallelse ange om ni behöver skjuts eller kan erbjuda skjuts i er bil. Målet är att vi kan ta oss upp i egna bilar.\nFöljande kostnader är de vi vet på förhand:\n- Anmälningsavgift per person: 500kr\n- Boendekostnad per person: ca. 500kr\n- Matlådor i hallen lördag &amp; söndag: 200kr\nSvara gärna så fort som möjligt så vi vet hur vi kan ta oss upp och hur många sängplatser vi behöver boka."
+  },
+  {
+    "date": "lör 03",
+    "month": "Oktober",
     "startTime": "09:00",
     "endTime": "",
     "team": "F12",
     "location": "Bollhuset A (Flickor - F12 Syd)",
-    "type": "Träning",
+    "type": "Match",
     "title": "",
     "opponent": "HK Ankaret 1",
     "homeAway": "hemma",
@@ -250,20 +264,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Extraträning, Fäladshallen BLördag 3/10 har vi fått en extra träningstid i Fäladshallen B, kl 10-11. Vi tänker att vi delar upp oss i lag och spelar många korta matcher. Svara på kallelsen så att vi kan göra lagindelning i förväg."
-  },
-  {
-    "date": "lör 03",
-    "month": "Oktober",
-    "startTime": "11:00",
-    "endTime": "12:30",
-    "team": "HERRAR A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "lör 03",
@@ -408,20 +408,6 @@
   {
     "date": "lör 03",
     "month": "Oktober",
-    "startTime": "15:30",
-    "endTime": "18:00",
-    "team": "F15",
-    "location": "Tyresö",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "USM F16 steg 1 - 3/10 - 4/10",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "USM F16 steg 1 - 3/10 - 4/10, TyresöVi ska till Tyresö för spel i USM F16 steg 1, 34 oktober. Alla som vill är varmt välkomna att följa med och vi hoppas vi blir ett stort gäng, men ingen speltid kan garanteras. Första matchen spelas på lördag 15:30 så vi tänker oss resa upp på lördag. Det kommer då bli en övernattning och förmodligen kommer vi bo i stugor på First Camp Älta drygt 15 minuter med bil från hallen.\nTotalkostnaden per person kommer bland annat bero på vilka transportmedel vi behöver använda och vi ber er därför gärna att använda samåkningsfunktionen i SportAdmin för att på denna kallelse ange om ni behöver skjuts eller kan erbjuda skjuts i er bil. Målet är att vi kan ta oss upp i egna bilar.\nFöljande kostnader är de vi vet på förhand:\n- Anmälningsavgift per person: 500kr\n- Boendekostnad per person: ca. 500kr\n- Matlådor i hallen lördag &amp; söndag: 200kr\nSvara gärna så fort som möjligt så vi vet hur vi kan ta oss upp och hur många sängplatser vi behöver boka."
-  },
-  {
-    "date": "lör 03",
-    "month": "Oktober",
     "startTime": "15:45",
     "endTime": "",
     "team": "P11",
@@ -478,11 +464,25 @@
   {
     "date": "sön 04",
     "month": "Oktober",
+    "startTime": "08:00",
+    "endTime": "18:00",
+    "team": "F15",
+    "location": "Tyresö",
+    "type": "Träning",
+    "title": "",
+    "opponent": "USM F16 steg 1 - 3/10 - 4/10",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "sön 04",
+    "month": "Oktober",
     "startTime": "10:15",
     "endTime": "",
     "team": "F10",
     "location": "Henriksdalshallen (Flickor - F10 Syd)",
-    "type": "Träning",
+    "type": "Match",
     "title": "",
     "opponent": "Lugi HF 1",
     "homeAway": "borta",
@@ -1412,20 +1412,6 @@
     "homeAway": "borta",
     "meetingTime": "09:45",
     "info": "Mörrums GOIS HK borta, Norrevångskolan (Flickor - F15 Syd)"
-  },
-  {
-    "date": "lör 10",
-    "month": "Oktober",
-    "startTime": "11:00",
-    "endTime": "12:30",
-    "team": "HERRAR A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "lör 10",
@@ -2392,20 +2378,6 @@
     "homeAway": "hemma",
     "meetingTime": "09:55",
     "info": "HK Ankaret 2 hemma, Bollhuset A (Flickor - F12 Syd)"
-  },
-  {
-    "date": "lör 17",
-    "month": "Oktober",
-    "startTime": "11:00",
-    "endTime": "12:30",
-    "team": "HERRAR A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "lör 17",
