@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-05T13:01:40.356Z",
+  "scrapedAt": "2026-10-05T23:28:42.002Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 531,
   "hasMatches": true,
@@ -147,18 +147,6 @@
       "away": "HK Aranäs",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26311_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F15",
-      "hall": "Bollhuset A",
-      "time": "14:00",
-      "date": "lör 10",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF",
-      "away": "Tollarps IF 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26414_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3675,6 +3663,18 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F15",
+      "hall": "Bollhuset A",
+      "time": "19:15",
+      "date": "mån 01",
+      "month": "FEBRUARI 2027",
+      "home": "H43 Lund HF",
+      "away": "Tollarps IF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26414_1006_S.webp",
       "status": "upcoming"
     },
     {
