@@ -1383,7 +1383,7 @@
     "opponent": "Stavsten HK U",
     "homeAway": "borta",
     "meetingTime": "",
-    "info": "Stavsten HK U borta, Söderslättshallen B ()11:00 Vinslövs HK - H43 Lund HF 3\n12:00 Stavsten HK U - H43 Lund HF 3\nKom i tid till samlingen, ombytt och redo för match. \nVi vill ha svar på kallelsen senast 1 vecka före match. Inget svar tolkar vi som att ni inte kan spela."
+    "info": "Stavsten HK U borta, Söderslättshallen B ()11:00 Vinslövs HK - H43 Lund HF 3\n12:00 Stavsten HK U - H43 Lund HF 3\nKom i tid till samlingen, ombytt och redo för match. \nVi vill ha svar på kallelsen senast 1 vecka före match."
   },
   {
     "date": "lör 10",
@@ -1467,7 +1467,7 @@
     "opponent": "Staffanstorp HK",
     "homeAway": "hemma",
     "meetingTime": "",
-    "info": "Staffanstorp HK hemma, Vipeholmshallen ()Seriesammandrag med totalt tre matcher på hemmaplan. Kiosk uppskattas, och kan ge bra bidrag till lagkassan. Ni föräldrar ansvarar för att ordna kiosk. Det behövs även matchvärd och föräldrar till sekretariatet. Skriv en kommentar om ni kan hjälpa till med det. \n12:30 H43 Lund HF 3 - Staffanstorp HK 1\n13:50 Staffanstorp HK 1 - Åhus HB 3\n15:10 H43 Lund HF 3 - Åhus HB 3\nKom i tid till samlingen, ombytt och redo för match. \nVi vill ha svar på kallelsen senast en vecka före match. Inget svar tolkar vi som att ni inte kan spela."
+    "info": "Staffanstorp HK hemma, Vipeholmshallen ()Seriesammandrag med totalt tre matcher på hemmaplan. Kiosk uppskattas, och kan ge bra bidrag till lagkassan. Det behövs även matchvärd och föräldrar till sekretariatet. Skriv en kommentar om ni kan hjälpa till med det. \n12:30 H43 Lund HF 3 - Staffanstorp HK 1\n13:50 Staffanstorp HK 1 - Åhus HB 3\n15:10 H43 Lund HF 3 - Åhus HB 3\nKom i tid till samlingen, ombytt och redo för match. \nVi vill ha svar på kallelsen senast en vecka före match."
   },
   {
     "date": "lör 10",
@@ -1524,20 +1524,6 @@
     "homeAway": "hemma",
     "meetingTime": "12:15",
     "info": "HK Aranäs hemma, Sparbanken Skåne Arena A (Herrar - Herrallsvenskan)"
-  },
-  {
-    "date": "lör 10",
-    "month": "Oktober",
-    "startTime": "14:00",
-    "endTime": "",
-    "team": "F15",
-    "location": "Bollhuset A (Flickor - F15 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Tollarps IF 1",
-    "homeAway": "hemma",
-    "meetingTime": "13:00",
-    "info": "Tollarps IF 1 hemma, Bollhuset A (Flickor - F15 Syd)"
   },
   {
     "date": "lör 10",
@@ -2461,7 +2447,7 @@
     "opponent": "HK Malmö 2",
     "homeAway": "borta",
     "meetingTime": "",
-    "info": "HK Malmö 2 borta, Videdals sporthall ()12:30 Höörs H65 3 - H43 Lund HF 2\n14:00 HK Malmö 2 - H43 Lund HF 2\nKom i tid till samlingen, ombytt och redo för match. \nVi vill ha svar på kallelsen en vecka före match. Inget svar tolkar vi som att ni inte kan spela."
+    "info": "HK Malmö 2 borta, Videdals sporthall ()12:30 Höörs H65 3 - H43 Lund HF 2\n14:00 HK Malmö 2 - H43 Lund HF 2\nKom i tid till samlingen, ombytt och redo för match. \nVi vill ha svar på kallelsen senast en vecka före match."
   },
   {
     "date": "lör 17",
@@ -2615,7 +2601,7 @@
     "opponent": "HK Malmö",
     "homeAway": "borta",
     "meetingTime": "",
-    "info": "HK Malmö borta, Söderkulla sporthall ()Sammandrag med minihandboll i Malmö. Tiden är preliminär, vi återkommer med samlingstid och spelschema när det närmar sig."
+    "info": "HK Malmö borta, Söderkulla sporthall ()Sammandrag med minihandboll i Malmö där vi har har anmält ett lag. Tiden är preliminär, vi återkommer med spelschema när vi har fått det."
   },
   {
     "date": "sön 18",
@@ -2699,7 +2685,7 @@
     "opponent": "Lödde Vikings HK",
     "homeAway": "borta",
     "meetingTime": "",
-    "info": "Lödde Vikings HK borta, Tolvåkers Idrottshall B ()15:20 OV Helsingborg HK 1 - H43 Lund HF 1\n16:40 Lödde Vikings HK Röd - H43 Lund HF 1\nKom i tid till samlingen, ombytt och redo för match. \nVi vill ha svar på kallelsen en vecka före match. Inget svar tolkar vi som att ni inte kan spela."
+    "info": "Lödde Vikings HK borta, Tolvåkers Idrottshall B ()15:20 OV Helsingborg HK 1 - H43 Lund HF 1\n16:40 Lödde Vikings HK Röd - H43 Lund HF 1\nKom i tid till samlingen, ombytt och redo för match. \nVi vill ha svar på kallelsen senast en vecka före match."
   },
   {
     "date": "sön 18",
