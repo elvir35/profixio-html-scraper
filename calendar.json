@@ -1523,13 +1523,13 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träningsläger med övernattning , Tornhallen, StångbyHej!\nVi har lyckats hitta en enda helg i höst som vi kan få ihop ett träningsläger med övernattning men det är kort om framförhållning tills dess.\nPlanen är att vi ses på eftermiddagen och tränar i Tornhallen. Om möjligt kör vi träningsmatch mot annat lag.\nSedan övernattar vi i kafeterian.\nMorgonen efter ska vi ha vår städaktivitet kl 10 så vi får åka direkt dit efter frukosten.\nTidsplan:\n1415 match\n1500 Mellis\n1530 Kraft och Energi pass\n1630 paus\n1650 träning\n1745 tävlingar\n1900 Mat och taktikgenomgång, med video och analys\nNu är frågan, hur många kan vara med? Svara senast lördag kväll så vi kan gå vidare med bokningarna"
+    "info": "Träningsläger med övernattning , Tornhallen, Stångby!\nMorgonen efter ska vi ha vår städaktivitet kl 10 så vi får åka direkt dit efter frukosten.\nTidsplan:\n1415 Match mot Lugi \n1500 Mellis\n1530 Träningspass med gästtränare från Lugis en tränare i damjuniorerna, tidigare även herrjuniorerna.\n1630 paus\n1650 Kraft och Energi pass\n1745 Tävlingar\n1900 Mat och taktikgenomgång, med video och analys"
   },
   {
     "date": "lör 10",
     "month": "Oktober",
     "startTime": "14:00",
-    "endTime": "15:30",
+    "endTime": "15:45",
     "team": "P12",
     "location": "Arenan",
     "type": "Övrigt",
@@ -1537,7 +1537,7 @@
     "opponent": "Heja på A-laget",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Heja på A-laget, ArenanHej,\nH43 Lund möte HK Aranäs i herrallsvenskan, avkast kl. 14.00 på lördag i Arenan. Vi vet att denna match för en del av er delvis krockar med eget matchspel. Men alla andra, klä er i blått och kom och heja fram di blåe och titta på bra handboll! \nMvh/ Tränarna"
+    "info": "Heja på A-laget, ArenanHej,\nH43 Lund möter HK Aranäs i herrallsvenskan i Arenan på lördag, avkast kl. 14.00. Vi vet att denna match för en del av er delvis krockar med eget matchspel. Men alla andra, klä er i blått och kom och heja fram di blåe och titta på bra handboll! \nMvh/ Tränarna"
   },
   {
     "date": "lör 10",
@@ -1676,8 +1676,8 @@
     "title": "",
     "opponent": "HK Ankaret",
     "homeAway": "borta",
-    "meetingTime": "13:00",
-    "info": "HK Ankaret borta, Borgebyhallen (Damer - Dam 3 Syd)"
+    "meetingTime": "12:30",
+    "info": "HK Ankaret borta, Borgebyhallen (Damer - Dam 3 Syd)Bortamatch mot HK Ankaret!\nDe är obesegrade så här långt men det ska vi såklart ändra på.\nSamling Arena Park söndag kl. 12.30. Blått matchställ.\nBilar behövs, ange i ert svar om ni har möjlighet att köra till Borgeby.\n/ JB"
   },
   {
     "date": "sön 11",
