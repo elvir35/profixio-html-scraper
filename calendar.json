@@ -1528,6 +1528,20 @@
   {
     "date": "lör 10",
     "month": "Oktober",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "team": "P12",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Heja på A-laget",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Heja på A-laget, ArenanHej,\nH43 Lund möte HK Aranäs i herrallsvenskan, avkast kl. 14.00 på lördag i Arenan. Vi vet att denna match för en del av er delvis krockar med eget matchspel. Men alla andra, klä er i blått och kom och heja fram di blåe och titta på bra handboll! \nMvh/ Tränarna"
+  },
+  {
+    "date": "lör 10",
+    "month": "Oktober",
     "startTime": "14:30",
     "endTime": "",
     "team": "P19",
@@ -2503,7 +2517,7 @@
     "opponent": "Kiosk och golvtorkare",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Kiosk och golvtorkare, Idrottshallen"
+    "info": "Kiosk och golvtorkare, Idrottshallendamerna mot KFUM Kalmar \nAvkast 17:00.\nIdrottshallen.\nSamling i kiosken 1,5 timme innan avkast\n Behov av minst 5 personer som bemannar kiosken\n Minst 2 personer som bemannar grillen\n Behov av extra personer som kan stötta i inträdet samt hålla hallen \nsnygg under matchens gång.\n Förbered inför match och försäljning\n Återställ kiosken efter matchens slut\n Städa läktaren efter matchens slut\n Till er hjälp finns föreningens volontärer på plats"
   },
   {
     "date": "lör 17",
@@ -2642,7 +2656,7 @@
     "title": "",
     "opponent": "OV Helsingborg HK 3",
     "homeAway": "borta",
-    "meetingTime": "13:00",
+    "meetingTime": "13:15",
     "info": "OV Helsingborg HK 3 borta, Tolvåkers Idrottshall A (Pojkar - P11 Syd)"
   },
   {
@@ -4254,20 +4268,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
-  },
-  {
-    "date": "fre 30",
-    "month": "Oktober",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "P11",
-    "location": "Vipeholmshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "fre 30",
