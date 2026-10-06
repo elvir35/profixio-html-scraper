@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-05T23:28:42.002Z",
+  "scrapedAt": "2026-10-06T03:52:01.385Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 531,
   "hasMatches": true,
@@ -650,7 +650,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1358,7 +1358,7 @@
       "home": "H43 Lund HF 2",
       "away": "HF Syd",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1646,7 +1646,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2190,6 +2190,18 @@
       "status": "upcoming"
     },
     {
+      "team": "HERRAR A",
+      "hall": "Agnebergshallen",
+      "time": "19:30",
+      "date": "fre 11",
+      "month": "DECEMBER 2026",
+      "home": "GF Kroppskultur",
+      "away": "H43 Lund HF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26111_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F19 / Damer J",
       "hall": "Sparbanken Skåne Arena B",
       "time": "19:30",
@@ -2235,18 +2247,6 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26050_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "HERRAR A",
-      "hall": "Agnebergshallen",
-      "time": "14:00",
-      "date": "lör 12",
-      "month": "DECEMBER 2026",
-      "home": "GF Kroppskultur",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26111_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2870,7 +2870,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
