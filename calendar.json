@@ -996,20 +996,6 @@
   {
     "date": "ons 07",
     "month": "Oktober",
-    "startTime": "18:15",
-    "endTime": "20:30",
-    "team": "F19 / Damer J",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
-  },
-  {
-    "date": "ons 07",
-    "month": "Oktober",
     "startTime": "19:00",
     "endTime": "21:00",
     "team": "F15",
@@ -1028,12 +1014,12 @@
     "endTime": "20:30",
     "team": "P15",
     "location": "Bollhuset A",
-    "type": "Träning",
+    "type": "Övrigt",
     "title": "",
-    "opponent": "",
+    "opponent": "Övrigt",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning, Bollhuset AIngen förhandsanmälan behövs.\nTa med träningskläder, skor och vattenflaska."
+    "info": "Övrigt, Bollhuset ATittar på match"
   },
   {
     "date": "ons 07",
@@ -1537,7 +1523,7 @@
     "opponent": "Heja på A-laget",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Heja på A-laget, ArenanHej,\nH43 Lund möter HK Aranäs i herrallsvenskan i Arenan på lördag, avkast kl. 14.00. Vi vet att denna match för en del av er delvis krockar med eget matchspel. Men alla andra, klä er i blått och kom och heja fram di blåe och titta på bra handboll! \nMvh/ Tränarna"
+    "info": "Heja på A-laget, ArenanHej,\nH43 Lund möter HK Aranäs i herrallsvenskan i Arenan på lördag, avkast kl. 14.00. Vi vet att denna match för en del av er delvis krockar med eget matchspel. Men alla andra, klä er i blått och kom och heja fram di blåe och titta på bra handboll! \nSpelare och ledare har som vanligt fri entré mot uppvisande av medlemskort (som finns i SportAdmin-appen)\nMvh/ Tränarna"
   },
   {
     "date": "lör 10",
@@ -1615,13 +1601,13 @@
     "startTime": "10:00",
     "endTime": "14:00",
     "team": "P11",
-    "location": "Återkommer om plats",
+    "location": "Klostergården",
     "type": "Träning",
     "title": "",
     "opponent": "Städaktivitet",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Städaktivitet, Återkommer om platsLagaktivitet där vi kommer städa på utsatt ställe. Vi behöver vara mellan 15-20 personer totalt. Laget kommer få pengar för att vi gör detta. \nVi åker från övernattningen till vår städning."
+    "info": "Städaktivitet, Klostergården Lagaktivitet där vi kommer städa på utsatt ställe. Vi behöver vara mellan 15-20 personer totalt. Laget kommer få pengar för att vi gör detta. \nVi åker från övernattningen till vår städning."
   },
   {
     "date": "sön 11",
@@ -2559,7 +2545,7 @@
     "opponent": "Lugi HF 3",
     "homeAway": "borta",
     "meetingTime": "09:15",
-    "info": "Lugi HF 3 borta, Bollhuset A (Pojkar - P12 Syd Nivå 2)"
+    "info": "Lugi HF 3 borta, Bollhuset A (Pojkar - P12 Syd Nivå 2)Hej, \nSeriematch: \nAvkast kl. 10.00: Lugi-H43 Lund (Lugi är arrangör)\n \nSamling i Bollhuset kl. 09.15. Kom matchklädd, ta med boll. \n \nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack! \n \nMVH/ Tränarna"
   },
   {
     "date": "sön 18",
@@ -2628,8 +2614,8 @@
     "title": "",
     "opponent": "HF Karlskrona Gul",
     "homeAway": "borta",
-    "meetingTime": "13:05",
-    "info": "HF Karlskrona Gul borta, Brinova Arena Karlskrona, A-Hallen A2 (Pojkar - P12 Syd Nivå 1)"
+    "meetingTime": "13:00",
+    "info": "HF Karlskrona Gul borta, Brinova Arena Karlskrona, A-Hallen A2 (Pojkar - P12 Syd Nivå 1)Hej, \nSeriematch: \nAvkast kl. 13.50: HF Karlskrona-H43 Lund \n \nSamling i Brinova Arena, Karlskrona kl. 13.00. Kom matchklädd, ta med boll. \n \nVi uppmanar till samåkning till denna match!\nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack! \n \nMVH/ Tränarna"
   },
   {
     "date": "sön 18",
