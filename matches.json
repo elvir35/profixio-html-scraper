@@ -1,34 +1,10 @@
 {
-  "scrapedAt": "2026-10-07T12:18:43.053Z",
+  "scrapedAt": "2026-10-07T22:26:03.894Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 529,
+  "matchCount": 530,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "P15",
-      "hall": "Bollhuset A",
-      "time": "19:20",
-      "date": "ons 07",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF 2",
-      "away": "Vinslövs HK",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F19 / Damer J",
-      "hall": "Borgebyhallen",
-      "time": "20:40",
-      "date": "ons 07",
-      "month": "OKTOBER 2026",
-      "home": "HK Ankaret",
-      "away": "H43 Lund HF 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P12",
       "hall": "Bollhuset A",
@@ -110,7 +86,7 @@
       "home": "H43 Lund",
       "away": "Staffanstorp HK",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -638,7 +614,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -855,6 +831,18 @@
       "away": "HK Halmstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P8",
+      "hall": "Östratornhallen",
+      "time": "12:45",
+      "date": "lör 07",
+      "month": "NOVEMBER 2026",
+      "home": "Lugi, Staffanstorp mfl",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1274,7 +1262,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1346,7 +1334,7 @@
       "home": "H43 Lund HF 2",
       "away": "HF Syd",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1634,7 +1622,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2318,7 +2306,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2858,7 +2846,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -5476,6 +5464,30 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F19 / Damer J",
+      "hall": "Borgebyhallen",
+      "time": "20:40",
+      "date": "ons 07",
+      "month": "OKTOBER 2026",
+      "home": "HK Ankaret",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P15",
+      "hall": "Bollhuset A",
+      "time": "19:20",
+      "date": "ons 07",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "Vinslövs HK",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P12",
