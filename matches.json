@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-10-07T03:19:58.664Z",
+  "scrapedAt": "2026-10-07T12:18:43.053Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 531,
+  "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -315,18 +315,6 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P19",
-      "hall": "Kalmar SH E",
-      "time": "13:30",
-      "date": "lör 17",
-      "month": "OKTOBER 2026",
-      "home": "KFUM Kalmar HK",
-      "away": "H43 Lund HF 3",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3507,18 +3495,6 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P19",
-      "hall": "Bollhuset A",
-      "time": "13:50",
-      "date": "lör 30",
-      "month": "JANUARI 2027",
-      "home": "H43 Lund HF 3",
-      "away": "KFUM Kalmar HK",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
       "status": "upcoming"
     },
     {
