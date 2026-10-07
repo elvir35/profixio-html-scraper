@@ -2480,20 +2480,6 @@
   {
     "date": "lör 17",
     "month": "Oktober",
-    "startTime": "13:30",
-    "endTime": "",
-    "team": "P19",
-    "location": "Kalmar SH E (Pojkar - P19 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "KFUM Kalmar HK",
-    "homeAway": "borta",
-    "meetingTime": "12:15",
-    "info": "KFUM Kalmar HK borta, Kalmar SH E (Pojkar - P19 Syd)"
-  },
-  {
-    "date": "lör 17",
-    "month": "Oktober",
     "startTime": "14:30",
     "endTime": "",
     "team": "F19 / Damer J",
