@@ -1585,20 +1585,6 @@
     "date": "sön 11",
     "month": "Oktober",
     "startTime": "10:00",
-    "endTime": "",
-    "team": "P10",
-    "location": "Sjövisskolan",
-    "type": "Match",
-    "title": "",
-    "opponent": "Tollarp + Stavsten",
-    "homeAway": "hemma",
-    "meetingTime": "09:20",
-    "info": "Tollarp + Stavsten hemma, Sjövisskolan, Trelleborg ()Samling 09.20. Medtag matchtröja, shorts, vattenflaska och skor.\nTvå matcher, 10.00+13.00\nViktigt att svara på kallelsen."
-  },
-  {
-    "date": "sön 11",
-    "month": "Oktober",
-    "startTime": "10:00",
     "endTime": "14:00",
     "team": "P11",
     "location": "Klostergården",
@@ -1608,6 +1594,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Städaktivitet, Klostergården Lagaktivitet där vi kommer städa på utsatt ställe. Vi behöver vara mellan 15-20 personer totalt. Laget kommer få pengar för att vi gör detta. \nVi åker från övernattningen till vår städning."
+  },
+  {
+    "date": "sön 11",
+    "month": "Oktober",
+    "startTime": "11:00",
+    "endTime": "",
+    "team": "P10",
+    "location": "Sjövisskolan",
+    "type": "Match",
+    "title": "",
+    "opponent": "Tollarp + Stavsten",
+    "homeAway": "hemma",
+    "meetingTime": "10:50",
+    "info": "Tollarp + Stavsten hemma, Sjövisskolan, Trelleborg ()Samling 09.20. Medtag matchtröja, shorts, vattenflaska och skor.\nTvå matcher, 11.30+13.00\nViktigt att svara på kallelsen."
   },
   {
     "date": "sön 11",
@@ -2536,6 +2536,20 @@
   {
     "date": "sön 18",
     "month": "Oktober",
+    "startTime": "09:30",
+    "endTime": "",
+    "team": "P9",
+    "location": "Söderkulla sporthall  ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "HK Malmö",
+    "homeAway": "borta",
+    "meetingTime": "09:00",
+    "info": "HK Malmö borta, Söderkulla sporthall ()Sammandrag med minihandboll i Malmö där vi har har anmält ett lag. Spelschema:\nKl 10.00 HK Malmö svart - H43, plan 1\nKl 11.30 H43 - Lugi 2, plan 2\nKl 12.00 HK Malmö vit - H43, plan 2"
+  },
+  {
+    "date": "sön 18",
+    "month": "Oktober",
     "startTime": "10:00",
     "endTime": "",
     "team": "P12",
@@ -2546,20 +2560,6 @@
     "homeAway": "borta",
     "meetingTime": "09:15",
     "info": "Lugi HF 3 borta, Bollhuset A (Pojkar - P12 Syd Nivå 2)Hej, \nSeriematch: \nAvkast kl. 10.00: Lugi-H43 Lund (Lugi är arrangör)\n \nSamling i Bollhuset kl. 09.15. Kom matchklädd, ta med boll. \n \nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack! \n \nMVH/ Tränarna"
-  },
-  {
-    "date": "sön 18",
-    "month": "Oktober",
-    "startTime": "10:00",
-    "endTime": "",
-    "team": "P9",
-    "location": "Söderkulla sporthall  ()",
-    "type": "Match",
-    "title": "",
-    "opponent": "HK Malmö",
-    "homeAway": "borta",
-    "meetingTime": "",
-    "info": "HK Malmö borta, Söderkulla sporthall ()Sammandrag med minihandboll i Malmö där vi har har anmält ett lag. Tiden är preliminär, vi återkommer med spelschema när vi har fått det."
   },
   {
     "date": "sön 18",
