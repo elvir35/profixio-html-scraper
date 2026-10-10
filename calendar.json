@@ -2494,6 +2494,20 @@
   {
     "date": "lör 17",
     "month": "Oktober",
+    "startTime": "16:00",
+    "endTime": "23:59",
+    "team": "F14",
+    "location": "Staffanshallen",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "USM - steg 1 (BÅDE 17:e och 18:e)",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "USM - steg 1 (BÅDE 17:e och 18:e), Staffanshallen, StaffanstorpÄntligen dags för USM Steg 1. Vi spelar i Staffanshallen i Staffanstorp enligt tiderna nedan och samlas kl 16:00 på lördagen och 09:00 på söndagen. \nIstället för att ställa över spelare är hela truppen kallad. Dock har vi pratat med tjejerna om att alla inte kommer att spela alla matcher, utan några spelare kommer att stå över varje match. För lagsammanhållningen har vi dock valt att alla är med, ombytta och på bänken. \nUSM är, som många vet, speciellt och en stor upplevelse och vi hoppas på ordentligt med stöd även från er på läktaren. \nVamos!\nLördag ()\nVarberg - H43, 17:30\nSöndag (samling 09:00)\nH43 - Hässleholm, 10:15\nStaffanstorp - H43, 14:00"
+  },
+  {
+    "date": "lör 17",
+    "month": "Oktober",
     "startTime": "16:30",
     "endTime": "",
     "team": "HERRAR A",
@@ -2544,7 +2558,7 @@
     "title": "",
     "opponent": "HK Malmö",
     "homeAway": "borta",
-    "meetingTime": "09:00",
+    "meetingTime": "",
     "info": "HK Malmö borta, Söderkulla sporthall ()Sammandrag med minihandboll i Malmö där vi har har anmält ett lag. Spelschema:\nKl 10.00 HK Malmö svart - H43, plan 1\nKl 11.30 H43 - Lugi 2, plan 2\nKl 12.00 HK Malmö vit - H43, plan 2"
   },
   {
