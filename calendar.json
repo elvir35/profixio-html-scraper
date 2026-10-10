@@ -1607,7 +1607,7 @@
     "opponent": "Tollarp + Stavsten",
     "homeAway": "hemma",
     "meetingTime": "10:50",
-    "info": "Tollarp + Stavsten hemma, Sjövisskolan, Trelleborg ()Samling 09.20. Medtag matchtröja, shorts, vattenflaska och skor.\nTvå matcher, 11.30+13.00\nViktigt att svara på kallelsen."
+    "info": "Tollarp + Stavsten hemma, Sjövisskolan, Trelleborg ()Samling 10.50. Medtag matchtröja, shorts, vattenflaska och skor.\nTvå matcher, 11.30+13.00\nViktigt att svara på kallelsen."
   },
   {
     "date": "sön 11",
@@ -1850,6 +1850,20 @@
   {
     "date": "tis 13",
     "month": "Oktober",
+    "startTime": "16:00",
+    "endTime": "19:30",
+    "team": "F19 / Damer J",
+    "location": "Nordic",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Gemensamt gym - ange vilken tid ni är där",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 13",
+    "month": "Oktober",
     "startTime": "17:00",
     "endTime": "18:30",
     "team": "F9",
@@ -1902,20 +1916,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tornhallen, Stångby"
-  },
-  {
-    "date": "tis 13",
-    "month": "Oktober",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "team": "F19 / Damer J",
-    "location": "Nordic",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Gemensamt gym",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tis 13",
@@ -2882,20 +2882,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "tis 20",
-    "month": "Oktober",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "team": "F12",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Tornhallen, Stångby"
   },
   {
     "date": "tis 20",
