@@ -1593,7 +1593,7 @@
     "opponent": "Städaktivitet",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Städaktivitet, Klostergården Lagaktivitet där vi kommer städa på utsatt ställe. Vi behöver vara mellan 15-20 personer totalt. Laget kommer få pengar för att vi gör detta. \nVi åker från övernattningen till vår städning."
+    "info": "Städaktivitet, Klostergården Samling här: https://maps.app.goo.gl/GbLVJL5thR3L5CBG8\nLagaktivitet där vi kommer städa på utsatt ställe. Vi behöver vara mellan 15-20 personer totalt. Laget kommer få pengar för att vi gör detta. \nVi åker från övernattningen till vår städning."
   },
   {
     "date": "sön 11",
@@ -3554,6 +3554,20 @@
     "homeAway": "hemma",
     "meetingTime": "13:30",
     "info": "Stavsten HK U hemma, Tunahallen-Handboll (Flickor - F19 Syd)"
+  },
+  {
+    "date": "lör 24",
+    "month": "Oktober",
+    "startTime": "16:00",
+    "endTime": "",
+    "team": "P19",
+    "location": "Prästängshallen (Pojkar - P19 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Eksjö BK",
+    "homeAway": "borta",
+    "meetingTime": "14:45",
+    "info": "Eksjö BK borta, Prästängshallen (Pojkar - P19 Syd)"
   },
   {
     "date": "lör 24",
