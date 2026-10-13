@@ -2230,20 +2230,6 @@
     "month": "Oktober",
     "startTime": "17:00",
     "endTime": "18:30",
-    "team": "F15",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
-  },
-  {
-    "date": "fre 16",
-    "month": "Oktober",
-    "startTime": "17:00",
-    "endTime": "18:30",
     "team": "P11",
     "location": "Vipeholmshallen",
     "type": "Träning",
@@ -2732,20 +2718,6 @@
   {
     "date": "mån 19",
     "month": "Oktober",
-    "startTime": "18:30",
-    "endTime": "20:30",
-    "team": "F15",
-    "location": "Bollhuset",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Bollhuset 18:30 - 19:00: Löpning\n19:00 - 20:30: Hallträning"
-  },
-  {
-    "date": "mån 19",
-    "month": "Oktober",
     "startTime": "19:00",
     "endTime": "20:30",
     "team": "HERRAR A",
@@ -3036,20 +3008,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Arenan AHall 17.30 - Löpning 19.00"
-  },
-  {
-    "date": "ons 21",
-    "month": "Oktober",
-    "startTime": "17:30",
-    "endTime": "19:15",
-    "team": "F14",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Tornhallen, StångbyLöpning ute 17:30 - 17:55\nTräning inne 18:00 - 19:15\nLöpnningen är INTE frivillig utan alla förväntas delta. Skulle vädret vara emot oss så meddelar vi detta i så god tid som möjligt."
   },
   {
     "date": "ons 21",
@@ -3483,7 +3441,7 @@
     "opponent": "Lugi HF 1",
     "homeAway": "hemma",
     "meetingTime": "11:45",
-    "info": "Lugi HF 1 hemma, Vipeholmshallen (Pojkar - P12 Syd Nivå 1)Seriematch. Ber er svara så snabbt som möjligt på denna kallelse eftersom det är helgen innan höstlovet, det underlättar för om vi i ett tidigt skede vet vilka som inte kan.\nVi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk.\nAvkast kl. 12.30: H43 Lund-Lugi\nSamling i Vipeholmshallen kl. 11.45. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
+    "info": "Lugi HF 1 hemma, Vipeholmshallen (Pojkar - P12 Syd Nivå 1)Seriematch. Ber er svara så snabbt som möjligt på denna kallelse eftersom det är helgen innan höstlovet, det underlättar för oss om vi i ett tidigt skede vet vilka som inte kan.\nVi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk.\nAvkast kl. 12.30: H43 Lund-Lugi\nSamling i Vipeholmshallen kl. 11.45. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast nu på lördag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "lör 24",
