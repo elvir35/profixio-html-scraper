@@ -2438,20 +2438,6 @@
   {
     "date": "lör 17",
     "month": "Oktober",
-    "startTime": "12:20",
-    "endTime": "",
-    "team": "F15",
-    "location": "Bollhuset A (Flickor - F16 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Lugi HF 1 F15",
-    "homeAway": "hemma",
-    "meetingTime": "11:20",
-    "info": "Lugi HF 1 F15 hemma, Bollhuset A (Flickor - F16 Syd)"
-  },
-  {
-    "date": "lör 17",
-    "month": "Oktober",
     "startTime": "13:00",
     "endTime": "",
     "team": "F19 / Damer J",
@@ -2798,6 +2784,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "mån 19",
+    "month": "Oktober",
+    "startTime": "19:10",
+    "endTime": "",
+    "team": "F15",
+    "location": "Bollhuset A (Flickor - F16 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Lugi HF 1 F15",
+    "homeAway": "hemma",
+    "meetingTime": "18:10",
+    "info": "Lugi HF 1 F15 hemma, Bollhuset A (Flickor - F16 Syd)"
   },
   {
     "date": "mån 19",
@@ -3483,7 +3483,7 @@
     "opponent": "Lugi HF 1",
     "homeAway": "hemma",
     "meetingTime": "11:45",
-    "info": "Lugi HF 1 hemma, Vipeholmshallen (Pojkar - P12 Syd Nivå 1)"
+    "info": "Lugi HF 1 hemma, Vipeholmshallen (Pojkar - P12 Syd Nivå 1)Seriematch. Ber er svara så snabbt som möjligt på denna kallelse eftersom det är helgen innan höstlovet, det underlättar för om vi i ett tidigt skede vet vilka som inte kan.\nVi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk.\nAvkast kl. 12.30: H43 Lund-Lugi\nSamling i Vipeholmshallen kl. 11.45. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "lör 24",
@@ -3539,7 +3539,7 @@
     "opponent": "OV Helsingborg",
     "homeAway": "hemma",
     "meetingTime": "13:30",
-    "info": "OV Helsingborg hemma, Vipeholmshallen ()Träningsmatch mot OV Helsingborg"
+    "info": "OV Helsingborg hemma, Vipeholmshallen ()Träningsmatch. Ber er svara så snabbt som möjligt på denna kallelse eftersom det är helgen innan höstlovet, det underlättar för om vi i ett tidigt skede vet vilka som inte kan.\nVi står som arrangörer och ansvarar därmed för sekretariat (ej Profixio eftersom denna match ligger utanför serien), matchvärd och kiosk.\nAvkast kl. 14.15: H43 Lund-OV Helsingborg\nSamling i Vipeholmshallen kl. 13.30. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "lör 24",
