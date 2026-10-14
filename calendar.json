@@ -2649,6 +2649,20 @@
     "date": "sön 18",
     "month": "Oktober",
     "startTime": "16:00",
+    "endTime": "17:30",
+    "team": "HK Blå 85",
+    "location": "Fäladshallen A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "sön 18",
+    "month": "Oktober",
+    "startTime": "16:00",
     "endTime": "",
     "team": "P15",
     "location": "Ystad Arena B (Pojkar - P15 Syd)",
@@ -3096,8 +3110,8 @@
   {
     "date": "ons 21",
     "month": "Oktober",
-    "startTime": "21:00",
-    "endTime": "22:30",
+    "startTime": "20:45",
+    "endTime": "22:15",
     "team": "HK Blå 85",
     "location": "Heddahallen",
     "type": "Träning",
@@ -3105,7 +3119,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Heddahallen"
   },
   {
     "date": "tor 22",
@@ -3497,7 +3511,7 @@
     "opponent": "OV Helsingborg",
     "homeAway": "hemma",
     "meetingTime": "13:30",
-    "info": "OV Helsingborg hemma, Vipeholmshallen ()Träningsmatch. Ber er svara så snabbt som möjligt på denna kallelse eftersom det är helgen innan höstlovet, det underlättar för om vi i ett tidigt skede vet vilka som inte kan.\nVi står som arrangörer och ansvarar därmed för sekretariat (ej Profixio eftersom denna match ligger utanför serien), matchvärd och kiosk.\nAvkast kl. 14.15: H43 Lund-OV Helsingborg\nSamling i Vipeholmshallen kl. 13.30. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
+    "info": "OV Helsingborg hemma, Vipeholmshallen ()Match. Ber er svara så snabbt som möjligt på denna kallelse eftersom det är helgen innan höstlovet, det underlättar för oss om vi i ett tidigt skede vet vilka som inte kan.\nVi står som arrangörer och ansvarar därmed för sekretariat (ej Profixio eftersom denna match ligger utanför serien), matchvärd och kiosk.\nAvkast kl. 14.15: H43 Lund-OV Helsingborg\nSamling i Vipeholmshallen kl. 13.30. Kom matchklädd, ta med boll. Vänligen svara på kallelsen så fort som möjligt, senast nu på lördag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "lör 24",
@@ -4020,8 +4034,8 @@
   {
     "date": "ons 28",
     "month": "Oktober",
-    "startTime": "21:00",
-    "endTime": "22:30",
+    "startTime": "20:45",
+    "endTime": "22:15",
     "team": "HK Blå 85",
     "location": "Heddahallen",
     "type": "Träning",
@@ -4029,7 +4043,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Heddahallen"
   },
   {
     "date": "tor 29",
