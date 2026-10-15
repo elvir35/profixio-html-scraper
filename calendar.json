@@ -2502,7 +2502,7 @@
     "title": "",
     "opponent": "KFUM Kalmar HK",
     "homeAway": "hemma",
-    "meetingTime": "15:30",
+    "meetingTime": "15:15",
     "info": "KFUM Kalmar HK hemma, Lunds Idrottshall (Damer - Dam 2 Syd)"
   },
   {
@@ -3181,20 +3181,6 @@
     "date": "tor 22",
     "month": "Oktober",
     "startTime": "19:00",
-    "endTime": "20:30",
-    "team": "HERRAR A",
-    "location": "Arenan B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tor 22",
-    "month": "Oktober",
-    "startTime": "19:00",
     "endTime": "21:00",
     "team": "P19",
     "location": "Heddahallen",
@@ -3393,7 +3379,7 @@
     "startTime": "11:00",
     "endTime": "12:30",
     "team": "HERRAR A",
-    "location": "Arenan A",
+    "location": "Bollhuset A",
     "type": "Träning",
     "title": "",
     "opponent": "",
@@ -4044,20 +4030,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Heddahallen"
-  },
-  {
-    "date": "tor 29",
-    "month": "Oktober",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "F12",
-    "location": "Victoriastadion 3",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Victoriastadion 3"
   },
   {
     "date": "tor 29",
