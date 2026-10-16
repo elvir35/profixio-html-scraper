@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-15T20:42:43.316Z",
+  "scrapedAt": "2026-10-16T02:15:48.207Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 530,
   "hasMatches": true,
@@ -63,18 +63,6 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F19 / Damer J",
-      "hall": "Tunahallen-Handboll",
-      "time": "14:30",
-      "date": "lör 17",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF 1",
-      "away": "Lugi HF 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2415,6 +2403,18 @@
       "away": "Lundaspelen 2026",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26301_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F19 / Damer J",
+      "hall": "Tunahallen-Handboll",
+      "time": "00:00",
+      "date": "tor 31",
+      "month": "DECEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Lugi HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
