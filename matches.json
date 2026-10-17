@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-10-17T09:53:45.794Z",
+  "scrapedAt": "2026-10-17T14:38:58.973Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 530,
+  "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -339,18 +339,6 @@
       "away": "OV Helsingborg",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F19 / Damer J",
-      "hall": "Tunahallen-Handboll",
-      "time": "14:30",
-      "date": "lör 24",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF 2",
-      "away": "Stavsten HK U",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "upcoming"
     },
     {
