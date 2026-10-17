@@ -2690,20 +2690,6 @@
   {
     "date": "mån 19",
     "month": "Oktober",
-    "startTime": "18:00",
-    "endTime": "20:15",
-    "team": "F19 / Damer J",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Heddahallen18:00-19:30 Hallträning\n19:30-20:15 Löpning"
-  },
-  {
-    "date": "mån 19",
-    "month": "Oktober",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "F14",
@@ -3484,20 +3470,6 @@
     "homeAway": "hemma",
     "meetingTime": "13:30",
     "info": "OV Helsingborg hemma, Vipeholmshallen ()Match. Ber er svara så snabbt som möjligt på denna kallelse eftersom det är helgen innan höstlovet, det underlättar för oss om vi i ett tidigt skede vet vilka som inte kan.\nVi står som arrangörer och ansvarar därmed för sekretariat (ej Profixio eftersom denna match ligger utanför serien), matchvärd och kiosk.\nAvkast kl. 14.15: H43 Lund-OV Helsingborg\nSamling i Vipeholmshallen kl. 13.30. Kom matchklädd, ta med boll. Vänligen svara på kallelsen så fort som möjligt, senast nu på lördag, tack!\nMVH/ Tränarna"
-  },
-  {
-    "date": "lör 24",
-    "month": "Oktober",
-    "startTime": "14:30",
-    "endTime": "",
-    "team": "F19 / Damer J",
-    "location": "Tunahallen-Handboll (Flickor - F19 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Stavsten HK U",
-    "homeAway": "hemma",
-    "meetingTime": "13:30",
-    "info": "Stavsten HK U hemma, Tunahallen-Handboll (Flickor - F19 Syd)"
   },
   {
     "date": "lör 24",
