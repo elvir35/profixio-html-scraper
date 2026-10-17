@@ -3110,20 +3110,6 @@
   {
     "date": "tor 22",
     "month": "Oktober",
-    "startTime": "17:30",
-    "endTime": "19:00",
-    "team": "DAMER A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tor 22",
-    "month": "Oktober",
     "startTime": "18:00",
     "endTime": "19:00",
     "team": "P8",
@@ -4104,7 +4090,7 @@
   {
     "date": "fre 30",
     "month": "Oktober",
-    "startTime": "08:00",
+    "startTime": "10:00",
     "endTime": "00:00",
     "team": "P12",
     "location": "Skövde med omnejd",
@@ -4132,7 +4118,7 @@
   {
     "date": "fre 30",
     "month": "Oktober",
-    "startTime": "08:00",
+    "startTime": "10:00",
     "endTime": "00:00",
     "team": "P12",
     "location": "Skövde med omnejd",
@@ -4216,7 +4202,7 @@
   {
     "date": "lör 31",
     "month": "Oktober",
-    "startTime": "08:00",
+    "startTime": "10:00",
     "endTime": "00:00",
     "team": "P12",
     "location": "Skövde med omnejd",
@@ -4244,7 +4230,7 @@
   {
     "date": "lör 31",
     "month": "Oktober",
-    "startTime": "08:00",
+    "startTime": "10:00",
     "endTime": "00:00",
     "team": "P12",
     "location": "Skövde med omnejd",
