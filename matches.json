@@ -1,94 +1,10 @@
 {
-  "scrapedAt": "2026-10-17T19:51:11.086Z",
+  "scrapedAt": "2026-10-18T02:08:40.579Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F12",
-      "hall": "Bollhuset A",
-      "time": "09:00",
-      "date": "lör 17",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF 1",
-      "away": "IFK Malmö HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F12",
-      "hall": "Bollhuset A",
-      "time": "10:40",
-      "date": "lör 17",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF 2",
-      "away": "HK Ankaret 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F11",
-      "hall": "Videdals sporthall",
-      "time": "11:45",
-      "date": "lör 17",
-      "month": "OKTOBER 2026",
-      "home": "HK Malmö 2",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P15",
-      "hall": "Norrevångskolan",
-      "time": "12:00",
-      "date": "lör 17",
-      "month": "OKTOBER 2026",
-      "home": "Mörrums GOIS HK",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F19 / Damer J",
-      "hall": "Stapelbäddens IH",
-      "time": "13:00",
-      "date": "lör 17",
-      "month": "OKTOBER 2026",
-      "home": "IFK Malmö HF",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "HERRAR A",
-      "hall": "Tyresöhallen",
-      "time": "16:30",
-      "date": "lör 17",
-      "month": "OKTOBER 2026",
-      "home": "Tyresö Handboll",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26331_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "DAMER A",
-      "hall": "Lunds Idrottshall",
-      "time": "17:00",
-      "date": "lör 17",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF",
-      "away": "KFUM Kalmar HK",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F9",
       "hall": "Skurups Sparbank Arena",
@@ -386,7 +302,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2630,7 +2546,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -5248,6 +5164,90 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Lunds Idrottshall",
+      "time": "17:00",
+      "date": "lör 17",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF",
+      "away": "KFUM Kalmar HK",
+      "score": "29 - 25",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "HERRAR A",
+      "hall": "Tyresöhallen",
+      "time": "16:30",
+      "date": "lör 17",
+      "month": "OKTOBER 2026",
+      "home": "Tyresö Handboll",
+      "away": "H43 Lund HF",
+      "score": "28 - 30",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26331_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F19 / Damer J",
+      "hall": "Stapelbäddens IH",
+      "time": "13:00",
+      "date": "lör 17",
+      "month": "OKTOBER 2026",
+      "home": "IFK Malmö HF",
+      "away": "H43 Lund HF 2",
+      "score": "26 - 31",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P15",
+      "hall": "Norrevångskolan",
+      "time": "12:00",
+      "date": "lör 17",
+      "month": "OKTOBER 2026",
+      "home": "Mörrums GOIS HK",
+      "away": "H43 Lund HF 2",
+      "score": "25 - 28",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F11",
+      "hall": "Videdals sporthall",
+      "time": "11:45",
+      "date": "lör 17",
+      "month": "OKTOBER 2026",
+      "home": "HK Malmö 2",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F12",
+      "hall": "Bollhuset A",
+      "time": "10:40",
+      "date": "lör 17",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "HK Ankaret 2",
+      "score": "20 - 15",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F12",
+      "hall": "Bollhuset A",
+      "time": "09:00",
+      "date": "lör 17",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "IFK Malmö HF",
+      "score": "33 - 32",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "HK Blå 85",
