@@ -3544,6 +3544,20 @@
   {
     "date": "sön 25",
     "month": "Oktober",
+    "startTime": "16:30",
+    "endTime": "18:30",
+    "team": "F11",
+    "location": "Idrottshallen",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Titta på Allsvenskan - H43 mot IFK Tumba",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Titta på Allsvenskan - H43 mot IFK Tumba , IdrottshallenDen 25 oktober klockan 17.00 spelar H43 herrar mot IFK Tumba hemma i idrottshallen. Kom gärna dit och heja! Det är ett bra tillfälle för tjejerna att titta på bra handboll och umgås med lagkamraterna. Bra för både utveckling och gemenskap ?? \nFöräldrar är såklart också välkomna. Beroende på hur många spelare som kommer kan det behövas hjälp. Spelare går in gratis men övriga behöver köpa biljett."
+  },
+  {
+    "date": "sön 25",
+    "month": "Oktober",
     "startTime": "17:00",
     "endTime": "",
     "team": "HERRAR A",
@@ -3834,6 +3848,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "ons 28",
+    "month": "Oktober",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "team": "P10",
+    "location": "Bortamatch",
+    "type": "Träning",
+    "title": "",
+    "opponent": "INTRESSEANMÄLAN Bohus Cup i Göteborg",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "INTRESSEANMÄLAN Bohus Cup i Göteborg, BortamatchHej!\nVi tänker att killarna är redo för första övernattningscupen.\nDärmed tänkte vi anmäla lag till Bohus Cup som spelas i Göteborg 30april-2maj 2027. Vi åker med ett eller två lag beroende på intresse.\nSjälvkostnadspris: 2000 kronor \nI priset ingår:\nlogi i skolsal (man tar med egen luftmadrass)\nmåltider:\nfredag: middag\nlördag: frukost, lunch och middag\nsöndag: frukost och lunch \nTransport med lokaltrafik\nYtterligare omkostnader (t.ex. nöjen, snacks, Liseberg) tillkommer.\nAnmälningsavgiften tas från lagkassan.\nVi åker med 3-4 ledare men det är ändå viktigt att ert barn kan ta eget ansvar och klarar av att sova borta.\nVår tanke just nu är att man ordnar transport till och från Göteborg själv (vi tänker och tror att det är en del föräldrar som vill följa med och heja). Samåkning är ju super! Om det inte går ihop kommer ytterligare en kostnad för transport att tillkomma.\nAnmält ert intresse senast 25 oktober - därefter anmäler vi lag."
   },
   {
     "date": "ons 28",
