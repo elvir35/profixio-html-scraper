@@ -2586,7 +2586,7 @@
     "title": "",
     "opponent": "HF Karlskrona Gul",
     "homeAway": "borta",
-    "meetingTime": "13:00",
+    "meetingTime": "13:05",
     "info": "HF Karlskrona Gul borta, Brinova Arena Karlskrona, A-Hallen A2 (Pojkar - P12 Syd Nivå 1)Hej, \nSeriematch: \nAvkast kl. 13.50: HF Karlskrona-H43 Lund \n \nSamling i Brinova Arena, Karlskrona kl. 13.00. Kom matchklädd, ta med boll. \n \nVi uppmanar till samåkning till denna match!\nVänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack! \n \nMVH/ Tränarna"
   },
   {
@@ -4282,5 +4282,33 @@
     "homeAway": "borta",
     "meetingTime": "10:00",
     "info": "HF Karlskrona 1 borta, Brinova Arena Karlskrona, A-Hallen A1 (Flickor - F19 Syd)"
+  },
+  {
+    "date": "lör 31",
+    "month": "Oktober",
+    "startTime": "13:00",
+    "endTime": "",
+    "team": "P11",
+    "location": "Eslöv ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Eslöv",
+    "homeAway": "borta",
+    "meetingTime": "12:15",
+    "info": "Eslöv borta, Eslöv ()"
+  },
+  {
+    "date": "lör 31",
+    "month": "Oktober",
+    "startTime": "14:00",
+    "endTime": "",
+    "team": "P11",
+    "location": "Eslövshallen ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Kävlinge",
+    "homeAway": "borta",
+    "meetingTime": "17:00",
+    "info": "Kävlinge borta, Eslövshallen ()"
   }
 ]
