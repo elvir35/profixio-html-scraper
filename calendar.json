@@ -3363,6 +3363,20 @@
     "date": "lör 24",
     "month": "Oktober",
     "startTime": "12:00",
+    "endTime": "13:00",
+    "team": "F15",
+    "location": "Sporthallen Höör",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Intresseanmälan - match mot Höör 24/10",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Intresseanmälan - match mot Höör 24/10, Sporthallen HöörIntresseanmälan för att se hur många som har möjlighet att spela matchen borta mot Höör nu på lördag 24/10 12:00."
+  },
+  {
+    "date": "lör 24",
+    "month": "Oktober",
+    "startTime": "12:00",
     "endTime": "",
     "team": "F15",
     "location": "Sporthallen Höör (Flickor - F16 Syd)",
@@ -3386,20 +3400,6 @@
     "homeAway": "hemma",
     "meetingTime": "11:45",
     "info": "Lugi HF 1 hemma, Vipeholmshallen (Pojkar - P12 Syd Nivå 1)Seriematch. Ber er svara så snabbt som möjligt på denna kallelse eftersom det är helgen innan höstlovet, det underlättar för oss om vi i ett tidigt skede vet vilka som inte kan.\nVi står som arrangörer och ansvarar därmed för sekretariat, matchvärd och kiosk.\nAvkast kl. 12.30: H43 Lund-Lugi\nSamling i Vipeholmshallen kl. 11.45. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast nu på lördag, tack!\nMVH/ Tränarna"
-  },
-  {
-    "date": "lör 24",
-    "month": "Oktober",
-    "startTime": "13:20",
-    "endTime": "",
-    "team": "F14",
-    "location": "Bollhuset A (Flickor - F14 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "HK Malmö Svart",
-    "homeAway": "hemma",
-    "meetingTime": "12:20",
-    "info": "HK Malmö Svart hemma, Bollhuset A (Flickor - F14 Syd)"
   },
   {
     "date": "lör 24",
