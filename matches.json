@@ -1,118 +1,10 @@
 {
-  "scrapedAt": "2026-10-18T19:51:48.389Z",
+  "scrapedAt": "2026-10-19T02:24:55.282Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 531,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F9",
-      "hall": "Skurups Sparbank Arena",
-      "time": "08:30",
-      "date": "sön 18",
-      "month": "OKTOBER 2026",
-      "home": "Skurup mfl",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P9",
-      "hall": "Söderkulla sporthall",
-      "time": "09:30",
-      "date": "sön 18",
-      "month": "OKTOBER 2026",
-      "home": "HK Malmö",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P12",
-      "hall": "Bollhuset A",
-      "time": "10:00",
-      "date": "sön 18",
-      "month": "OKTOBER 2026",
-      "home": "Lugi HF 3",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P10",
-      "hall": "Västervångshallen",
-      "time": "13:00",
-      "date": "sön 18",
-      "month": "OKTOBER 2026",
-      "home": "Match",
-      "away": "Ystad + Lugi",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P12",
-      "hall": "Brinova Arena Karlskrona",
-      "time": "13:50",
-      "date": "sön 18",
-      "month": "OKTOBER 2026",
-      "home": "HF Karlskrona Gul",
-      "away": "H43 Lund HF 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P11",
-      "hall": "Tolvåkers Idrottshall A",
-      "time": "14:00",
-      "date": "sön 18",
-      "month": "OKTOBER 2026",
-      "home": "OV Helsingborg HK 3",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F11",
-      "hall": "Tolvåkers Idrottshall B",
-      "time": "14:30",
-      "date": "sön 18",
-      "month": "OKTOBER 2026",
-      "home": "Lödde Vikings HK",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P11",
-      "hall": "Tolvåkers Idrottshall A",
-      "time": "15:20",
-      "date": "sön 18",
-      "month": "OKTOBER 2026",
-      "home": "Lödde Vikings HK",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P15",
-      "hall": "Ystad Arena B",
-      "time": "16:00",
-      "date": "sön 18",
-      "month": "OKTOBER 2026",
-      "home": "IFK Ystad HK P14",
-      "away": "H43 Lund HF 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F15",
       "hall": "Bollhuset A",
@@ -302,7 +194,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -974,7 +866,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1046,7 +938,7 @@
       "home": "H43 Lund HF 2",
       "away": "HF Syd",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1334,7 +1226,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -5188,6 +5080,114 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P15",
+      "hall": "Ystad Arena B",
+      "time": "16:00",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "IFK Ystad HK P14",
+      "away": "H43 Lund HF 1",
+      "score": "33 - 20",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P11",
+      "hall": "Tolvåkers Idrottshall A",
+      "time": "15:20",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "Lödde Vikings HK",
+      "away": "H43 Lund HF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F11",
+      "hall": "Tolvåkers Idrottshall B",
+      "time": "14:30",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "Lödde Vikings HK",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P11",
+      "hall": "Tolvåkers Idrottshall A",
+      "time": "14:00",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "OV Helsingborg HK 3",
+      "away": "H43 Lund HF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P12",
+      "hall": "Brinova Arena Karlskrona",
+      "time": "13:50",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "HF Karlskrona Gul",
+      "away": "H43 Lund HF 1",
+      "score": "23 - 38",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P10",
+      "hall": "Västervångshallen",
+      "time": "13:00",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "Match",
+      "away": "Ystad + Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "10:00",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "Lugi HF 3",
+      "away": "H43 Lund HF 2",
+      "score": "28 - 27",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P9",
+      "hall": "Söderkulla sporthall",
+      "time": "09:30",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "HK Malmö",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F9",
+      "hall": "Skurups Sparbank Arena",
+      "time": "08:30",
+      "date": "sön 18",
+      "month": "OKTOBER 2026",
+      "home": "Skurup mfl",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/0_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "DAMER A",
