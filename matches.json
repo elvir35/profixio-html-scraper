@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-10-19T17:57:32.645Z",
+  "scrapedAt": "2026-10-19T21:57:18.229Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 531,
+  "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -114,18 +114,6 @@
       "status": "upcoming"
     },
     {
-      "team": "F14",
-      "hall": "Bollhuset A",
-      "time": "13:20",
-      "date": "lör 24",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF",
-      "away": "HK Malmö Svart",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
       "team": "F12",
       "hall": "Örjanhallen",
       "time": "13:45",
@@ -194,7 +182,7 @@
       "home": "HK Blå 85 Lund",
       "away": "HK Vinslöv",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -315,18 +303,6 @@
       "away": "HK Drott Halmstad Vit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
-      "hall": "Oxievångs Sporthall",
-      "time": "19:50",
-      "date": "tis 03",
-      "month": "NOVEMBER 2026",
-      "home": "IFK Malmö HF 1",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2462,7 +2438,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
