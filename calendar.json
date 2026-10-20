@@ -3195,20 +3195,6 @@
     "date": "fre 23",
     "month": "Oktober",
     "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "P11",
-    "location": "Vipeholmshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "fre 23",
-    "month": "Oktober",
-    "startTime": "17:00",
     "endTime": "18:00",
     "team": "P12",
     "location": "Stadsparken",
@@ -4282,33 +4268,5 @@
     "homeAway": "borta",
     "meetingTime": "10:00",
     "info": "HF Karlskrona 1 borta, Brinova Arena Karlskrona, A-Hallen A1 (Flickor - F19 Syd)"
-  },
-  {
-    "date": "lör 31",
-    "month": "Oktober",
-    "startTime": "13:00",
-    "endTime": "",
-    "team": "P11",
-    "location": "Eslöv ()",
-    "type": "Match",
-    "title": "",
-    "opponent": "Eslöv",
-    "homeAway": "borta",
-    "meetingTime": "12:15",
-    "info": "Eslöv borta, Eslöv ()"
-  },
-  {
-    "date": "lör 31",
-    "month": "Oktober",
-    "startTime": "14:00",
-    "endTime": "",
-    "team": "P11",
-    "location": "Eslövshallen ()",
-    "type": "Match",
-    "title": "",
-    "opponent": "Kävlinge",
-    "homeAway": "borta",
-    "meetingTime": "17:00",
-    "info": "Kävlinge borta, Eslövshallen ()"
   }
 ]
