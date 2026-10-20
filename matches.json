@@ -1,34 +1,10 @@
 {
-  "scrapedAt": "2026-10-19T21:57:18.229Z",
+  "scrapedAt": "2026-10-20T02:38:00.832Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 529,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F15",
-      "hall": "Bollhuset A",
-      "time": "19:10",
-      "date": "mån 19",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF",
-      "away": "Lugi HF 1 F15",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F19 / Damer J",
-      "hall": "Tolvåkers Idrottshall B",
-      "time": "20:45",
-      "date": "mån 19",
-      "month": "OKTOBER 2026",
-      "home": "Lödde Vikings HK",
-      "away": "H43 Lund HF 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F12",
       "hall": "Tornhallen",
@@ -5056,6 +5032,30 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F19 / Damer J",
+      "hall": "Tolvåkers Idrottshall B",
+      "time": "20:45",
+      "date": "mån 19",
+      "month": "OKTOBER 2026",
+      "home": "Lödde Vikings HK",
+      "away": "H43 Lund HF 1",
+      "score": "29 - 24",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F15",
+      "hall": "Bollhuset A",
+      "time": "19:10",
+      "date": "mån 19",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF",
+      "away": "Lugi HF 1 F15",
+      "score": "9 - 32",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P15",
