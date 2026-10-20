@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-20T02:38:00.832Z",
+  "scrapedAt": "2026-10-20T10:38:58.226Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 529,
   "hasMatches": true,
@@ -1626,6 +1626,18 @@
       "status": "upcoming"
     },
     {
+      "team": "F15",
+      "hall": "Norrevångskolan",
+      "time": "11:30",
+      "date": "sön 06",
+      "month": "DECEMBER 2026",
+      "home": "Karlshamns HF H78 Sölvesborg",
+      "away": "H43 Lund HF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F12",
       "hall": "Borgebyhallen",
       "time": "12:15",
@@ -1659,18 +1671,6 @@
       "away": "Vinslövs HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F15",
-      "hall": "Norrevångskolan",
-      "time": "15:30",
-      "date": "sön 06",
-      "month": "DECEMBER 2026",
-      "home": "Karlshamns HF H78 Sölvesborg",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
       "status": "upcoming"
     },
     {
