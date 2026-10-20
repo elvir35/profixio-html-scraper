@@ -3468,8 +3468,8 @@
     "title": "",
     "opponent": "Kävlinge HK",
     "homeAway": "hemma",
-    "meetingTime": "15:05",
-    "info": "Kävlinge HK hemma, Tunahallen-Handboll (Damer - Dam 3 Syd)"
+    "meetingTime": "15:00",
+    "info": "Kävlinge HK hemma, Tunahallen-Handboll (Damer - Dam 3 Syd)Viktig hemmamatch mot Kävlinge HK!\nSamling 15.00 i Tunahallen, blåa matchkläder.\nSvara senast på torsdag kväll.\n/ Coach J"
   },
   {
     "date": "sön 25",
@@ -3570,6 +3570,20 @@
     "info": "IFK Tumba HK hemma, Lunds Idrottshall (Herrar - Herrallsvenskan)"
   },
   {
+    "date": "sön 25",
+    "month": "Oktober",
+    "startTime": "17:00",
+    "endTime": "18:40",
+    "team": "P12",
+    "location": "Idrottshallen",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Heja på A-laget H43-IFK Tumba",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Heja på A-laget H43-IFK Tumba, IdrottshallenVi hjälps åt att fylla upp Idrottshallen när H43 möte IFK Tumba i herrallsvenskan nu på söndag den 25 oktober. Klä er i blått och kom och heja! Matchstart kl. 17.00\n// Tränarna"
+  },
+  {
     "date": "mån 26",
     "month": "Oktober",
     "startTime": "17:00",
@@ -3582,20 +3596,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "mån 26",
-    "month": "Oktober",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "team": "P12",
-    "location": "Östratornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning inkl. målvaktsträning, ÖstratornhallenMålvaktsträning med Bosse Nielsen plus vanlig träning.Sista halvtimmen tränar vi utomhus, då gäller kläder efter väder och utomhusskor."
   },
   {
     "date": "mån 26",
@@ -3862,20 +3862,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "INTRESSEANMÄLAN Bohus Cup i Göteborg, BortamatchHej!\nVi tänker att killarna är redo för första övernattningscupen.\nDärmed tänkte vi anmäla lag till Bohus Cup som spelas i Göteborg 30april-2maj 2027. Vi åker med ett eller två lag beroende på intresse.\nSjälvkostnadspris: 2000 kronor \nI priset ingår:\nlogi i skolsal (man tar med egen luftmadrass)\nmåltider:\nfredag: middag\nlördag: frukost, lunch och middag\nsöndag: frukost och lunch \nTransport med lokaltrafik\nYtterligare omkostnader (t.ex. nöjen, snacks, Liseberg) tillkommer.\nAnmälningsavgiften tas från lagkassan.\nVi åker med 3-4 ledare men det är ändå viktigt att ert barn kan ta eget ansvar och klarar av att sova borta.\nVår tanke just nu är att man ordnar transport till och från Göteborg själv (vi tänker och tror att det är en del föräldrar som vill följa med och heja). Samåkning är ju super! Om det inte går ihop kommer ytterligare en kostnad för transport att tillkomma.\nAnmält ert intresse senast 25 oktober - därefter anmäler vi lag."
-  },
-  {
-    "date": "ons 28",
-    "month": "Oktober",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "P12",
-    "location": "Victoriastadion 2",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Victoriastadion 2"
   },
   {
     "date": "ons 28",
@@ -4156,20 +4142,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
-  },
-  {
-    "date": "fre 30",
-    "month": "Oktober",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "team": "P12",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Fysträning, StadsparkenTräning utomhus, kläder efter väder."
   },
   {
     "date": "fre 30",
