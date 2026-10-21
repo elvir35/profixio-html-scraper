@@ -3413,7 +3413,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning med Lundagård , GunnesbohallenLundagård har bjudit in oss för en gemensam träning och träningsmatch. Tillfället är tänkt särskilt för dem som är nya, dem som har kommit tillbaka efter uppehåll och dem som inte har möjlighet att närvara lika regelbundet vid våra ordinarie träningar.\nDet kommer att vara tränare från oss på plats. Lundagård kommer att öppna kiosken och bjuda på korv och dricka till barnen."
+    "info": "Träning med Lundagård , GunnesbohallenLundagård har bjudit in oss för en gemensam träning och träningsmatch. Tillfället är tänkt särskilt för dem som är nya, dem som har kommit tillbaka efter uppehåll och dem som har svårt att hinna vara med på alla ordinarie träningar. \nDet kommer att vara tränare från oss på plats. Lundagård kommer att öppna kiosken och bjuda på toast och dricka till barnen. Hör av er om ni har några matpreferenser."
   },
   {
     "date": "lör 24",
@@ -4156,20 +4156,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenIngen förhandsanmälan behövs.\nTa med träningskläder, skor och vattenflaska."
-  },
-  {
-    "date": "fre 30",
-    "month": "Oktober",
-    "startTime": "19:00",
-    "endTime": "",
-    "team": "HERRAR A",
-    "location": "Halmstad Arena A1 (Herrar - Herrallsvenskan)",
-    "type": "Match",
-    "title": "",
-    "opponent": "HK Drott Halmstad",
-    "homeAway": "borta",
-    "meetingTime": "17:15",
-    "info": "HK Drott Halmstad borta, Halmstad Arena A1 (Herrar - Herrallsvenskan)"
   },
   {
     "date": "lör 31",
