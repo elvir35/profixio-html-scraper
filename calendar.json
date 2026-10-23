@@ -3348,34 +3348,6 @@
   {
     "date": "lör 24",
     "month": "Oktober",
-    "startTime": "12:00",
-    "endTime": "13:00",
-    "team": "F15",
-    "location": "Sporthallen Höör",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Intresseanmälan - match mot Höör 24/10",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Intresseanmälan - match mot Höör 24/10, Sporthallen HöörIntresseanmälan för att se hur många som har möjlighet att spela matchen borta mot Höör nu på lördag 24/10 12:00."
-  },
-  {
-    "date": "lör 24",
-    "month": "Oktober",
-    "startTime": "12:00",
-    "endTime": "",
-    "team": "F15",
-    "location": "Sporthallen Höör (Flickor - F16 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Höörs HK H 65",
-    "homeAway": "borta",
-    "meetingTime": "11:00",
-    "info": "Höörs HK H 65 borta, Sporthallen Höör (Flickor - F16 Syd)"
-  },
-  {
-    "date": "lör 24",
-    "month": "Oktober",
     "startTime": "12:30",
     "endTime": "",
     "team": "P12",
@@ -3567,7 +3539,7 @@
     "opponent": "Heja på A-laget H43-IFK Tumba",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Heja på A-laget H43-IFK Tumba, IdrottshallenVi hjälps åt att fylla upp Idrottshallen när H43 möte IFK Tumba i herrallsvenskan nu på söndag den 25 oktober. Klä er i blått och kom och heja! Matchstart kl. 17.00\n// Tränarna"
+    "info": "Heja på A-laget H43-IFK Tumba, IdrottshallenVi hjälps åt att fylla upp Idrottshallen när H43 möte IFK Tumba i herrallsvenskan nu på söndag den 25 oktober, matchstart kl. 17.00. Klä er i blått och kom och heja! Spelare, ledare och barn upp till 12 år går in gratis, övriga köper biljetter här: https://h43lund.ticketco.events/se/en/e/h43_lund__ifk_tumba\n// Tränarna"
   },
   {
     "date": "mån 26",
@@ -3579,6 +3551,20 @@
     "type": "Träning",
     "title": "",
     "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "mån 26",
+    "month": "Oktober",
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "team": "DAMER A",
+    "location": "Arenan",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Löpning Stadsparken",
     "homeAway": "",
     "meetingTime": "",
     "info": ""
