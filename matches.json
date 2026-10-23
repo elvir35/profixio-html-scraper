@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-10-21T21:01:42.855Z",
+  "scrapedAt": "2026-10-23T16:07:22.229Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 525,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F14",
-      "hall": "Tornhallen",
-      "time": "18:15",
-      "date": "ons 21",
-      "month": "OKTOBER 2026",
-      "home": "H43 Lund HF 2",
-      "away": "HK Ankaret 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P11",
       "hall": "Nyvångshallen",
@@ -39,18 +27,6 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26416_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F15",
-      "hall": "Sporthallen Höör",
-      "time": "12:00",
-      "date": "lör 24",
-      "month": "OKTOBER 2026",
-      "home": "Höörs HK H 65",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -186,18 +162,6 @@
       "status": "upcoming"
     },
     {
-      "team": "DAMER A",
-      "hall": "Sparbanken Skåne Arena A",
-      "time": "16:00",
-      "date": "sön 01",
-      "month": "NOVEMBER 2026",
-      "home": "H43 Lund HF",
-      "away": "LUGI HF U",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
       "team": "F14",
       "hall": "Östratornhallen",
       "time": "18:50",
@@ -231,6 +195,18 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "19:15",
+      "date": "tis 03",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund HF",
+      "away": "LUGI HF U",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2142,6 +2118,18 @@
       "status": "upcoming"
     },
     {
+      "team": "F15",
+      "hall": "Sporthallen Höör",
+      "time": "00:00",
+      "date": "tor 31",
+      "month": "DECEMBER 2026",
+      "home": "Höörs HK H 65",
+      "away": "H43 Lund HF",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F19 / Damer J",
       "hall": "Tunahallen-Handboll",
       "time": "01:00",
@@ -3258,6 +3246,18 @@
       "status": "upcoming"
     },
     {
+      "team": "F11",
+      "hall": "Vipeholmshallen",
+      "time": "12:00",
+      "date": "lör 06",
+      "month": "FEBRUARI 2027",
+      "home": "H43 Lund",
+      "away": "H65 Höör",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/7974_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "P9",
       "hall": "Bollhuset A",
       "time": "13:00",
@@ -3351,18 +3351,6 @@
       "away": "Dalby GIF Svart",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F11",
-      "hall": "Vipeholmshallen",
-      "time": "12:00",
-      "date": "sön 07",
-      "month": "FEBRUARI 2027",
-      "home": "H43 Lund",
-      "away": "H65 Höör",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/7974_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4960,6 +4948,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Tornhallen",
+      "time": "18:15",
+      "date": "ons 21",
+      "month": "OKTOBER 2026",
+      "home": "H43 Lund HF 2",
+      "away": "HK Ankaret 2",
+      "score": "14 - 18",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F12",
