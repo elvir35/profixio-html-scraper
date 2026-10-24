@@ -3558,20 +3558,6 @@
   {
     "date": "mån 26",
     "month": "Oktober",
-    "startTime": "17:30",
-    "endTime": "18:30",
-    "team": "DAMER A",
-    "location": "Arenan",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Löpning Stadsparken",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "mån 26",
-    "month": "Oktober",
     "startTime": "18:00",
     "endTime": "20:15",
     "team": "F19 / Damer J",
@@ -3974,6 +3960,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tornhallen, StångbyVar ombytta och redo 18.15. Kom ihåg vattenflaska och egen boll."
+  },
+  {
+    "date": "tor 29",
+    "month": "Oktober",
+    "startTime": "18:45",
+    "endTime": "20:00",
+    "team": "P11",
+    "location": "KRISTIANSTAD Arena",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "IFK KRISTIANSTAD - PICK SZEGED",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "IFK KRISTIANSTAD - PICK SZEGED, KRISTIANSTAD ArenaHej H43 P2015-familjer!\nNu får vi chansen att se topphandboll live: IFK Kristianstad mot ungerska Pick Szeged i Champions League, torsdag 29 oktober kl. 18.45 i Kristianstad Arena.\nErbjudandet till oss handbollsföreningar i Syd är riktigt bra:\n??? Barn och ungdomar upp till 18 år: gratis (upp till 3 biljetter per person)\n??? Anhöriga: 100 kr per biljett\nDet här är en perfekt chans för spelarna att se hur det går till på högsta europeiska nivå: snabbhet, skott, målvaktsspel och stämning. Ta med syskon och föräldrar och gör det till en riktig lagkväll!\nBiljetterna är begränsade, så svara och boka redan idag:\n 1. Svara snarast om ni är med och hur många ni blir.\n 2. Ordna biljetterna under dagen enligt PDF:en som är bifogad.\nJu fler vi blir, desto roligare blir det. Hoppas vi syns!"
   },
   {
     "date": "tor 29",
