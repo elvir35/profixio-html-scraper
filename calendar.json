@@ -3573,20 +3573,6 @@
     "date": "mån 26",
     "month": "Oktober",
     "startTime": "18:30",
-    "endTime": "20:00",
-    "team": "F14",
-    "location": "Östratornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "mån 26",
-    "month": "Oktober",
-    "startTime": "18:30",
     "endTime": "20:30",
     "team": "F15",
     "location": "Bollhuset",
@@ -3820,20 +3806,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Arenan AHall 17.30 - Löpning 19.00"
-  },
-  {
-    "date": "ons 28",
-    "month": "Oktober",
-    "startTime": "17:30",
-    "endTime": "19:15",
-    "team": "F14",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Tornhallen, StångbyLöpning ute 17:30 - 17:55\nTräning inne 18:00 - 19:15\nLöpnningen är INTE frivillig utan alla förväntas delta. Skulle vädret vara emot oss så meddelar vi detta i så god tid som möjligt."
   },
   {
     "date": "ons 28",
@@ -4100,20 +4072,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
-  },
-  {
-    "date": "fre 30",
-    "month": "Oktober",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "team": "F14",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "fre 30",
