@@ -3544,20 +3544,6 @@
   {
     "date": "mån 26",
     "month": "Oktober",
-    "startTime": "18:00",
-    "endTime": "20:15",
-    "team": "F19 / Damer J",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Heddahallen18:00-19:30 Hallträning\n19:30-20:15 Löpning"
-  },
-  {
-    "date": "mån 26",
-    "month": "Oktober",
     "startTime": "18:30",
     "endTime": "20:30",
     "team": "F15",
@@ -3699,20 +3685,6 @@
     "date": "tis 27",
     "month": "Oktober",
     "startTime": "18:00",
-    "endTime": "19:30",
-    "team": "F19 / Damer J",
-    "location": "Nordic",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Gemensamt gym",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "tis 27",
-    "month": "Oktober",
-    "startTime": "18:00",
     "endTime": "20:00",
     "team": "P15",
     "location": "Tunahallen",
@@ -3806,20 +3778,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Prästängshallen"
-  },
-  {
-    "date": "ons 28",
-    "month": "Oktober",
-    "startTime": "18:15",
-    "endTime": "20:30",
-    "team": "F19 / Damer J",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
   },
   {
     "date": "ons 28",
@@ -3979,20 +3937,6 @@
     "date": "tor 29",
     "month": "Oktober",
     "startTime": "20:00",
-    "endTime": "21:30",
-    "team": "F19 / Damer J",
-    "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, TunahallenHallträning 20:00-21:30"
-  },
-  {
-    "date": "tor 29",
-    "month": "Oktober",
-    "startTime": "20:00",
     "endTime": "22:00",
     "team": "HERRAR U",
     "location": "Arenan B",
@@ -4044,20 +3988,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Skadevi Cup dag 1, Skövde med omnejdHej! \nKallelse till Skadevi handbollscup den 30 oktober till 1 november (sista helgen på höstlovet, v.44). Cupen spelas i Skövde med omnejd. \nKostnaden för anmälningsavgift plus deltagarkort kommer landa på omkring 1750 kr per spelare, i det ingår boende på skola samt måltider från fredag till söndag. Utöver detta tillkommer kostnad för resa till och från Skövde. Vi har inte helt bestämt hur vi ska resa dit men det lutar åt att vi hyr minibussar eftersom vi även måste kunna transportera oss mellan spelplatserna. \nGruppspelet startar redan på fredagen så vi kommer sannolikt resa upp tidigt den dagen. Under söndagen spelas slutspelet med utslagsmatcher. Speltid är 2x12 minuter per match. \nDenna kallelse är bindande. Svara senast deadline. Tack! \nMvh/ Tränarna"
-  },
-  {
-    "date": "fre 30",
-    "month": "Oktober",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "F15",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
   },
   {
     "date": "fre 30",
@@ -4141,7 +4071,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, VipeholmshallenVi behöver bli minst 8 spelare. Se till att svara i SportAdmin, så att vi vet er status."
   },
   {
     "date": "lör 31",
