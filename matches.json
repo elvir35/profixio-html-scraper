@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-29T22:32:14.816Z",
+  "scrapedAt": "2026-10-30T03:32:49.229Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 524,
   "hasMatches": true,
@@ -931,8 +931,8 @@
     },
     {
       "team": "P19",
-      "hall": "Sparbanken Skåne Arena A",
-      "time": "16:30",
+      "hall": "Bollhuset A",
+      "time": "17:00",
       "date": "sön 22",
       "month": "NOVEMBER 2026",
       "home": "H43 Lund HF 1",
