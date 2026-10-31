@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-31T03:17:22.761Z",
+  "scrapedAt": "2026-10-31T11:25:32.933Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 524,
   "hasMatches": true,
@@ -79,14 +79,14 @@
     },
     {
       "team": "DAMER A",
-      "hall": "Sparbanken Skåne Arena A",
+      "hall": "Arenan A",
       "time": "19:15",
       "date": "tis 03",
       "month": "NOVEMBER 2026",
-      "home": "H43 Lund HF",
-      "away": "LUGI HF U",
+      "home": "H43 Lund",
+      "away": "Lugi",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -614,7 +614,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -686,7 +686,7 @@
       "home": "H43 Lund HF 2",
       "away": "HF Syd",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -974,7 +974,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1670,7 +1670,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -2222,7 +2222,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
