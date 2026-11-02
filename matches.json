@@ -1,34 +1,10 @@
 {
-  "scrapedAt": "2026-11-01T21:29:17.627Z",
+  "scrapedAt": "2026-11-02T03:25:24.800Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 524,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F12",
-      "hall": "Semmehallen",
-      "time": "11:00",
-      "date": "sön 01",
-      "month": "NOVEMBER 2026",
-      "home": "GW Landskrona HK",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P15",
-      "hall": "Sparbanken Skåne Arena B",
-      "time": "12:30",
-      "date": "sön 01",
-      "month": "NOVEMBER 2026",
-      "home": "H43 Lund HF 1",
-      "away": "Höörs HK H 65",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F14",
       "hall": "Östratornhallen",
@@ -674,7 +650,7 @@
       "home": "H43 Lund HF 2",
       "away": "HF Syd",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4804,6 +4780,30 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P15",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "12:30",
+      "date": "sön 01",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Höörs HK H 65",
+      "score": "16 - 25",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "F12",
+      "hall": "Semmehallen",
+      "time": "11:00",
+      "date": "sön 01",
+      "month": "NOVEMBER 2026",
+      "home": "GW Landskrona HK",
+      "away": "H43 Lund HF 2",
+      "score": "13 - 22",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F19 / Damer J",
