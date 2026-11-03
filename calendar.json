@@ -772,20 +772,6 @@
   {
     "date": "fre 06",
     "month": "November",
-    "startTime": "19:00",
-    "endTime": "",
-    "team": "F15",
-    "location": "Tunahallen-Handboll (Flickor - F16 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "IFK Ystad HK",
-    "homeAway": "hemma",
-    "meetingTime": "18:00",
-    "info": "IFK Ystad HK hemma, Tunahallen-Handboll (Flickor - F16 Syd)(Match struken)"
-  },
-  {
-    "date": "fre 06",
-    "month": "November",
     "startTime": "19:30",
     "endTime": "",
     "team": "F14",
@@ -992,6 +978,20 @@
     "homeAway": "hemma",
     "meetingTime": "14:55",
     "info": "IK Sund Blå hemma, Sparbanken Skåne Arena B (Flickor - F12 Syd)"
+  },
+  {
+    "date": "lör 07",
+    "month": "November",
+    "startTime": "16:50",
+    "endTime": "",
+    "team": "P15",
+    "location": "Arenan B ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Dalby",
+    "homeAway": "hemma",
+    "meetingTime": "16:30",
+    "info": "Dalby hemma, Arenan B ()Hej,\nVi har fått möjlighet att spela träningsmatch mot Dalby i helgen. Beroende på antalet anmälda så spelar vi antingen två kortare matcher eller &nbsp;tre halvlekar. Detta blir ett bra tillfälle för att träna anfall och försvar mot ett motstånd av väldigt hög klass.\nSamling på Arenan 16:30. \nHälsar \nTränarna"
   },
   {
     "date": "lör 07",
@@ -1740,20 +1740,6 @@
     "month": "November",
     "startTime": "19:30",
     "endTime": "",
-    "team": "F15",
-    "location": "Griffel Arena (Flickor - F16 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Växjö HF",
-    "homeAway": "borta",
-    "meetingTime": "18:30",
-    "info": "Växjö HF borta, Griffel Arena (Flickor - F16 Syd)(Match struken)"
-  },
-  {
-    "date": "fre 13",
-    "month": "November",
-    "startTime": "19:30",
-    "endTime": "",
     "team": "HK Blå 85",
     "location": "Sparbanken Skåne Arena B (Damer - Dam 3 Syd)",
     "type": "Match",
@@ -1878,6 +1864,20 @@
   {
     "date": "lör 14",
     "month": "November",
+    "startTime": "12:00",
+    "endTime": "",
+    "team": "P19",
+    "location": "Östergårdshallen ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "USM steg 2. 14-15 november",
+    "homeAway": "borta",
+    "meetingTime": "",
+    "info": "USM steg 2. 14-15 november borta, Östergårdshallen ()USM steg 2 i Halmstad.\nLördag 14/11\n15.00 HK Drott - H43 Lund HF\n16.30 Mörrums GOIS HK - HK Varberg\nSöndag 15/11\n9.30 HK Drott - Mörrums GOIS HK\n11.00 HK Varberg - H43 Lund HF\n14.00 H43 Lund HF - Mörrums GOIS HK\n15.30 HK Drott - HK Varberg"
+  },
+  {
+    "date": "lör 14",
+    "month": "November",
     "startTime": "12:30",
     "endTime": "",
     "team": "F10",
@@ -1976,6 +1976,20 @@
   {
     "date": "lör 14",
     "month": "November",
+    "startTime": "15:30",
+    "endTime": "19:00",
+    "team": "F15",
+    "location": "Idrottshallen",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Kiosk och golvtorkning - Damer A",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Kiosk och golvtorkning - Damer A, IdrottshallenVi ska liksom tidigare år hjälpa H43:s voluntärgrupp genom att bemanna kiosk, entré och (från och med i år) vara golvtorkare under A-lagsmatch. Mer info hittar ni i bifogade filer.\n Behov av minst 5 personer som bemannar kiosken\n Minst 2 personer som bemannar grillen\n Behov av extra personer som kan stötta i inträdet samt hålla hallen snygg under matchens gång\n Förbered inför match och försäljning\n Återställ kiosken efter matchens slut\n Städa läktaren efter matchens slut\n Till er hjälp finns föreningens volontärer på plats"
+  },
+  {
+    "date": "lör 14",
+    "month": "November",
     "startTime": "16:40",
     "endTime": "",
     "team": "F14",
@@ -1986,20 +2000,6 @@
     "homeAway": "hemma",
     "meetingTime": "15:40",
     "info": "OV Helsingborg HK 2 hemma, Vipeholmshallen (Flickor - F14 Syd)"
-  },
-  {
-    "date": "lör 14",
-    "month": "November",
-    "startTime": "17:00",
-    "endTime": "19:00",
-    "team": "F15",
-    "location": "Idrottshallen",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Kiosk och golvtorkning - Damer A",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Kiosk och golvtorkning - Damer A, IdrottshallenKioskuppdrag vid A-lagsmatcher\n Samling i kiosken 1,5 timme innan avkast\n Behov av minst 5 personer som bemannar kiosken\n Minst 2 personer som bemannar grillen\n Behov av extra personer som kan stötta i inträdet samt hålla hallen snygg under matchens gång\n Förbered inför match och försäljning\n Återställ kiosken efter matchens slut\n Städa läktaren efter matchens slut\n Till er hjälp finns föreningens volontärer på plats"
   },
   {
     "date": "sön 15",
