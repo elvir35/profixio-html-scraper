@@ -1837,6 +1837,20 @@
     "date": "lör 14",
     "month": "November",
     "startTime": "10:00",
+    "endTime": "11:00",
+    "team": "F11",
+    "location": "Fäladshallen   B",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Extraträning, Fäladshallen BVi har fått en extra träningstid lördag 14 november klockan 10-11 i Fäladshallen B. Kom i tid och var redo när träningen börjar."
+  },
+  {
+    "date": "lör 14",
+    "month": "November",
+    "startTime": "10:00",
     "endTime": "",
     "team": "F19 / Damer J",
     "location": "Helsingborg Arena C (Flickor - F19 Syd)",
@@ -1846,20 +1860,6 @@
     "homeAway": "borta",
     "meetingTime": "09:00",
     "info": "OV Helsingborg HK borta, Helsingborg Arena C (Flickor - F19 Syd)"
-  },
-  {
-    "date": "lör 14",
-    "month": "November",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "team": "P9",
-    "location": "Fäladshallen   B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "lör 14",
@@ -1887,7 +1887,7 @@
     "opponent": "HF Limhamn",
     "homeAway": "hemma",
     "meetingTime": "11:45",
-    "info": "HF Limhamn hemma, Vipeholmshallen (Flickor - F10 Syd)"
+    "info": "HF Limhamn hemma, Vipeholmshallen (Flickor - F10 Syd)Hemmamatcher! Match 1 kl 12.30, match 2 kl 15.10. Matchtid är 2X20 min. \nKioskansvariga: Ada, Allie, Julia W, Sanna"
   },
   {
     "date": "lör 14",
