@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-11-04T13:28:25.209Z",
+  "scrapedAt": "2026-11-04T22:59:33.316Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 511,
+  "matchCount": 512,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -231,6 +231,18 @@
       "away": "HK Björnen",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26413_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P11",
+      "hall": "Gunnesbohallen",
+      "time": "18:15",
+      "date": "ons 11",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund",
+      "away": "KFUM Lundagård F2015",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2078,7 +2090,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
