@@ -4021,20 +4021,6 @@
     "date": "lör 28",
     "month": "November",
     "startTime": "12:00",
-    "endTime": "13:30",
-    "team": "F10",
-    "location": "Fäladshallen   B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "lör 28",
-    "month": "November",
-    "startTime": "12:00",
     "endTime": "",
     "team": "P8",
     "location": "Vipeholmshallen ()",
@@ -4198,6 +4184,20 @@
     "homeAway": "hemma",
     "meetingTime": "08:15",
     "info": "HK Halmstad Röd hemma, Sparbanken Skåne Arena B (Flickor - F12 Syd)"
+  },
+  {
+    "date": "sön 29",
+    "month": "November",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "team": "F10",
+    "location": "Fäladshallen A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Fäladshallen A"
   },
   {
     "date": "sön 29",
