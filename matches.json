@@ -1,34 +1,10 @@
 {
-  "scrapedAt": "2026-11-03T22:41:38.521Z",
+  "scrapedAt": "2026-11-04T03:55:31.910Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 511,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "HERRAR A",
-      "hall": "Halmstad Arena A1",
-      "time": "19:00",
-      "date": "tis 03",
-      "month": "NOVEMBER 2026",
-      "home": "HK Drott Halmstad",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "DAMER A",
-      "hall": "Arenan A",
-      "time": "19:15",
-      "date": "tis 03",
-      "month": "NOVEMBER 2026",
-      "home": "H43 Lund",
-      "away": "Lugi",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F19 / Damer J",
       "hall": "Sparbanken Skåne Arena A",
@@ -554,7 +530,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -626,7 +602,7 @@
       "home": "H43 Lund HF 2",
       "away": "HF Syd",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -914,7 +890,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1598,7 +1574,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2102,7 +2078,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3092,7 +3068,7 @@
     {
       "team": "F19 / Damer J",
       "hall": "Stapelbäddens IH",
-      "time": "14:30",
+      "time": "14:20",
       "date": "sön 07",
       "month": "FEBRUARI 2027",
       "home": "IFK Malmö HF",
@@ -4600,6 +4576,30 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Arenan A",
+      "time": "19:15",
+      "date": "tis 03",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "HERRAR A",
+      "hall": "Halmstad Arena A1",
+      "time": "19:00",
+      "date": "tis 03",
+      "month": "NOVEMBER 2026",
+      "home": "HK Drott Halmstad",
+      "away": "H43 Lund HF",
+      "score": "24 - 27",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F15",
