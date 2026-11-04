@@ -478,20 +478,6 @@
   {
     "date": "ons 04",
     "month": "November",
-    "startTime": "18:15",
-    "endTime": "20:30",
-    "team": "F19 / Damer J",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan A18:15-19:00 Löpning\n19:00-20:30 Hallträning"
-  },
-  {
-    "date": "ons 04",
-    "month": "November",
     "startTime": "19:00",
     "endTime": "21:00",
     "team": "F15",
@@ -716,20 +702,6 @@
   {
     "date": "fre 06",
     "month": "November",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "team": "P12",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Fysträning, StadsparkenTräning utomhus, kläder efter väder."
-  },
-  {
-    "date": "fre 06",
-    "month": "November",
     "startTime": "18:00",
     "endTime": "19:30",
     "team": "P15",
@@ -753,7 +725,7 @@
     "opponent": "Lödde Vikings",
     "homeAway": "borta",
     "meetingTime": "17:30",
-    "info": "Lödde Vikings borta, Tolvåkershallen B, Löddeköpinge ()Träningsmatch mot Lödde Vikings fredag den 6 november. Avkast kl. 18.15\nSamling i Tolvåkershallen, Löddeköpinge kl. 17.30. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast på söndag, tack!\nMVH/ Tränarna"
+    "info": "Lödde Vikings borta, Tolvåkershallen B, Löddeköpinge ()Träningsmatch mot Lödde Vikings fredag den 6 november. Avkast någon gång mellan kl. 18-18.15\nSamling i Tolvåkershallen, Löddeköpinge kl. 17.30. Kom matchklädd, ta med boll.\nVänligen svara på kallelsen så fort som möjligt, senast på söndag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "fre 06",
@@ -767,7 +739,7 @@
     "opponent": "H 65 Gordies HK",
     "homeAway": "borta",
     "meetingTime": "17:30",
-    "info": "H 65 Gordies HK borta, Sporthallen Höör (Damer - Dam 2 Syd)"
+    "info": "H 65 Gordies HK borta, Sporthallen Höör (Damer - Dam 2 Syd)Sporthallen Höör"
   },
   {
     "date": "fre 06",
@@ -1454,6 +1426,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Prästängshallen"
+  },
+  {
+    "date": "ons 11",
+    "month": "November",
+    "startTime": "18:15",
+    "endTime": "",
+    "team": "P11",
+    "location": "Gunnesbohallen ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "KFUM Lundagård F2015",
+    "homeAway": "hemma",
+    "meetingTime": "17:45",
+    "info": "KFUM Lundagård F2015 hemma, Gunnesbohallen ()Vi har blivit inbjudna att spela mot Lundagårds flickor 11 år (födda 2015).\nDet blir ett bra tillfälle för våra killar spela mer handboll.\nDå matchen är redan nästa vecka så får ni gärna svara så snabbt som möjligt. \nVi har bara hela planen till 1900 isch sen har de bara halva planen. Så vi spelar lite mer effektiv match. Och ser sen vad vi kan hitta på sista timmen."
   },
   {
     "date": "ons 11",
