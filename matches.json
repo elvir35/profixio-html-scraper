@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-11-04T22:59:33.316Z",
+  "scrapedAt": "2026-11-05T04:15:19.022Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 512,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F19 / Damer J",
-      "hall": "Sparbanken Skåne Arena A",
-      "time": "19:10",
-      "date": "ons 04",
-      "month": "NOVEMBER 2026",
-      "home": "H43 Lund HF 1",
-      "away": "Lugi HF F16",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P12",
       "hall": "Tolvåkershallen B",
@@ -2090,7 +2078,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4588,6 +4576,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F19 / Damer J",
+      "hall": "Sparbanken Skåne Arena A",
+      "time": "19:10",
+      "date": "ons 04",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund HF 1",
+      "away": "Lugi HF F16",
+      "score": "20 - 32",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "DAMER A",
