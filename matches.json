@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-11-05T04:15:19.022Z",
+  "scrapedAt": "2026-11-05T13:42:54.781Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 512,
+  "matchCount": 513,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -1539,6 +1539,18 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P12",
+      "hall": "Bollhuset A",
+      "time": "16:00",
+      "date": "lör 12",
+      "month": "DECEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Lugi",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
       "status": "upcoming"
     },
     {
