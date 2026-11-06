@@ -1444,6 +1444,20 @@
   {
     "date": "ons 11",
     "month": "November",
+    "startTime": "18:45",
+    "endTime": "19:30",
+    "team": "F15",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Föräldramöte",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Föräldramöte , ArenanHej!\nVi är glada att nu ha en ny huvudansvarig tränare, Caroline Ramstedt, på plats att ta över när Linnea lämnar för nya äventyr. Carro har idag ansvar för Damjuniorerna och tjejerna känner till henne sedan tidigare. &nbsp; \nNu bjuder vi in till föräldramöte för Carro att presentera sig och där vi kommer berätta om upplägget framåt. Ni kommer självklart ha möjlighet att ställa frågor. Vi hoppas på god uppslutning!\nTrevlig helg!"
+  },
+  {
+    "date": "ons 11",
+    "month": "November",
     "startTime": "19:00",
     "endTime": "21:00",
     "team": "F15",
@@ -1706,20 +1720,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenIngen förhandsanmälan behövs.\nTa med träningskläder, skor och vattenflaska."
-  },
-  {
-    "date": "fre 13",
-    "month": "November",
-    "startTime": "19:30",
-    "endTime": "",
-    "team": "F14",
-    "location": "Tolvåkers Idrottshall B (Flickor - F14 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Lödde Vikings HK Röd",
-    "homeAway": "borta",
-    "meetingTime": "18:30",
-    "info": "Lödde Vikings HK Röd borta, Tolvåkers Idrottshall B (Flickor - F14 Syd)"
   },
   {
     "date": "fre 13",
@@ -2952,20 +2952,6 @@
     "homeAway": "borta",
     "meetingTime": "13:30",
     "info": "IFK Ystad HK 1 borta, Västervångshallen (Pojkar - P12 Syd Nivå 1)"
-  },
-  {
-    "date": "lör 21",
-    "month": "November",
-    "startTime": "14:30",
-    "endTime": "",
-    "team": "F14",
-    "location": "Tunahallen-Handboll (Flickor - F14 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Lödde Vikings HK Röd",
-    "homeAway": "hemma",
-    "meetingTime": "13:30",
-    "info": "Lödde Vikings HK Röd hemma, Tunahallen-Handboll (Flickor - F14 Syd)"
   },
   {
     "date": "lör 21",
@@ -4240,20 +4226,6 @@
     "homeAway": "borta",
     "meetingTime": "11:45",
     "info": "OV Helsingborg HK borta, Helsingborg Arena C (Pojkar - P19 Syd)"
-  },
-  {
-    "date": "sön 29",
-    "month": "November",
-    "startTime": "14:45",
-    "endTime": "",
-    "team": "F14",
-    "location": "Bollhuset A (Flickor - F14 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Lugi HF 2",
-    "homeAway": "borta",
-    "meetingTime": "13:45",
-    "info": "Lugi HF 2 borta, Bollhuset A (Flickor - F14 Syd)"
   },
   {
     "date": "sön 29",
