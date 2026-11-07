@@ -1836,20 +1836,6 @@
   {
     "date": "lör 14",
     "month": "November",
-    "startTime": "10:00",
-    "endTime": "",
-    "team": "F19 / Damer J",
-    "location": "Helsingborg Arena C (Flickor - F19 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "OV Helsingborg HK",
-    "homeAway": "borta",
-    "meetingTime": "09:00",
-    "info": "OV Helsingborg HK borta, Helsingborg Arena C (Flickor - F19 Syd)"
-  },
-  {
-    "date": "lör 14",
-    "month": "November",
     "startTime": "12:00",
     "endTime": "",
     "team": "P19",
