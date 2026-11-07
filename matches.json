@@ -1,46 +1,10 @@
 {
-  "scrapedAt": "2026-11-06T22:31:25.597Z",
+  "scrapedAt": "2026-11-07T03:45:07.562Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 498,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "P12",
-      "hall": "Tolvåkershallen B",
-      "time": "18:15",
-      "date": "fre 06",
-      "month": "NOVEMBER 2026",
-      "home": "Lödde Vikings",
-      "away": "H43 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/12085_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "DAMER A",
-      "hall": "Sporthallen Höör",
-      "time": "19:00",
-      "date": "fre 06",
-      "month": "NOVEMBER 2026",
-      "home": "H 65 Gordies HK",
-      "away": "H43 Lund HF",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26125_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "F14",
-      "hall": "Tolvåkers Idrottshall B",
-      "time": "19:30",
-      "date": "fre 06",
-      "month": "NOVEMBER 2026",
-      "home": "Lödde Vikings HK Svart",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P12",
       "hall": "Sparbanken Skåne Arena A",
@@ -279,18 +243,6 @@
       "away": "Minihandboll hemma",
       "score": "",
       "logo": "",
-      "status": "upcoming"
-    },
-    {
-      "team": "F19 / Damer J",
-      "hall": "Helsingborg Arena C",
-      "time": "10:00",
-      "date": "lör 14",
-      "month": "NOVEMBER 2026",
-      "home": "OV Helsingborg HK",
-      "away": "H43 Lund HF 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1827,6 +1779,18 @@
       "away": "HK Drott Halmstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "F19 / Damer J",
+      "hall": "Helsingborg Arena C",
+      "time": "18:20",
+      "date": "mån 04",
+      "month": "JANUARI 2027",
+      "home": "OV Helsingborg HK",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4408,6 +4372,42 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F14",
+      "hall": "Tolvåkers Idrottshall B",
+      "time": "19:30",
+      "date": "fre 06",
+      "month": "NOVEMBER 2026",
+      "home": "Lödde Vikings HK Svart",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "DAMER A",
+      "hall": "Sporthallen Höör",
+      "time": "19:00",
+      "date": "fre 06",
+      "month": "NOVEMBER 2026",
+      "home": "H 65 Gordies HK",
+      "away": "H43 Lund HF",
+      "score": "29 - 33",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26125_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P12",
+      "hall": "Tolvåkershallen B",
+      "time": "18:15",
+      "date": "fre 06",
+      "month": "NOVEMBER 2026",
+      "home": "Lödde Vikings",
+      "away": "H43 Lund",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/12085_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F19 / Damer J",
