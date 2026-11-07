@@ -1416,6 +1416,20 @@
   {
     "date": "ons 11",
     "month": "November",
+    "startTime": "17:40",
+    "endTime": "21:10",
+    "team": "F15",
+    "location": "Arenan",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Kiosk och golvtorkning - Damer A",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Kiosk och golvtorkning - Damer A, ArenanVi ska liksom tidigare år hjälpa H43:s voluntärgrupp genom att bemanna kiosk, entré och (från och med i år) vara golvtorkare under A-lagsmatch. Mer info hittar ni i bifogade filer.\n Behov av minst 5 personer som bemannar kiosken\n Minst 2 personer som bemannar grillen\n Behov av extra personer som kan stötta i inträdet samt hålla hallen snygg under matchens gång\n Förbered inför match och försäljning\n Återställ kiosken efter matchens slut\n Städa läktaren efter matchens slut\n Till er hjälp finns föreningens volontärer på plats"
+  },
+  {
+    "date": "ons 11",
+    "month": "November",
     "startTime": "18:00",
     "endTime": "19:00",
     "team": "F8",
@@ -1454,20 +1468,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Föräldramöte , ArenanHej!\nVi är glada att nu ha en ny huvudansvarig tränare, Caroline Ramstedt, på plats att ta över när Linnea lämnar för nya äventyr. Carro har idag ansvar för Damjuniorerna och tjejerna känner till henne sedan tidigare. &nbsp; \nNu bjuder vi in till föräldramöte för Carro att presentera sig och där vi kommer berätta om upplägget framåt. Ni kommer självklart ha möjlighet att ställa frågor. Vi hoppas på god uppslutning!\nTrevlig helg!"
-  },
-  {
-    "date": "ons 11",
-    "month": "November",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "team": "F15",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Heddahallen19:00 - 19:30: Löpning\n19:30 - 21:00: Hallträning"
   },
   {
     "date": "ons 11",
@@ -1614,6 +1614,20 @@
     "month": "November",
     "startTime": "20:00",
     "endTime": "21:30",
+    "team": "F15",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Tunahallen20:00 - 21:30: Hallträning"
+  },
+  {
+    "date": "tor 12",
+    "month": "November",
+    "startTime": "20:00",
+    "endTime": "21:30",
     "team": "F19 / Damer J",
     "location": "Tunahallen",
     "type": "Träning",
@@ -1650,20 +1664,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenFörsta 30 minutrarna utomhus samling vid Centrala Idrottsplatsen, (1h inomhus)."
-  },
-  {
-    "date": "fre 13",
-    "month": "November",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "F15",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
   },
   {
     "date": "fre 13",
@@ -1944,20 +1944,6 @@
     "homeAway": "borta",
     "meetingTime": "13:45",
     "info": "Kungälvs HK borta, Mimershallen A Kungälv (Herrar - Herrallsvenskan)"
-  },
-  {
-    "date": "lör 14",
-    "month": "November",
-    "startTime": "15:30",
-    "endTime": "19:00",
-    "team": "F15",
-    "location": "Idrottshallen",
-    "type": "Övrigt",
-    "title": "",
-    "opponent": "Kiosk och golvtorkning - Damer A",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Kiosk och golvtorkning - Damer A, IdrottshallenVi ska liksom tidigare år hjälpa H43:s voluntärgrupp genom att bemanna kiosk, entré och (från och med i år) vara golvtorkare under A-lagsmatch. Mer info hittar ni i bifogade filer.\n Behov av minst 5 personer som bemannar kiosken\n Minst 2 personer som bemannar grillen\n Behov av extra personer som kan stötta i inträdet samt hålla hallen snygg under matchens gång\n Förbered inför match och försäljning\n Återställ kiosken efter matchens slut\n Städa läktaren efter matchens slut\n Till er hjälp finns föreningens volontärer på plats"
   },
   {
     "date": "lör 14",
@@ -2622,6 +2608,20 @@
     "month": "November",
     "startTime": "20:00",
     "endTime": "21:30",
+    "team": "F15",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Tunahallen20:00 - 21:30: Hallträning"
+  },
+  {
+    "date": "tor 19",
+    "month": "November",
+    "startTime": "20:00",
+    "endTime": "21:30",
     "team": "F19 / Damer J",
     "location": "Tunahallen",
     "type": "Träning",
@@ -2658,20 +2658,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenFörsta 30 minutrarna utomhus samling vid Centrala Idrottsplatsen, (1h inomhus)."
-  },
-  {
-    "date": "fre 20",
-    "month": "November",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "F15",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
   },
   {
     "date": "fre 20",
@@ -3756,6 +3742,20 @@
     "month": "November",
     "startTime": "20:00",
     "endTime": "21:30",
+    "team": "F15",
+    "location": "Tunahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Tunahallen20:00 - 21:30: Hallträning"
+  },
+  {
+    "date": "tor 26",
+    "month": "November",
+    "startTime": "20:00",
+    "endTime": "21:30",
     "team": "F19 / Damer J",
     "location": "Tunahallen",
     "type": "Träning",
@@ -3792,20 +3792,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, HeddahallenFörsta 30 minutrarna utomhus samling vid Centrala Idrottsplatsen, (1h inomhus)."
-  },
-  {
-    "date": "fre 27",
-    "month": "November",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "team": "F15",
-    "location": "Fäladshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Fäladshallen 17:00 - 18:30: Hallträning"
   },
   {
     "date": "fre 27",
