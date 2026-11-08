@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-11-08T03:23:37.343Z",
+  "scrapedAt": "2026-11-08T12:27:01.749Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 498,
+  "matchCount": 499,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -62,7 +62,7 @@
       "home": "H43 Lund",
       "away": "KFUM Lundagård F2015",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -338,7 +338,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1358,7 +1358,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1479,6 +1479,18 @@
       "away": "IF Kristianstad 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
+      "team": "P10",
+      "hall": "Vipeholmshallen",
+      "time": "12:30",
+      "date": "lör 19",
+      "month": "DECEMBER 2026",
+      "home": "H43 Lund",
+      "away": "Staffanstorp",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
