@@ -1375,20 +1375,6 @@
     "date": "ons 11",
     "month": "November",
     "startTime": "17:30",
-    "endTime": "19:30",
-    "team": "DAMER A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan AHall 17.30 - Löpning 19.00"
-  },
-  {
-    "date": "ons 11",
-    "month": "November",
-    "startTime": "17:30",
     "endTime": "19:15",
     "team": "F14",
     "location": "Tornhallen",
@@ -1543,7 +1529,7 @@
     "date": "tor 12",
     "month": "November",
     "startTime": "17:30",
-    "endTime": "19:00",
+    "endTime": "19:30",
     "team": "DAMER A",
     "location": "Arenan A",
     "type": "Träning",
@@ -1551,7 +1537,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Träning, Arenan AOBS; Löpning efter hallträning."
   },
   {
     "date": "tor 12",
@@ -2028,6 +2014,20 @@
     "homeAway": "hemma",
     "meetingTime": "11:45",
     "info": "Karlshamns HF hemma, Sparbanken Skåne Arena B (Pojkar - P15 Syd)"
+  },
+  {
+    "date": "sön 15",
+    "month": "November",
+    "startTime": "12:45",
+    "endTime": "16:00",
+    "team": "F14",
+    "location": "Bollhuset",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Laghäng - bowling och pizza!",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Laghäng - bowling och pizza!, Bollhuset Det är dags för häng med laget. Vi bowlar och äter efterföljande pizza. \nObservera sista svarstid för kallelse, så att vi kan boka och planera."
   },
   {
     "date": "sön 15",
@@ -2755,7 +2755,7 @@
     "opponent": "Staffanstorp",
     "homeAway": "hemma",
     "meetingTime": "",
-    "info": "Staffanstorp hemma, Bollhuset ()En match 09.00\nVi är arrangörer."
+    "info": "Staffanstorp hemma, Bollhuset ()En match, 09.00. Vi samlas 08.20. \nVi är arrangörer och Linda (Elliots mamma) ansvarar för lättare kiosk. Hon återkopplar ev till någon inför matchen för att få hjälp. Annars hjälps vi alla åt på plats.\nMedtag matchkläder, vattenflaska och skor.\nSvara på kallelsen."
   },
   {
     "date": "lör 21",
@@ -3175,7 +3175,7 @@
     "opponent": "Ljunghusen + Vinslöv",
     "homeAway": "hemma",
     "meetingTime": "",
-    "info": "Ljunghusen + Vinslöv hemma, Henrikdalshallen, Ljunghusen ()Två matcher, 13:00+14.15"
+    "info": "Ljunghusen + Vinslöv hemma, Henrikdalshallen, Ljunghusen ()Två matcher, 13:00+14.15. Samling 12.20\nMedtag matchkläder, vattenflaska och skor.\nSvara på kallelsen."
   },
   {
     "date": "sön 22",
@@ -3945,7 +3945,7 @@
     "opponent": "Staffanstorp",
     "homeAway": "hemma",
     "meetingTime": "",
-    "info": "Staffanstorp hemma, Staffanshallen, Staffanstorp ()En match."
+    "info": "Staffanstorp hemma, Staffanshallen, Staffanstorp ()En match. 11.40. Samling 11.00. \nMedtag skor, matchkläder och vattenflaska. \nSvara på kallelsen."
   },
   {
     "date": "lör 28",
