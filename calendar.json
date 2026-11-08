@@ -1282,7 +1282,7 @@
     "location": "Nordic",
     "type": "Träning",
     "title": "",
-    "opponent": "Gemensamt gym",
+    "opponent": "Skriv vilken tid ni går! Gemensamt gym",
     "homeAway": "",
     "meetingTime": "",
     "info": ""
@@ -1389,7 +1389,7 @@
     "date": "ons 11",
     "month": "November",
     "startTime": "17:30",
-    "endTime": "19:15",
+    "endTime": "18:40",
     "team": "F19 / Damer J",
     "location": "Arenan A",
     "type": "Träning",
@@ -1397,7 +1397,7 @@
     "opponent": "",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Träning OBS! Ej ordinarie tid, Arenan A17:30-18:40 Halltid\n18:40-19:15 Löpning"
+    "info": "Träning OBS! Ej ordinarie tid, Arenan A17:30-18:40 Halltid"
   },
   {
     "date": "ons 11",
@@ -2858,7 +2858,7 @@
   {
     "date": "lör 21",
     "month": "November",
-    "startTime": "11:45",
+    "startTime": "12:00",
     "endTime": "",
     "team": "F11",
     "location": "Vipeholmshallen ()",
@@ -2866,8 +2866,8 @@
     "title": "",
     "opponent": "HK Ankaret",
     "homeAway": "hemma",
-    "meetingTime": "",
-    "info": "HK Ankaret hemma, Vipeholmshallen ()Seriesammandrag med totalt tre matcher på hemmaplan. Det behövs hjälp till matchvärd, sekretariat och kiosk så räkna med att minst en anhörig per spelare behöver hjälpa till.\n12:30 H43 Lund HF 3 - HK Ankaret 2\n13:50 HK Ankaret 2 - Eslövs HK 1\n15:10 H43 Lund HF 3 - Eslövs HK 1 \nKom i tid till samlingen, ombytt och redo för match. Vi vill ha svar på kallelsen senast en vecka före match."
+    "meetingTime": "11:45",
+    "info": "HK Ankaret hemma, Vipeholmshallen ()Seriesammandrag med totalt tre matcher på hemmaplan. Det behövs hjälp till matchvärd, sekretariat och kiosk så räkna med att minst en anhörig per spelare behöver hjälpa till.\nVi får tillgång till hallen kl 12, och första matchen är 12.30 så kom i tid och var ombytta.\n12:30 H43 Lund HF 3 - HK Ankaret 2\n13:50 HK Ankaret 2 - Eslövs HK 1\n15:10 H43 Lund HF 3 - Eslövs HK 1 \nVi vill ha svar på kallelsen senast en vecka före match."
   },
   {
     "date": "lör 21",
