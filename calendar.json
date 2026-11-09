@@ -1752,6 +1752,20 @@
   {
     "date": "lör 14",
     "month": "November",
+    "startTime": "08:30",
+    "endTime": "",
+    "team": "P9",
+    "location": "Bollhuset A ()",
+    "type": "Match",
+    "title": "",
+    "opponent": "Minihandboll hemma",
+    "homeAway": "hemma",
+    "meetingTime": "",
+    "info": "Minihandboll hemma hemma, Bollhuset A ()Den 14 november arrangerar vi både minihandboll och kortplansmatcher på Bollhuset.\nVid detta tillfället kommer vi att behöva hjälp från er föräldrar med bland annat sekretariat, matchvärd och kiosk. Se länk i Whatsapp-chatten. \nVåra matchtider för mini (sammandraget pågår till klockan 11.30):\n9:00 Lugi 3 - H43 plan 2\n9:30 GW Landskrona - H43 plan 1\n10:30 Lugi 1 - H43 plan 2\nSpelschema för kortplansmatcherna:\n13.30 H43 - Ankaret 2\n14.30 Ankaret - Kristianstad \n15.30 H43 - Kristianstad \nVi skickar separata kallelser till mini och kortplan, och hoppas att så många som möjligt vill vara med hela dagen. Detta ger killarna ett bra tillfälle att hänga med varandra utanför planen ??\nSvara på kallelsen så snart ni kan, senast en vecka före match."
+  },
+  {
+    "date": "lör 14",
+    "month": "November",
     "startTime": "09:00",
     "endTime": "10:00",
     "team": "U7",
@@ -1776,20 +1790,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "lör 14",
-    "month": "November",
-    "startTime": "09:00",
-    "endTime": "",
-    "team": "P9",
-    "location": "Bollhuset A ()",
-    "type": "Match",
-    "title": "",
-    "opponent": "Minihandboll hemma",
-    "homeAway": "hemma",
-    "meetingTime": "",
-    "info": "Minihandboll hemma hemma, Bollhuset A ()Den 14 november arrangerar vi både minihandboll och kortplansmatcher på Bollhuset.\nVid detta tillfället kommer vi att behöva hjälp från er föräldrar med bland annat sekretariat och matchvärd. Vi ska undersöka möjligheterna att ha egen kiosk.\nSpelschema för mini är inte spikad än, men pågår ungefär kl 9-12. Spelschema för kortplansmatcherna är följande:\n13.30 H43 - Ankaret 2\n14.30 Ankaret - Kristianstad \n15.30 H43 - Kristianstad \nVi skickar separata kallelser till mini och kortplan, och hoppas att så många som möjligt vill vara med hela dagen. Detta ger killarna ett bra tillfälle att hänga med varandra utanför planen ??\nSvara på kallelsen så snart ni kan, senast en vecka före match."
   },
   {
     "date": "lör 14",
@@ -1859,7 +1859,7 @@
     "opponent": "Kortplansmatcher - Ankaret och Kristianstad",
     "homeAway": "hemma",
     "meetingTime": "",
-    "info": "Kortplansmatcher - Ankaret och Kristianstad hemma, Bollhuset A ()Den 14 november arrangerar vi både minihandboll och kortplansmatcher på Bollhuset. \nVid detta tillfället kommer vi att behöva hjälp från er föräldrar med bland annat sekretariat och matchvärd. Vi ska undersöka möjligheterna att ha egen kiosk.\nMinihandbollen är på förmiddagen och kortplansmatcherna på eftermiddagen. \nSpelschema för mini är inte spikad än, men pågår ungefär kl 9-12. Spelschema för kortplansmatcherna är följande:\n13.30 H43 - Ankaret 2\n14.30 Ankaret - Kristianstad \n15.30 H43 - Kristianstad \nVi skickar separata kallelser till mini och kortplan, och hoppas att så många som möjligt vill vara med hela dagen. Detta ger killarna ett bra tillfälle att hänga med varandra utanför planen ??"
+    "info": "Kortplansmatcher - Ankaret och Kristianstad hemma, Bollhuset A ()Den 14 november arrangerar vi både minihandboll och kortplansmatcher på Bollhuset. \nVid detta tillfället kommer vi att behöva hjälp från er föräldrar med bland annat sekretariat, matchvärd och kiosk. Se länk i Whatsapp-gruppen. \nMinihandbollen är på förmiddagen och kortplansmatcherna på eftermiddagen. \nSpelschema för minihandboll pågår fram till 11.30. Spelschema för kortplansmatcherna är följande:\n13.30 H43 - Ankaret 2\n14.30 Ankaret - Kristianstad \n15.30 H43 - Kristianstad \nVi skickar separata kallelser till mini och kortplan, och hoppas att så många som möjligt vill vara med hela dagen. Detta ger killarna ett bra tillfälle att hänga med varandra utanför planen ??"
   },
   {
     "date": "lör 14",
