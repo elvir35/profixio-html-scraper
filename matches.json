@@ -1,46 +1,10 @@
 {
-  "scrapedAt": "2026-11-08T21:28:47.766Z",
+  "scrapedAt": "2026-11-09T03:41:24.972Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 499,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "P19",
-      "hall": "Brinova Arena Karlskrona",
-      "time": "11:40",
-      "date": "sön 08",
-      "month": "NOVEMBER 2026",
-      "home": "HF Karlskrona",
-      "away": "H43 Lund HF 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "HK Blå 85",
-      "hall": "Brinova Arena Karlskrona",
-      "time": "14:00",
-      "date": "sön 08",
-      "month": "NOVEMBER 2026",
-      "home": "HF Karlskrona U",
-      "away": "HK Blå 85 Lund",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26363_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P19",
-      "hall": "Norrevångskolan",
-      "time": "16:30",
-      "date": "sön 08",
-      "month": "NOVEMBER 2026",
-      "home": "Mörrums GOIS HK",
-      "away": "H43 Lund HF 3",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "F15",
       "hall": "Bollhuset A",
@@ -4252,6 +4216,42 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P19",
+      "hall": "Norrevångskolan",
+      "time": "16:30",
+      "date": "sön 08",
+      "month": "NOVEMBER 2026",
+      "home": "Mörrums GOIS HK",
+      "away": "H43 Lund HF 3",
+      "score": "28 - 27",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Brinova Arena Karlskrona",
+      "time": "14:00",
+      "date": "sön 08",
+      "month": "NOVEMBER 2026",
+      "home": "HF Karlskrona U",
+      "away": "HK Blå 85 Lund",
+      "score": "23 - 29",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26363_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "P19",
+      "hall": "Brinova Arena Karlskrona",
+      "time": "11:40",
+      "date": "sön 08",
+      "month": "NOVEMBER 2026",
+      "home": "HF Karlskrona",
+      "away": "H43 Lund HF 1",
+      "score": "28 - 25",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "F19 / Damer J",
