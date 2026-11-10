@@ -1794,20 +1794,6 @@
   {
     "date": "lör 14",
     "month": "November",
-    "startTime": "09:45",
-    "endTime": "11:45",
-    "team": "F9",
-    "location": "Bollhuset A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träningsmatcher med LUGI, Bollhuset AVi tränar matcher inför Lundaspelen tillsammans med LUGI F2017. 2 matcher &nbsp;2x15min. Storplan och lundaspelen regler.\nDenna aktivitet ersätter ordinarie träning denna dag. Man behöver inte vara med i Lundaspelen för att vara med här."
-  },
-  {
-    "date": "lör 14",
-    "month": "November",
     "startTime": "10:00",
     "endTime": "11:00",
     "team": "F11",
@@ -1818,6 +1804,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Extraträning, Fäladshallen BVi har fått en extra träningstid lördag 14 november klockan 10-11 i Fäladshallen B. Kom i tid och var redo när träningen börjar."
+  },
+  {
+    "date": "lör 14",
+    "month": "November",
+    "startTime": "10:00",
+    "endTime": "11:45",
+    "team": "F9",
+    "location": "Bollhuset A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träningsmatcher med LUGI, Bollhuset AVi tränar matcher inför Lundaspelen tillsammans med LUGI F2017. 2 matcher &nbsp;2x15min. Storplan och lundaspelen regler.\nDenna aktivitet ersätter ordinarie träning denna dag. Man behöver inte vara med i Lundaspelen för att vara med här."
   },
   {
     "date": "lör 14",
