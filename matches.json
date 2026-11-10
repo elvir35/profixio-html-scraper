@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-11-10T13:57:40.276Z",
+  "scrapedAt": "2026-11-10T22:39:17.356Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
-  "matchCount": 499,
+  "matchCount": 498,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
@@ -4454,18 +4454,6 @@
       "home": "HK Drott Halmstad",
       "away": "H43 Lund HF",
       "score": "24 - 27",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
-      "status": "played"
-    },
-    {
-      "team": "F15",
-      "hall": "Bollhuset A",
-      "time": "19:15",
-      "date": "mån 02",
-      "month": "NOVEMBER 2026",
-      "home": "H43 Lund HF",
-      "away": "HK Drott Halmstad Vit",
-      "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
       "status": "played"
     },
