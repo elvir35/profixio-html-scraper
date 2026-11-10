@@ -1,22 +1,10 @@
 {
-  "scrapedAt": "2026-11-09T14:41:51.594Z",
+  "scrapedAt": "2026-11-10T00:58:32.917Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 499,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "F15",
-      "hall": "Bollhuset A",
-      "time": "19:15",
-      "date": "mån 09",
-      "month": "NOVEMBER 2026",
-      "home": "H43 Lund HF",
-      "away": "HK Björnen",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26413_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P11",
       "hall": "Gunnesbohallen",
@@ -26,7 +14,7 @@
       "home": "H43 Lund",
       "away": "KFUM Lundagård F2015",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -302,7 +290,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -374,7 +362,7 @@
       "home": "H43 Lund HF 2",
       "away": "HF Syd",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/28144_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -650,7 +638,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1322,7 +1310,7 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1454,7 +1442,7 @@
       "home": "H43 Lund",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1826,7 +1814,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4216,6 +4204,18 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "F15",
+      "hall": "Bollhuset A",
+      "time": "19:15",
+      "date": "mån 09",
+      "month": "NOVEMBER 2026",
+      "home": "H43 Lund HF",
+      "away": "HK Björnen",
+      "score": "35 - 15",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26413_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "P19",
