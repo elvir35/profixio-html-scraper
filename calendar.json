@@ -1375,20 +1375,6 @@
     "date": "ons 11",
     "month": "November",
     "startTime": "17:30",
-    "endTime": "19:15",
-    "team": "F14",
-    "location": "Tornhallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Tornhallen, StångbyLöpning ute 17:30 - 17:55\nTräning inne 18:00 - 19:15\nLöpnningen är INTE frivillig utan alla förväntas delta. Skulle vädret vara emot oss så meddelar vi detta i så god tid som möjligt."
-  },
-  {
-    "date": "ons 11",
-    "month": "November",
-    "startTime": "17:30",
     "endTime": "18:40",
     "team": "F19 / Damer J",
     "location": "Arenan A",
@@ -1412,6 +1398,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Kiosk och golvtorkning - Damer A, ArenanVi ska liksom tidigare år hjälpa H43:s voluntärgrupp genom att bemanna kiosk, entré och (från och med i år) vara golvtorkare under A-lagsmatch. Mer info hittar ni i bifogade filer.\n Behov av minst 5 personer som bemannar kiosken\n Minst 2 personer som bemannar grillen\n Behov av extra personer som kan stötta i inträdet samt hålla hallen snygg under matchens gång\n Förbered inför match och försäljning\n Återställ kiosken efter matchens slut\n Städa läktaren efter matchens slut\n Till er hjälp finns föreningens volontärer på plats"
+  },
+  {
+    "date": "ons 11",
+    "month": "November",
+    "startTime": "17:45",
+    "endTime": "19:15",
+    "team": "F14",
+    "location": "Tornhallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Tornhallen, StångbyTeori 17:45 - 18:00\nTräning inne 18:00 - 19:15"
   },
   {
     "date": "ons 11",
@@ -1718,8 +1718,8 @@
     "title": "",
     "opponent": "IFK Ystad HK",
     "homeAway": "hemma",
-    "meetingTime": "18:15",
-    "info": "IFK Ystad HK hemma, Sparbanken Skåne Arena B (Damer - Dam 3 Syd)"
+    "meetingTime": "18:00",
+    "info": "IFK Ystad HK hemma, Sparbanken Skåne Arena B (Damer - Dam 3 Syd)Hemmamatch mot IFK Ystad! \nVi ska befästa vår tabellposition så tagga!\nSamling Arena B kl. 18.00, blått matchställ.\n/ Coach J"
   },
   {
     "date": "fre 13",
@@ -3110,7 +3110,7 @@
   {
     "date": "sön 22",
     "month": "November",
-    "startTime": "11:30",
+    "startTime": "12:00",
     "endTime": "",
     "team": "F15",
     "location": "Sånnahallen B (Flickor - F15 Syd)",
@@ -3118,7 +3118,7 @@
     "title": "",
     "opponent": "Åhus HB F14",
     "homeAway": "borta",
-    "meetingTime": "10:30",
+    "meetingTime": "11:00",
     "info": "Åhus HB F14 borta, Sånnahallen B (Flickor - F15 Syd)"
   },
   {
