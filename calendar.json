@@ -3085,13 +3085,13 @@
     "startTime": "12:00",
     "endTime": "",
     "team": "F15",
-    "location": "Sånnahallen B (Flickor - F15 Syd)",
+    "location": "Sånnahallen A (Flickor - F15 Syd)",
     "type": "Match",
     "title": "",
     "opponent": "Åhus HB F14",
     "homeAway": "borta",
     "meetingTime": "11:00",
-    "info": "Åhus HB F14 borta, Sånnahallen B (Flickor - F15 Syd)"
+    "info": "Åhus HB F14 borta, Sånnahallen A (Flickor - F15 Syd)"
   },
   {
     "date": "sön 22",
@@ -3168,20 +3168,6 @@
     "month": "November",
     "startTime": "15:00",
     "endTime": "",
-    "team": "HK Blå 85",
-    "location": "Sånnahallen A (Herrar - Herr 3 Syd)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Åhus HB B",
-    "homeAway": "borta",
-    "meetingTime": "13:30",
-    "info": "Åhus HB B borta, Sånnahallen A (Herrar - Herr 3 Syd)"
-  },
-  {
-    "date": "sön 22",
-    "month": "November",
-    "startTime": "15:00",
-    "endTime": "",
     "team": "P12",
     "location": "Ystad Arena A1 (Pojkar - P12 Syd Nivå 2)",
     "type": "Match",
@@ -3190,6 +3176,20 @@
     "homeAway": "borta",
     "meetingTime": "14:15",
     "info": "Ystads IF HF Gul borta, Ystad Arena A1 (Pojkar - P12 Syd Nivå 2)Seriematch. Avkast kl. 15.00: Ystad IF - H43 Lund\nSamling i Ystad Arena kl. 14.15. Kom matchklädd, ta med boll. Vänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
+  },
+  {
+    "date": "sön 22",
+    "month": "November",
+    "startTime": "15:30",
+    "endTime": "",
+    "team": "HK Blå 85",
+    "location": "Sånnahallen A (Herrar - Herr 3 Syd)",
+    "type": "Match",
+    "title": "",
+    "opponent": "Åhus HB B",
+    "homeAway": "borta",
+    "meetingTime": "14:00",
+    "info": "Åhus HB B borta, Sånnahallen A (Herrar - Herr 3 Syd)"
   },
   {
     "date": "sön 22",
