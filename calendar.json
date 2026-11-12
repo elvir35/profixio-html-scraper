@@ -1528,6 +1528,34 @@
   {
     "date": "tor 12",
     "month": "November",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "F15",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Arenan A17:30 - 19:00: Hallträning"
+  },
+  {
+    "date": "tor 12",
+    "month": "November",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "team": "F19 / Damer J",
+    "location": "Arenan A",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Träning, Arenan AHallträning 20:00-21:30"
+  },
+  {
+    "date": "tor 12",
+    "month": "November",
     "startTime": "18:00",
     "endTime": "19:00",
     "team": "P8",
@@ -1580,34 +1608,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "tor 12",
-    "month": "November",
-    "startTime": "20:00",
-    "endTime": "21:30",
-    "team": "F15",
-    "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Tunahallen20:00 - 21:30: Hallträning"
-  },
-  {
-    "date": "tor 12",
-    "month": "November",
-    "startTime": "20:00",
-    "endTime": "21:30",
-    "team": "F19 / Damer J",
-    "location": "Tunahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, TunahallenHallträning 20:00-21:30"
   },
   {
     "date": "tor 12",
@@ -2906,10 +2906,10 @@
     "location": "Västervångshallen (Pojkar - P12 Syd Nivå 1)",
     "type": "Match",
     "title": "",
-    "opponent": "IFK Ystad HK 1",
+    "opponent": "IFK Ystad HK 1 och Ystad IF HF Vit",
     "homeAway": "borta",
     "meetingTime": "13:30",
-    "info": "IFK Ystad HK 1 borta, Västervångshallen (Pojkar - P12 Syd Nivå 1)"
+    "info": "IFK Ystad HK 1 och Ystad IF HF Vit borta, Västervångshallen (Pojkar - P12 Syd Nivå 1)Seriematcher. Vi spelar två matcher ganska tätt på varandra därför kallar vi några extra spelare den här gången. \nKl. 14.15: IFK Ystad - H43 Lund\nKl. 15.30: Ystad IF - H43 Lund\nSamling i Västervångshallen, Ystad kl. 13.30. Kom matchklädd, ta med boll. Vänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "lör 21",
@@ -2924,20 +2924,6 @@
     "homeAway": "hemma",
     "meetingTime": "13:55",
     "info": "Eslövs HK 2 hemma, Bollhuset A (Pojkar - P19 Syd)"
-  },
-  {
-    "date": "lör 21",
-    "month": "November",
-    "startTime": "15:30",
-    "endTime": "",
-    "team": "P12",
-    "location": "Västervångshallen (Pojkar - P12 Syd Nivå 1)",
-    "type": "Match",
-    "title": "",
-    "opponent": "Ystads IF HF Vit",
-    "homeAway": "borta",
-    "meetingTime": "14:45",
-    "info": "Ystads IF HF Vit borta, Västervångshallen (Pojkar - P12 Syd Nivå 1)"
   },
   {
     "date": "lör 21",
@@ -3203,7 +3189,7 @@
     "opponent": "Ystads IF HF Gul",
     "homeAway": "borta",
     "meetingTime": "14:15",
-    "info": "Ystads IF HF Gul borta, Ystad Arena A1 (Pojkar - P12 Syd Nivå 2)"
+    "info": "Ystads IF HF Gul borta, Ystad Arena A1 (Pojkar - P12 Syd Nivå 2)Seriematch. Avkast kl. 15.00: Ystad IF - H43 Lund\nSamling i Ystad Arena kl. 14.15. Kom matchklädd, ta med boll. Vänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "sön 22",
