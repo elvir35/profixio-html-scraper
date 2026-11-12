@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T14:15:02.902Z",
+  "scrapedAt": "2026-11-12T22:58:26.555Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 497,
   "hasMatches": true,
@@ -498,6 +498,18 @@
       "status": "upcoming"
     },
     {
+      "team": "P12",
+      "hall": "Ystad Arena",
+      "time": "12:30",
+      "date": "sön 22",
+      "month": "NOVEMBER 2026",
+      "home": "Ystads IF HF Gul",
+      "away": "H43 Lund HF 2",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "status": "upcoming"
+    },
+    {
       "team": "F19 / Damer J",
       "hall": "Ystad Arena A2",
       "time": "13:00",
@@ -531,18 +543,6 @@
       "away": "Eskilstuna Guif IF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26170_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P12",
-      "hall": "Ystad Arena A1",
-      "time": "15:00",
-      "date": "sön 22",
-      "month": "NOVEMBER 2026",
-      "home": "Ystads IF HF Gul",
-      "away": "H43 Lund HF 2",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
