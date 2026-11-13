@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T22:58:26.555Z",
+  "scrapedAt": "2026-11-13T04:07:09.367Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 497,
   "hasMatches": true,
@@ -602,7 +602,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1778,7 +1778,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
