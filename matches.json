@@ -1,34 +1,10 @@
 {
-  "scrapedAt": "2026-11-13T13:38:24.717Z",
+  "scrapedAt": "2026-11-13T23:00:59.934Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 497,
   "hasMatches": true,
   "message": "Matches retrieved successfully",
   "matches": [
-    {
-      "team": "HK Blå 85",
-      "hall": "Sparbanken Skåne Arena B",
-      "time": "19:30",
-      "date": "fre 13",
-      "month": "NOVEMBER 2026",
-      "home": "HK Blå 85 Lund",
-      "away": "IFK Ystad HK",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
-      "status": "upcoming"
-    },
-    {
-      "team": "P15",
-      "hall": "Korsbackahallen A",
-      "time": "20:00",
-      "date": "fre 13",
-      "month": "NOVEMBER 2026",
-      "home": "Kävlinge HK",
-      "away": "H43 Lund HF 1",
-      "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
-      "status": "upcoming"
-    },
     {
       "team": "P9",
       "hall": "Bollhuset A",
@@ -4168,6 +4144,30 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
+    },
+    {
+      "team": "P15",
+      "hall": "Korsbackahallen A",
+      "time": "20:00",
+      "date": "fre 13",
+      "month": "NOVEMBER 2026",
+      "home": "Kävlinge HK",
+      "away": "H43 Lund HF 1",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "status": "played"
+    },
+    {
+      "team": "HK Blå 85",
+      "hall": "Sparbanken Skåne Arena B",
+      "time": "19:30",
+      "date": "fre 13",
+      "month": "NOVEMBER 2026",
+      "home": "HK Blå 85 Lund",
+      "away": "IFK Ystad HK",
+      "score": "",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "status": "played"
     },
     {
       "team": "DAMER A",
