@@ -1753,20 +1753,6 @@
     "date": "lör 14",
     "month": "November",
     "startTime": "09:00",
-    "endTime": "10:30",
-    "team": "P10",
-    "location": "Vipeholmshallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "lör 14",
-    "month": "November",
-    "startTime": "09:00",
     "endTime": "",
     "team": "P9",
     "location": "Bollhuset A ()",
@@ -2103,6 +2089,20 @@
     "date": "mån 16",
     "month": "November",
     "startTime": "18:00",
+    "endTime": "19:30",
+    "team": "DAMER A",
+    "location": "Heddahallen",
+    "type": "Träning",
+    "title": "",
+    "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "mån 16",
+    "month": "November",
+    "startTime": "18:00",
     "endTime": "20:15",
     "team": "F19 / Damer J",
     "location": "Heddahallen",
@@ -2186,20 +2186,6 @@
   {
     "date": "mån 16",
     "month": "November",
-    "startTime": "19:30",
-    "endTime": "21:00",
-    "team": "DAMER A",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
-  },
-  {
-    "date": "mån 16",
-    "month": "November",
     "startTime": "20:30",
     "endTime": "22:30",
     "team": "HERRAR U",
@@ -2221,6 +2207,20 @@
     "type": "Träning",
     "title": "",
     "opponent": "",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "tis 17",
+    "month": "November",
+    "startTime": "16:00",
+    "endTime": "19:30",
+    "team": "F19 / Damer J",
+    "location": "Nordic",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Gemensamt gym",
     "homeAway": "",
     "meetingTime": "",
     "info": ""
@@ -2280,20 +2280,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Tornhallen, Stångby"
-  },
-  {
-    "date": "tis 17",
-    "month": "November",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "team": "F19 / Damer J",
-    "location": "Nordic",
-    "type": "Träning",
-    "title": "",
-    "opponent": "Gemensamt gym",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tis 17",
@@ -2364,20 +2350,6 @@
     "homeAway": "hemma",
     "meetingTime": "17:50",
     "info": "Halmstad HF hemma, Sparbanken Skåne Arena B (Herrar - Herr 3 Syd)"
-  },
-  {
-    "date": "tis 17",
-    "month": "November",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "team": "HK Blå 85",
-    "location": "Arenan B",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "ons 18",
@@ -3034,7 +3006,7 @@
     "title": "",
     "opponent": "Ystads IF HF Blå",
     "homeAway": "borta",
-    "meetingTime": "09:00",
+    "meetingTime": "09:20",
     "info": "Ystads IF HF Blå borta, Köpingebrohallen (Pojkar - P11 Syd)"
   },
   {
