@@ -2102,20 +2102,6 @@
   {
     "date": "mån 16",
     "month": "November",
-    "startTime": "18:00",
-    "endTime": "20:15",
-    "team": "F19 / Damer J",
-    "location": "Heddahallen",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Heddahallen18:00-19:30 Hallträning\n19:30-20:15 Löpning"
-  },
-  {
-    "date": "mån 16",
-    "month": "November",
     "startTime": "18:30",
     "endTime": "20:00",
     "team": "F14",
@@ -2504,6 +2490,20 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
+  },
+  {
+    "date": "tor 19",
+    "month": "November",
+    "startTime": "17:30",
+    "endTime": "21:00",
+    "team": "P15",
+    "location": "Idrottshallen",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Kioskhjälp vid Herrmatch",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Kioskhjälp vid Herrmatch, IdrottshallenPå torsdag spelar herrarna hemmamatch i idrottshallen. Det är nu vårt lags tur att hjälpa till i kiosken och torka golv.\nDet är samling i idrottshallen 17.30.\nVi behöver minst 7 personer att sköta kiosken (och eventuellt grilla). Utöver det behöver vi 2-4 personer som kan sitta under matchen och vara redo att torka golv.\nI uppdraget ingår även för samtliga i laget att städa läktaren efter matchen.\nDe som inte hjälper till hejar på H43!"
   },
   {
     "date": "tor 19",
@@ -2922,8 +2922,8 @@
     "title": "",
     "opponent": "Växjö HF",
     "homeAway": "borta",
-    "meetingTime": "15:45",
-    "info": "Växjö HF borta, Griffel Arena (Damer - Dam 3 Syd)"
+    "meetingTime": "13:00",
+    "info": "Växjö HF borta, Griffel Arena (Damer - Dam 3 Syd)Bortamatch mot Växjö HJ. Samling 13.00 Arena Park. Blått matchställ.\nBilar behövs så ange i svaret om ni har möjlighet att köra till matchen. \nSåklart delar alla i bilen på bensinkostnaden.\n/ Jonas"
   },
   {
     "date": "lör 21",
@@ -3085,13 +3085,13 @@
     "startTime": "12:30",
     "endTime": "",
     "team": "P12",
-    "location": "Ystad Arena  (Pojkar - P12 Syd Nivå 2)",
+    "location": "Ystad Arena A1 (Pojkar - P12 Syd Nivå 2)",
     "type": "Match",
     "title": "",
     "opponent": "Ystads IF HF Gul",
     "homeAway": "borta",
     "meetingTime": "11:45",
-    "info": "Ystads IF HF Gul borta, Ystad Arena (Pojkar - P12 Syd Nivå 2)Seriematch. Avkast kl. 12.30: Ystad IF - H43 Lund\nSamling i Ystad Arena kl. 11.45. Kom matchklädd, ta med boll. Vänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
+    "info": "Ystads IF HF Gul borta, Ystad Arena A1 (Pojkar - P12 Syd Nivå 2)Seriematch. Avkast kl. 12.30: Ystad IF - H43 Lund\nSamling i Ystad Arena kl. 11.45. Kom matchklädd, ta med boll. Vänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "sön 22",
