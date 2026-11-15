@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-15T13:09:27.803Z",
+  "scrapedAt": "2026-11-15T22:16:55.608Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 497,
   "hasMatches": true,
@@ -355,7 +355,7 @@
     },
     {
       "team": "P12",
-      "hall": "Ystad Arena",
+      "hall": "Ystad Arena A1",
       "time": "12:30",
       "date": "sön 22",
       "month": "NOVEMBER 2026",
@@ -458,7 +458,7 @@
       "home": "Match",
       "away": "Staffanstorp",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1634,7 +1634,7 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "status": "upcoming"
     },
     {
