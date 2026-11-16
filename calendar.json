@@ -1920,11 +1920,25 @@
   {
     "date": "sön 15",
     "month": "November",
+    "startTime": "00:00",
+    "endTime": "",
+    "team": "P19",
+    "location": "USM steg2 ()",
+    "type": "Träning",
+    "title": "",
+    "opponent": "USM steg 2",
+    "homeAway": "borta",
+    "meetingTime": "",
+    "info": ""
+  },
+  {
+    "date": "sön 15",
+    "month": "November",
     "startTime": "09:00",
     "endTime": "",
     "team": "P12",
     "location": "Sparbanken Skåne Arena B (Pojkar - P12 Syd Nivå 2)",
-    "type": "Träning",
+    "type": "Match",
     "title": "",
     "opponent": "HK Halmstad Svart",
     "homeAway": "hemma",
@@ -3085,13 +3099,13 @@
     "startTime": "12:30",
     "endTime": "",
     "team": "P12",
-    "location": "Ystad Arena A1 (Pojkar - P12 Syd Nivå 2)",
+    "location": "Ystad Arena  B (Pojkar - P12 Syd Nivå 2)",
     "type": "Match",
     "title": "",
     "opponent": "Ystads IF HF Gul",
     "homeAway": "borta",
     "meetingTime": "11:45",
-    "info": "Ystads IF HF Gul borta, Ystad Arena A1 (Pojkar - P12 Syd Nivå 2)Seriematch. Avkast kl. 12.30: Ystad IF - H43 Lund\nSamling i Ystad Arena kl. 11.45. Kom matchklädd, ta med boll. Vänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
+    "info": "Ystads IF HF Gul borta, Ystad Arena B (Pojkar - P12 Syd Nivå 2)Seriematch. Avkast kl. 12.30: Ystad IF - H43 Lund\nSamling i Ystad Arena kl. 11.45. Kom matchklädd, ta med boll. Vänligen svara på kallelsen så fort som möjligt, senast nu på söndag, tack!\nMVH/ Tränarna"
   },
   {
     "date": "sön 22",
