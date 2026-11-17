@@ -2565,6 +2565,20 @@
     "date": "tor 19",
     "month": "November",
     "startTime": "19:00",
+    "endTime": "20:40",
+    "team": "P12",
+    "location": "Idrottshallen",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Heja på A-laget H43-HK Varberg",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Heja på A-laget H43-HK Varberg, IdrottshallenH43 möter HK Varberg &nbsp;i herrallsvenskan nu på torsdag den 19 november, matchstart kl. 19.00 i Idrottshallen. Klä er i blått och kom och heja! Spelare, ledare och barn upp till 12 år går in gratis, övriga köper biljetter här: \nhttps://h43lund.ticketco.events/se/en/e/h43_lund_hf__hk_varberg\n// Tränarna"
+  },
+  {
+    "date": "tor 19",
+    "month": "November",
+    "startTime": "19:00",
     "endTime": "21:00",
     "team": "P19",
     "location": "Heddahallen",
@@ -2644,20 +2658,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "fre 20",
-    "month": "November",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "team": "P12",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Fysträning, StadsparkenTräning utomhus, kläder efter väder."
   },
   {
     "date": "fre 20",
@@ -2831,15 +2831,15 @@
     "date": "lör 21",
     "month": "November",
     "startTime": "12:30",
-    "endTime": "17:00",
+    "endTime": "17:15",
     "team": "F9",
-    "location": "Fäladshallen A ()",
+    "location": "Fäladshallen A",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Flera lag",
-    "homeAway": "hemma",
+    "opponent": "Sammandrag (vårt egna)",
+    "homeAway": "",
     "meetingTime": "",
-    "info": ""
+    "info": "Sammandrag (vårt egna), Fäladshallen APå lördag blir det terminens hemmaarrangemang.\n12 gästande lag. Massor med handboll! Tjejerna spelar och hänger och vi föräldrar fixar ett trevligt arrangemang för alla våra gäster.\nSpelchema:\nhttps://sammandrag.se/app/present/FLATDS\nSchema bemanning:\nhttps://docs.google.com/spreadsheets/d/1nfW0WqFC3Qdco7nZ8czOae7xIxycnX7qFX9blqUBwms/edit?usp=sharing\n- Kolla upp schemat. Byt inbördes om ni behöver."
   },
   {
     "date": "lör 21",
@@ -3134,6 +3134,20 @@
     "homeAway": "hemma",
     "meetingTime": "",
     "info": "Ljunghusen + Vinslöv hemma, Henrikdalshallen, Ljunghusen ()Två matcher, 13:00+14.15. Samling 12.20\nMedtag matchkläder, vattenflaska och skor.\nSvara på kallelsen."
+  },
+  {
+    "date": "sön 22",
+    "month": "November",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "team": "P15",
+    "location": "Arenan A",
+    "type": "Övrigt",
+    "title": "",
+    "opponent": "Övrigt",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Övrigt, Arenan APå söndag 22/11 ska ansvarar vi för golvtorkning under matchen H43-Guif.\nDet behövs fyra killar. Är det fler än fyra som anmäler sig så fördelas uppdraget genom lottning.\nTa chansen att hamna väldigt nära planen och spelarna!\nInformation\nVarje A-lagsmatch krävs det 4 golvtorkare.\nH43 förser er med tröjor från vår sponsor Hemrex. \nTänk på att ha inomhusskor på er. \nHa koll på domarna som vinkar in er vid behov av golvtorkning under \nmatchen. \nVid timeouter placerar ni er bakom vars ett lag för att snabbt kunna torka \nupp eventuellt vattenspill efter lagen är klara med sina timeouts."
   },
   {
     "date": "sön 22",
@@ -3750,20 +3764,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": ""
-  },
-  {
-    "date": "fre 27",
-    "month": "November",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "team": "P12",
-    "location": "Stadsparken",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Fysträning, StadsparkenTräning utomhus, kläder efter väder."
   },
   {
     "date": "fre 27",
