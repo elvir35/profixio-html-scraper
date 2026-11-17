@@ -2831,15 +2831,29 @@
     "date": "lör 21",
     "month": "November",
     "startTime": "12:30",
+    "endTime": "17:00",
+    "team": "F9",
+    "location": "Sjöviksskolan Trelleborg",
+    "type": "Träning",
+    "title": "",
+    "opponent": "Handbollsfestival",
+    "homeAway": "",
+    "meetingTime": "",
+    "info": "Handbollsfestival, Sjöviksskolan TrelleborgMatchsammandrag / handbollsfesival , minihandboll, (flyttat till Trelleborg)\nArrangör: Stavsten HK.\n2 lag anmälda."
+  },
+  {
+    "date": "lör 21",
+    "month": "November",
+    "startTime": "12:30",
     "endTime": "17:15",
     "team": "F9",
     "location": "Fäladshallen A",
     "type": "Övrigt",
     "title": "",
-    "opponent": "Sammandrag (vårt egna)",
+    "opponent": "*INSTÄLLT* Sammandrag (vårt egna)",
     "homeAway": "",
     "meetingTime": "",
-    "info": "Sammandrag (vårt egna), Fäladshallen APå lördag blir det terminens hemmaarrangemang.\n12 gästande lag. Massor med handboll! Tjejerna spelar och hänger och vi föräldrar fixar ett trevligt arrangemang för alla våra gäster.\nSpelchema:\nhttps://sammandrag.se/app/present/FLATDS\nSchema bemanning:\nhttps://docs.google.com/spreadsheets/d/1nfW0WqFC3Qdco7nZ8czOae7xIxycnX7qFX9blqUBwms/edit?usp=sharing\n- Kolla upp schemat. Byt inbördes om ni behöver."
+    "info": "*INSTÄLLT* Sammandrag (vårt egna), Fäladshallen APå lördag blir det terminens hemmaarrangemang.\n12 gästande lag. Massor med handboll! Tjejerna spelar och hänger och vi föräldrar fixar ett trevligt arrangemang för alla våra gäster.\nSpelchema:\nhttps://sammandrag.se/app/present/FLATDS\nSchema bemanning:\nhttps://docs.google.com/spreadsheets/d/1nfW0WqFC3Qdco7nZ8czOae7xIxycnX7qFX9blqUBwms/edit?usp=sharing\n- Kolla upp schemat. Byt inbördes om ni behöver."
   },
   {
     "date": "lör 21",
