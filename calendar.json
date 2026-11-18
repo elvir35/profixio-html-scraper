@@ -3517,20 +3517,6 @@
     "date": "ons 25",
     "month": "November",
     "startTime": "17:30",
-    "endTime": "19:30",
-    "team": "DAMER A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": "Träning, Arenan AHall 17.30 - Löpning 19.00"
-  },
-  {
-    "date": "ons 25",
-    "month": "November",
-    "startTime": "17:30",
     "endTime": "19:15",
     "team": "F14",
     "location": "Tornhallen",
@@ -3638,20 +3624,6 @@
     "homeAway": "",
     "meetingTime": "",
     "info": "Träning, Victoriastadion 3"
-  },
-  {
-    "date": "tor 26",
-    "month": "November",
-    "startTime": "17:30",
-    "endTime": "19:00",
-    "team": "DAMER A",
-    "location": "Arenan A",
-    "type": "Träning",
-    "title": "",
-    "opponent": "",
-    "homeAway": "",
-    "meetingTime": "",
-    "info": ""
   },
   {
     "date": "tor 26",
