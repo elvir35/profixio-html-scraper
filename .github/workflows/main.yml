@@ -28,6 +28,9 @@ jobs:
       - name: Install Playwright browser
         run: npx playwright install chromium
 
+      - name: Test match parser and snapshot retention
+        run: npm test
+
       - name: Run scraper
         run: npm run scrape:matches
 
