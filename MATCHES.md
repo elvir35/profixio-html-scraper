@@ -47,3 +47,6 @@ Allow the existing bounded CDN/API caches to expire; verify both upcoming and pl
 If a later source change breaks extraction, pause the scraper workflow and preserve the
 last valid snapshot while fixing the parser. Do not restore the old table-only parser,
 which can replace valid data with an empty feed.
+
+
+The logo repair adds `homeLogo` and `awayLogo`, preserving SportAdmin participant order. The legacy `logo` field remains the home shield for compatibility. Missing source images remain empty and generic SportAdmin shields remain generic; no club identity is guessed. The existing standalone Webnode block already reads both side-specific fields, so this additive API change needs no new embed version.

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-19T12:14:22.451Z",
+  "scrapedAt": "2026-11-19T13:29:49.757Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 499,
   "hasMatches": true,
@@ -15,6 +15,8 @@
       "away": "OV Helsingborg HK 2",
       "score": "26 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "played"
     },
     {
@@ -27,6 +29,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -39,6 +43,8 @@
       "away": "HK Halmstad Svart",
       "score": "31 - 20",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
       "status": "played"
     },
     {
@@ -51,6 +57,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -63,6 +71,8 @@
       "away": "Karlshamns HF",
       "score": "19 - 25",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26153_1006_S.webp",
       "status": "played"
     },
     {
@@ -75,6 +85,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -87,6 +99,8 @@
       "away": "H43 Lund HF",
       "score": "15 - 16",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -99,6 +113,8 @@
       "away": "H43 Lund HF 2",
       "score": "23 - 18",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -111,6 +127,8 @@
       "away": "H43 Lund HF 1",
       "score": "21 - 24",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -123,6 +141,8 @@
       "away": "Halmstad HF",
       "score": "24 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
       "status": "played"
     },
     {
@@ -135,6 +155,8 @@
       "away": "HK Varberg",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26077_1006_S.webp",
       "status": "played"
     },
     {
@@ -147,6 +169,8 @@
       "away": "Staffanstorp",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -159,6 +183,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -171,6 +197,8 @@
       "away": "HK Halmstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
       "status": "played"
     },
     {
@@ -183,6 +211,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -195,6 +225,8 @@
       "away": "Ystads IF HF Vit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "played"
     },
     {
@@ -207,6 +239,8 @@
       "away": "HK Ankaret",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "played"
     },
     {
@@ -219,6 +253,8 @@
       "away": "HF Syd - Gästande lag",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -231,6 +267,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -243,6 +281,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -255,6 +295,8 @@
       "away": "Eslövs HK 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -267,6 +309,8 @@
       "away": "Vinslövs HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -279,6 +323,8 @@
       "away": "Kävlinge HK Blå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -291,6 +337,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -303,6 +351,8 @@
       "away": "HF Karlskrona",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -315,6 +365,8 @@
       "away": "IF Kristianstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -327,6 +379,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/16009_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/16009_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -339,6 +393,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -351,6 +407,8 @@
       "away": "Kävlinge HK Blå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -363,6 +421,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -375,6 +435,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -387,6 +449,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -399,6 +463,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -411,6 +477,8 @@
       "away": "Ljunghusen + Vinslöv",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -423,6 +491,8 @@
       "away": "Eskilstuna Guif IF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26170_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -435,6 +505,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -447,6 +519,8 @@
       "away": "IFK Ystad HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -459,6 +533,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25982_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25982_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -471,6 +547,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -483,6 +561,8 @@
       "away": "Staffanstorp",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -495,6 +575,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -507,6 +589,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -519,6 +603,8 @@
       "away": "Borta",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -531,6 +617,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -543,6 +631,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -555,6 +645,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -567,6 +659,8 @@
       "away": "Kävlinge HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/10942_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -579,6 +673,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -591,6 +687,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26263_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26263_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -603,6 +701,8 @@
       "away": "HK Halmstad Röd",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -615,6 +715,8 @@
       "away": "HK Ankaret",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -627,6 +729,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -639,6 +743,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -651,6 +757,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -663,6 +771,8 @@
       "away": "Lugi HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -675,6 +785,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -687,6 +799,8 @@
       "away": "HK Malmö",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -699,6 +813,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -711,6 +827,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -723,6 +841,8 @@
       "away": "Tollarp + Lugi",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -735,6 +855,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -747,6 +869,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -759,6 +883,8 @@
       "away": "IFK Ystad HK 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -771,6 +897,8 @@
       "away": "Lugi HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -783,6 +911,8 @@
       "away": "Ljunghusens HK Ljusblå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -795,6 +925,8 @@
       "away": "Ljunghusens HK Mörkblå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -807,6 +939,8 @@
       "away": "HK Ankaret",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -819,6 +953,8 @@
       "away": "OV Helsingborg HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -831,6 +967,8 @@
       "away": "KFUM Kalmar HK 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -843,6 +981,8 @@
       "away": "IFK Kristianstad Orange",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -855,6 +995,8 @@
       "away": "HK Drott Halmstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -867,6 +1009,8 @@
       "away": "Stavsten HK U",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -879,6 +1023,8 @@
       "away": "Eslövs HK 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -891,6 +1037,8 @@
       "away": "Lugi HF P16",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -903,6 +1051,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -915,6 +1065,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -927,6 +1079,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -939,6 +1093,8 @@
       "away": "Eslövs HK 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -951,6 +1107,8 @@
       "away": "Vinslövs HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -963,6 +1121,8 @@
       "away": "VästeråsIrsta HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25957_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -975,6 +1135,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -987,6 +1149,8 @@
       "away": "Lödde Vikings HK Svart",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -999,6 +1163,8 @@
       "away": "Höörs HK H 65",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1011,6 +1177,8 @@
       "away": "HK Malmö",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1023,6 +1191,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26111_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26111_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1035,6 +1205,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1047,6 +1219,8 @@
       "away": "H43 Lund HF 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1059,6 +1233,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26050_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26050_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1071,6 +1247,8 @@
       "away": "IFK Malmö HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1083,6 +1261,8 @@
       "away": "Lödde Vikings HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1095,6 +1275,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1107,6 +1289,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1119,6 +1303,8 @@
       "away": "Lugi",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1131,6 +1317,8 @@
       "away": "Åhus",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1143,6 +1331,8 @@
       "away": "Ystads IF HF U",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26429_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1154,7 +1344,9 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1167,6 +1359,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1179,6 +1373,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1191,6 +1387,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1203,6 +1401,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1215,6 +1415,8 @@
       "away": "IFK Karlskrona U",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26316_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1227,6 +1429,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1239,6 +1443,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1251,6 +1457,8 @@
       "away": "IFK Malmö HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1263,6 +1471,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1275,6 +1485,8 @@
       "away": "IF Kristianstad 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1287,6 +1499,8 @@
       "away": "Staffanstorp",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1299,6 +1513,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26316_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26316_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1311,6 +1527,8 @@
       "away": "Lödde Vikings HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1323,6 +1541,8 @@
       "away": "Karlshamns HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26153_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1335,6 +1555,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1347,6 +1569,8 @@
       "away": "HK Ankaret",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1359,6 +1583,8 @@
       "away": "GF Kroppskultur",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26111_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1371,6 +1597,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1383,6 +1611,8 @@
       "away": "Kävlinge HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1395,6 +1625,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1407,6 +1639,8 @@
       "away": "Eslövs HK 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1419,6 +1653,8 @@
       "away": "Lugi HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1431,6 +1667,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25957_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25957_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1443,6 +1681,8 @@
       "away": "Lundaspelen 2026",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26301_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1455,6 +1695,8 @@
       "away": "Borta",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -1467,6 +1709,8 @@
       "away": "HK Drott Halmstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1479,6 +1723,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1491,6 +1737,8 @@
       "away": "Lugi HF U B",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1503,6 +1751,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1515,6 +1765,8 @@
       "away": "Ljunghusens HK Ljusblå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1527,6 +1779,8 @@
       "away": "GW Landskrona HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1539,6 +1793,8 @@
       "away": "H43 Lund HF 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1551,6 +1807,8 @@
       "away": "HK Ankaret",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1563,6 +1821,8 @@
       "away": "Minihandboll sammandrag Dalby GIF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1575,6 +1835,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1587,6 +1849,8 @@
       "away": "H 65 Gordies HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26125_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1599,6 +1863,8 @@
       "away": "Tyresö Handboll",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26331_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1611,6 +1877,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1623,6 +1891,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1635,6 +1905,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1647,6 +1919,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1659,6 +1933,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26413_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26413_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1670,7 +1946,9 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1683,6 +1961,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1695,6 +1975,8 @@
       "away": "HK Halmstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1707,6 +1989,8 @@
       "away": "Åhus HB F14",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1719,6 +2003,8 @@
       "away": "Höörs HK H 65",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1731,6 +2017,8 @@
       "away": "IF Kristianstad 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1743,6 +2031,8 @@
       "away": "Stavsten HK U",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1755,6 +2045,8 @@
       "away": "HK Malmö 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1767,6 +2059,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1779,6 +2073,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1791,6 +2087,8 @@
       "away": "HK Ankaret",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1803,6 +2101,8 @@
       "away": "IK Lågan",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1815,6 +2115,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1827,6 +2129,8 @@
       "away": "HK Ankaret 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1839,6 +2143,8 @@
       "away": "HF Karlskrona Gul",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1851,6 +2157,8 @@
       "away": "Staffanstorps HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1863,6 +2171,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1875,6 +2185,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1887,6 +2199,8 @@
       "away": "Dalby GIF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1899,6 +2213,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1911,6 +2227,8 @@
       "away": "Huddinge HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26104_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1923,6 +2241,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1935,6 +2255,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1947,6 +2269,8 @@
       "away": "Kortplan hemma Lödde Vikings",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1959,6 +2283,8 @@
       "away": "GW Landskrona HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1971,6 +2297,8 @@
       "away": "IFK Ystad HK P14",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1983,6 +2311,8 @@
       "away": "HF Limhamn",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26115_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1995,6 +2325,8 @@
       "away": "HK Ankaret 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2007,6 +2339,8 @@
       "away": "OV Helsingborg HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2019,6 +2353,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2031,6 +2367,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26170_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26170_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2043,6 +2381,8 @@
       "away": "IFK Kristianstad Orange",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2055,6 +2395,8 @@
       "away": "H43 Lund HF 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2067,6 +2409,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2079,6 +2423,8 @@
       "away": "H78 Sölvesborg",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2091,6 +2437,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2103,6 +2451,8 @@
       "away": "Eslövs HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2115,6 +2465,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2127,6 +2479,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2139,6 +2493,8 @@
       "away": "OV Helsingborg HK 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2151,6 +2507,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2163,6 +2521,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2175,6 +2535,8 @@
       "away": "Staffanstorps HK 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2187,6 +2549,8 @@
       "away": "Helsingborgs HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26450_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2199,6 +2563,8 @@
       "away": "Växjö HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2211,6 +2577,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2223,6 +2591,8 @@
       "away": "Lödde Vikings HK B",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2235,6 +2605,8 @@
       "away": "GW Landskrona HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2247,6 +2619,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2259,6 +2633,8 @@
       "away": "Ystads IF HF Gul",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2271,6 +2647,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2283,6 +2661,8 @@
       "away": "Bjärnums HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26442_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2295,6 +2675,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2307,6 +2689,8 @@
       "away": "Lödde Vikings HK Svart",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2319,6 +2703,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2331,6 +2717,8 @@
       "away": "Ystads IF HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2343,6 +2731,8 @@
       "away": "Karlshamns HF H78 Sölvesborg",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2355,6 +2745,8 @@
       "away": "Stavsten HK U",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2367,6 +2759,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26429_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26429_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2379,6 +2773,8 @@
       "away": "HF Karlskrona 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2391,6 +2787,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2403,6 +2801,8 @@
       "away": "Tollarps IF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26414_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2415,6 +2815,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2427,6 +2829,8 @@
       "away": "Ystads IF HF Blå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2439,6 +2843,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2451,6 +2857,8 @@
       "away": "LUGI HF U B",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2463,6 +2871,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25941_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25941_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2475,6 +2885,8 @@
       "away": "Kortplan hemma mot Lågan och Malmö",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2487,6 +2899,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2499,6 +2913,8 @@
       "away": "HK Ankaret",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2511,6 +2927,8 @@
       "away": "H65 Höör",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/7974_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2523,6 +2941,8 @@
       "away": "Minihandboll hemma Lugi",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2535,6 +2955,8 @@
       "away": "OV Helsingborg HK 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2547,6 +2969,8 @@
       "away": "Malmö HP",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26298_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2559,6 +2983,8 @@
       "away": "Mörrums GOIS HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2571,6 +2997,8 @@
       "away": "HK Torslanda Elit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26042_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2583,6 +3011,8 @@
       "away": "HK Ankaret 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2595,6 +3025,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2607,6 +3039,8 @@
       "away": "Dalby GIF Svart",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2619,6 +3053,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2631,6 +3067,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2643,6 +3081,8 @@
       "away": "Kristianstad HK 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25982_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2655,6 +3095,8 @@
       "away": "Åhus HB",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2667,6 +3109,8 @@
       "away": "Lödde Vikings",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2679,6 +3123,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2691,6 +3137,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2703,6 +3151,8 @@
       "away": "HK Malmö 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2715,6 +3165,8 @@
       "away": "HF Karlskrona 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2727,6 +3179,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2739,6 +3193,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26077_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26077_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2751,6 +3207,8 @@
       "away": "Kävlinge HK Blå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2763,6 +3221,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2775,6 +3235,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26153_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26153_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2787,6 +3249,8 @@
       "away": "KFUM Lundagård",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2799,6 +3263,8 @@
       "away": "Karlshamns HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26153_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2811,6 +3277,8 @@
       "away": "Mörrums GOIS HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2823,6 +3291,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2835,6 +3305,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2847,6 +3319,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2859,6 +3333,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2871,6 +3347,8 @@
       "away": "Ystads IF HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2883,6 +3361,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2895,6 +3375,8 @@
       "away": "HF Eslövstjejerna",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26416_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2907,6 +3389,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2919,6 +3403,8 @@
       "away": "Ystads IF HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2931,6 +3417,8 @@
       "away": "Lugi HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2943,6 +3431,8 @@
       "away": "IFK Malmö HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2955,6 +3445,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2967,6 +3459,8 @@
       "away": "OV Helsingborg HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2979,6 +3473,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -2991,6 +3487,8 @@
       "away": "Redbergslids IK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26263_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3003,6 +3501,8 @@
       "away": "HK Ankaret 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3015,6 +3515,8 @@
       "away": "Åhus HB 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3027,6 +3529,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3039,6 +3543,8 @@
       "away": "HF Karlskrona U",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26363_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3051,6 +3557,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3063,6 +3571,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26074_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26074_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3075,6 +3585,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26223_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26223_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3087,6 +3599,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3099,6 +3613,8 @@
       "away": "IK Sund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3111,6 +3627,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3123,6 +3641,8 @@
       "away": "KFUM Lundagård",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3135,6 +3655,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3147,6 +3669,8 @@
       "away": "Kortplan Hemma",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "upcoming"
     },
     {
@@ -3159,6 +3683,8 @@
       "away": "HK Drott Halmstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3171,6 +3697,8 @@
       "away": "IFK Kristianstad Blå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3183,6 +3711,8 @@
       "away": "HK Ankaret 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3195,6 +3725,8 @@
       "away": "IFK Ystad HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3207,6 +3739,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3219,6 +3753,8 @@
       "away": "Ystads IF HF Vit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3231,6 +3767,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3243,6 +3781,8 @@
       "away": "Lugi HF 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3255,6 +3795,8 @@
       "away": "IFK Malmö HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3267,6 +3809,8 @@
       "away": "IFK Kristianstad Orange",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25964_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3279,6 +3823,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3291,6 +3837,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3303,6 +3851,8 @@
       "away": "Ystads IF HF Vit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3315,6 +3865,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3327,6 +3879,8 @@
       "away": "Höörs HK H 65 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3339,6 +3893,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3351,6 +3907,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3363,6 +3921,8 @@
       "away": "Tollarps IF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26414_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3375,6 +3935,8 @@
       "away": "H43 Lund HF 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3387,6 +3949,8 @@
       "away": "Stavsten HK U",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3399,6 +3963,8 @@
       "away": "IK Sund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3411,6 +3977,8 @@
       "away": "Åhus HB",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3423,6 +3991,8 @@
       "away": "Lugi HF F16",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3435,6 +4005,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3447,6 +4019,8 @@
       "away": "Kortplan Halmstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26226_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3459,6 +4033,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3471,6 +4047,8 @@
       "away": "Mörrums GOIS HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3483,6 +4061,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26414_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26414_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3495,6 +4075,8 @@
       "away": "Kävlinge HK Blå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3507,6 +4089,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3519,6 +4103,8 @@
       "away": "HK Hearts",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26050_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3531,6 +4117,8 @@
       "away": "HK Malmö 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3543,6 +4131,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3555,6 +4145,8 @@
       "away": "HK Ankaret 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3567,6 +4159,8 @@
       "away": "Åhus HB 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3579,6 +4173,8 @@
       "away": "Åhus HB 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3591,6 +4187,8 @@
       "away": "Kungälvs HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26186_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3603,6 +4201,8 @@
       "away": "Lödde Vikings HK Röd",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3615,6 +4215,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3627,6 +4229,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3639,6 +4243,8 @@
       "away": "Halmstad HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3651,6 +4257,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3663,6 +4271,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3675,6 +4285,8 @@
       "away": "IFK Malmö HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3687,6 +4299,8 @@
       "away": "HK Malmö",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3699,6 +4313,8 @@
       "away": "IK Lågan Vit",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25981_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3711,6 +4327,8 @@
       "away": "H43 Lund HF 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3723,6 +4341,8 @@
       "away": "OV Helsingborg HK 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3735,6 +4355,8 @@
       "away": "HK Malmö 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3747,6 +4369,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3759,6 +4383,8 @@
       "away": "OV Helsingborg HK 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3771,6 +4397,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26414_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26414_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3783,6 +4411,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3795,6 +4425,8 @@
       "away": "IK Sund Blå",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3807,6 +4439,8 @@
       "away": "H43 Lund HF 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26361_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26361_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3819,6 +4453,8 @@
       "away": "H43 Lund HF 3",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3831,6 +4467,8 @@
       "away": "Vinslövs HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3843,6 +4481,8 @@
       "away": "Åhus HB B",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3855,6 +4495,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3867,6 +4509,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3879,6 +4523,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3891,6 +4537,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3903,6 +4551,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3915,6 +4565,8 @@
       "away": "HK Blå 85 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3927,6 +4579,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26311_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26311_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3939,6 +4593,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3951,6 +4607,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3963,6 +4621,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26226_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26226_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3975,6 +4635,8 @@
       "away": "Höörs HK H 65",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3987,6 +4649,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -3999,6 +4663,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4011,6 +4677,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4023,6 +4691,8 @@
       "away": "IF Kristianstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25971_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4035,6 +4705,8 @@
       "away": "Eksjö BK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26212_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4047,6 +4719,8 @@
       "away": "H43 Lund HF 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4059,6 +4733,8 @@
       "away": "H43 Lund HF 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -4071,6 +4747,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4083,6 +4761,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26301_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26301_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4095,6 +4775,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4107,6 +4789,8 @@
       "away": "Vinslöv HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
       "status": "played"
     },
     {
@@ -4119,6 +4803,8 @@
       "away": "Holte",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -4131,6 +4817,8 @@
       "away": "IK Lågan",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -4143,6 +4831,8 @@
       "away": "Ystads IF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -4155,6 +4845,8 @@
       "away": "LUGI",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
       "status": "played"
     },
     {
@@ -4167,6 +4859,8 @@
       "away": "Lugi",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
       "status": "played"
     },
     {
@@ -4179,6 +4873,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4191,6 +4887,8 @@
       "away": "Eslöv",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/4043_1006_S.webp",
       "status": "played"
     },
     {
@@ -4203,6 +4901,8 @@
       "away": "H43 Open",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4215,6 +4915,8 @@
       "away": "H43 Open 2026 dag 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4227,6 +4929,8 @@
       "away": "H43 Open 2026 dag 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4239,6 +4943,8 @@
       "away": "H43 Open 2026 dag 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -4251,6 +4957,8 @@
       "away": "H43 Open 2026 dag 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -4263,6 +4971,8 @@
       "away": "Ankaret",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/340_1006_S.webp",
       "status": "played"
     },
     {
@@ -4275,6 +4985,8 @@
       "away": "Åhus",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "played"
     },
     {
@@ -4287,6 +4999,8 @@
       "away": "Lödde Vikings HK B",
       "score": "21 - 23",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "played"
     },
     {
@@ -4299,6 +5013,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4311,6 +5027,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4323,6 +5041,8 @@
       "away": "Internmatch med Lejonen",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26265_1006_S.webp",
       "status": "played"
     },
     {
@@ -4335,6 +5055,8 @@
       "away": "H43 Lund HF",
       "score": "19 - 21",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4347,6 +5069,8 @@
       "away": "HK Blå 85 Lund",
       "score": "26 - 31",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26102_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4359,6 +5083,8 @@
       "away": "IFK Ystad HK",
       "score": "23 - 32",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
       "status": "played"
     },
     {
@@ -4371,6 +5097,8 @@
       "away": "H43 Lund Lag 2",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4383,6 +5111,8 @@
       "away": "H43 Lund Lag 1",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4395,6 +5125,8 @@
       "away": "Stavsten HK U",
       "score": "23 - 8",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "played"
     },
     {
@@ -4407,6 +5139,8 @@
       "away": "OV Helsingborg HK",
       "score": "23 - 27",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "played"
     },
     {
@@ -4419,6 +5153,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4431,6 +5167,8 @@
       "away": "HK Malmö",
       "score": "14 - 25",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "played"
     },
     {
@@ -4443,6 +5181,8 @@
       "away": "H43 Lund HF 2",
       "score": "40 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4455,6 +5195,8 @@
       "away": "HK Blå 85 Lund",
       "score": "25 - 32",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26053_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4467,6 +5209,8 @@
       "away": "Staffanstorps HK 1",
       "score": "27 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
       "status": "played"
     },
     {
@@ -4479,6 +5223,8 @@
       "away": "Stavsten HK U",
       "score": "34 - 24",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
       "status": "played"
     },
     {
@@ -4491,6 +5237,8 @@
       "away": "HK Blå 85 Lund",
       "score": "15 - 22",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4503,6 +5251,8 @@
       "away": "Lödde Vikings HK Svart",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "played"
     },
     {
@@ -4515,6 +5265,8 @@
       "away": "Åhus HB 1",
       "score": "36 - 28",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "played"
     },
     {
@@ -4527,6 +5279,8 @@
       "away": "H43 Lund HF",
       "score": "27 - 25",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26298_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26298_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4539,6 +5293,8 @@
       "away": "Växjö HF",
       "score": "24 - 20",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
       "status": "played"
     },
     {
@@ -4551,6 +5307,8 @@
       "away": "H43 Lund HF",
       "score": "35 - 13",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4563,6 +5321,8 @@
       "away": "Ystads IF HF",
       "score": "29 - 22",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "played"
     },
     {
@@ -4575,6 +5335,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4587,6 +5349,8 @@
       "away": "H43 Lund HF",
       "score": "30 - 37",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26104_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26104_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4599,6 +5363,8 @@
       "away": "H43 Lund HF 2",
       "score": "21 - 15",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4611,6 +5377,8 @@
       "away": "H43 Lund HF",
       "score": "34 - 15",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4623,6 +5391,8 @@
       "away": "Ystads IF HF Blå",
       "score": "12 - 23",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "played"
     },
     {
@@ -4635,6 +5405,8 @@
       "away": "H43 Lund HF 2",
       "score": "33 - 5",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4647,6 +5419,8 @@
       "away": "H43 Lund HF 2",
       "score": "25 - 19",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4659,6 +5433,8 @@
       "away": "H43 Lund HF 2",
       "score": "29 - 29",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4671,6 +5447,8 @@
       "away": "HK Ankaret 1",
       "score": "25 - 18",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "played"
     },
     {
@@ -4683,6 +5461,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4695,6 +5475,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4707,6 +5489,8 @@
       "away": "H43 Lund HF 1",
       "score": "35 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4719,6 +5503,8 @@
       "away": "Växjö HF 1",
       "score": "42 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
       "status": "played"
     },
     {
@@ -4731,6 +5517,8 @@
       "away": "Ankaret + Lågan",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -4743,6 +5531,8 @@
       "away": "Dalby GIF Svart",
       "score": "31 - 29",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
       "status": "played"
     },
     {
@@ -4755,6 +5545,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4767,6 +5559,8 @@
       "away": "H43 Lund HF",
       "score": "31 - 35",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26042_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26042_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4779,6 +5573,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4791,6 +5587,8 @@
       "away": "Kristianstad HK 1",
       "score": "19 - 21",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25982_1006_S.webp",
       "status": "played"
     },
     {
@@ -4803,6 +5601,8 @@
       "away": "Tomelilla IF",
       "score": "28 - 15",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25941_1006_S.webp",
       "status": "played"
     },
     {
@@ -4815,6 +5615,8 @@
       "away": "KFUM Lundagård",
       "score": "27 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
       "status": "played"
     },
     {
@@ -4827,6 +5629,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4839,6 +5643,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4851,6 +5657,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4863,6 +5671,8 @@
       "away": "HK Kristianstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/21914_1006_S.webp",
       "status": "played"
     },
     {
@@ -4875,6 +5685,8 @@
       "away": "H43 Lund HF 2",
       "score": "28 - 23",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4887,6 +5699,8 @@
       "away": "Staffanstorp + Lugi",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -4899,6 +5713,8 @@
       "away": "H43 Lund HF 2",
       "score": "19 - 36",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4911,6 +5727,8 @@
       "away": "H43 Lund HF 3",
       "score": "23 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4923,6 +5741,8 @@
       "away": "H43 Lund HF 2",
       "score": "29 - 28",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4935,6 +5755,8 @@
       "away": "Vinslövs HK",
       "score": "20 - 19",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26017_1006_S.webp",
       "status": "played"
     },
     {
@@ -4947,6 +5769,8 @@
       "away": "H43 Lund HF 1",
       "score": "29 - 20",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4959,6 +5783,8 @@
       "away": "Lödde Vikings HK Svart",
       "score": "24 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "played"
     },
     {
@@ -4971,6 +5797,8 @@
       "away": "Eslövs HK 1",
       "score": "21 - 29",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26003_1006_S.webp",
       "status": "played"
     },
     {
@@ -4983,6 +5811,8 @@
       "away": "H43 Lund HF 1",
       "score": "19 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -4995,6 +5825,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/24039_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/24039_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5007,6 +5839,8 @@
       "away": "Ystads IF HF Gul",
       "score": "14 - 25",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26048_1006_S.webp",
       "status": "played"
     },
     {
@@ -5019,6 +5853,8 @@
       "away": "H43 Lund HF",
       "score": "19 - 21",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5031,6 +5867,8 @@
       "away": "Staffanstorp HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -5043,6 +5881,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5055,6 +5895,8 @@
       "away": "IFK Ystad HK",
       "score": "23 - 29",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
       "status": "played"
     },
     {
@@ -5067,6 +5909,8 @@
       "away": "HK Aranäs",
       "score": "34 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26311_1006_S.webp",
       "status": "played"
     },
     {
@@ -5079,6 +5923,8 @@
       "away": "Växjö HF",
       "score": "30 - 31",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26065_1006_S.webp",
       "status": "played"
     },
     {
@@ -5091,6 +5937,8 @@
       "away": "H43 Lund HF 1",
       "score": "21 - 34",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26152_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5103,6 +5951,8 @@
       "away": "Tollarp + Stavsten",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -5115,6 +5965,8 @@
       "away": "H43 Lund HF",
       "score": "34 - 29",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26450_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26450_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5127,6 +5979,8 @@
       "away": "H43 Lund HF",
       "score": "29 - 12",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26038_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26038_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5139,6 +5993,8 @@
       "away": "HK Blå 85 Lund",
       "score": "20 - 23",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5151,6 +6007,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5163,6 +6021,8 @@
       "away": "HK Blå 85 Lund",
       "score": "30 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26153_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26153_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5175,6 +6035,8 @@
       "away": "IFK Malmö HF",
       "score": "33 - 32",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
       "status": "played"
     },
     {
@@ -5187,6 +6049,8 @@
       "away": "HK Ankaret 2",
       "score": "20 - 15",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "played"
     },
     {
@@ -5199,6 +6063,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5211,6 +6077,8 @@
       "away": "H43 Lund HF 2",
       "score": "25 - 28",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5223,6 +6091,8 @@
       "away": "H43 Lund HF 2",
       "score": "26 - 31",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5235,6 +6105,8 @@
       "away": "H43 Lund HF",
       "score": "28 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26331_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26331_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5247,6 +6119,8 @@
       "away": "KFUM Kalmar HK",
       "score": "29 - 25",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26035_1006_S.webp",
       "status": "played"
     },
     {
@@ -5259,6 +6133,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5271,6 +6147,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5283,6 +6161,8 @@
       "away": "H43 Lund HF 2",
       "score": "28 - 27",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5295,6 +6175,8 @@
       "away": "Ystad + Lugi",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -5307,6 +6189,8 @@
       "away": "H43 Lund HF 1",
       "score": "23 - 38",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5319,6 +6203,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5331,6 +6217,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5343,6 +6231,8 @@
       "away": "H43 Lund HF",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5355,6 +6245,8 @@
       "away": "H43 Lund HF 1",
       "score": "33 - 20",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5367,6 +6259,8 @@
       "away": "Lugi HF 1 F15",
       "score": "9 - 32",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "played"
     },
     {
@@ -5379,6 +6273,8 @@
       "away": "H43 Lund HF 1",
       "score": "29 - 24",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5391,6 +6287,8 @@
       "away": "Lugi",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "played"
     },
     {
@@ -5403,6 +6301,8 @@
       "away": "H43 Lund HF 1",
       "score": "24 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26010_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5415,6 +6315,8 @@
       "away": "HK Ankaret 2",
       "score": "14 - 18",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "played"
     },
     {
@@ -5427,6 +6329,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5439,6 +6343,8 @@
       "away": "H43 Lund HF",
       "score": "20 - 29",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26416_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26416_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5451,6 +6357,8 @@
       "away": "Lugi HF 1",
       "score": "33 - 24",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "played"
     },
     {
@@ -5463,6 +6371,8 @@
       "away": "H43 Lund HF 2",
       "score": "24 - 22",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5475,6 +6385,8 @@
       "away": "OV Helsingborg",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26230_1006_S.webp",
       "status": "played"
     },
     {
@@ -5487,6 +6399,8 @@
       "away": "H43 Lund HF 3",
       "score": "38 - 34",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26212_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26212_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5499,6 +6413,8 @@
       "away": "Kävlinge HK",
       "score": "25 - 25",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
       "status": "played"
     },
     {
@@ -5511,6 +6427,8 @@
       "away": "H43 Lund HF 2",
       "score": "26 - 22",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25972_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5523,6 +6441,8 @@
       "away": "HK Vinslöv",
       "score": "28 - 24",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -5535,6 +6455,8 @@
       "away": "IFK Tumba HK",
       "score": "29 - 29",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26074_1006_S.webp",
       "status": "played"
     },
     {
@@ -5547,6 +6469,8 @@
       "away": "H43 Lund HF 2",
       "score": "21 - 31",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5559,6 +6483,8 @@
       "away": "H43 Lund HF 2",
       "score": "13 - 22",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5571,6 +6497,8 @@
       "away": "Höörs HK H 65",
       "score": "16 - 25",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26120_1006_S.webp",
       "status": "played"
     },
     {
@@ -5583,6 +6511,8 @@
       "away": "KFUM Lundagård",
       "score": "27 - 20",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26217_1006_S.webp",
       "status": "played"
     },
     {
@@ -5595,6 +6525,8 @@
       "away": "H43 Lund HF",
       "score": "24 - 27",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25970_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5607,6 +6539,8 @@
       "away": "Lugi",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/11800_1006_S.webp",
       "status": "played"
     },
     {
@@ -5619,6 +6553,8 @@
       "away": "Lugi HF F16",
       "score": "20 - 32",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
       "status": "played"
     },
     {
@@ -5631,6 +6567,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/12085_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/12085_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5643,6 +6581,8 @@
       "away": "H43 Lund HF",
       "score": "29 - 33",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26125_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26125_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5655,6 +6595,8 @@
       "away": "H43 Lund HF 2",
       "score": "26 - 23",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5667,6 +6609,8 @@
       "away": "HK Ankaret 1",
       "score": "32 - 41",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "played"
     },
     {
@@ -5679,6 +6623,8 @@
       "away": "Åhus",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26027_1006_S.webp",
       "status": "played"
     },
     {
@@ -5691,6 +6637,8 @@
       "away": "HK Halmstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26172_1006_S.webp",
       "status": "played"
     },
     {
@@ -5703,6 +6651,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5715,6 +6665,8 @@
       "away": "HK Blå 85 Lund",
       "score": "22 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26430_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5727,6 +6679,8 @@
       "away": "Lödde Vikings HK Röd",
       "score": "31 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25939_1006_S.webp",
       "status": "played"
     },
     {
@@ -5739,6 +6693,8 @@
       "away": "HK Ankaret",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "played"
     },
     {
@@ -5751,6 +6707,8 @@
       "away": "GW Landskrona HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26130_1006_S.webp",
       "status": "played"
     },
     {
@@ -5763,6 +6721,8 @@
       "away": "IK Sund Blå",
       "score": "23 - 23",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26289_1006_S.webp",
       "status": "played"
     },
     {
@@ -5775,6 +6735,8 @@
       "away": "Dalby",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26435_1006_S.webp",
       "status": "played"
     },
     {
@@ -5787,6 +6749,8 @@
       "away": "HK Malmö",
       "score": "24 - 33",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26032_1006_S.webp",
       "status": "played"
     },
     {
@@ -5799,6 +6763,8 @@
       "away": "H43 Lund HF 1",
       "score": "28 - 25",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25952_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5811,6 +6777,8 @@
       "away": "HK Blå 85 Lund",
       "score": "23 - 29",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26363_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26363_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5823,6 +6791,8 @@
       "away": "H43 Lund HF 3",
       "score": "28 - 27",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26148_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5835,6 +6805,8 @@
       "away": "HK Björnen",
       "score": "35 - 15",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26413_1006_S.webp",
       "status": "played"
     },
     {
@@ -5847,6 +6819,8 @@
       "away": "KFUM Lundagård F2015",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -5859,6 +6833,8 @@
       "away": "Halmstad HF",
       "score": "35 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26171_1006_S.webp",
       "status": "played"
     },
     {
@@ -5871,6 +6847,8 @@
       "away": "IFK Ystad HK",
       "score": "20 - 12",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26300_1006_S.webp",
       "status": "played"
     },
     {
@@ -5883,6 +6861,8 @@
       "away": "H43 Lund HF 1",
       "score": "26 - 27",
       "logo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/25980_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5895,6 +6875,8 @@
       "away": "Minihandboll hemma",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
       "status": "played"
     },
     {
@@ -5907,6 +6889,8 @@
       "away": "H43 Lund",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26205_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26205_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5919,6 +6903,8 @@
       "away": "HF Limhamn",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26115_1006_S.webp",
       "status": "played"
     },
     {
@@ -5931,6 +6917,8 @@
       "away": "Kortplansmatcher - Ankaret och Kristianstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
       "status": "played"
     },
     {
@@ -5943,6 +6931,8 @@
       "away": "H43 Lund HF 1",
       "score": "21 - 26",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26464_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5955,6 +6945,8 @@
       "away": "Kristianstad",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/25982_1006_S.webp",
       "status": "played"
     },
     {
@@ -5967,6 +6959,8 @@
       "away": "H43 Lund HF 1",
       "score": "20 - 18",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26110_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -5979,6 +6973,8 @@
       "away": "Bjärnums HK",
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26442_1006_S.webp",
       "status": "played"
     },
     {
@@ -5991,6 +6987,8 @@
       "away": "H43 Lund HF",
       "score": "27 - 30",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26186_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26186_1006_S.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     }
   ]

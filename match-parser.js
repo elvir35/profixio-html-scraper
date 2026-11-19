@@ -68,16 +68,21 @@ export function parseMatches(html, status) {
     const scoreMatch = /^(\d{1,3})\s*[-–:]\s*(\d{1,3})$/.exec(rawScore);
     const unknownScore = /^[-–—](?:\s*-\s*[-–—])?$/.test(rawScore);
     if (rawScore && !scoreMatch && !unknownScore) throw new Error('Invalid match score');
-    const logoSource = teams.first().find('.sa-matches__team-logo').attr('src');
-    const logoUrl = logoSource ? new URL(logoSource, 'https://h43lund.web.sportadmin.se') : null;
-    if (logoUrl && logoUrl.protocol !== 'https:') throw new Error('Invalid logo URL');
+    const logos = teams.toArray().map(node => {
+      const source = $(node).find('.sa-matches__team-logo').attr('src');
+      if (!source) return '';
+      const url = new URL(source, 'https://h43lund.web.sportadmin.se');
+      if (url.protocol !== 'https:') throw new Error('Invalid logo URL');
+      return url.href;
+    });
     records.push({
       eventId: ids[0], team: normalizeTeam(group),
       hall: clean(row.find('.sa-matches__place').text()),
       time: time === '–' ? '' : time, date: `${weekday} ${day}`, month,
       home: names[0], away: names[1],
       score: scoreMatch ? `${scoreMatch[1]} - ${scoreMatch[2]}` : '',
-      logo: logoUrl?.href || '', status
+      // Keep the legacy home-side field for existing API consumers.
+      logo: logos[0], homeLogo: logos[0], awayLogo: logos[1], status
     });
   });
   return records;

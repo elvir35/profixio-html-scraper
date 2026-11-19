@@ -13,14 +13,14 @@ function card({id='101', group='Flickor 14 - Födda 2012', day='14', weekday='l�
   <span class="sa-matches__time">${time}</span>
   <a class="sa-matches__group-link">${group}</a><span class="sa-matches__place">Övningshallen</span>
   <a class="sa-matches__team" href="/kalender/?ID=42&amp;AID=${id}"><img class="sa-matches__team-logo" src="https://cdn.sportadmin.se/test.webp"><span class="sa-matches__team-name">H43 Lund HF 2</span></a>
-  <a class="sa-matches__team" href="/kalender/?ID=42&amp;AID=${id}"><span class="sa-matches__team-name">Testklubben Blå</span></a>
+  <a class="sa-matches__team" href="/kalender/?ID=42&amp;AID=${id}"><img class="sa-matches__team-logo" src="https://cdn.sportadmin.se/test-away.webp"><span class="sa-matches__team-name">Testklubben Blå</span></a>
   <div class="sa-matches__score"><strong>${score}</strong></div></div>`;
 }
 const page = (body=card()) => `<div class="sa-matches"><h2 class="sa-matches__heading">Matcher</h2><div class="sa-matches__month">NOVEMBER 2026</div>${body}</div>`;
 
 test('modern cards preserve the public feed contract and Swedish text', () => {
  const [{eventId,...row}] = parseMatches(page(), 'upcoming');
- assert.deepEqual(row,{team:'F14',hall:'Övningshallen',time:'16:40',date:'lör 14',month:'NOVEMBER 2026',home:'H43 Lund HF 2',away:'Testklubben Blå',score:'',logo:'https://cdn.sportadmin.se/test.webp',status:'upcoming'});
+ assert.deepEqual(row,{team:'F14',hall:'Övningshallen',time:'16:40',date:'lör 14',month:'NOVEMBER 2026',home:'H43 Lund HF 2',away:'Testklubben Blå',score:'',logo:'https://cdn.sportadmin.se/test.webp',homeLogo:'https://cdn.sportadmin.se/test.webp',awayLogo:'https://cdn.sportadmin.se/test-away.webp',status:'upcoming'});
  assert.equal(eventId,'101');
 });
 test('youth labels normalize without changing senior/junior groups', () => {
@@ -89,4 +89,15 @@ test('conflicting duplicate fixtures fail instead of silently discarding a match
  const first=parseMatches(page(),'upcoming');
  const second=parseMatches(page(card({time:'17:00'})),'upcoming');
  assert.throws(()=>mergeMatches([...first,...second]),/Conflicting duplicate/);
+});
+
+test('missing away shield remains empty without copying the home shield',()=>{
+ const html=page().replace('<img class="sa-matches__team-logo" src="https://cdn.sportadmin.se/test-away.webp">','');
+ const [row]=parseMatches(html,'upcoming');
+ assert.equal(row.homeLogo,'https://cdn.sportadmin.se/test.webp');
+ assert.equal(row.awayLogo,'');assert.equal(row.logo,row.homeLogo);
+});
+test('validates the away shield URL as well as the home shield URL',()=>{
+ const html=page().replace('https://cdn.sportadmin.se/test-away.webp','javascript:alert(1)');
+ assert.throws(()=>parseMatches(html,'upcoming'),/Invalid logo URL/);
 });
