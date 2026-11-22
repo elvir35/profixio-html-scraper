@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-22T04:03:20.622Z",
+  "scrapedAt": "2026-11-22T13:46:54.442Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 498,
   "hasMatches": true,
@@ -249,12 +249,12 @@
       "time": "13:00",
       "date": "sön 22",
       "month": "NOVEMBER 2026",
-      "home": "Match",
-      "away": "Ljunghusen + Vinslöv",
+      "home": "Ljunghusen + Vinslöv",
+      "away": "Match",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
-      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
-      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "played"
     },
     {
@@ -324,7 +324,7 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
-      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/16751_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -414,7 +414,7 @@
     {
       "team": "F11",
       "hall": "Tunahallen",
-      "time": "13:45",
+      "time": "14:00",
       "date": "lör 28",
       "month": "NOVEMBER 2026",
       "home": "H43 Lund",
@@ -1092,8 +1092,8 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
-      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
@@ -1248,7 +1248,7 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
-      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
