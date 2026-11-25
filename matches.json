@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-25T01:44:57.694Z",
+  "scrapedAt": "2026-11-25T16:27:32.376Z",
   "source": "https://h43lund.web.sportadmin.se/match/?ID=331249",
   "matchCount": 498,
   "hasMatches": true,
@@ -329,7 +329,7 @@
     },
     {
       "team": "Pojkar 19/Herrar J",
-      "hall": "Helsingborg Arena C",
+      "hall": "Idrottens Hus Helsingborg",
       "time": "13:00",
       "date": "sön 29",
       "month": "NOVEMBER 2026",
@@ -938,8 +938,8 @@
       "home": "Staffanstorp HK",
       "away": "H43 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
-      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
@@ -1094,7 +1094,7 @@
       "score": "",
       "logo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "homeLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
-      "awayLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "awayLogo": "https://cdn.sportadmin.se/0/clubmark/9961_1006_S.webp",
       "status": "upcoming"
     },
     {
@@ -1540,8 +1540,8 @@
       "home": "HK Vinslöv",
       "away": "HK Blå 85 Lund",
       "score": "",
-      "logo": "https://cdn.sportadmin.se/0/img/shield.webp",
-      "homeLogo": "https://cdn.sportadmin.se/0/img/shield.webp",
+      "logo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
+      "homeLogo": "https://cdn.sportadmin.se/0/clubmark/32408_1006_S.webp",
       "awayLogo": "https://cdn.sportadmin.se/0/clubmark/26088_1006_S.webp",
       "status": "upcoming"
     },
